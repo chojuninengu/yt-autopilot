@@ -1,0 +1,10 @@
+{
+  "niche": "faceless explainer: why is this trending and what is the idea behind it",
+  "language": "English",
+  "google_trends_geo": "US",
+  "reddit_subs": ["memes", "dankmemes", "OutOfTheLoop", "technology"],
+  "hn_limit": 15,
+  "trends_limit": 15,
+  "reddit_limit": 10,
+  "target_seconds": 40
+}

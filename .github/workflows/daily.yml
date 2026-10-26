@@ -1,0 +1,31 @@
+name: daily-pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 in Cameroon (GitHub may delay runs a bit)
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write          # needed to commit the daily output back to the repo
+
+jobs:
+  phase1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Scout trends and plan the video
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python src/run_phase1.py
+      - name: Commit results
+        run: |
+          git config user.name "yt-autopilot-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add output
+          git commit -m "daily plan $(date -u +%F)" || echo "nothing to commit"
+          git push
