@@ -2,30 +2,43 @@ name: daily-pipeline
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 in Cameroon (GitHub may delay runs a bit)
+    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 in Cameroon
   workflow_dispatch:       # lets you run it manually from the Actions tab
 
 permissions:
   contents: write          # needed to commit the daily output back to the repo
 
 jobs:
-  phase1:
+  pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - name: Scout trends and plan the video
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Phase 1 - Scout trends and plan video
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python src/run_phase1.py
-      - name: Commit results
+      - name: Phase 2 - Render video
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: python src/run_phase2.py
+      - name: Upload rendered video artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-video
+          path: output/*-video.mp4
+          retention-days: 14
+      - name: Commit daily plan results
         run: |
           git config user.name "yt-autopilot-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add output
+          git add output/*-plan.md output/*-plan.json output/*-trends.json output/.gitkeep
           git commit -m "daily plan $(date -u +%F)" || echo "nothing to commit"
           git push

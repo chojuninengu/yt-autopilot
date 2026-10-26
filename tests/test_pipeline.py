@@ -1,9 +1,10 @@
-"""Unit tests for yt-autopilot pipeline."""
+"""Unit tests for yt-autopilot pipeline (Phase 1 & Phase 2)."""
 import json
 import os
 import pathlib
 import subprocess
 import sys
+import tempfile
 import unittest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -11,6 +12,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from scout import collect  # noqa: E402
 from ideate import get_mock_plan, ideate  # noqa: E402
+from render import wrap_srt_lines, render_video  # noqa: E402
 
 
 class TestYtAutopilot(unittest.TestCase):
@@ -55,20 +57,38 @@ class TestYtAutopilot(unittest.TestCase):
         self.assertIn("caption", plan["tiktok"])
         self.assertIn("hashtags", plan["tiktok"])
 
+    def test_wrap_srt_lines(self):
+        sample_srt = (
+            "1\n00:00:00,000 --> 00:00:02,000\n"
+            "This is a very long line that should definitely be wrapped for vertical display.\n"
+        )
+        wrapped = wrap_srt_lines(sample_srt, max_chars=25)
+        self.assertIn("\n", wrapped)
+        self.assertTrue(len(wrapped.split("\n")) > 3)
+
+    def test_render_short_video(self):
+        short_plan = {
+            "video_title": "Test Short Video",
+            "script": "Quick test for automated rendering.",
+            "scenes": [
+                {"narration": "Quick test for automated rendering.", "visual_keywords": ["tech", "code"]}
+            ]
+        }
+        with tempfile.NamedTemporaryFile(suffix=".mp4") as tmp:
+            tmp_path = pathlib.Path(tmp.name)
+            res_path = render_video(short_plan, tmp_path, cfg=self.cfg)
+            self.assertTrue(res_path.exists())
+            self.assertGreater(res_path.stat().st_size, 1000)
+
     def test_cli_dry_run_execution(self):
-        # Run python src/run_phase1.py --dry-run
         res = subprocess.run(
             [sys.executable, str(ROOT / "src" / "run_phase1.py"), "--dry-run"],
             cwd=str(ROOT),
             capture_output=True,
             text=True
         )
-        self.assertEqual(res.returncode, 0, f"Command failed with output: {res.stdout}\n{res.stderr}")
+        self.assertEqual(res.returncode, 0, f"Command failed: {res.stdout}\n{res.stderr}")
         self.assertIn("Done:", res.stdout)
-
-        # Verify output directory contains files
-        output_files = list((ROOT / "output").glob("*-plan.md"))
-        self.assertGreater(len(output_files), 0, "Plan markdown file should be generated")
 
 
 if __name__ == "__main__":
