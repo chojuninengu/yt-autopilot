@@ -27,6 +27,7 @@ jobs:
         run: python src/run_phase1.py
       - name: Phase 2 - Render video
         env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: python src/run_phase2.py
       - name: Upload rendered video artifact

@@ -4,6 +4,14 @@ import pathlib
 import subprocess
 import requests
 
+try:
+    from dotenv import load_dotenv
+    _env_path = pathlib.Path(__file__).resolve().parent.parent / ".env"
+    if _env_path.exists():
+        load_dotenv(dotenv_path=_env_path)
+except ImportError:
+    pass
+
 PEXELS_SEARCH_URL = "https://api.pexels.com/videos/search"
 PIXABAY_SEARCH_URL = "https://pixabay.com/api/videos/"
 WIKIMEDIA_API_URL = "https://commons.wikimedia.org/w/api.php"
