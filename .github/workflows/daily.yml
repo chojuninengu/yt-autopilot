@@ -36,6 +36,12 @@ jobs:
           name: daily-video
           path: output/*-video.mp4
           retention-days: 14
+      - name: Phase 3 - Upload to YouTube
+        if: env.HAS_YT_TOKEN != ''
+        env:
+          HAS_YT_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
+          YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
+        run: python src/run_phase3.py --privacy private
       - name: Commit daily plan results
         run: |
           git config user.name "yt-autopilot-bot"
