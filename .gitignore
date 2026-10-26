@@ -4,5 +4,5 @@ __pycache__/
 tmp/
 .pytest_cache/
 output/*.mp4
-client_secrets*.json
+client_secret*.json
 youtube_token*.json
