@@ -7,5 +7,6 @@
   "trends_limit": 15,
   "reddit_limit": 10,
   "target_seconds": 40,
-  "voice": "en-US-ChristopherNeural"
+  "voice": "en-US-ChristopherNeural",
+  "youtube_privacy": "public"
 }

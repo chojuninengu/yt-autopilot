@@ -41,7 +41,7 @@ jobs:
         env:
           HAS_YT_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
-        run: python src/run_phase3.py --privacy private
+        run: python src/run_phase3.py
       - name: Commit daily plan results
         run: |
           git config user.name "yt-autopilot-bot"

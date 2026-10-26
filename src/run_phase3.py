@@ -22,8 +22,8 @@ def parse_args():
         help="Path to video MP4 (defaults to today's video in output/)."
     )
     parser.add_argument(
-        "--privacy", type=str, default="private", choices=["private", "unlisted", "public"],
-        help="Privacy status on YouTube (defaults to 'private' for safety)."
+        "--privacy", type=str, default=None, choices=["private", "unlisted", "public"],
+        help="Privacy status on YouTube (defaults to config.json or 'public')."
     )
     parser.add_argument(
         "--dry-run", action="store_true",
@@ -54,11 +54,15 @@ def main():
     )
     tags = yt_meta.get("hashtags", ["shorts", "trending"])
 
+    cfg_path = ROOT / "config.json"
+    cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {}
+    privacy = args.privacy or cfg.get("youtube_privacy", "public")
+
     if args.dry_run:
         print("=== DRY RUN: YouTube Upload Preview ===")
         print(f"Video File:  {video_path} ({video_path.stat().st_size / (1024*1024):.2f} MB)")
         print(f"Title:       {title}")
-        print(f"Privacy:     {args.privacy}")
+        print(f"Privacy:     {privacy}")
         print(f"Tags:        {tags}")
         print(f"Description:\n{description}")
         print("Dry run completed successfully (no video was uploaded).")
@@ -70,9 +74,9 @@ def main():
             title=title,
             description=description,
             tags=tags,
-            privacy_status=args.privacy
+            privacy_status=privacy
         )
-        print(f"\nPhase 3 Complete! Video is live at https://youtu.be/{video_id} ({args.privacy})")
+        print(f"\nPhase 3 Complete! Video is live at https://youtu.be/{video_id} ({privacy})")
     except Exception as ex:
         sys.exit(f"Upload failed: {ex}")
 
