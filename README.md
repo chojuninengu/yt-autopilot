@@ -5,8 +5,8 @@ Free, GitHub-Actions-powered pipeline: scout trends -> plan an original video ->
 ## Status
 - [x] Phase 1: trend scouting + idea/script/caption planning
 - [x] Phase 2: render vertical video (edge-tts neural voice + Pixabay/Pexels/Wikimedia footage + styled FFmpeg captions)
-- [x] Phase 3: YouTube upload (upload as private/unlisted shorts via YouTube Data API v3)
-- [ ] Phase 4: TikTok upload-to-drafts, you tap publish
+- [x] Phase 3: YouTube upload (public/private vertical shorts via YouTube Data API v3)
+- [x] Phase 4: TikTok upload (upload to Creator Drafts or direct post via TikTok Content Posting API v2)
 - [ ] Phase 5: alerts + retries
 
 ## Quickstart & Local Testing
@@ -35,24 +35,27 @@ You can test every phase locally before scheduling:
    Renders 1080x1920 vertical video (`output/YYYY-MM-DD-video.mp4`) with neural narration, stock footage from Pixabay, and burned-in yellow captions.
 
 4. **Phase 3: YouTube Upload:**
-   - **One-time channel authentication:**
-     1. In [Google Cloud Console](https://console.cloud.google.com/apis/credentials?project=gen-lang-client-0742279616), create an OAuth 2.0 Client ID (Application type: **Desktop app**).
-     2. Download the JSON and save it as `client_secrets.json` in this project.
-     3. Run the authenticator:
-        ```bash
-        python src/auth_youtube.py
-        ```
-        This opens your browser to sign in and grants upload permission, generating `youtube_token.json`.
-   - **Upload test:**
-     ```bash
-     # Preview metadata without uploading:
-     python src/run_phase3.py --dry-run
+   ```bash
+   # Authenticate channel (one-time):
+   python src/auth_youtube.py
 
-     # Upload video as private (safe for testing):
-     python src/run_phase3.py --privacy private
-     ```
+   # Upload video to YouTube (defaults to public):
+   python src/run_phase3.py
+   ```
 
-5. **Run test suite:**
+5. **Phase 4: TikTok Upload:**
+   ```bash
+   # Authenticate TikTok account (one-time):
+   python src/auth_tiktok.py
+
+   # Upload to Creator Drafts (recommended - review & post on phone):
+   python src/run_phase4.py --mode MEDIA_UPLOAD
+
+   # Or publish directly:
+   python src/run_phase4.py --mode DIRECT_POST
+   ```
+
+6. **Run test suite:**
    ```bash
    python -m unittest discover tests
    ```
@@ -63,12 +66,14 @@ In your GitHub repository ([`chojuninengu/yt-autopilot`](https://github.com/choj
 1. Go to **Settings** -> **Secrets and variables** -> **Actions** -> **New repository secret**:
    - `GEMINI_API_KEY`: Your Gemini API key.
    - `PIXABAY_API_KEY`: Your free Pixabay API key.
-   - `YOUTUBE_TOKEN`: (Optional) The entire JSON content of `youtube_token.json` for automated daily upload.
+   - `YOUTUBE_TOKEN`: (Optional) The JSON content of `youtube_token.json` for automated YouTube upload.
+   - `TIKTOK_TOKEN`: (Optional) The JSON content of `tiktok_token.json` for automated TikTok upload.
 2. Under the **Actions** tab, click **daily-pipeline** -> **Run workflow**.
 
 ## Configuration
 Edit `config.json` to customize:
 - `niche`: channel theme / content style
 - `voice`: neural voice (e.g. `en-US-ChristopherNeural`, `en-US-AndrewNeural`)
+- `youtube_privacy`: `public` (default), `private`, or `unlisted`
 - `language`: output language
 - `target_seconds`: target video duration

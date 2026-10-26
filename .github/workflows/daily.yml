@@ -42,6 +42,12 @@ jobs:
           HAS_YT_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
         run: python src/run_phase3.py
+      - name: Phase 4 - Upload to TikTok
+        if: env.HAS_TT_TOKEN != ''
+        env:
+          HAS_TT_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
+          TIKTOK_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
+        run: python src/run_phase4.py
       - name: Commit daily plan results
         run: |
           git config user.name "yt-autopilot-bot"

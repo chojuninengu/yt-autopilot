@@ -6,3 +6,4 @@ tmp/
 output/*.mp4
 client_secret*.json
 youtube_token*.json
+tiktok_token*.json
