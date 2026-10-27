@@ -8,5 +8,14 @@
   "reddit_limit": 10,
   "target_seconds": 40,
   "voice": "en-US-ChristopherNeural",
-  "youtube_privacy": "public"
+  "youtube_privacy": "public",
+  "visual_mode": "cartoon_stills",
+  "art_style": "bold 2D cartoon, thick outlines, bright saturated colors, expressive faces, vertical 9:16, no text",
+  "character": {
+    "name": "Pip",
+    "description": "A small energetic blue robot with glowing yellow antenna and expressive round eyes"
+  },
+  "image_providers": ["cloudflare", "together", "pollinations"],
+  "blocked_terms": ["mrbeast", "mr beast"],
+  "disclose_ai_in_description": true
 }
