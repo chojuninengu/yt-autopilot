@@ -36,6 +36,14 @@ jobs:
           name: daily-video
           path: output/*-video.mp4
           retention-days: 14
+      - name: Publish video to GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v$(date -u +%F)"
+          gh release create "$TAG" output/*-video.mp4 \
+            --title "Daily Video $(date -u +%F)" \
+            --notes "Automated daily short video: $(head -n 1 output/*-plan.md | sed 's/^# //')" || echo "Release already exists"
       - name: Phase 3 - Upload to YouTube
         if: env.HAS_YT_TOKEN != ''
         env:
