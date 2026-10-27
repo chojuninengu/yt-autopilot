@@ -25,7 +25,9 @@ class TestYtAutopilot(unittest.TestCase):
         expected_keys = [
             "niche", "language", "google_trends_geo",
             "reddit_subs", "hn_limit", "trends_limit",
-            "reddit_limit", "target_seconds"
+            "reddit_limit", "target_seconds",
+            "visual_mode", "art_style", "character",
+            "image_providers", "blocked_terms", "disclose_ai_in_description"
         ]
         for key in expected_keys:
             self.assertIn(key, self.cfg)
@@ -50,6 +52,8 @@ class TestYtAutopilot(unittest.TestCase):
         for scene in plan["scenes"]:
             self.assertIn("narration", scene)
             self.assertIn("visual_keywords", scene)
+            self.assertIn("image_prompt", scene)
+            self.assertIn("motion", scene)
 
         self.assertIn("title", plan["youtube"])
         self.assertIn("description", plan["youtube"])

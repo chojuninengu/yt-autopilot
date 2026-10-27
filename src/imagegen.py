@@ -155,11 +155,15 @@ def _generate_pollinations(prompt: str, seed: int = 42) -> bytes:
     return resp.content
 
 
-PROVIDERS = {
-    "cloudflare": _generate_cloudflare,
-    "together": _generate_together,
-    "pollinations": _generate_pollinations,
-}
+def get_provider_fn(name: str):
+    """Dynamically resolve provider function to enable test mocking without network calls."""
+    if name == "cloudflare":
+        return _generate_cloudflare
+    elif name == "together":
+        return _generate_together
+    elif name == "pollinations":
+        return _generate_pollinations
+    return None
 
 
 def generate_image(prompt: str, out_path: pathlib.Path | str, cfg: dict, seed: int = 42) -> str:
@@ -191,7 +195,7 @@ def generate_image(prompt: str, out_path: pathlib.Path | str, cfg: dict, seed: i
     errors = []
 
     for provider_name in requested_providers:
-        provider_fn = PROVIDERS.get(provider_name)
+        provider_fn = get_provider_fn(provider_name)
         if not provider_fn:
             continue
 
