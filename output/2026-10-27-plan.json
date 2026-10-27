@@ -1,0 +1,82 @@
+{
+  "picked_trend": "Oldest GUI application that still runs on Windows 11",
+  "why_viral": "This trend captivates due to the sheer unexpectedness and impressive longevity of technology. In a world of constant software updates and breaking compatibility, the idea that a program from 1990 still functions flawlessly on Windows 11 is a testament to incredible backward compatibility. It sparks both technical curiosity ('how is this possible?') and a sense of nostalgia for older computing eras.",
+  "core_idea": "The core idea centers on the extreme backward compatibility engineered into the Windows operating system, exemplified by `winver.exe`. This simple utility, virtually unchanged since Windows 3.0 (1990), functions perfectly on Windows 11. It highlights Microsoft's engineering commitment to supporting legacy applications through complex compatibility layers like WoW64 (Windows on Windows 64-bit), allowing older 16-bit executables to run in a modern 64-bit environment. It's a fascinating display of software archaeology and architectural resilience.",
+  "video_title": "The 1990s App That STILL Runs on Windows 11!",
+  "script": "An app from 1990 still runs perfectly on Windows 11! How?\nIt's `winver.exe`, the tiny utility showing your Windows version. First seen in Windows 3.0, this simple program is practically unchanged and a viral topic.\nWhy? It’s a mind-blowing example of backward compatibility. In a world of constant tech change, a 30-year-old app on the latest OS is incredible! The core idea: Microsoft's legendary commitment to legacy support.\nWindows 11, a 64-bit system, uses clever compatibility layers like WoW64. It's a software time machine, translating old 16-bit commands for modern processors.\nThis isn't just a fun fact; it's architectural genius. Next time you type `winver`, you're witnessing computing history thriving!",
+  "scenes": [
+    {
+      "narration": "An app from 1990 still runs perfectly on Windows 11! How?",
+      "visual_keywords": [
+        "vintage computer screen",
+        "Windows 3.0 interface",
+        "modern Windows 11 desktop",
+        "question mark overlay"
+      ]
+    },
+    {
+      "narration": "It's `winver.exe`, the tiny utility showing your Windows version. First seen in Windows 3.0, this simple program is practically unchanged and a viral topic.",
+      "visual_keywords": [
+        "old winver dialog box",
+        "modern winver dialog box",
+        "side-by-side comparison",
+        "digital code flowing"
+      ]
+    },
+    {
+      "narration": "Why? It’s a mind-blowing example of backward compatibility. In a world of constant tech change, a 30-year-old app on the latest OS is incredible! The core idea: Microsoft's legendary commitment to legacy support.",
+      "visual_keywords": [
+        "gears turning animation",
+        "time lapse technology evolution",
+        "old tech new tech contrast",
+        "bridge connecting systems"
+      ]
+    },
+    {
+      "narration": "Windows 11, a 64-bit system, uses clever compatibility layers like WoW64. It's a software time machine, translating old 16-bit commands for modern processors.",
+      "visual_keywords": [
+        "digital translator graphic",
+        "abstract data flow",
+        "16-bit binary code",
+        "64-bit binary code",
+        "futuristic processor chip"
+      ]
+    },
+    {
+      "narration": "This isn't just a fun fact; it's architectural genius. Next time you type `winver`, you're witnessing computing history thriving!",
+      "visual_keywords": [
+        "glowing circuit board",
+        "historical documents timeline",
+        "proud software developer",
+        "person typing on keyboard"
+      ]
+    }
+  ],
+  "youtube": {
+    "title": "This 1990s App STILL Runs on Windows 11! (Backward Compatibility Explained)",
+    "description": "Discover the incredible story of `winver.exe`, a tiny utility from Windows 3.0 that still works perfectly on Windows 11! We dive into why this 30-year-old app is trending, what it reveals about Microsoft's legendary backward compatibility, and how clever engineering like WoW64 makes it all possible. It's a fascinating look at software longevity and architectural genius. #Windows11 #TechFacts #BackwardCompatibility #SoftwareEngineering #Winver #Microsoft #DidYouKnow",
+    "hashtags": [
+      "Windows11",
+      "TechFacts",
+      "BackwardCompatibility",
+      "SoftwareEngineering",
+      "Winver",
+      "Microsoft",
+      "DidYouKnow",
+      "LegacyTech",
+      "OperatingSystems"
+    ]
+  },
+  "tiktok": {
+    "caption": "Can you believe an app from 1990 still runs perfectly on Windows 11?!🤯 It's `winver.exe`! Dive into the mind-blowing tech behind Microsoft's backward compatibility. #Winver #Windows11 #TechFacts #OldTechNewTech #SoftwareMagic",
+    "hashtags": [
+      "Winver",
+      "Windows11",
+      "TechFacts",
+      "OldTechNewTech",
+      "SoftwareMagic",
+      "DidYouKnow",
+      "Microsoft"
+    ]
+  }
+}

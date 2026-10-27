@@ -35,8 +35,8 @@ def main():
 
     print(f"Loading client secrets from: {secrets_path}")
     flow = InstalledAppFlow.from_client_secrets_file(str(secrets_path), SCOPES)
-    print("Launching browser for one-click Google authentication...")
-    creds = flow.run_local_server(port=0)
+    print("Launching browser for one-click Google authentication (select your desired channel)...")
+    creds = flow.run_local_server(port=0, prompt="select_account")
 
     token_path = pathlib.Path(args.token)
     token_dict = {

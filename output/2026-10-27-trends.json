@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "score": 760,
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "score": 532,
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "score": 656,
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+    },
+    {
+      "source": "hackernews",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "score": 375,
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I still teach OpenGL ES 3.0",
+      "score": 34,
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "score": 70,
+      "url": "https://github.com/otya128/winevdm"
+    },
+    {
+      "source": "hackernews",
+      "title": "Type Server Protocol",
+      "score": 227,
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "score": 119,
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    },
+    {
+      "source": "hackernews",
+      "title": "CSS-Tricks has a new owner",
+      "score": 429,
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+    },
+    {
+      "source": "hackernews",
+      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+      "score": 30,
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950"
+    },
+    {
+      "source": "hackernews",
+      "title": "Writing about pratt parsing so I remember it",
+      "score": 4,
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Printer Printing onto Paper",
+      "score": 103,
+      "url": "https://twitter.com/macrofying/status/2112904628509528219"
+    },
+    {
+      "source": "hackernews",
+      "title": "Solar power is becoming bigger than nuclear",
+      "score": 237,
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
+    },
+    {
+      "source": "hackernews",
+      "title": "New iPad mini",
+      "score": 184,
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nietzschian Debugger",
+      "score": 158,
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "katie volynets",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "sadie sink",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "aliaksandra sasnovich",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "venus williams",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pokimane",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "naomi osaka",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "superbad",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "wildwood box office",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nikola bartunkova",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "wow forever",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Thank god they changed it"
+    },
+    {
+      "source": "r/memes",
+      "title": "Nahh my ozone"
+    },
+    {
+      "source": "r/memes",
+      "title": "wE aRE iNovTinG"
+    },
+    {
+      "source": "r/memes",
+      "title": "Feels like forever"
+    },
+    {
+      "source": "r/memes",
+      "title": "Malicious melancholy muscles"
+    },
+    {
+      "source": "r/memes",
+      "title": "Funny Meme, I Guess"
+    },
+    {
+      "source": "r/memes",
+      "title": "After watching Toy Story 3 recently, I couldn't resist this meme..."
+    },
+    {
+      "source": "r/memes",
+      "title": "I PAID FOR IT!!"
+    },
+    {
+      "source": "r/memes",
+      "title": "Anything but 9-5"
+    },
+    {
+      "source": "r/memes",
+      "title": "Such a missed opportunity."
+    }
+  ],
+  "errors": []
+}
