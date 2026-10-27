@@ -21,6 +21,10 @@ def parse_args():
         "--output", type=str, default=None,
         help="Custom output MP4 path (defaults to output/YYYY-MM-DD-video.mp4)."
     )
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="Run rendering in dry-run test mode without external image generation calls."
+    )
     return parser.parse_args()
 
 
@@ -43,10 +47,16 @@ def main():
 
     cfg_path = ROOT / "config.json"
     cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {}
+    if args.dry_run:
+        cfg["dry_run"] = True
 
     output_path = pathlib.Path(args.output) if args.output else out_dir / f"{today}-video.mp4"
     print(f"Rendering video: '{plan.get('video_title', 'Video')}'...")
     render_video(plan, output_path, cfg=cfg)
+
+    # Persist provider information back to plan JSON
+    plan_path.write_text(json.dumps(plan, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Updated plan with provider records: {plan_path}")
 
     print(f"\nPhase 2 Complete!")
     print(f"Generated video: {output_path}")

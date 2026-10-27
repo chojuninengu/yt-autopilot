@@ -7,7 +7,80 @@ import subprocess
 import tempfile
 
 from footage import fetch_stock_clip, prepare_scene_clip
+from imagegen import generate_image
 from voice import DEFAULT_VOICE, generate_voiceover
+
+
+def build_motion_filter(motion: str, duration_sec: float, fps: int = 30) -> str:
+    """Build FFmpeg zoompan filter string for animated still with jitter prevention."""
+    d = max(1, int(round(duration_sec * fps)))
+    # Scale up input 2x first before zoompan to eliminate micro-jitter
+    scale_prefix = "scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840"
+
+    if motion == "zoom_in":
+        zoompan_expr = (
+            f"zoompan=z='1.0+0.15*(on/{d})':"
+            f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={d}:s=1080x1920:fps={fps}"
+        )
+    elif motion == "zoom_out":
+        zoompan_expr = (
+            f"zoompan=z='1.15-0.15*(on/{d})':"
+            f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={d}:s=1080x1920:fps={fps}"
+        )
+    elif motion == "pan_left":
+        zoompan_expr = (
+            f"zoompan=z='1.12':"
+            f"x='(iw-iw/zoom)*(1.0-(on/{d}))':y='ih/2-(ih/zoom/2)':d={d}:s=1080x1920:fps={fps}"
+        )
+    elif motion == "pan_right":
+        zoompan_expr = (
+            f"zoompan=z='1.12':"
+            f"x='(iw-iw/zoom)*(on/{d})':y='ih/2-(ih/zoom/2)':d={d}:s=1080x1920:fps={fps}"
+        )
+    elif motion == "shake":
+        zoompan_expr = (
+            f"zoompan=z='1.08':"
+            f"x='iw/2-(iw/zoom/2)+15*sin(2*PI*on/15)+10*cos(2*PI*on/23)':"
+            f"y='ih/2-(ih/zoom/2)+15*cos(2*PI*on/17)+10*sin(2*PI*on/29)':d={d}:s=1080x1920:fps={fps}"
+        )
+    else:  # fallback to zoom_in
+        zoompan_expr = (
+            f"zoompan=z='1.0+0.15*(on/{d})':"
+            f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={d}:s=1080x1920:fps={fps}"
+        )
+
+    return f"{scale_prefix},{zoompan_expr}"
+
+
+def prepare_still_clip(img_path: pathlib.Path, output_clip: pathlib.Path, duration: float, motion: str = "zoom_in"):
+    """Convert a still image into an animated 1080x1920 30fps clip using subtle zoompan motion."""
+    vf = build_motion_filter(motion, duration, fps=30)
+    cmd = [
+        "ffmpeg", "-y",
+        "-loop", "1",
+        "-i", str(img_path),
+        "-vf", vf,
+        "-t", f"{duration:.2f}",
+        "-c:v", "libx264",
+        "-preset", "fast",
+        "-pix_fmt", "yuv420p",
+        str(output_clip)
+    ]
+    subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def create_placeholder_still(out_path: pathlib.Path, label: str = "", index: int = 0):
+    """Generate a quick local colored 768x1344 placeholder image using FFmpeg."""
+    colors = ["#1e1b4b", "#0f172a", "#064e3b", "#3b0764", "#1c1917", "#172554"]
+    color = colors[index % len(colors)]
+    cmd = [
+        "ffmpeg", "-y",
+        "-f", "lavfi",
+        "-i", f"color=c={color}:s=768x1344:d=1",
+        "-frames:v", "1",
+        str(out_path)
+    ]
+    subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
 def get_audio_duration(audio_path: pathlib.Path) -> float:
@@ -62,6 +135,9 @@ def render_video(plan: dict, output_file: pathlib.Path, cfg: dict | None = None)
     """Render a complete vertical video with voiceover, footage, and burned-in captions."""
     cfg = cfg or {}
     voice = cfg.get("voice", DEFAULT_VOICE)
+    visual_mode = cfg.get("visual_mode", "cartoon_stills")
+    dry_run = cfg.get("dry_run", False) or os.environ.get("DRY_RUN", "0") in ("1", "true")
+
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
     script = plan.get("script", "").strip()
@@ -95,11 +171,35 @@ def render_video(plan: dict, output_file: pathlib.Path, cfg: dict | None = None)
 
         for idx, scene in enumerate(scenes):
             keywords = scene.get("visual_keywords", ["technology"])
-            print(f"Preparing scene {idx + 1}/{len(scenes)} (keywords: {keywords})...")
-
-            raw_clip = fetch_stock_clip(keywords, cache_dir)
+            motion = scene.get("motion", "zoom_in")
             scene_clip = work_dir / f"scene_{idx:03d}.mp4"
-            prepare_scene_clip(raw_clip, scene_clip, scene_duration, scene_index=idx)
+
+            if visual_mode == "cartoon_stills":
+                try:
+                    img_path = work_dir / f"scene_img_{idx:03d}.png"
+                    if dry_run:
+                        create_placeholder_still(img_path, scene.get("image_prompt", scene["narration"]), idx)
+                        provider_used = "mock_placeholder"
+                    else:
+                        prompt = scene.get("image_prompt") or scene["narration"]
+                        print(f"Generating cartoon image for scene {idx + 1}/{len(scenes)} (motion: {motion})...")
+                        provider_used = generate_image(prompt, img_path, cfg=cfg, seed=42 + idx)
+
+                    prepare_still_clip(img_path, scene_clip, scene_duration, motion=motion)
+                    scene["provider"] = provider_used
+                    print(f"Scene {idx + 1} rendered using '{provider_used}' with {motion} motion.")
+                except Exception as ex:
+                    print(f"Cartoon image generation failed for scene {idx + 1} ({ex}); falling back to stock clip...")
+                    raw_clip = fetch_stock_clip(keywords, cache_dir)
+                    prepare_scene_clip(raw_clip, scene_clip, scene_duration, scene_index=idx)
+                    scene["provider"] = "stock"
+            else:
+                # Stock footage visual mode
+                print(f"Preparing scene {idx + 1}/{len(scenes)} from stock footage (keywords: {keywords})...")
+                raw_clip = fetch_stock_clip(keywords, cache_dir)
+                prepare_scene_clip(raw_clip, scene_clip, scene_duration, scene_index=idx)
+                scene["provider"] = "stock"
+
             scene_clip_paths.append(scene_clip)
 
         # Concatenate scene clips
