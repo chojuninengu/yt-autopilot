@@ -56,6 +56,15 @@ def main():
     except Exception as ex:
         sys.exit(f"Error during ideation: {ex}")
 
+    if cfg.get("disclose_ai_in_description", True):
+        ai_notice = "Visuals generated with AI."
+        yt_desc = plan.get("youtube", {}).get("description", "")
+        if ai_notice not in yt_desc:
+            plan["youtube"]["description"] = (yt_desc + f"\n\n{ai_notice}").strip()
+        tt_cap = plan.get("tiktok", {}).get("caption", "")
+        if ai_notice not in tt_cap:
+            plan["tiktok"]["caption"] = (tt_cap + f" ({ai_notice})").strip()
+
     plan_json_file = out_dir / f"{today}-plan.json"
     plan_json_file.write_text(json.dumps(plan, indent=2, ensure_ascii=False))
 

@@ -58,6 +58,9 @@ def main():
     cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {}
     privacy = args.privacy or cfg.get("youtube_privacy", "public")
 
+    if cfg.get("disclose_ai_in_description", True) and "Visuals generated with AI" not in description:
+        description += "\n\nVisuals generated with AI."
+
     if args.dry_run:
         print("=== DRY RUN: YouTube Upload Preview ===")
         print(f"Video File:  {video_path} ({video_path.stat().st_size / (1024*1024):.2f} MB)")
