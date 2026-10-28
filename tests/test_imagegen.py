@@ -148,6 +148,45 @@ class TestImageGen(unittest.TestCase):
             self.assertEqual(plan["scenes"][0]["provider"], "mock_placeholder")
             self.assertEqual(plan["scenes"][1]["provider"], "mock_placeholder")
 
+    def test_youtube_credentials_parsing(self):
+        import youtube_upload
+        valid_data = {
+            "token": "fake_token",
+            "refresh_token": "fake_refresh",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "client_id": "fake_client_id",
+            "client_secret": "fake_client_secret",
+            "scopes": ["https://www.googleapis.com/auth/youtube.upload"]
+        }
+
+        with patch("google.oauth2.credentials.Credentials.refresh"):
+            # Test with raw JSON string in YOUTUBE_TOKEN
+            with patch.dict(os.environ, {"YOUTUBE_TOKEN": json.dumps(valid_data)}):
+                with patch("pathlib.Path.exists", return_value=False):
+                    creds = youtube_upload.get_credentials()
+                    self.assertEqual(creds.client_id, "fake_client_id")
+
+            # Test with quote-wrapped JSON string
+            with patch.dict(os.environ, {"YOUTUBE_TOKEN": f"'{json.dumps(valid_data)}'"}):
+                with patch("pathlib.Path.exists", return_value=False):
+                    creds = youtube_upload.get_credentials()
+                    self.assertEqual(creds.client_id, "fake_client_id")
+
+            # Test with base64 encoded JSON string
+            import base64
+            b64_str = base64.b64encode(json.dumps(valid_data).encode("utf-8")).decode("utf-8")
+            with patch.dict(os.environ, {"YOUTUBE_TOKEN": b64_str}):
+                with patch("pathlib.Path.exists", return_value=False):
+                    creds = youtube_upload.get_credentials()
+                    self.assertEqual(creds.client_id, "fake_client_id")
+
+            # Test with client_secrets detection
+            with patch.dict(os.environ, {"YOUTUBE_TOKEN": json.dumps({"installed": {}})}):
+                with patch("pathlib.Path.exists", return_value=False):
+                    with self.assertRaises(RuntimeError) as ctx:
+                        youtube_upload.get_credentials()
+                    self.assertIn("client_secrets.json", str(ctx.exception))
+
 
 if __name__ == "__main__":
     unittest.main()

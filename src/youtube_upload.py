@@ -19,12 +19,44 @@ def get_credentials(token_path: pathlib.Path | None = None) -> Credentials:
     # Check environment variable first (for GitHub Actions)
     env_token = os.environ.get("YOUTUBE_TOKEN")
     if env_token:
-        try:
-            token_data = json.loads(env_token)
-            creds = Credentials.from_authorized_user_info(token_data)
-        except Exception:
-            if pathlib.Path(env_token).exists():
-                creds = Credentials.from_authorized_user_file(env_token)
+        raw = env_token.strip()
+        # Handle cases where env_token was wrapped in quotes
+        if (raw.startswith("'") and raw.endswith("'")) or (raw.startswith('"') and raw.endswith('"')):
+            try:
+                unquoted = json.loads(raw)
+                if isinstance(unquoted, (str, dict)):
+                    raw = unquoted
+            except Exception:
+                raw = raw[1:-1].strip()
+
+        token_data = None
+        if isinstance(raw, dict):
+            token_data = raw
+        elif isinstance(raw, str):
+            try:
+                token_data = json.loads(raw)
+            except Exception as ex_json:
+                # Try base64
+                try:
+                    import base64
+                    decoded = base64.b64decode(raw).decode("utf-8")
+                    token_data = json.loads(decoded)
+                except Exception:
+                    token_data = None
+                    print(f"Warning: Failed to parse YOUTUBE_TOKEN as JSON: {ex_json}")
+
+        if token_data and isinstance(token_data, dict):
+            if "installed" in token_data or "web" in token_data:
+                raise RuntimeError(
+                    "YOUTUBE_TOKEN appears to be client_secrets.json instead of youtube_token.json!\n"
+                    "Run 'python src/auth_youtube.py' first and copy the resulting youtube_token.json into YOUTUBE_TOKEN."
+                )
+            try:
+                creds = Credentials.from_authorized_user_info(token_data)
+            except Exception as ex_init:
+                print(f"Warning: Failed to create Credentials from YOUTUBE_TOKEN: {ex_init}")
+        elif isinstance(raw, str) and pathlib.Path(raw).exists():
+            creds = Credentials.from_authorized_user_file(raw)
 
     # Check local token file
     if not creds and token_file.exists():
@@ -37,19 +69,22 @@ def get_credentials(token_path: pathlib.Path | None = None) -> Credentials:
             "or set the YOUTUBE_TOKEN environment variable."
         )
 
-    if creds.expired and creds.refresh_token:
-        print("Refreshing expired YouTube OAuth access token...")
-        creds.refresh(Request())
-        if token_file.exists():
-            token_dict = {
-                "token": creds.token,
-                "refresh_token": creds.refresh_token,
-                "token_uri": creds.token_uri,
-                "client_id": creds.client_id,
-                "client_secret": creds.client_secret,
-                "scopes": creds.scopes
-            }
-            token_file.write_text(json.dumps(token_dict, indent=2))
+    if not creds.valid:
+        if creds.refresh_token:
+            print("Refreshing expired YouTube OAuth access token...")
+            creds.refresh(Request())
+            if token_file.exists():
+                token_dict = {
+                    "token": creds.token,
+                    "refresh_token": creds.refresh_token,
+                    "token_uri": creds.token_uri,
+                    "client_id": creds.client_id,
+                    "client_secret": creds.client_secret,
+                    "scopes": creds.scopes
+                }
+                token_file.write_text(json.dumps(token_dict, indent=2))
+        else:
+            print("Warning: YouTube credentials are not valid and no refresh_token is present.")
 
     return creds
 
