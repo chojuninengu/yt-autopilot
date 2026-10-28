@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "score": 176,
+      "url": "https://emudhra.we-have-a-problem.com/apple.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Start Doing Graph Theory",
+      "score": 181,
+      "url": "https://vertex.degree/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Git for the US Code",
+      "score": 317,
+      "url": "https://lexifina.com/blog/git-for-the-us-code"
+    },
+    {
+      "source": "hackernews",
+      "title": "One dead LED killed a working TV",
+      "score": 6,
+      "url": "https://train-it.eu/blog/one-dead-led-killed-a-working-tv/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Genie 4",
+      "score": 936,
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ghostty 1.4",
+      "score": 1104,
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "score": 52,
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "score": 285,
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "score": 398,
+      "url": "https://www.brangus.io/survival-llm"
+    },
+    {
+      "source": "hackernews",
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "score": 73,
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "score": 91,
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "score": 311,
+      "url": "https://tailscale.com/ssh-investigation-update"
+    },
+    {
+      "source": "hackernews",
+      "title": "Early progress on accelerating drug development with Claude",
+      "score": 254,
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "source": "hackernews",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "score": 28,
+      "url": "https://support.apple.com/en-us/149555"
+    },
+    {
+      "source": "hackernews",
+      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "score": 28,
+      "url": "https://www.circuithub.com/post/unveiling-the-grid"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "amc",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "juju watkins",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "michele tafoya",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kiwi",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "psicología",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "paul anthony kelly",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "prince harry, duke of sussex",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "trump administration local police ice agreements",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ryan gosling",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jojo siwa engaged",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/memes",
+      "title": "My mind has awakened."
+    },
+    {
+      "source": "r/memes",
+      "title": "I think I am in trouble....."
+    },
+    {
+      "source": "r/memes",
+      "title": "Their Language is as Funny As Their Shoes"
+    },
+    {
+      "source": "r/memes",
+      "title": "I beg your pardon?"
+    },
+    {
+      "source": "r/memes",
+      "title": "Spider-man Far From Clean"
+    },
+    {
+      "source": "r/memes",
+      "title": "This must be cannon 🥀"
+    },
+    {
+      "source": "r/memes",
+      "title": "Gotta pause the shower to change it"
+    },
+    {
+      "source": "r/memes",
+      "title": "I forgot am old ,mine is still 1945🥀"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's so sad"
+    },
+    {
+      "source": "r/memes",
+      "title": "Safest place to be except during alien invasion"
+    }
+  ],
+  "errors": []
+}
