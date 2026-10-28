@@ -49,15 +49,23 @@ jobs:
             --title "Daily Video $(date -u +%F)" \
             --notes "Automated daily short video: $(head -n 1 output/*-plan.md | sed 's/^# //')" || echo "Release already exists"
       - name: Phase 3 - Upload to YouTube
-        if: ${{ secrets.YOUTUBE_TOKEN != '' }}
         env:
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
-        run: python src/run_phase3.py
+        run: |
+          if [ -n "$YOUTUBE_TOKEN" ]; then
+            python src/run_phase3.py
+          else
+            echo "YOUTUBE_TOKEN not configured; skipping YouTube upload."
+          fi
       - name: Phase 4 - Upload to TikTok
-        if: ${{ secrets.TIKTOK_TOKEN != '' }}
         env:
           TIKTOK_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
-        run: python src/run_phase4.py
+        run: |
+          if [ -n "$TIKTOK_TOKEN" ]; then
+            python src/run_phase4.py
+          else
+            echo "TIKTOK_TOKEN not configured; skipping TikTok upload."
+          fi
       - name: Commit daily plan results
         run: |
           git config user.name "yt-autopilot-bot"
