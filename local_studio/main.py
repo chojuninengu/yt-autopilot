@@ -79,7 +79,7 @@ def main():
     parser = argparse.ArgumentParser(description="Local Studio: Fast, 100% Free AI Video Creation and Publishing")
     parser.add_argument("--count", type=int, default=1, help="Number of videos to generate in batch (default: 1)")
     parser.add_argument("--topic", type=str, default=None, help="Custom topic or prompt (optional)")
-    parser.add_argument("--mode", choices=["local", "fast", "auto"], default="auto", help="Image mode: 'auto' (tries local first, then clean stock photo), 'local' (100% offline SD-Turbo), 'fast'")
+    parser.add_argument("--mode", choices=["local", "fast", "auto"], default="local", help="Image mode: 'local' (100% offline SD-Turbo on your CPU, 0 tokens), 'fast' (cloud), 'auto'")
     parser.add_argument("--no-publish", action="store_true", help="Generate video only without uploading")
     parser.add_argument("--platforms", type=str, default="youtube,tiktok", help="Comma-separated platforms: youtube,tiktok")
 
