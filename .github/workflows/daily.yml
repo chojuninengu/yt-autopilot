@@ -57,14 +57,17 @@ jobs:
           else
             echo "YOUTUBE_TOKEN not configured; skipping YouTube upload."
           fi
-      - name: Phase 4 - Upload to TikTok
+      - name: Phase 4 - Upload to TikTok (via Buffer or direct API)
         env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
           TIKTOK_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
         run: |
-          if [ -n "$TIKTOK_TOKEN" ]; then
+          if [ -n "$BUFFER_ACCESS_TOKEN" ]; then
+            python src/buffer_upload.py
+          elif [ -n "$TIKTOK_TOKEN" ]; then
             python src/run_phase4.py
           else
-            echo "TIKTOK_TOKEN not configured; skipping TikTok upload."
+            echo "Neither BUFFER_ACCESS_TOKEN nor TIKTOK_TOKEN configured; skipping TikTok upload."
           fi
       - name: Commit daily plan results
         run: |
