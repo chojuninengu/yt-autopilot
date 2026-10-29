@@ -17,7 +17,7 @@ BUFFER_ACCESS_TOKEN = os.getenv("BUFFER_ACCESS_TOKEN", "")
 YOUTUBE_TOKEN = os.getenv("YOUTUBE_TOKEN", "")
 
 # Generation Defaults
-DEFAULT_VOICE = "en-US-ChristopherNeural"  # Professional documentary narrator
+DEFAULT_VOICE = "en-US-AvaNeural"          # Smooth, warm, engaging female narrator (Microsoft Copilot voice)
 DEFAULT_RESOLUTION = (1080, 1920)         # 9:16 Vertical Short / TikTok
 DEFAULT_FPS = 30
 DEFAULT_SCENE_DURATION = 5                # Seconds per scene

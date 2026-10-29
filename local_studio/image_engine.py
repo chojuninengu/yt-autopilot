@@ -60,8 +60,7 @@ def get_local_pipeline():
 
         _LOCAL_PIPELINE = AutoPipelineForText2Image.from_pretrained(
             "stabilityai/sd-turbo",
-            torch_dtype=torch.float32,
-            variant="fp16"
+            torch_dtype=torch.float32
         )
         _LOCAL_PIPELINE.to("cpu")
         print("[ImageEngine] Local SD-Turbo model loaded successfully on CPU.")
@@ -150,6 +149,9 @@ def generate_scene_images(scenes: List[Dict[str, Any]], work_dir: Path, mode: st
 
         if mode == "local":
             success = generate_image_local(prompt, out_file)
+            if not success:
+                print(f"[ImageEngine] Local generation not ready, using high-res stock photo for Scene {idx}...")
+                success = fetch_pixabay_stock(prompt, out_file)
         else:
             success = generate_image_fast(prompt, out_file)
             if not success:
@@ -162,10 +164,20 @@ def generate_scene_images(scenes: List[Dict[str, Any]], work_dir: Path, mode: st
         if success and out_file.exists():
             image_paths.append(out_file)
         else:
-            # Emergency solid frame
-            fallback_img = Image.new("RGB", (1080, 1920), color=(20, 24, 33))
-            fallback_img.save(out_file)
-            image_paths.append(out_file)
+            # Re-use previous scene frame if available so it's NEVER a blank screen
+            if image_paths and image_paths[-1].exists():
+                print(f"[ImageEngine] Carrying forward previous frame for Scene {idx} to avoid blank screen.")
+                prev_img = Image.open(image_paths[-1])
+                prev_img.save(out_file)
+                image_paths.append(out_file)
+            else:
+                # Atmospheric cinematic gradient instead of blank black
+                from PIL import ImageDraw
+                fallback_img = Image.new("RGB", (1080, 1920), color=(15, 23, 42))
+                draw = ImageDraw.Draw(fallback_img)
+                draw.rectangle([(0, 960), (1080, 1920)], fill=(30, 41, 59))
+                fallback_img.save(out_file)
+                image_paths.append(out_file)
 
         # Gentle pause between requests to respect rate limits
         time.sleep(1.2)
