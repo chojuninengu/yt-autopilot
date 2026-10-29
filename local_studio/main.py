@@ -11,7 +11,70 @@ from .image_engine import generate_scene_images
 from .video_fetcher import get_scene_video_clip
 from .audio_engine import generate_voiceover
 from .video_engine import assemble_cinematic_video, assemble_moving_clips_video
+from .battle_engine import generate_battle_story
+from .multi_voice import render_battle_audio
+from .battle_visuals import render_battle_video
 from .publisher import publish_video
+
+def run_battle_video(
+    index: int,
+    total: int,
+    topic: str = "Superman against Metro Man",
+    publish: bool = True,
+    platforms: list = None
+):
+    print("\n" + "="*60)
+    print(f"🥊 LOCAL STUDIO: Generating Character Battle {index}/{total}")
+    print(f"⚔️ Topic: {topic}")
+    print("="*60)
+    start_time = time.time()
+
+    timestamp = int(time.time())
+    run_dir = OUTPUT_DIR / f"battle_{timestamp}"
+    run_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1. Battle Script Planning
+    print("\n[Step 1/4] 🧠 Directing multi-character battle script with Gemini...")
+    battle_plan = generate_battle_story(topic)
+    (run_dir / "battle_plan.json").write_text(json.dumps(battle_plan, indent=2))
+
+    # 2. Multi-Character Voices + SFX
+    print("\n[Step 2/4] 🎙️ Synthesizing multiple character voices and mixing battle SFX...")
+    scene_meta, master_audio, srt_path = render_battle_audio(battle_plan, run_dir)
+
+    # 3. Action Visuals
+    print("\n[Step 3/4] 🎨 Rendering character action frames...")
+    scenes = battle_plan.get("scenes", [])
+    image_paths = generate_scene_images(scenes, run_dir, mode="auto")
+
+    # 4. VFX Assembly (Screen shake, white flash, subtitles)
+    print("\n[Step 4/4] 💥 Assembling battle video with camera screen-shakes and impact flashes...")
+    final_video = run_dir / f"battle_video_{timestamp}.mp4"
+    success = render_battle_video(
+        image_paths=image_paths,
+        scene_meta=scene_meta,
+        master_audio=master_audio,
+        srt_path=srt_path,
+        output_path=final_video
+    )
+
+    if not success or not final_video.exists():
+        print("❌ Battle video assembly failed.")
+        return False
+
+    elapsed = time.time() - start_time
+    print(f"✅ Battle video created in {elapsed:.1f}s ({elapsed/60:.1f} mins)!")
+    print(f"📁 Video Location: {final_video}")
+
+    # 5. Publishing
+    if publish:
+        print(f"\n[Step 5/5] 🚀 Publishing battle to {platforms}...")
+        results = publish_video(final_video, battle_plan, platforms=platforms)
+        print(f"🏁 Published Results: {results}")
+    else:
+        print("\n[Step 5/5] ⏭️ Skipping publishing (--no-publish active).")
+
+    return True
 
 def run_single_video(
     index: int,
@@ -111,6 +174,7 @@ def main():
     parser.add_argument("--duration", type=int, default=60, help="Target duration in seconds (e.g. 60 or 120 for 2 mins)")
     parser.add_argument("--type", choices=["moving", "static"], default="moving", help="Visual type: 'moving' (real animated moving video clips), 'static' (still images with motion)")
     parser.add_argument("--mode", choices=["local", "fast", "auto"], default="local", help="Image generator mode for fallback")
+    parser.add_argument("--battle", action="store_true", help="Generate multi-character battle showdown with distinct voices, sound effects, and ground-shaking impacts")
     parser.add_argument("--no-publish", action="store_true", help="Generate video only without uploading")
     parser.add_argument("--platforms", type=str, default="youtube,tiktok", help="Comma-separated platforms: youtube,tiktok")
 
@@ -118,10 +182,12 @@ def main():
     selected_platforms = [p.strip().lower() for p in args.platforms.split(",") if p.strip()]
 
     print("\n" + "#"*60)
-    print("🚀 LOCAL AI VIDEO STUDIO (Zero-Token / Real Moving Video Pipeline)")
+    mode_label = "Character Battle & Showdown" if args.battle else f"Standard ({args.type})"
+    print(f"🚀 LOCAL AI VIDEO STUDIO (Mode: {mode_label})")
     print(f"• Batch Count: {args.count}")
-    print(f"• Target Duration: {args.duration}s")
-    print(f"• Visual Type: {args.type}")
+    if not args.battle:
+        print(f"• Target Duration: {args.duration}s")
+        print(f"• Visual Type: {args.type}")
     print(f"• Platforms: {selected_platforms if not args.no_publish else 'None (dry-run)'}")
     print("#"*60)
 
@@ -130,16 +196,26 @@ def main():
 
     for i in range(1, args.count + 1):
         try:
-            ok = run_single_video(
-                index=i,
-                total=args.count,
-                topic=args.topic,
-                mode=args.mode,
-                visual_type=args.type,
-                duration_target=args.duration,
-                publish=not args.no_publish,
-                platforms=selected_platforms
-            )
+            if args.battle:
+                topic = args.topic or "Superman against Metro Man"
+                ok = run_battle_video(
+                    index=i,
+                    total=args.count,
+                    topic=topic,
+                    publish=not args.no_publish,
+                    platforms=selected_platforms
+                )
+            else:
+                ok = run_single_video(
+                    index=i,
+                    total=args.count,
+                    topic=args.topic,
+                    mode=args.mode,
+                    visual_type=args.type,
+                    duration_target=args.duration,
+                    publish=not args.no_publish,
+                    platforms=selected_platforms
+                )
             if ok:
                 success_count += 1
         except KeyboardInterrupt:
