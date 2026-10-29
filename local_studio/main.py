@@ -1,3 +1,4 @@
+import os
 import argparse
 import sys
 import time
@@ -45,10 +46,11 @@ def run_fable_video(
     print("\n[Step 2/4] 🎙️ Directing emotional voice acting and mixing story SFX...")
     scene_meta, master_audio, srt_path = render_fable_audio(fable_plan, run_dir)
 
-    # 3. 3D Pixar Visual Frames (Generated 100% locally with SD-Turbo)
-    print("\n[Step 3/4] 🎨 Rendering 3D Pixar character scene frames locally...")
+    # 3. 3D Pixar Visual Frames (Generated with Agnes AI 3D engine / SD-Turbo fallback)
+    print("\n[Step 3/4] 🎨 Rendering 3D Pixar character scene frames...")
     scenes = fable_plan.get("scenes", [])
-    image_paths = generate_scene_images(scenes, run_dir, mode="local")
+    mode = "agnes" if os.getenv("AGNES_API_KEY") else "local"
+    image_paths = generate_scene_images(scenes, run_dir, mode=mode)
 
     # 4. Cinematic Fable Assembly (Emotional zooms, impact shakes, centered subtitles)
     print("\n[Step 4/4] 🎞️ Assembling 3D animated fable with centered viral captions...")

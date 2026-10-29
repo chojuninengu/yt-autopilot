@@ -129,12 +129,46 @@ def fetch_pixabay_stock(query: str, output_path: Path, width: int = 1080, height
         print(f"[ImageEngine] Pixabay stock fallback error: {e}")
     return False
 
+def generate_image_agnes(prompt: str, output_path: Path, width: int = 1080, height: int = 1920) -> bool:
+    """Generates ultra high-quality 3D character images using Agnes AI (agnes-image-2.5-flash)."""
+    api_key = os.getenv("AGNES_API_KEY")
+    if not api_key:
+        return False
+    try:
+        payload = {
+            "model": "agnes-image-2.5-flash",
+            "prompt": f"{prompt}, 3D Disney Pixar character animation style, highly expressive, vibrant studio lighting, 8k render, octane render",
+            "size": "720x1280"
+        }
+        res = requests.post(
+            "https://apihub.agnes-ai.com/v1/images/generations",
+            headers={"Authorization": f"Bearer {api_key}"},
+            json=payload,
+            timeout=30
+        )
+        if res.status_code == 200:
+            data = res.json().get("data", [])
+            if data and data[0].get("url"):
+                img_url = data[0]["url"]
+                img_res = requests.get(img_url, timeout=30)
+                if img_res.status_code == 200:
+                    from io import BytesIO
+                    raw_img = Image.open(BytesIO(img_res.content))
+                    resized = raw_img.resize((width, height), Image.Resampling.LANCZOS)
+                    resized.save(output_path, quality=95)
+                    print(f"[ImageEngine] Agnes AI 3D character image saved to {output_path.name}")
+                    return True
+    except Exception as e:
+        print(f"[ImageEngine] Agnes image generation error: {e}")
+    return False
+
 def generate_scene_images(scenes: List[Dict[str, Any]], work_dir: Path, mode: str = "fast") -> List[Path]:
     """Generates images for each scene in the story plan with multi-layer fallback.
     Order:
-      1. AI Fast Cloud (Pollinations)
-      2. Pixabay Real Stock Photo (if rate-limited)
-      3. Local Offline SD-Turbo (if local mode or network down)
+      1. Agnes AI 3D Pixar Engine (if AGNES_API_KEY available)
+      2. AI Fast Cloud (Pollinations)
+      3. Local Offline SD-Turbo
+      4. Pixabay Real Stock Photo (if rate-limited)
     """
     image_paths = []
     work_dir.mkdir(parents=True, exist_ok=True)
@@ -147,19 +181,23 @@ def generate_scene_images(scenes: List[Dict[str, Any]], work_dir: Path, mode: st
         print(f"[ImageEngine] Rendering Scene {idx}/{len(scenes)} (Mode: {mode})...")
         success = False
 
-        if mode == "local":
-            success = generate_image_local(prompt, out_file)
-            if not success:
-                print(f"[ImageEngine] Local generation not ready, using high-res stock photo for Scene {idx}...")
-                success = fetch_pixabay_stock(prompt, out_file)
-        else:
-            success = generate_image_fast(prompt, out_file)
-            if not success:
-                print(f"[ImageEngine] Fast endpoint failed for Scene {idx}, checking Pixabay stock fallback...")
-                success = fetch_pixabay_stock(prompt, out_file)
-            if not success and mode == "auto":
-                print("[ImageEngine] Falling back to local offline generation...")
+        if mode == "agnes" or os.getenv("AGNES_API_KEY"):
+            success = generate_image_agnes(prompt, out_file)
+
+        if not success:
+            if mode == "local":
                 success = generate_image_local(prompt, out_file)
+                if not success:
+                    print(f"[ImageEngine] Local generation not ready, using high-res stock photo for Scene {idx}...")
+                    success = fetch_pixabay_stock(prompt, out_file)
+            else:
+                success = generate_image_fast(prompt, out_file)
+                if not success:
+                    print(f"[ImageEngine] Fast endpoint failed for Scene {idx}, checking Pixabay stock fallback...")
+                    success = fetch_pixabay_stock(prompt, out_file)
+                if not success and mode == "auto":
+                    print("[ImageEngine] Falling back to local offline generation...")
+                    success = generate_image_local(prompt, out_file)
 
         if success and out_file.exists():
             image_paths.append(out_file)
