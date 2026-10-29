@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "score": 313,
+      "url": "https://divagr.com/blog/qwenputer"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "score": 1048,
+      "url": "https://nullpt.rs/fingerprinting-bioweapons"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "score": 244,
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+    },
+    {
+      "source": "hackernews",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "score": 143,
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "score": 19,
+      "url": "https://www.benjoffe.com/fast-floordiv"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Health Update",
+      "score": 189,
+      "url": "https://furbo.org/2026/10/28/a-health-update/"
+    },
+    {
+      "source": "hackernews",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "score": 291,
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+    },
+    {
+      "source": "hackernews",
+      "title": "CNC Stone Carving",
+      "score": 450,
+      "url": "https://carmelitegothic.com/cnc-stone-carving/"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "score": 59,
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Carbon",
+      "score": 879,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "score": 481,
+      "url": "https://www.circuithub.com/post/unveiling-the-grid"
+    },
+    {
+      "source": "hackernews",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "score": 161,
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "score": 27,
+      "url": "https://www.nature.com/articles/s41467-026-78272-8"
+    },
+    {
+      "source": "hackernews",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "score": 555,
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Treap (Cartesian Tree)",
+      "score": 9,
+      "url": "https://cp-algorithms.com/data_structures/treap.html"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "go fund me",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "maria timofeeva",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "boating",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "final jeopardy today",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "naomi osaka",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "olimpia - cartaginés",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nba scores yesterday",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dc universe",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "wendy's near me",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "san diego fc vs vancouver whitecaps fc standings",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/memes",
+      "title": "The genie is out of the bottle."
+    },
+    {
+      "source": "r/memes",
+      "title": "Try going to a sauna"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's so sad"
+    },
+    {
+      "source": "r/memes",
+      "title": "These shows"
+    },
+    {
+      "source": "r/memes",
+      "title": "They really played life on tutorial mode"
+    },
+    {
+      "source": "r/memes",
+      "title": "steve jobs died for our sins"
+    },
+    {
+      "source": "r/memes",
+      "title": "This it the second time!"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's a losing battle"
+    },
+    {
+      "source": "r/memes",
+      "title": "how it all came to life"
+    },
+    {
+      "source": "r/memes",
+      "title": "Can't have nice things"
+    }
+  ],
+  "errors": []
+}
