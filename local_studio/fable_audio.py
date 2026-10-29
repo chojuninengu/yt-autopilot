@@ -8,8 +8,18 @@ from .fable_sfx import ensure_fable_sfx
 from .sfx_generator import ensure_sfx_library
 
 async def _synthesize_voice(text: str, voice: str, rate: str, pitch: str, output_path: Path):
-    communicate = edge_tts.Communicate(text, voice, rate=rate, pitch=pitch)
-    await communicate.save(str(output_path))
+    clean_text = text.replace("...", ". ").strip()
+    for attempt in range(3):
+        try:
+            communicate = edge_tts.Communicate(clean_text, voice, rate=rate, pitch=pitch)
+            await communicate.save(str(output_path))
+            if output_path.exists() and output_path.stat().st_size > 500:
+                return
+        except Exception as e:
+            if attempt == 2:
+                communicate = edge_tts.Communicate(clean_text, "en-US-GuyNeural")
+                await communicate.save(str(output_path))
+            await asyncio.sleep(1)
 
 def render_fable_audio(fable_plan: Dict[str, Any], work_dir: Path) -> Tuple[List[Dict[str, Any]], Path, Path]:
     """Synthesizes high-emotion acting voices for both characters, overlays story SFX, and generates centered viral captions."""

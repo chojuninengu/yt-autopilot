@@ -25,44 +25,59 @@ def render_fable_video(
         duration = meta.get("duration", 6.0)
         num_frames = int(duration * fps)
         is_shake = meta.get("shake", False)
+        audio_file = meta.get("audio_path")
 
-        if is_shake:
-            # Impact eruption shake on miracle/strike moments
-            vf = (
-                f"scale={width+80}:{height+80},"
-                f"crop=w={width}:h={height}:x='(iw-ow)/2 + 20*sin(45*t)*exp(-3*t)':y='(ih-oh)/2 + 15*cos(40*t)*exp(-3*t)',"
-                f"fade=in:st=0:d=0.06:color=white"
-            )
-        elif idx == 1:
-            # Beat 2: Dramatic intense slow push-in on the crying character
-            vf = (
-                f"scale={width*2}:{height*2},"
-                f"zoompan=z='min(zoom+0.002,1.35)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
-                f"d={num_frames}:s={width}x{height}:fps={fps}"
-            )
-        elif idx == 3:
-            # Beat 4: Sneaky zoom into the envious peeking face
-            vf = (
-                f"scale={width*2}:{height*2},"
-                f"zoompan=z='min(zoom+0.0025,1.30)':x='iw*0.45-(iw/zoom/2)':y='ih*0.4-(ih/zoom/2)':"
-                f"d={num_frames}:s={width}x{height}:fps={fps}"
-            )
-        else:
-            # Alternating smooth cinematic drift
-            vf = (
-                f"scale={width*2}:{height*2},"
-                f"zoompan=z='if(lte(zoom,1.0),1.25,max(1.001,zoom-0.0015))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
-                f"d={num_frames}:s={width}x{height}:fps={fps}"
-            )
+        # 1. Attempt local AI lip-sync (Wav2Lip)
+        has_lipsync = False
+        if audio_file and Path(audio_file).exists():
+            from .character_animator import generate_wav2lip_clip
+            w2l_clip = generate_wav2lip_clip(str(img), str(audio_file), str(clip_path), target_width=width, target_height=height)
+            if w2l_clip and Path(w2l_clip).exists() and Path(w2l_clip).stat().st_size > 5000:
+                has_lipsync = True
+                print(f"[FableVisuals] ✨ Real local lip-sync applied to Scene {idx+1}!")
+                if is_shake:
+                    shaken_clip = work_dir / f"shaken_{idx:02d}.mp4"
+                    svf = f"crop=w={width-40}:h={height-40}:x='20 + 15*sin(45*t)*exp(-3*t)':y='20 + 10*cos(40*t)*exp(-3*t)',scale={width}:{height}"
+                    scmd = ["ffmpeg", "-y", "-i", str(clip_path), "-vf", svf, "-c:v", "libx264", "-preset", "ultrafast", "-c:a", "copy", str(shaken_clip)]
+                    subprocess.run(scmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    if shaken_clip.exists():
+                        shaken_clip.replace(clip_path)
 
-        cmd = [
-            "ffmpeg", "-y", "-loop", "1", "-i", str(img),
-            "-vf", vf,
-            "-t", str(duration),
-            "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p",
-            str(clip_path)
-        ]
-        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if not has_lipsync:
+            # Fallback to animated camera zoompan
+            if is_shake:
+                vf = (
+                    f"scale={width+80}:{height+80},"
+                    f"crop=w={width}:h={height}:x='(iw-ow)/2 + 20*sin(45*t)*exp(-3*t)':y='(ih-oh)/2 + 15*cos(40*t)*exp(-3*t)',"
+                    f"fade=in:st=0:d=0.06:color=white"
+                )
+            elif idx == 1:
+                vf = (
+                    f"scale={width*2}:{height*2},"
+                    f"zoompan=z='min(zoom+0.002,1.35)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
+                    f"d={num_frames}:s={width}x{height}:fps={fps}"
+                )
+            elif idx == 3:
+                vf = (
+                    f"scale={width*2}:{height*2},"
+                    f"zoompan=z='min(zoom+0.0025,1.30)':x='iw*0.45-(iw/zoom/2)':y='ih*0.4-(ih/zoom/2)':"
+                    f"d={num_frames}:s={width}x{height}:fps={fps}"
+                )
+            else:
+                vf = (
+                    f"scale={width*2}:{height*2},"
+                    f"zoompan=z='if(lte(zoom,1.0),1.25,max(1.001,zoom-0.0015))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
+                    f"d={num_frames}:s={width}x{height}:fps={fps}"
+                )
+
+            cmd = [
+                "ffmpeg", "-y", "-loop", "1", "-i", str(img),
+                "-vf", vf,
+                "-t", str(duration),
+                "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p",
+                str(clip_path)
+            ]
+            subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
     concat_txt = work_dir / "fable_clips.txt"
     with open(concat_txt, "w") as f:

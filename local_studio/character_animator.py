@@ -37,6 +37,55 @@ def ensure_pcm_wav(audio_input: str, output_wav: str) -> str:
     return output_wav
 
 
+def generate_wav2lip_clip(
+    image_path: str,
+    audio_path: str,
+    output_path: str,
+    target_width: int = 1080,
+    target_height: int = 1920
+) -> Optional[str]:
+    """Generates an accurate, frame-synced lip-sync video locally on CPU using Wav2Lip in seconds."""
+    cache_dir = os.path.expanduser("~/.cache/wav2lip")
+    inference_script = os.path.join(cache_dir, "inference.py")
+    checkpoint = os.path.join(cache_dir, "checkpoints", "wav2lip_gan.pth")
+
+    if not (os.path.exists(inference_script) and os.path.exists(checkpoint)):
+        logger.warning(f"[Wav2Lip] Files missing in {cache_dir}")
+        return None
+
+    temp_wav = f"/tmp/w2l_{os.path.basename(str(audio_path))}.wav"
+    ensure_pcm_wav(str(audio_path), temp_wav)
+    temp_out = f"/tmp/w2l_raw_{os.path.basename(str(image_path))}.mp4"
+
+    cmd = [
+        "python3", inference_script,
+        "--checkpoint_path", checkpoint,
+        "--face", str(image_path),
+        "--audio", temp_wav,
+        "--outfile", temp_out,
+        "--resize_factor", "2"
+    ]
+
+    try:
+        logger.info(f"[Wav2Lip] Running local CPU lip sync for {os.path.basename(str(image_path))}...")
+        res = subprocess.run(cmd, cwd=cache_dir, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=45)
+        if res.returncode == 0 and os.path.exists(temp_out) and os.path.getsize(temp_out) > 5000:
+            # Scale & crop to 1080x1920 vertical format
+            scale_cmd = [
+                "ffmpeg", "-y", "-i", temp_out,
+                "-vf", f"scale={target_width}:{target_height}:force_original_aspect_ratio=increase,crop={target_width}:{target_height}",
+                "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", "-c:a", "copy",
+                str(output_path)
+            ]
+            subprocess.run(scale_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+            if os.path.exists(output_path) and os.path.getsize(output_path) > 1000:
+                logger.info(f"[Wav2Lip] Local lip-sync video created: {output_path}")
+                return output_path
+    except Exception as e:
+        logger.warning(f"[Wav2Lip] Generation failed: {e}")
+    return None
+
+
 def generate_lip_sync_hf(
     image_path: str,
     audio_path: str,
