@@ -14,7 +14,70 @@ from .video_engine import assemble_cinematic_video, assemble_moving_clips_video
 from .battle_engine import generate_battle_story
 from .multi_voice import render_battle_audio
 from .battle_visuals import render_battle_video
+from .fable_engine import generate_fable_story
+from .fable_audio import render_fable_audio
+from .fable_visuals import render_fable_video
 from .publisher import publish_video
+
+def run_fable_video(
+    index: int,
+    total: int,
+    topic: str = "The Banana farmer and the greedy Watermelon neighbor",
+    publish: bool = True,
+    platforms: list = None
+):
+    print("\n" + "="*60)
+    print(f"🍌 LOCAL STUDIO: Generating 3D Character Fable {index}/{total}")
+    print(f"📖 Story Topic: {topic}")
+    print("="*60)
+    start_time = time.time()
+
+    timestamp = int(time.time())
+    run_dir = OUTPUT_DIR / f"fable_{timestamp}"
+    run_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1. Fable Script Planning
+    print("\n[Step 1/4] 🧠 Scripting viral 3D character fable with Gemini...")
+    fable_plan = generate_fable_story(topic)
+    (run_dir / "fable_plan.json").write_text(json.dumps(fable_plan, indent=2))
+
+    # 2. Emotional Voice Acting + SFX
+    print("\n[Step 2/4] 🎙️ Directing emotional voice acting and mixing story SFX...")
+    scene_meta, master_audio, srt_path = render_fable_audio(fable_plan, run_dir)
+
+    # 3. 3D Pixar Visual Frames (Generated 100% locally with SD-Turbo)
+    print("\n[Step 3/4] 🎨 Rendering 3D Pixar character scene frames locally...")
+    scenes = fable_plan.get("scenes", [])
+    image_paths = generate_scene_images(scenes, run_dir, mode="local")
+
+    # 4. Cinematic Fable Assembly (Emotional zooms, impact shakes, centered subtitles)
+    print("\n[Step 4/4] 🎞️ Assembling 3D animated fable with centered viral captions...")
+    final_video = run_dir / f"fable_video_{timestamp}.mp4"
+    success = render_fable_video(
+        image_paths=image_paths,
+        scene_meta=scene_meta,
+        master_audio=master_audio,
+        srt_path=srt_path,
+        output_path=final_video
+    )
+
+    if not success or not final_video.exists():
+        print("❌ Fable video assembly failed.")
+        return False
+
+    elapsed = time.time() - start_time
+    print(f"✅ 3D Character Fable created in {elapsed:.1f}s ({elapsed/60:.1f} mins)!")
+    print(f"📁 Video Location: {final_video}")
+
+    # 5. Publishing
+    if publish:
+        print(f"\n[Step 5/5] 🚀 Publishing fable to {platforms}...")
+        results = publish_video(final_video, fable_plan, platforms=platforms)
+        print(f"🏁 Published Results: {results}")
+    else:
+        print("\n[Step 5/5] ⏭️ Skipping publishing (--no-publish active).")
+
+    return True
 
 def run_battle_video(
     index: int,
@@ -174,6 +237,7 @@ def main():
     parser.add_argument("--duration", type=int, default=60, help="Target duration in seconds (e.g. 60 or 120 for 2 mins)")
     parser.add_argument("--type", choices=["moving", "static"], default="moving", help="Visual type: 'moving' (real animated moving video clips), 'static' (still images with motion)")
     parser.add_argument("--mode", choices=["local", "fast", "auto"], default="local", help="Image generator mode for fallback")
+    parser.add_argument("--fable", action="store_true", help="Generate viral 3D animated character fable (matching @heystoriefunny style)")
     parser.add_argument("--battle", action="store_true", help="Generate multi-character battle showdown with distinct voices, sound effects, and ground-shaking impacts")
     parser.add_argument("--no-publish", action="store_true", help="Generate video only without uploading")
     parser.add_argument("--platforms", type=str, default="youtube,tiktok", help="Comma-separated platforms: youtube,tiktok")
@@ -182,10 +246,16 @@ def main():
     selected_platforms = [p.strip().lower() for p in args.platforms.split(",") if p.strip()]
 
     print("\n" + "#"*60)
-    mode_label = "Character Battle & Showdown" if args.battle else f"Standard ({args.type})"
+    if args.fable:
+        mode_label = "3D Character Fable & Moral Story (@heystoriefunny style)"
+    elif args.battle:
+        mode_label = "Character Battle & Showdown"
+    else:
+        mode_label = f"Standard ({args.type})"
+
     print(f"🚀 LOCAL AI VIDEO STUDIO (Mode: {mode_label})")
     print(f"• Batch Count: {args.count}")
-    if not args.battle:
+    if not (args.fable or args.battle):
         print(f"• Target Duration: {args.duration}s")
         print(f"• Visual Type: {args.type}")
     print(f"• Platforms: {selected_platforms if not args.no_publish else 'None (dry-run)'}")
@@ -196,7 +266,16 @@ def main():
 
     for i in range(1, args.count + 1):
         try:
-            if args.battle:
+            if args.fable:
+                topic = args.topic or "The Banana farmer and the greedy Watermelon neighbor"
+                ok = run_fable_video(
+                    index=i,
+                    total=args.count,
+                    topic=topic,
+                    publish=not args.no_publish,
+                    platforms=selected_platforms
+                )
+            elif args.battle:
                 topic = args.topic or "Superman against Metro Man"
                 ok = run_battle_video(
                     index=i,
