@@ -1,0 +1,173 @@
+import os
+import time
+import urllib.parse
+import requests
+from pathlib import Path
+from typing import List, Dict, Any
+from PIL import Image
+
+def generate_image_fast(prompt: str, output_path: Path, width: int = 1080, height: int = 1920) -> bool:
+    """Generates a high-quality 9:16 vertical image using zero-token fast cloud endpoint (Pollinations).
+    Cost: $0. Tokens: 0. Fast and hyper-realistic with smart 9:16 vertical cropping."""
+    from io import BytesIO
+
+    clean_prompt = f"{prompt}, photorealistic 8k, national geographic, cinematic lighting, 35mm photograph, masterwork"
+    encoded_prompt = urllib.parse.quote(clean_prompt)
+    seed = int(time.time() * 1000) % 1000000
+
+    # Try endpoints in sequence
+    urls_to_try = [
+        f"https://image.pollinations.ai/prompt/{encoded_prompt}?nologo=true&seed={seed}",
+        f"https://image.pollinations.ai/prompt/{encoded_prompt}?model=flux&nologo=true&seed={seed}",
+    ]
+
+    for url in urls_to_try:
+        try:
+            res = requests.get(url, timeout=35)
+            if res.status_code == 200 and len(res.content) > 5000:
+                raw_img = Image.open(BytesIO(res.content))
+                # Smart crop & scale to exactly 1080x1920 vertical format
+                scale = max(width / raw_img.width, height / raw_img.height)
+                new_w = int(raw_img.width * scale)
+                new_h = int(raw_img.height * scale)
+                resized = raw_img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+                
+                left = (new_w - width) // 2
+                top = (new_h - height) // 2
+                final_img = resized.crop((left, top, left + width, top + height))
+                final_img.save(output_path, quality=95)
+                print(f"[ImageEngine] Fast image saved to {output_path.name}")
+                return True
+        except Exception as e:
+            print(f"[ImageEngine] Warning: endpoint attempt failed ({e}), trying next...")
+            continue
+
+    print(f"[ImageEngine] All fast endpoints failed for prompt: '{prompt[:40]}...'")
+    return False
+
+_LOCAL_PIPELINE = None
+
+def get_local_pipeline():
+    """Lazily loads local Diffusers pipeline with SD-Turbo for instant 1-step CPU inference."""
+    global _LOCAL_PIPELINE
+    if _LOCAL_PIPELINE is not None:
+        return _LOCAL_PIPELINE
+
+    print("[ImageEngine] Loading local SD-Turbo model (1-step ultra fast)...")
+    try:
+        from diffusers import AutoPipelineForText2Image
+        import torch
+
+        _LOCAL_PIPELINE = AutoPipelineForText2Image.from_pretrained(
+            "stabilityai/sd-turbo",
+            torch_dtype=torch.float32,
+            variant="fp16"
+        )
+        _LOCAL_PIPELINE.to("cpu")
+        print("[ImageEngine] Local SD-Turbo model loaded successfully on CPU.")
+        return _LOCAL_PIPELINE
+    except Exception as e:
+        print(f"[ImageEngine] Could not load local diffusers pipeline: {e}")
+        return None
+
+def generate_image_local(prompt: str, output_path: Path, width: int = 512, height: int = 512) -> bool:
+    """Generates an image locally on your CPU/Arc GPU without internet or API keys using SD-Turbo."""
+    pipe = get_local_pipeline()
+    if pipe is None:
+        return False
+
+    try:
+        # SD-Turbo runs with 1 single inference step and guidance_scale=0.0
+        result = pipe(
+            prompt=f"{prompt}, cinematic realism, 8k",
+            num_inference_steps=1,
+            guidance_scale=0.0,
+            width=width,
+            height=height
+        )
+        image = result.images[0]
+        # Resize to vertical 1080x1920 using high-quality Lanczos upsampling
+        image_vertical = image.resize((1080, 1920), Image.Resampling.LANCZOS)
+        image_vertical.save(output_path, quality=95)
+        print(f"[ImageEngine] Local image generated and saved to {output_path.name}")
+        return True
+    except Exception as e:
+        print(f"[ImageEngine] Local generation failed: {e}")
+        return False
+
+def fetch_pixabay_stock(query: str, output_path: Path, width: int = 1080, height: int = 1920) -> bool:
+    """Fallback: downloads a high-res royalty-free stock image from Pixabay."""
+    from io import BytesIO
+    api_key = os.getenv("PIXABAY_API_KEY", "")
+    if not api_key:
+        return False
+
+    # Extract top keywords
+    words = [w for w in query.replace(",", " ").split() if len(w) > 3 and w.lower() not in {"shot", "majestic", "cinematic", "photorealistic", "ultra", "detailed", "focus", "deep", "view", "scene"}]
+    clean_q = "+".join(words[:4]) or "ocean"
+
+    url = f"https://pixabay.com/api/?key={api_key}&q={clean_q}&image_type=photo&orientation=vertical&per_page=5"
+    try:
+        res = requests.get(url, timeout=15)
+        if res.status_code == 200:
+            hits = res.json().get("hits", [])
+            if hits:
+                img_url = hits[0].get("largeImageURL") or hits[0].get("webformatURL")
+                img_res = requests.get(img_url, timeout=20)
+                if img_res.status_code == 200:
+                    raw_img = Image.open(BytesIO(img_res.content))
+                    scale = max(width / raw_img.width, height / raw_img.height)
+                    new_w = int(raw_img.width * scale)
+                    new_h = int(raw_img.height * scale)
+                    resized = raw_img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+                    left = (new_w - width) // 2
+                    top = (new_h - height) // 2
+                    final_img = resized.crop((left, top, left + width, top + height))
+                    final_img.save(output_path, quality=95)
+                    print(f"[ImageEngine] Stock photo fallback saved to {output_path.name}")
+                    return True
+    except Exception as e:
+        print(f"[ImageEngine] Pixabay stock fallback error: {e}")
+    return False
+
+def generate_scene_images(scenes: List[Dict[str, Any]], work_dir: Path, mode: str = "fast") -> List[Path]:
+    """Generates images for each scene in the story plan with multi-layer fallback.
+    Order:
+      1. AI Fast Cloud (Pollinations)
+      2. Pixabay Real Stock Photo (if rate-limited)
+      3. Local Offline SD-Turbo (if local mode or network down)
+    """
+    image_paths = []
+    work_dir.mkdir(parents=True, exist_ok=True)
+
+    for i, scene in enumerate(scenes):
+        idx = scene.get("scene_number", i + 1)
+        prompt = scene.get("image_prompt", "")
+        out_file = work_dir / f"scene_{idx:02d}.jpg"
+
+        print(f"[ImageEngine] Rendering Scene {idx}/{len(scenes)} (Mode: {mode})...")
+        success = False
+
+        if mode == "local":
+            success = generate_image_local(prompt, out_file)
+        else:
+            success = generate_image_fast(prompt, out_file)
+            if not success:
+                print(f"[ImageEngine] Fast endpoint failed for Scene {idx}, checking Pixabay stock fallback...")
+                success = fetch_pixabay_stock(prompt, out_file)
+            if not success and mode == "auto":
+                print("[ImageEngine] Falling back to local offline generation...")
+                success = generate_image_local(prompt, out_file)
+
+        if success and out_file.exists():
+            image_paths.append(out_file)
+        else:
+            # Emergency solid frame
+            fallback_img = Image.new("RGB", (1080, 1920), color=(20, 24, 33))
+            fallback_img.save(out_file)
+            image_paths.append(out_file)
+
+        # Gentle pause between requests to respect rate limits
+        time.sleep(1.2)
+
+    return image_paths

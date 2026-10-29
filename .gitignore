@@ -4,6 +4,7 @@ __pycache__/
 tmp/
 .pytest_cache/
 output/*.mp4
+output/local_studio/
 client_secret*.json
 youtube_token*.json
 tiktok_token*.json
