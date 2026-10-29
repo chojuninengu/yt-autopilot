@@ -120,3 +120,87 @@ def assemble_cinematic_video(
         print(f"[VideoEngine] Final video ready: {output_path} ({output_path.stat().st_size / 1024 / 1024:.2f} MB)")
         return True
     return False
+
+def assemble_moving_clips_video(
+    clip_paths: List[Path],
+    audio_path: Path,
+    srt_path: Path,
+    output_path: Path,
+    width: int = 1080,
+    height: int = 1920,
+    fps: int = 30
+) -> bool:
+    """Stitches real moving video clips together with audio voiceover and subtitles into 1080x1920 vertical video."""
+    if not clip_paths or not audio_path.exists():
+        print("[VideoEngine] Missing video clips or audio file.")
+        return False
+
+    work_dir = output_path.parent
+    normalized_clips = []
+
+    print(f"[VideoEngine] Normalizing and stitching {len(clip_paths)} moving video clips...")
+    for idx, clip in enumerate(clip_paths):
+        norm_clip = work_dir / f"norm_clip_{idx:02d}.mp4"
+        normalized_clips.append(norm_clip)
+
+        # Scale/pad/crop to exact 1080x1920 30fps with uniform SAR
+        vf = (
+            f"scale={width}:{height}:force_original_aspect_ratio=increase,"
+            f"crop={width}:{height},setsar=1,fps={fps}"
+        )
+        cmd = [
+            "ffmpeg", "-y", "-i", str(clip),
+            "-vf", vf,
+            "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p",
+            "-an", str(norm_clip)
+        ]
+        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+    concat_txt = work_dir / "moving_clips.txt"
+    with open(concat_txt, "w") as f:
+        for c in normalized_clips:
+            if c.exists() and c.stat().st_size > 1000:
+                f.write(f"file '{c.resolve()}'\n")
+
+    unsubbed = work_dir / "unsubbed_moving.mp4"
+    concat_cmd = [
+        "ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_txt),
+        "-i", str(audio_path),
+        "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
+        "-shortest", str(unsubbed)
+    ]
+    subprocess.run(concat_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+    # Burn subtitles if present
+    if srt_path.exists() and srt_path.stat().st_size > 10:
+        print("[VideoEngine] Burning dynamic captions into moving video...")
+        escaped_srt = str(srt_path.resolve()).replace(":", "\\:").replace("'", "\\'")
+        sub_filter = (
+            f"subtitles='{escaped_srt}':force_style="
+            f"'FontName=Arial,FontSize=20,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=3,Outline=2,Alignment=2,MarginV=180'"
+        )
+        final_cmd = [
+            "ffmpeg", "-y", "-i", str(unsubbed),
+            "-vf", sub_filter,
+            "-c:v", "libx264", "-preset", "fast", "-c:a", "copy",
+            str(output_path)
+        ]
+        subprocess.run(final_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if not output_path.exists():
+            unsubbed.rename(output_path)
+    else:
+        unsubbed.rename(output_path)
+
+    # Cleanup intermediate clips
+    for c in normalized_clips:
+        if c.exists():
+            c.unlink()
+    if concat_txt.exists():
+        concat_txt.unlink()
+    if unsubbed.exists():
+        unsubbed.unlink()
+
+    if output_path.exists() and output_path.stat().st_size > 10000:
+        print(f"[VideoEngine] Final moving video ready: {output_path} ({output_path.stat().st_size / 1024 / 1024:.2f} MB)")
+        return True
+    return False
