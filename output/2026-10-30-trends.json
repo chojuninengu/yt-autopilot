@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "elect.horse",
+      "score": 123,
+      "url": "https://elect.horse/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Backdoors in official Claude Code extensions",
+      "score": 217,
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+    },
+    {
+      "source": "hackernews",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "score": 1493,
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    },
+    {
+      "source": "hackernews",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "score": 1543,
+      "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "score": 19,
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "score": 163,
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "score": 27,
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "score": 60,
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times"
+    },
+    {
+      "source": "hackernews",
+      "title": "Herdr has released native app",
+      "score": 246,
+      "url": "https://github.com/herdrdev/herdr-app"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "score": 161,
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cuis: The Modern Smalltalk-80",
+      "score": 137,
+      "url": "https://cuis.st/"
+    },
+    {
+      "source": "hackernews",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "score": 314,
+      "url": "https://labs.ycombinator.com/projects/games/index.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "score": 163,
+      "url": "https://github.com/da-luce/astroterm"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "score": 38,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "score": 30,
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tracy duhon",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "skeleton",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "the hacker news",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "aaron rodgers international week proposal",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "fencing",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "today show",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "steve harvey",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "blippi",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kevin federline",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "disney plus",
+      "traffic": "2000+"
+    },
+    {
+      "source": "r/memes",
+      "title": "I’m suddenly okay for the 30 paid minutes"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's not that bad...."
+    },
+    {
+      "source": "r/memes",
+      "title": "Thanks for the memes Patrick stewart"
+    },
+    {
+      "source": "r/memes",
+      "title": "Life long trauma"
+    },
+    {
+      "source": "r/memes",
+      "title": "I dont like V for Vendetta that much"
+    },
+    {
+      "source": "r/memes",
+      "title": "You’re also muted for 28 days now"
+    },
+    {
+      "source": "r/memes",
+      "title": "AHH I'M MORE POWERFUL THAN YOU!"
+    },
+    {
+      "source": "r/memes",
+      "title": "I never cried making a meme before."
+    },
+    {
+      "source": "r/memes",
+      "title": "Friendship"
+    },
+    {
+      "source": "r/memes",
+      "title": "High risk indeterminate reward"
+    }
+  ],
+  "errors": []
+}
