@@ -53,16 +53,17 @@ def render_fable_audio(fable_plan: Dict[str, Any], work_dir: Path) -> Tuple[List
         mixed_file = work_dir / f"fable_scene_{idx:02d}.mp3"
 
         # Emotional pitch and speed tuning
-        if emotion == "crying":
+        emo = emotion.lower()
+        if "cry" in emo or "whimper" in emo or "helpless" in emo:
             rate = "-4%"
             pitch = "+5Hz"
-        elif emotion == "arrogant":
+        elif "arrogant" in emo or "laugh" in emo:
             rate = "+6%"
             pitch = "-2Hz"
-        elif emotion == "shocked_triumph":
+        elif "triumph" in emo or "shock" in emo or "roar" in emo:
             rate = "+8%"
             pitch = "+8Hz"
-        elif emotion == "cold_rejection":
+        elif "cold" in emo or "reject" in emo or "dignity" in emo:
             rate = "-6%"
             pitch = "-4Hz"
         else:
@@ -72,10 +73,24 @@ def render_fable_audio(fable_plan: Dict[str, Any], work_dir: Path) -> Tuple[List
         asyncio.run(_synthesize_voice(dialogue, speaker.get("voice", "en-US-ChristopherNeural"), rate, pitch, raw_audio_file))
         speech_seg = AudioSegment.from_file(raw_audio_file)
 
-        # Overlay SFX
-        if sfx_key and sfx_key in all_sfx and all_sfx[sfx_key].exists():
-            sfx_seg = AudioSegment.from_file(all_sfx[sfx_key])
-            if sfx_key in ["gushing", "ground_slam"]:
+        # Overlay SFX (flexible keyword lookup)
+        matched_sfx = None
+        sfx_lower = str(sfx_key).lower()
+        for k in all_sfx:
+            if k in sfx_lower or sfx_lower in k:
+                matched_sfx = k
+                break
+        if not matched_sfx:
+            if "roar" in sfx_lower or "trumpet" in sfx_lower or "slam" in sfx_lower:
+                matched_sfx = "ground_slam"
+            elif "tear" in sfx_lower or "whimper" in sfx_lower:
+                matched_sfx = "tears"
+            elif "whoosh" in sfx_lower or "cackle" in sfx_lower or "growl" in sfx_lower:
+                matched_sfx = "whoosh"
+
+        if matched_sfx and matched_sfx in all_sfx and all_sfx[matched_sfx].exists():
+            sfx_seg = AudioSegment.from_file(all_sfx[matched_sfx])
+            if matched_sfx in ["gushing", "ground_slam", "punch"]:
                 sfx_seg = sfx_seg + 3
             else:
                 sfx_seg = sfx_seg - 2

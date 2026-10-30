@@ -196,14 +196,23 @@ def generate_fable_story(topic: Optional[str] = None) -> Dict[str, Any]:
         }
     }
 
-    try:
-        res = requests.post(url, json=payload, timeout=30)
-        res.raise_for_status()
-        data = res.json()
-        raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
-        plan = json.loads(raw_text)
-        print(f"[FableEngine] Fable generated: '{plan.get('title')}' with {len(plan.get('scenes', []))} beats.")
-        return plan
-    except Exception as e:
-        print(f"[FableEngine] Gemini call failed ({e}), using template.")
-        return FALLBACK_FABLE
+    for attempt in range(3):
+        try:
+            res = requests.post(url, json=payload, timeout=35)
+            if res.status_code == 200:
+                data = res.json()
+                raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
+                plan = json.loads(raw_text)
+                print(f"[FableEngine] Fable generated: '{plan.get('title')}' with {len(plan.get('scenes', []))} beats.")
+                return plan
+            else:
+                print(f"[FableEngine] Gemini attempt {attempt+1} returned {res.status_code}, retrying...")
+                import time
+                time.sleep(2)
+        except Exception as e:
+            print(f"[FableEngine] Gemini attempt {attempt+1} error: {e}")
+            import time
+            time.sleep(2)
+
+    print("[FableEngine] Gemini call failed after retries, using template.")
+    return FALLBACK_FABLE

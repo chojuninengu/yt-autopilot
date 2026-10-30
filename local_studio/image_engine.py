@@ -154,8 +154,10 @@ def generate_image_agnes(prompt: str, output_path: Path, width: int = 1080, heig
                 if img_res.status_code == 200:
                     from io import BytesIO
                     raw_img = Image.open(BytesIO(img_res.content))
+                    if raw_img.mode in ("RGBA", "P"):
+                        raw_img = raw_img.convert("RGB")
                     resized = raw_img.resize((width, height), Image.Resampling.LANCZOS)
-                    resized.save(output_path, quality=95)
+                    resized.save(output_path, "JPEG", quality=95)
                     print(f"[ImageEngine] Agnes AI 3D character image saved to {output_path.name}")
                     return True
     except Exception as e:
