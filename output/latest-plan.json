@@ -1,0 +1,88 @@
+{
+  "picked_trend": "Binance-hacker-1029 – $6.3B stolen from Binance in 20 minutes",
+  "why_viral": "The sheer scale of the financial loss ($6.3 billion), the speed of the attack (20 minutes), the high-profile target (Binance), and the alleged involvement of North Korean state-sponsored hackers make this a highly compelling and immediately relevant global cybersecurity story.",
+  "core_idea": "To explain the unprecedented $6.3 billion cyberattack on Binance, detailing how such a massive sum was stolen in a mere 20 minutes, and the implications of this sophisticated breach linked to North Korean hacking groups.",
+  "video_title": "The $6.3 Billion Binance Hack: How It Happened in 20 Minutes",
+  "script": "Imagine losing six point three BILLION dollars in just twenty minutes. That's exactly what just happened to crypto giant Binance. This isn't a movie plot. On October 29th, a massive security breach allowed hackers to drain a staggering amount of crypto. Binance immediately paused withdrawals, but the damage was already done. Initial reports, including from TechCrunch, are pointing fingers at a familiar culprit: North Korean state-sponsored hacking groups. Known for their sophisticated cyber-attacks, they're accused of orchestrating this record-breaking theft. This isn't just a loss for Binance; it's a stark reminder of the constant cyber threats facing our digital world. From your personal data to global financial systems, no one is truly safe from determined attackers. It highlights the urgent need for stronger security measures and constant vigilance. Stay informed, stay secure. What do you think this means for the future of crypto?",
+  "scenes": [
+    {
+      "narration": "Imagine losing six point three BILLION dollars in just twenty minutes. That's exactly what just happened to crypto giant Binance.",
+      "visual_keywords": [
+        "money pile",
+        "digital theft",
+        "alarm"
+      ],
+      "image_prompt": "A massive, shimmering pile of digital currency symbols (coins, tokens, etc.) with a small blue robot, Pip, looking aghast, a timer in the background showing '00:20:00'. Vertical 9:16, 2D cartoon. NO text or letters.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "This isn't a movie plot. On October 29th, a massive security breach allowed hackers to drain a staggering amount of crypto. Binance immediately paused withdrawals, but the damage was already done.",
+      "visual_keywords": [
+        "broken lock",
+        "data flow",
+        "empty vault"
+      ],
+      "image_prompt": "A stylized, abstract digital vault with a huge crack and streams of light escaping. Pip is standing nearby, observing the breach with wide, concerned eyes. Vertical 9:16, 2D cartoon. NO text or letters.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "Initial reports, including from TechCrunch, are pointing fingers at a familiar culprit: North Korean state-sponsored hacking groups. Known for their sophisticated cyber-attacks, they're accused of orchestrating this record-breaking theft.",
+      "visual_keywords": [
+        "shadowy figures",
+        "global map",
+        "cyber spy"
+      ],
+      "image_prompt": "A digital map of the world, with a faint red glow emanating from a region representing North Korea. Silhouetted, cloaked figures are depicted manipulating glowing keyboards. Pip, wearing a tiny detective hat, peeks from behind a monitor, looking serious. Vertical 9:16, 2D cartoon. NO text or letters.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "This isn't just a loss for Binance; it's a stark reminder of the constant cyber threats facing our digital world. From your personal data to global financial systems, no one is truly safe from determined attackers.",
+      "visual_keywords": [
+        "digital shield",
+        "data security",
+        "vulnerable network"
+      ],
+      "image_prompt": "A fragile, glass-like digital shield cracking under pressure from a barrage of pixelated arrows and malware symbols. Behind it, a vast, interconnected digital city looks vulnerable. Pip is trying to reinforce the shield with small, glowing tools. Vertical 9:16, 2D cartoon. NO text or letters.",
+      "motion": "shake"
+    },
+    {
+      "narration": "It highlights the urgent need for stronger security measures and constant vigilance. Stay informed, stay secure. What do you think this means for the future of crypto?",
+      "visual_keywords": [
+        "secure network",
+        "glowing lock",
+        "digital future"
+      ],
+      "image_prompt": "A brightly glowing, robust digital padlock integrated into a complex, intertwining network of circuits. Pip stands confidently in front of it, giving a thumbs-up gesture, symbolizing security and hope. Vertical 9:16, 2D cartoon. NO text or letters.",
+      "motion": "zoom_in"
+    }
+  ],
+  "youtube": {
+    "title": "Crypto Catastrophe: $6.3 BILLION Stolen from Binance in 20 Minutes!",
+    "description": "A record-breaking $6.3 billion vanished from crypto exchange Binance in a lightning-fast 20-minute cyberattack. This video breaks down how this unprecedented breach happened, who's being blamed (hint: North Korean hackers), and what it means for the future of digital security and cryptocurrency. Don't miss this crucial explainer on one of the biggest hacks in history!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#BinanceHack",
+      "#CryptoSecurity",
+      "#CyberAttack",
+      "#NorthKoreaHackers",
+      "#DigitalCrime",
+      "#Web3Security",
+      "#BlockchainNews",
+      "#TrendingNews",
+      "#FacelessExplainer"
+    ]
+  },
+  "tiktok": {
+    "caption": "A whopping $6.3 BILLION GONE from Binance in just 20 minutes! 🤯 North Korean hackers are suspected in this massive crypto heist. Here's what you need to know about the biggest cyberattack hitting the digital world. Stay safe out there! #BinanceHack #Crypto #CyberSecurity #Trending (Visuals generated with AI.)",
+    "hashtags": [
+      "#BinanceHack",
+      "#Crypto",
+      "#CyberSecurity",
+      "#NorthKorea",
+      "#DigitalHeist",
+      "#Web3",
+      "#TrendingNews",
+      "#Hacking",
+      "#FinancialCrime"
+    ]
+  }
+}

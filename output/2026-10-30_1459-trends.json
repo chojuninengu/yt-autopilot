@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "elect.horse",
+      "score": 373,
+      "url": "https://elect.horse/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "score": 107,
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "score": 130,
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case"
+    },
+    {
+      "source": "hackernews",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "score": 281,
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
+    },
+    {
+      "source": "hackernews",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "score": 1609,
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    },
+    {
+      "source": "hackernews",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "score": 1616,
+      "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "score": 95,
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+    },
+    {
+      "source": "hackernews",
+      "title": "American views of higher ed decline, once again",
+      "score": 31,
+      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/"
+    },
+    {
+      "source": "hackernews",
+      "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+      "score": 10,
+      "url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus"
+    },
+    {
+      "source": "hackernews",
+      "title": "Finding Panics with Call Graph Analyzer",
+      "score": 27,
+      "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "score": 65,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "score": 115,
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times"
+    },
+    {
+      "source": "hackernews",
+      "title": "Herdr has released native app",
+      "score": 290,
+      "url": "https://github.com/herdrdev/herdr-app"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lighthouses, War and a Puffling",
+      "score": 9,
+      "url": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "score": 194,
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg"
+    },
+    {
+      "source": "techcrunch",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "brett yormark",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "permanent daylight savings time",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bo bassett",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "voting locations near me",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "coin stock",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ejiro evero",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "voo",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lakeva keel ferreira craig melvin costume",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "djia",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pope leo",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/memes",
+      "title": "I’m suddenly okay for the 30 paid minutes"
+    },
+    {
+      "source": "r/memes",
+      "title": "You’re also muted for 28 days now"
+    },
+    {
+      "source": "r/memes",
+      "title": "Thanks for the memes Patrick stewart"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's not that bad...."
+    },
+    {
+      "source": "r/memes",
+      "title": "I dont like V for Vendetta that much"
+    },
+    {
+      "source": "r/memes",
+      "title": "I never cried making a meme before."
+    },
+    {
+      "source": "r/memes",
+      "title": "High risk indeterminate reward"
+    },
+    {
+      "source": "r/memes",
+      "title": "Very real."
+    },
+    {
+      "source": "r/memes",
+      "title": "Friendship"
+    },
+    {
+      "source": "r/memes",
+      "title": "One encounter and you'll never trust a chest again"
+    }
+  ],
+  "errors": []
+}
