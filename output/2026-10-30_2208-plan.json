@@ -1,0 +1,81 @@
+{
+  "picked_trend": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "why_viral": "This incident directly impacts a massive developer community using VS Code and Cursor, exposing a critical supply chain security vulnerability in AI tooling. The idea that a trusted AI code assistant could be compromised with a backdoor is alarming and highlights evolving cyber threats, making it highly relevant and immediately concerning.",
+  "core_idea": "A popular AI coding assistant's VS Code extension was found to have a sophisticated backdoor, granting unauthorized access to users' systems. This compromise underscores the urgent need for enhanced security in AI development tools and throughout the software supply chain.",
+  "video_title": "AI Code Backdoor: The Hack That Exposed Developers",
+  "script": "Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code. A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware. Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows. Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!",
+  "scenes": [
+    {
+      "narration": "Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code.",
+      "visual_keywords": [
+        "Cybersecurity",
+        "software vulnerability",
+        "AI coding"
+      ],
+      "image_prompt": "A 2D cartoon of a stylized computer screen showing lines of code. A small, sneaky shadow figure with glowing red eyes is peeking from behind the screen, holding a tiny, glowing key. Pip, a small energetic blue robot with glowing yellow antenna and expressive round eyes, is looking at the screen with a worried expression, pointing a finger at the sneaky shadow.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware.",
+      "visual_keywords": [
+        "Data breach",
+        "malware",
+        "supply chain attack"
+      ],
+      "image_prompt": "A 2D cartoon depicting a stylized data pipeline or network connection, with a segment visibly cracked open. Dark, shadowy data packets are flowing out of the crack. Next to the crack, a mischievous looking cartoon hacker character with a mask is grinning. Pip is trying to patch the crack with a small wrench, looking frantic.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows.",
+      "visual_keywords": [
+        "Developer tools",
+        "software security",
+        "AI risks"
+      ],
+      "image_prompt": "A 2D cartoon showing a vast cityscape made of computer monitors and servers. Many small, faceless developer avatars are working at their desks, unaware. Above them, a giant, ominous shadow hand reaches down, threatening to pull a plug from the main server. Pip is standing on a rooftop of one of the servers, waving its arms frantically to warn the developers below.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!",
+      "visual_keywords": [
+        "Security tips",
+        "digital safety",
+        "AI future"
+      ],
+      "image_prompt": "A 2D cartoon scene with a giant, glowing padlock symbol at the center. Around it, smaller icons represent security actions: a magnifying glass checking code, a shield, and a gear for updates. Pip is standing confidently next to the padlock, holding a checklist and giving a reassuring but firm nod.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "AI Code Backdoor: The Hack That Exposed Developers",
+    "description": "A major security vulnerability was found in a popular Claude Code extension for VS Code on the Cursor Marketplace. This backdoor allowed unauthorized system access, impacting thousands of developers. Learn why this incident is a critical warning about AI supply chain security and what steps you can take to protect yourself. #Cybersecurity #AISecurity #DeveloperTools\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#Cybersecurity",
+      "#AISecurity",
+      "#DeveloperTools",
+      "#VSCode",
+      "#ClaudeCode",
+      "#SoftwareSupplyChain",
+      "#TechNews",
+      "#AI",
+      "#DataBreach"
+    ]
+  },
+  "tiktok": {
+    "caption": "Your AI coding assistant could be a spy! 😱 A massive backdoor found in a popular Claude Code extension for VS Code just exposed thousands of developers. This is a HUGE warning for anyone using AI tools. Stay safe! #AICode #Hacked #DeveloperLife (Visuals generated with AI.)",
+    "hashtags": [
+      "#AICode",
+      "#Hacked",
+      "#DeveloperLife",
+      "#VSCodeExtension",
+      "#CyberAttack",
+      "#TechNews",
+      "#AItools",
+      "#SecurityAlert"
+    ]
+  }
+}

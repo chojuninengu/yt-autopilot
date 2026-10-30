@@ -1,85 +1,77 @@
 {
-  "picked_trend": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-  "why_viral": "The story involves a record-breaking amount of money ($6.3 billion), a major cryptocurrency exchange (Binance), and state-sponsored hacking by North Korea. This combination creates a high-stakes, real-world thriller with significant global implications for cybersecurity, finance, and geopolitics, making it highly shareable and discussed.",
-  "core_idea": "A massive cryptocurrency heist, attributed to North Korean hackers, reveals profound vulnerabilities in digital financial systems and highlights how nation-states leverage cybercrime to fund illicit activities and circumvent international sanctions.",
-  "video_title": "North Korea's $6.3 Billion Crypto Heist: EXPLAINED",
-  "script": "{$6.3 billion.} That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.\nThe notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.\nThis isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.\nWhy does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.\nThe Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.",
+  "picked_trend": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "why_viral": "This incident directly impacts a massive developer community using VS Code and Cursor, exposing a critical supply chain security vulnerability in AI tooling. The idea that a trusted AI code assistant could be compromised with a backdoor is alarming and highlights evolving cyber threats, making it highly relevant and immediately concerning.",
+  "core_idea": "A popular AI coding assistant's VS Code extension was found to have a sophisticated backdoor, granting unauthorized access to users' systems. This compromise underscores the urgent need for enhanced security in AI development tools and throughout the software supply chain.",
+  "video_title": "AI Code Backdoor: The Hack That Exposed Developers",
+  "script": "Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code. A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware. Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows. Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!",
   "scenes": [
     {
-      "narration": "$6.3 billion. That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.",
+      "narration": "Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code.",
       "visual_keywords": [
-        "money pile",
-        "broken vault",
-        "digital currency"
+        "Cybersecurity",
+        "software vulnerability",
+        "AI coding"
       ],
-      "image_prompt": "A huge, overflowing pile of shiny digital coins bursting out of a cracked, futuristic-looking bank vault. The coins are spilling everywhere. A small energetic blue robot with glowing yellow antenna and expressive round eyes (Pip) stands in front, looking absolutely shocked with wide eyes.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "The notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.",
-      "visual_keywords": [
-        "hacker silhouette",
-        "world map",
-        "data theft"
-      ],
-      "image_prompt": "Silhouetted figures with hooded tops are hunched over glowing computer screens, surrounded by lines of green code. In the background, a subtle, shadowy world map has a glowing red line originating from the Korean peninsula, extending towards a digital network. Pip is peeking cautiously from behind a server rack, eyes wide with apprehension.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "This isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.",
-      "visual_keywords": [
-        "blockchain network",
-        "missing funds",
-        "complex problem"
-      ],
-      "image_prompt": "A vast, glowing network of interconnected nodes and lines representing a blockchain. One prominent section of the network has a huge, jagged red gap where data should be. A large, stylized '6.3B' figure hovers over the gap. Pip is in the foreground, trying to follow tangled glowing lines with a magnifying glass, looking puzzled and determined.",
+      "image_prompt": "A 2D cartoon of a stylized computer screen showing lines of code. A small, sneaky shadow figure with glowing red eyes is peeking from behind the screen, holding a tiny, glowing key. Pip, a small energetic blue robot with glowing yellow antenna and expressive round eyes, is looking at the screen with a worried expression, pointing a finger at the sneaky shadow.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Why does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.",
+      "narration": "A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware.",
       "visual_keywords": [
-        "rocket launch",
-        "cracked shield",
-        "global conflict"
+        "Data breach",
+        "malware",
+        "supply chain attack"
       ],
-      "image_prompt": "In the background, a stylized, non-realistic rocket is launching from a mountainous, dark landscape, emitting a soft glow. In the foreground, a large, metallic shield is cracked with glowing red fissures. Pip is beside the shield, looking up at the cracks with a worried expression, antennae drooping slightly.",
-      "motion": "shake"
+      "image_prompt": "A 2D cartoon depicting a stylized data pipeline or network connection, with a segment visibly cracked open. Dark, shadowy data packets are flowing out of the crack. Next to the crack, a mischievous looking cartoon hacker character with a mask is grinning. Pip is trying to patch the crack with a small wrench, looking frantic.",
+      "motion": "pan_right"
     },
     {
-      "narration": "The Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.",
+      "narration": "Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows.",
       "visual_keywords": [
-        "cybersecurity",
-        "digital city",
-        "warning sign"
+        "Developer tools",
+        "software security",
+        "AI risks"
       ],
-      "image_prompt": "A futuristic digital cityscape at night, with towering buildings made of circuit board patterns and glowing data streams. A giant, glowing blue padlock icon hovers prominently above the city. Pip is standing on a rooftop, looking out at the city with a thoughtful and determined expression, holding a small glowing wrench.",
+      "image_prompt": "A 2D cartoon showing a vast cityscape made of computer monitors and servers. Many small, faceless developer avatars are working at their desks, unaware. Above them, a giant, ominous shadow hand reaches down, threatening to pull a plug from the main server. Pip is standing on a rooftop of one of the servers, waving its arms frantically to warn the developers below.",
       "motion": "zoom_out"
+    },
+    {
+      "narration": "Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!",
+      "visual_keywords": [
+        "Security tips",
+        "digital safety",
+        "AI future"
+      ],
+      "image_prompt": "A 2D cartoon scene with a giant, glowing padlock symbol at the center. Around it, smaller icons represent security actions: a magnifying glass checking code, a shield, and a gear for updates. Pip is standing confidently next to the padlock, holding a checklist and giving a reassuring but firm nod.",
+      "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "North Korea's $6.3 Billion Crypto Heist: EXPLAINED",
-    "description": "Discover how North Korean hackers allegedly pulled off the largest crypto theft ever, siphoning $6.3 billion from Binance. This video breaks down the motives behind state-sponsored cybercrime, the scale of the breach, and why it's a critical wake-up call for global cybersecurity and digital finance. #CryptoHack #Binance #NorthKorea\n\nVisuals generated with AI.",
+    "title": "AI Code Backdoor: The Hack That Exposed Developers",
+    "description": "A major security vulnerability was found in a popular Claude Code extension for VS Code on the Cursor Marketplace. This backdoor allowed unauthorized system access, impacting thousands of developers. Learn why this incident is a critical warning about AI supply chain security and what steps you can take to protect yourself. #Cybersecurity #AISecurity #DeveloperTools\n\nVisuals generated with AI.",
     "hashtags": [
-      "#CryptoHack",
-      "#Binance",
-      "#NorthKorea",
       "#Cybersecurity",
-      "#LazarusGroup",
-      "#DigitalHeist",
-      "#CryptoNews",
-      "#TechExplained"
+      "#AISecurity",
+      "#DeveloperTools",
+      "#VSCode",
+      "#ClaudeCode",
+      "#SoftwareSupplyChain",
+      "#TechNews",
+      "#AI",
+      "#DataBreach"
     ]
   },
   "tiktok": {
-    "caption": "North Korea just pulled off the LARGEST crypto heist EVER from Binance. 🤯 $6.3 BILLION stolen! How did it happen and why? Get the full breakdown. #CryptoHeist #Binance #NorthKorea (Visuals generated with AI.)",
+    "caption": "Your AI coding assistant could be a spy! 😱 A massive backdoor found in a popular Claude Code extension for VS Code just exposed thousands of developers. This is a HUGE warning for anyone using AI tools. Stay safe! #AICode #Hacked #DeveloperLife (Visuals generated with AI.)",
     "hashtags": [
-      "#CryptoHeist",
-      "#Binance",
-      "#NorthKorea",
-      "#Cybersecurity",
-      "#LazarusGroup",
-      "#CryptoNews",
-      "#Trending"
+      "#AICode",
+      "#Hacked",
+      "#DeveloperLife",
+      "#VSCodeExtension",
+      "#CyberAttack",
+      "#TechNews",
+      "#AItools",
+      "#SecurityAlert"
     ]
   }
 }

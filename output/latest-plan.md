@@ -1,40 +1,34 @@
-# North Korea's $6.3 Billion Crypto Heist: EXPLAINED
+# AI Code Backdoor: The Hack That Exposed Developers
 
-**Trend:** North Korean hackers blamed for stealing record $6.3B in Binance breach
+**Trend:** Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
 
-**Why it's viral:** The story involves a record-breaking amount of money ($6.3 billion), a major cryptocurrency exchange (Binance), and state-sponsored hacking by North Korea. This combination creates a high-stakes, real-world thriller with significant global implications for cybersecurity, finance, and geopolitics, making it highly shareable and discussed.
+**Why it's viral:** This incident directly impacts a massive developer community using VS Code and Cursor, exposing a critical supply chain security vulnerability in AI tooling. The idea that a trusted AI code assistant could be compromised with a backdoor is alarming and highlights evolving cyber threats, making it highly relevant and immediately concerning.
 
-**Core idea:** A massive cryptocurrency heist, attributed to North Korean hackers, reveals profound vulnerabilities in digital financial systems and highlights how nation-states leverage cybercrime to fund illicit activities and circumvent international sanctions.
+**Core idea:** A popular AI coding assistant's VS Code extension was found to have a sophisticated backdoor, granting unauthorized access to users' systems. This compromise underscores the urgent need for enhanced security in AI development tools and throughout the software supply chain.
 
 ## Script
-{$6.3 billion.} That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.
-The notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.
-This isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.
-Why does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.
-The Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.
+Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code. A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware. Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows. Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!
 
 ## Scenes
-1. $6.3 billion. That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.  
-   _visuals: money pile, broken vault, digital currency_
-2. The notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.  
-   _visuals: hacker silhouette, world map, data theft_
-3. This isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.  
-   _visuals: blockchain network, missing funds, complex problem_
-4. Why does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.  
-   _visuals: rocket launch, cracked shield, global conflict_
-5. The Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.  
-   _visuals: cybersecurity, digital city, warning sign_
+1. Imagine your AI coding assistant, designed to help you, secretly working against you. That's exactly what happened with a popular Claude Code extension for VS Code.  
+   _visuals: Cybersecurity, software vulnerability, AI coding_
+2. A backdoor was discovered in an official Claude Code extension on the Cursor Marketplace. This wasn't just a glitch; it allowed attackers full access to your system, potentially stealing data or planting more malware.  
+   _visuals: Data breach, malware, supply chain attack_
+3. Thousands of developers relying on AI tools were exposed. This incident isn't just about one extension; it's a stark reminder of the growing security risks in the AI supply chain, especially as more tools integrate into our workflows.  
+   _visuals: Developer tools, software security, AI risks_
+4. Always verify your extensions, keep software updated, and question permissions. This hack shows that even trusted AI tools can become a vector for serious cyberattacks. Stay safe out there!  
+   _visuals: Security tips, digital safety, AI future_
 
 ## YouTube
-North Korea's $6.3 Billion Crypto Heist: EXPLAINED
+AI Code Backdoor: The Hack That Exposed Developers
 
-Discover how North Korean hackers allegedly pulled off the largest crypto theft ever, siphoning $6.3 billion from Binance. This video breaks down the motives behind state-sponsored cybercrime, the scale of the breach, and why it's a critical wake-up call for global cybersecurity and digital finance. #CryptoHack #Binance #NorthKorea
+A major security vulnerability was found in a popular Claude Code extension for VS Code on the Cursor Marketplace. This backdoor allowed unauthorized system access, impacting thousands of developers. Learn why this incident is a critical warning about AI supply chain security and what steps you can take to protect yourself. #Cybersecurity #AISecurity #DeveloperTools
 
 Visuals generated with AI.
 
-#CryptoHack #Binance #NorthKorea #Cybersecurity #LazarusGroup #DigitalHeist #CryptoNews #TechExplained
+#Cybersecurity #AISecurity #DeveloperTools #VSCode #ClaudeCode #SoftwareSupplyChain #TechNews #AI #DataBreach
 
 ## TikTok
-North Korea just pulled off the LARGEST crypto heist EVER from Binance. 🤯 $6.3 BILLION stolen! How did it happen and why? Get the full breakdown. #CryptoHeist #Binance #NorthKorea (Visuals generated with AI.)
+Your AI coding assistant could be a spy! 😱 A massive backdoor found in a popular Claude Code extension for VS Code just exposed thousands of developers. This is a HUGE warning for anyone using AI tools. Stay safe! #AICode #Hacked #DeveloperLife (Visuals generated with AI.)
 
-#CryptoHeist #Binance #NorthKorea #Cybersecurity #LazarusGroup #CryptoNews #Trending
+#AICode #Hacked #DeveloperLife #VSCodeExtension #CyberAttack #TechNews #AItools #SecurityAlert
