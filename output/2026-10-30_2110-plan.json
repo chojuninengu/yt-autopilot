@@ -1,0 +1,90 @@
+{
+  "picked_trend": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+  "why_viral": "The story involves a record-breaking amount of money ($6.3 billion), a major cryptocurrency exchange (Binance), and state-sponsored hacking by North Korea. This combination creates a high-stakes, real-world thriller with significant global implications for cybersecurity, finance, and geopolitics, making it highly shareable and discussed.",
+  "core_idea": "A massive cryptocurrency heist, attributed to North Korean hackers, reveals profound vulnerabilities in digital financial systems and highlights how nation-states leverage cybercrime to fund illicit activities and circumvent international sanctions.",
+  "video_title": "North Korea's $6.3 Billion Crypto Heist: EXPLAINED",
+  "script": "{$6.3 billion.} That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.\nThe notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.\nThis isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.\nWhy does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.\nThe Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.",
+  "scenes": [
+    {
+      "narration": "$6.3 billion. That's not a national budget, it's the record-breaking sum allegedly stolen from crypto giant Binance. North Korean hackers are being blamed for one of the largest digital heists ever.",
+      "visual_keywords": [
+        "money pile",
+        "broken vault",
+        "digital currency"
+      ],
+      "image_prompt": "A huge, overflowing pile of shiny digital coins bursting out of a cracked, futuristic-looking bank vault. The coins are spilling everywhere. A small energetic blue robot with glowing yellow antenna and expressive round eyes (Pip) stands in front, looking absolutely shocked with wide eyes.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "The notorious Lazarus Group, a cybercrime syndicate linked to North Korea, is pinpointed as the perpetrator. They've exploited vulnerabilities to siphon off a staggering amount of cryptocurrency.",
+      "visual_keywords": [
+        "hacker silhouette",
+        "world map",
+        "data theft"
+      ],
+      "image_prompt": "Silhouetted figures with hooded tops are hunched over glowing computer screens, surrounded by lines of green code. In the background, a subtle, shadowy world map has a glowing red line originating from the Korean peninsula, extending towards a digital network. Pip is peeking cautiously from behind a server rack, eyes wide with apprehension.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't just a big number; it's the largest crypto theft ever recorded. Binance is actively working to recover the funds, but the challenge is immense due to the decentralized nature of crypto.",
+      "visual_keywords": [
+        "blockchain network",
+        "missing funds",
+        "complex problem"
+      ],
+      "image_prompt": "A vast, glowing network of interconnected nodes and lines representing a blockchain. One prominent section of the network has a huge, jagged red gap where data should be. A large, stylized '6.3B' figure hovers over the gap. Pip is in the foreground, trying to follow tangled glowing lines with a magnifying glass, looking puzzled and determined.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Why does North Korea do this? To fund its weapons programs and bypass sanctions. This incident highlights the critical security risks within the crypto world and the growing threat of state-sponsored cyber warfare.",
+      "visual_keywords": [
+        "rocket launch",
+        "cracked shield",
+        "global conflict"
+      ],
+      "image_prompt": "In the background, a stylized, non-realistic rocket is launching from a mountainous, dark landscape, emitting a soft glow. In the foreground, a large, metallic shield is cracked with glowing red fissures. Pip is beside the shield, looking up at the cracks with a worried expression, antennae drooping slightly.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "The Binance breach serves as a stark reminder: even major platforms face sophisticated attacks. It’s a wake-up call for enhanced security in our increasingly digital financial landscape.",
+      "visual_keywords": [
+        "cybersecurity",
+        "digital city",
+        "warning sign"
+      ],
+      "image_prompt": "A futuristic digital cityscape at night, with towering buildings made of circuit board patterns and glowing data streams. A giant, glowing blue padlock icon hovers prominently above the city. Pip is standing on a rooftop, looking out at the city with a thoughtful and determined expression, holding a small glowing wrench.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "North Korea's $6.3 Billion Crypto Heist: EXPLAINED",
+    "description": "Discover how North Korean hackers allegedly pulled off the largest crypto theft ever, siphoning $6.3 billion from Binance. This video breaks down the motives behind state-sponsored cybercrime, the scale of the breach, and why it's a critical wake-up call for global cybersecurity and digital finance. #CryptoHack #Binance #NorthKorea\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#CryptoHack",
+      "#Binance",
+      "#NorthKorea",
+      "#Cybersecurity",
+      "#LazarusGroup",
+      "#DigitalHeist",
+      "#CryptoNews",
+      "#TechExplained"
+    ]
+  },
+  "tiktok": {
+    "caption": "North Korea just pulled off the LARGEST crypto heist EVER from Binance. 🤯 $6.3 BILLION stolen! How did it happen and why? Get the full breakdown. #CryptoHeist #Binance #NorthKorea (Visuals generated with AI.)",
+    "hashtags": [
+      "#CryptoHeist",
+      "#Binance",
+      "#NorthKorea",
+      "#Cybersecurity",
+      "#LazarusGroup",
+      "#CryptoNews",
+      "#Trending"
+    ]
+  }
+}
