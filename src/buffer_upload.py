@@ -167,12 +167,34 @@ def parse_args():
     return parser.parse_args()
 
 
+def resolve_plan_path(custom_plan: str | None, out_dir: pathlib.Path) -> pathlib.Path:
+    if custom_plan:
+        return pathlib.Path(custom_plan)
+
+    run_id = os.environ.get("RUN_ID")
+    if run_id:
+        p = out_dir / f"{run_id}-plan.json"
+        if p.exists():
+            return p
+
+    candidates = [p for p in out_dir.glob("*-plan.json") if p.name != "latest-plan.json"]
+    if candidates:
+        candidates.sort(key=lambda p: p.stat().st_mtime, reverse=True)
+        return candidates[0]
+
+    latest = out_dir / "latest-plan.json"
+    if latest.exists():
+        return latest
+
+    today = datetime.date.today().isoformat()
+    return out_dir / f"{today}-plan.json"
+
+
 def main():
     args = parse_args()
-    today = datetime.date.today().isoformat()
     out_dir = ROOT / "output"
 
-    plan_path = pathlib.Path(args.plan) if args.plan else out_dir / f"{today}-plan.json"
+    plan_path = resolve_plan_path(args.plan, out_dir)
     if not plan_path.exists():
         sys.exit(f"Plan file not found: {plan_path}")
 
@@ -187,9 +209,8 @@ def main():
     # Determine video URL
     video_url = args.video_url
     if not video_url:
-        # Default to GitHub Release CDN URL
-        # Format: https://github.com/chojuninengu/yt-autopilot/releases/download/vYYYY-MM-DD/YYYY-MM-DD-video.mp4
-        video_url = f"https://github.com/chojuninengu/yt-autopilot/releases/download/v{today}/{today}-video.mp4"
+        prefix = plan_path.stem.replace("-plan", "") if "-plan" in plan_path.stem else datetime.date.today().isoformat()
+        video_url = f"https://github.com/chojuninengu/yt-autopilot/releases/download/v{prefix}/{prefix}-video.mp4"
 
     try:
         post_video_to_buffer(

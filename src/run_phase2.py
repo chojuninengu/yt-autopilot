@@ -2,6 +2,7 @@
 import argparse
 import datetime
 import json
+import os
 import pathlib
 import sys
 
@@ -28,13 +29,39 @@ def parse_args():
     return parser.parse_args()
 
 
+def resolve_plan_path(custom_plan: str | None, out_dir: pathlib.Path) -> pathlib.Path:
+    if custom_plan:
+        return pathlib.Path(custom_plan)
+
+    run_id = os.environ.get("RUN_ID")
+    if run_id:
+        p = out_dir / f"{run_id}-plan.json"
+        if p.exists():
+            return p
+
+    # Find the newest plan file in output/
+    candidates = [
+        p for p in out_dir.glob("*-plan.json")
+        if p.name != "latest-plan.json"
+    ]
+    if candidates:
+        candidates.sort(key=lambda p: p.stat().st_mtime, reverse=True)
+        return candidates[0]
+
+    latest = out_dir / "latest-plan.json"
+    if latest.exists():
+        return latest
+
+    today = datetime.date.today().isoformat()
+    return out_dir / f"{today}-plan.json"
+
+
 def main():
     args = parse_args()
-    today = datetime.date.today().isoformat()
     out_dir = ROOT / "output"
     out_dir.mkdir(exist_ok=True)
 
-    plan_path = pathlib.Path(args.plan) if args.plan else out_dir / f"{today}-plan.json"
+    plan_path = resolve_plan_path(args.plan, out_dir)
     if not plan_path.exists():
         sys.exit(
             f"Plan file not found: {plan_path}\n"
@@ -50,7 +77,16 @@ def main():
     if args.dry_run:
         cfg["dry_run"] = True
 
-    output_path = pathlib.Path(args.output) if args.output else out_dir / f"{today}-video.mp4"
+    if args.output:
+        output_path = pathlib.Path(args.output)
+    else:
+        if plan_path.name.endswith("-plan.json") and plan_path.name != "latest-plan.json":
+            prefix = plan_path.name.replace("-plan.json", "")
+            output_path = out_dir / f"{prefix}-video.mp4"
+        else:
+            today = datetime.date.today().isoformat()
+            output_path = out_dir / f"{today}-video.mp4"
+
     print(f"Rendering video: '{plan.get('video_title', 'Video')}'...")
     render_video(plan, output_path, cfg=cfg)
 

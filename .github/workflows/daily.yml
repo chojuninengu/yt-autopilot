@@ -2,11 +2,12 @@ name: daily-pipeline
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 in Cameroon
-  workflow_dispatch:       # lets you run it manually from the Actions tab
+    # Runs 4 times daily: 12am, 6am, 12pm, 6pm UTC (01:00, 07:00, 13:00, 19:00 in Cameroon)
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:       # lets you run it manually anytime from the Actions tab
 
 permissions:
-  contents: write          # needed to commit the daily output back to the repo
+  contents: write          # needed to create releases and commit plans
 
 jobs:
   pipeline:
@@ -21,10 +22,16 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install Python dependencies
         run: pip install -r requirements.txt
+      - name: Initialize Run ID
+        run: |
+          RUN_ID=$(date -u +%Y-%m-%d_%H%M)
+          echo "RUN_ID=${RUN_ID}" >> $GITHUB_ENV
+          echo "TAG=v${RUN_ID}" >> $GITHUB_ENV
       - name: Phase 1 - Scout trends and plan video
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python src/run_phase1.py
+          RUN_ID: ${{ env.RUN_ID }}
+        run: python src/run_phase1.py --run-id "${RUN_ID}"
       - name: Phase 2 - Render video
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -33,27 +40,26 @@ jobs:
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: python src/run_phase2.py
+        run: python src/run_phase2.py --plan "output/${RUN_ID}-plan.json" --output "output/${RUN_ID}-video.mp4"
       - name: Upload rendered video artifact
         uses: actions/upload-artifact@v4
         with:
-          name: daily-video
-          path: output/*-video.mp4
+          name: video-${{ env.RUN_ID }}
+          path: output/${{ env.RUN_ID }}-video.mp4
           retention-days: 14
       - name: Publish video to GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          TAG="v$(date -u +%F)"
-          gh release create "$TAG" output/*-video.mp4 \
-            --title "Daily Video $(date -u +%F)" \
-            --notes "Automated daily short video: $(head -n 1 output/*-plan.md | sed 's/^# //')" || echo "Release already exists"
+          gh release create "$TAG" "output/${RUN_ID}-video.mp4" \
+            --title "Video $TAG" \
+            --notes "Automated short video: $(head -n 1 output/${RUN_ID}-plan.md | sed 's/^# //')" || echo "Release create step returned non-zero"
       - name: Phase 3 - Upload to YouTube
         env:
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
         run: |
           if [ -n "$YOUTUBE_TOKEN" ]; then
-            python src/run_phase3.py
+            python src/run_phase3.py --plan "output/${RUN_ID}-plan.json" --video "output/${RUN_ID}-video.mp4"
           else
             echo "YOUTUBE_TOKEN not configured; skipping YouTube upload."
           fi
@@ -63,9 +69,9 @@ jobs:
           TIKTOK_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
         run: |
           if [ -n "$BUFFER_ACCESS_TOKEN" ]; then
-            python src/buffer_upload.py
+            python src/buffer_upload.py --plan "output/${RUN_ID}-plan.json" --video-url "https://github.com/${{ github.repository }}/releases/download/${TAG}/${RUN_ID}-video.mp4"
           elif [ -n "$TIKTOK_TOKEN" ]; then
-            python src/run_phase4.py
+            python src/run_phase4.py --plan "output/${RUN_ID}-plan.json" --video "output/${RUN_ID}-video.mp4"
           else
             echo "Neither BUFFER_ACCESS_TOKEN nor TIKTOK_TOKEN configured; skipping TikTok upload."
           fi
@@ -73,6 +79,7 @@ jobs:
         run: |
           git config user.name "yt-autopilot-bot"
           git config user.email "bot@users.noreply.github.com"
+          git pull --rebase origin main || true
           git add output/*-plan.md output/*-plan.json output/*-trends.json output/.gitkeep
-          git commit -m "daily plan $(date -u +%F)" || echo "nothing to commit"
-          git push
+          git commit -m "video plan ${TAG} [skip ci]" || echo "nothing to commit"
+          git push origin main || echo "push failed"

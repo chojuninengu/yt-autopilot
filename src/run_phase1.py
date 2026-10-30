@@ -2,6 +2,7 @@
 import argparse
 import datetime
 import json
+import os
 import pathlib
 import sys
 
@@ -22,20 +23,25 @@ def parse_args():
         "--scout-only", action="store_true",
         help="Only run trend collection and save trends to output/."
     )
+    parser.add_argument(
+        "--run-id", type=str, default=None,
+        help="Custom run ID prefix (defaults to RUN_ID env var or UTC timestamp YYYY-MM-DD_HHMM)."
+    )
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
     cfg = json.loads((ROOT / "config.json").read_text())
-    today = datetime.date.today().isoformat()
+    run_id = args.run_id or os.environ.get("RUN_ID") or datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d_%H%M")
     out_dir = ROOT / "output"
     out_dir.mkdir(exist_ok=True)
 
+    print(f"Starting Phase 1 (Run ID: {run_id})...")
     print("Scouting trends across sources...")
     items, errors = collect(cfg)
     print(f"Collected {len(items)} items; source errors: {errors or 'none'}")
-    trends_file = out_dir / f"{today}-trends.json"
+    trends_file = out_dir / f"{run_id}-trends.json"
     trends_file.write_text(
         json.dumps({"items": items, "errors": errors}, indent=2, ensure_ascii=False)
     )
@@ -65,7 +71,7 @@ def main():
         if ai_notice not in tt_cap:
             plan["tiktok"]["caption"] = (tt_cap + f" ({ai_notice})").strip()
 
-    plan_json_file = out_dir / f"{today}-plan.json"
+    plan_json_file = out_dir / f"{run_id}-plan.json"
     plan_json_file.write_text(json.dumps(plan, indent=2, ensure_ascii=False))
 
     md = [
@@ -84,8 +90,12 @@ def main():
         "", "## TikTok", plan["tiktok"]["caption"], "",
         " ".join("#" + h.lstrip("#") for h in plan["tiktok"]["hashtags"])
     ]
-    plan_md_file = out_dir / f"{today}-plan.md"
+    plan_md_file = out_dir / f"{run_id}-plan.md"
     plan_md_file.write_text("\n".join(md))
+
+    # Also write latest-plan convenience copy
+    (out_dir / "latest-plan.json").write_text(json.dumps(plan, indent=2, ensure_ascii=False))
+    (out_dir / "latest-plan.md").write_text("\n".join(md))
 
     print(f"Saved plan to {plan_json_file} and {plan_md_file}")
     print("Done:", plan["video_title"])

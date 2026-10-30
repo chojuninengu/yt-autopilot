@@ -64,12 +64,42 @@ def reddit(subs, limit=10):
     return out
 
 
+def rss_feed(url, source_name, limit=10):
+    r = requests.get(url, headers=UA, timeout=TIMEOUT)
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    out = []
+    items = root.findall(".//item")
+    if not items:
+        ns = {"a": "http://www.w3.org/2005/Atom"}
+        for e in root.findall(".//a:entry", ns)[:limit]:
+            t = e.find("a:title", ns)
+            link = e.find("a:link", ns)
+            url_str = link.attrib.get("href", "") if link is not None else ""
+            if t is not None and t.text:
+                out.append({"source": source_name, "title": t.text.strip(), "url": url_str})
+        return out
+
+    for item in items[:limit]:
+        title = item.find("title")
+        link = item.find("link")
+        if title is not None and title.text:
+            out.append({
+                "source": source_name,
+                "title": title.text.strip(),
+                "url": link.text.strip() if link is not None and link.text else ""
+            })
+    return out
+
+
 def collect(cfg):
     items, errors = [], []
     jobs = [
-        ("hackernews", lambda: hacker_news(cfg["hn_limit"])),
-        ("google_trends", lambda: google_trends(cfg["google_trends_geo"], cfg["trends_limit"])),
-        ("reddit", lambda: reddit(cfg["reddit_subs"], cfg["reddit_limit"])),
+        ("hackernews", lambda: hacker_news(cfg.get("hn_limit", 15))),
+        ("techcrunch", lambda: rss_feed("https://techcrunch.com/feed/", "techcrunch", 10)),
+        ("bbc_world", lambda: rss_feed("https://feeds.bbci.co.uk/news/world/rss.xml", "bbc_world", 10)),
+        ("google_trends", lambda: google_trends(cfg.get("google_trends_geo", "US"), cfg.get("trends_limit", 15))),
+        ("reddit", lambda: reddit(cfg.get("reddit_subs", ["technology", "OutOfTheLoop"]), cfg.get("reddit_limit", 10))),
     ]
     for name, fn in jobs:
         try:

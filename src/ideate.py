@@ -18,25 +18,24 @@ URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generate
 
 VALID_MOTIONS = ["zoom_in", "zoom_out", "pan_left", "pan_right", "shake"]
 
-PROMPT = """You are the producer of a faceless short-video channel.
+PROMPT = """You are the executive producer of a fast-growing, highly credible short-form video channel.
 Channel niche: {niche}
 Language: {language}
 Target length: about {seconds} seconds (vertical 9:16).
 
-Here are today's trending items (JSON):
+Here are today's trending items and breaking headlines (JSON):
 {items}
 
-Do this:
-1. Pick the ONE item with the best viral potential for this niche.
-2. Explain the core idea: why is it trending, and what is the underlying hook?
-3. Create an ORIGINAL video concept about that idea. Do NOT copy the source's
-   text, images, or clips. Use commentary/explanation in your own words.
-4. Write the narration script (hook in the first 2 seconds, one clear payoff).
-5. Break it into scenes. For each scene provide:
-   - "narration": the spoken text for this scene
-   - "visual_keywords": 2-3 generic stock-footage search keywords (e.g. ["technology", "coding"])
-   - "image_prompt": what the 2D cartoon illustration shows in plain words. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands. Feature {character_name} ({character_desc}) when relevant.
-   - "motion": camera motion for this still, exactly one of: "zoom_in", "zoom_out", "pan_left", "pan_right", "shake"
+Guidelines:
+1. Pick the ONE item with the highest viral potential and immediate relevance to today's news.
+2. Maintain strict FACTUAL ACCURACY: Explain the real story truthfully based on the facts. Do NOT hallucinate false claims or misleading stats.
+3. Instant Hook: The opening sentence (first 2 seconds) MUST immediately grab attention, provoke curiosity, or highlight the stakes.
+4. Voice Pacing: Write narration that flows naturally for text-to-speech. Use clean, punchy sentences. Never use trailing ellipses ("..."). End sentences with clear punctuation (. or ?).
+5. Scene Structure: Break into 3-5 punchy scenes. For each scene provide:
+   - "narration": crisp, spoken commentary.
+   - "visual_keywords": 2-3 generic stock keywords.
+   - "image_prompt": vivid 2D cartoon illustration description (Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands. Feature {character_name}: {character_desc} when fitting).
+   - "motion": camera motion for this still, exactly one of: "zoom_in", "zoom_out", "pan_left", "pan_right", "shake".
 
 Return ONLY valid JSON with exactly these keys:
 {{

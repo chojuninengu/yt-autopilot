@@ -2,6 +2,7 @@
 import argparse
 import datetime
 import json
+import os
 import pathlib
 import sys
 
@@ -32,13 +33,47 @@ def parse_args():
     return parser.parse_args()
 
 
+def resolve_paths(custom_plan: str | None, custom_video: str | None, out_dir: pathlib.Path):
+    if custom_plan:
+        plan_path = pathlib.Path(custom_plan)
+    else:
+        run_id = os.environ.get("RUN_ID")
+        if run_id and (out_dir / f"{run_id}-plan.json").exists():
+            plan_path = out_dir / f"{run_id}-plan.json"
+        else:
+            candidates = [p for p in out_dir.glob("*-plan.json") if p.name != "latest-plan.json"]
+            if candidates:
+                candidates.sort(key=lambda p: p.stat().st_mtime, reverse=True)
+                plan_path = candidates[0]
+            elif (out_dir / "latest-plan.json").exists():
+                plan_path = out_dir / "latest-plan.json"
+            else:
+                today = datetime.date.today().isoformat()
+                plan_path = out_dir / f"{today}-plan.json"
+
+    if custom_video:
+        video_path = pathlib.Path(custom_video)
+    else:
+        # Match the plan prefix if possible
+        if plan_path.name.endswith("-plan.json") and plan_path.name != "latest-plan.json":
+            prefix = plan_path.name.replace("-plan.json", "")
+            video_path = out_dir / f"{prefix}-video.mp4"
+        else:
+            candidates = sorted(out_dir.glob("*-video.mp4"), key=lambda p: p.stat().st_mtime, reverse=True)
+            if candidates:
+                video_path = candidates[0]
+            else:
+                today = datetime.date.today().isoformat()
+                video_path = out_dir / f"{today}-video.mp4"
+
+    return plan_path, video_path
+
+
 def main():
     args = parse_args()
-    today = datetime.date.today().isoformat()
     out_dir = ROOT / "output"
 
-    plan_path = pathlib.Path(args.plan) if args.plan else out_dir / f"{today}-plan.json"
-    video_path = pathlib.Path(args.video) if args.video else out_dir / f"{today}-video.mp4"
+    plan_path, video_path = resolve_paths(args.plan, args.video, out_dir)
 
     if not plan_path.exists():
         sys.exit(f"Plan file not found: {plan_path}. Run Phase 1 first.")
