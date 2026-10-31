@@ -1,0 +1,82 @@
+{
+  "picked_trend": "The $6.3B Binance hack was pulled off in just 20 minutes",
+  "why_viral": "The hack is viral due to its colossal scale ($6.3 billion), the incredibly short time it took (20 minutes), and the involvement of a state-sponsored hacking group (North Korea's Lazarus Group). It highlights a significant vulnerability in the crypto world and has major geopolitical implications, making it a high-stakes, globally relevant story.",
+  "core_idea": "The core idea is to explain how a state-sponsored entity, likely North Korea's Lazarus Group, executed one of the largest and fastest cryptocurrency heists in history against Binance, stealing $6.3 billion in just 20 minutes by exploiting a blockchain bridge vulnerability, underscoring the advanced threats in the digital economy.",
+  "video_title": "The 20-Minute Binance Heist: North Korea's $6.3 Billion Crypto Hack",
+  "script": "Imagine losing $6.3 billion in just 20 minutes. That's what happened to crypto giant Binance in one of history's largest digital heists. This wasn't some amateur job; it was a sophisticated attack with geopolitical ties. Binance, one of the world's biggest cryptocurrency exchanges, became the target. The attackers exploited a vulnerability in a bridge connecting different blockchain networks, giving them access to a massive pool of funds. Who's behind this audacious crime? Evidence strongly points to North Korea’s notorious Lazarus Group. Known for state-sponsored cyber warfare, they fund their nation's programs through these massive digital robberies. The speed was astonishing: $6.3 billion vanished in just 20 minutes. While Binance is working to recover the funds, this incident is a stark reminder of the sophisticated threats facing our digital economy. No system is truly impenetrable.",
+  "scenes": [
+    {
+      "narration": "Imagine losing $6.3 billion in just 20 minutes. That's what happened to crypto giant Binance in one of history's largest digital heists. This wasn't some amateur job; it was a sophisticated attack with geopolitical ties.",
+      "visual_keywords": [
+        "Digital theft",
+        "Falling money",
+        "Ticking clock"
+      ],
+      "image_prompt": "A dramatic 2D cartoon of generic digital currency (represented by abstract coin icons) rapidly draining from a large, glowing vault shaped like a 'B' logo (no actual letters, just the shape). A large, ominous timer with '00:20:00' counting down is prominently displayed. Pip, looking concerned, stands next to the vault.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Binance, one of the world's biggest cryptocurrency exchanges, became the target. The attackers exploited a vulnerability in a bridge connecting different blockchain networks, giving them access to a massive pool of funds.",
+      "visual_keywords": [
+        "Blockchain bridge",
+        "Network diagram",
+        "Digital lock"
+      ],
+      "image_prompt": "A 2D cartoon showing a stylized 'bridge' made of digital blocks connecting two glowing abstract blockchain networks. One side of the bridge has a visible 'crack' or 'breach' through which generic currency symbols are flowing away into the distance. Pip points to the crack with a worried expression.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Who's behind this audacious crime? Evidence strongly points to North Korea’s notorious Lazarus Group. Known for state-sponsored cyber warfare, they fund their nation's programs through these massive digital robberies.",
+      "visual_keywords": [
+        "Shadowy figures",
+        "Hacking",
+        "Cyber warfare"
+      ],
+      "image_prompt": "A 2D cartoon featuring a shadowy, cloaked figure with glowing red eyes, representing a hacker, standing in front of a digital map showing connections to various global locations. The figure holds a generic stylized 'key' or 'data fragment.' Pip observes from a safe distance, looking intimidated.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "The speed was astonishing: $6.3 billion vanished in just 20 minutes. While Binance is working to recover the funds, this incident is a stark reminder of the sophisticated threats facing our digital economy. No system is truly impenetrable.",
+      "visual_keywords": [
+        "Data recovery",
+        "Broken shield",
+        "Global impact"
+      ],
+      "image_prompt": "A 2D cartoon depicting a broken digital shield, with generic currency symbols scattered around it. In the background, Pip and a team of small, generic helper robots are working diligently on glowing data streams, trying to pull currency symbols back towards the shield.",
+      "motion": "shake",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The $6.3 Billion Binance Heist: North Korea's 20-Minute Crypto Hack",
+    "description": "Discover how North Korea's Lazarus Group allegedly pulled off one of the largest crypto heists in history, stealing $6.3 billion from Binance in a mere 20 minutes. We break down the vulnerability, the perpetrators, and the shocking speed of this state-sponsored cyber attack. Learn what this means for digital security and the global crypto market.\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#BinanceHack",
+      "#CryptoSecurity",
+      "#NorthKorea",
+      "#LazarusGroup",
+      "#CyberAttack",
+      "#Blockchain",
+      "#DigitalHeist",
+      "#CyberCrime",
+      "#Web3Security",
+      "#TrendingNews"
+    ]
+  },
+  "tiktok": {
+    "caption": "Can you imagine $6.3 BILLION gone in 20 minutes? 🤯 That's the Binance hack story! North Korea's Lazarus Group is linked to this massive crypto heist. Here's why it's trending. #Binance #Crypto #Hacking (Visuals generated with AI.)",
+    "hashtags": [
+      "#BinanceHack",
+      "#CryptoNews",
+      "#NorthKorea",
+      "#LazarusGroup",
+      "#CyberSecurity",
+      "#TechTrends",
+      "#Shorts",
+      "#Explainers"
+    ]
+  }
+}

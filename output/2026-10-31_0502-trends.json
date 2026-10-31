@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "score": 132,
+      "url": "https://tng.episodle.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "score": 845,
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "score": 133,
+      "url": "https://github.com/chris124567/cfsolve"
+    },
+    {
+      "source": "hackernews",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "score": 271,
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: Scribd Breached",
+      "score": 89,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Northflank Breached",
+      "score": 394,
+      "url": "https://status.northflank.com"
+    },
+    {
+      "source": "hackernews",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "score": 382,
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Breaking the open web won't stop the bad bots",
+      "score": 222,
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "score": 220,
+      "url": "https://github.com/dbreunig/nesformer"
+    },
+    {
+      "source": "hackernews",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "score": 117,
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+      "score": 47,
+      "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e"
+    },
+    {
+      "source": "hackernews",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "score": 95,
+      "url": "https://www.firezone.dev/blog/introducing-sanstun"
+    },
+    {
+      "source": "hackernews",
+      "title": "Infinite Mac: BeOS",
+      "score": 128,
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Double Buffering with Cloudflare Queues",
+      "score": 11,
+      "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues"
+    },
+    {
+      "source": "hackernews",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "score": 234,
+      "url": "https://github.com/kevinraymond/florilegium"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "eng vs ind",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "fairfield shooting",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "las vegas flooding",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "federal emergency management agency",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "stephen curry",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "steph curry",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "austin reaves",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "la granja vip",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "earthquake",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dominique wilkins",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/memes",
+      "title": "You’re also muted for 28 days now"
+    },
+    {
+      "source": "r/memes",
+      "title": "The world according to Sam Altman"
+    },
+    {
+      "source": "r/memes",
+      "title": "Don't do what I do, do what the handbook says"
+    },
+    {
+      "source": "r/memes",
+      "title": "Hidetaka Miyazaki"
+    },
+    {
+      "source": "r/memes",
+      "title": "The sweet taste of reality"
+    },
+    {
+      "source": "r/memes",
+      "title": "20 years ago, the gaming world changed forever and not for the better"
+    },
+    {
+      "source": "r/memes",
+      "title": "just pick one already"
+    },
+    {
+      "source": "r/memes",
+      "title": "Throughout the day under the blazing sun"
+    },
+    {
+      "source": "r/memes",
+      "title": "When the lyrics of a song take on a whole new meaning:"
+    },
+    {
+      "source": "r/memes",
+      "title": "Please help out a normie."
+    }
+  ],
+  "errors": []
+}
