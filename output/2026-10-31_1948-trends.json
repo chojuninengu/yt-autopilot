@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "score": 47,
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Duty of a Scholar",
+      "score": 22,
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "It's the Memory Latency, Stupid",
+      "score": 17,
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "score": 258,
+      "url": "https://piefed.world/post/1503394"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "score": 100,
+      "url": "https://jepsen.io/analyses/particledb-1.1.4"
+    },
+    {
+      "source": "hackernews",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "score": 270,
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
+    {
+      "source": "hackernews",
+      "title": "Redox: Ring Buffers Project Summary",
+      "score": 29,
+      "url": "https://www.redox-os.org/news/nlnet-rb-summary/"
+    },
+    {
+      "source": "hackernews",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 7,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "score": 23,
+      "url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack"
+    },
+    {
+      "source": "hackernews",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "score": 6,
+      "url": "https://florianwilhelm.info/2026/10/sentinel_values/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Casio Watches of the 1980s",
+      "score": 156,
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "score": 15,
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I post trained a model on Demoscenes",
+      "score": 25,
+      "url": "https://datavorous.com/writing/demoscener/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Simple circuits can create complex behaviors",
+      "score": 164,
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/"
+    },
+    {
+      "source": "hackernews",
+      "title": "William Nordhaus has died",
+      "score": 19,
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "michael olise",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "billy napier",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "psv vs willem ii",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lsu vs alabama",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "south carolina vs oklahoma",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "purdue vs penn state",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nevada vs ucla",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "brian fariñas",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "syracuse",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "umd football",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Don't do what I do, do what the handbook says"
+    },
+    {
+      "source": "r/memes",
+      "title": "Hidetaka Miyazaki"
+    },
+    {
+      "source": "r/memes",
+      "title": "it's not a coincidence..."
+    },
+    {
+      "source": "r/memes",
+      "title": "Throughout the day under the blazing sun"
+    },
+    {
+      "source": "r/memes",
+      "title": "Poor little guy"
+    },
+    {
+      "source": "r/memes",
+      "title": "Mine mine mine"
+    },
+    {
+      "source": "r/memes",
+      "title": "Please help out a normie."
+    },
+    {
+      "source": "r/memes",
+      "title": "Ipad kids."
+    },
+    {
+      "source": "r/memes",
+      "title": "I was just curious."
+    },
+    {
+      "source": "r/memes",
+      "title": "Very unique experience"
+    }
+  ],
+  "errors": []
+}

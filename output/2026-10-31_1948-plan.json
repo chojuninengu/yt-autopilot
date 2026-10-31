@@ -1,0 +1,93 @@
+{
+  "picked_trend": "ChatGPT Account Takeover Vulnerability",
+  "why_viral": "This trend is highly viral because ChatGPT is a globally used AI platform, and news of a critical security vulnerability, especially one allowing account takeovers, directly impacts millions of users' trust and data security. The 'how we took over' narrative also creates significant intrigue and concern.",
+  "core_idea": "The core idea is to explain a recently discovered critical security vulnerability in ChatGPT that allowed unauthorized access to user accounts by exploiting a flaw in session token handling, and to emphasize the importance of user vigilance and security measures.",
+  "video_title": "ChatGPT HACKED? The Account Takeover EXPLAINED!",
+  "script": "Your ChatGPT account could have been secretly taken over. A critical new exploit just exposed millions of users to potential data theft. Security researchers found a flaw in OpenAI’s system. It wasn't a password guess, but a gap in how account session tokens were handled. Attackers could trick the system, gaining access to your active session. This bypassed your password entirely, giving them full control. This vulnerability exposed chat history, personal data, and even payment info. Imagine strangers reading your private AI conversations. OpenAI has patched it. But remember: use strong, unique passwords and enable two-factor authentication to protect your digital life.",
+  "scenes": [
+    {
+      "narration": "Your ChatGPT account could have been secretly taken over. A critical new exploit just exposed millions of users to potential data theft.",
+      "visual_keywords": [
+        "account",
+        "takeover",
+        "vulnerability"
+      ],
+      "image_prompt": "A worried cartoon user icon (generic, no face) looking at a locked computer screen, with a digital padlock icon partially open. Pip peeking from behind the screen looking concerned. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Security researchers found a flaw in OpenAI’s system. It wasn't a password guess, but a gap in how account session tokens were handled.",
+      "visual_keywords": [
+        "security",
+        "exploit",
+        "session"
+      ],
+      "image_prompt": "A stylized, abstract network of glowing lines and nodes, with one connection line visibly broken or interrupted. A small, simplified icon of a 'session token' (like a key or badge) is falling through the gap. Pip is trying to bridge the gap with a wrench. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Attackers could trick the system, gaining access to your active session. This bypassed your password entirely, giving them full control.",
+      "visual_keywords": [
+        "unauthorized",
+        "access",
+        "bypass"
+      ],
+      "image_prompt": "A digital ghost-like figure (no identifiable features) slipping past a cartoon bouncer (generic, no face) guarding a door labeled 'AI Account'. The bouncer is looking the other way. Pip is holding a magnifying glass, observing the ghost. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This vulnerability exposed chat history, personal data, and even payment info. Imagine strangers reading your private AI conversations.",
+      "visual_keywords": [
+        "data",
+        "privacy",
+        "exposure"
+      ],
+      "image_prompt": "A thought bubble over a generic person's head filled with digital data icons (text documents, dollar signs, contact cards), with a shadowy, stylized hand reaching into the bubble. Pip is trying to swat the hand away. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "OpenAI has patched it. But remember: use strong, unique passwords and enable two-factor authentication to protect your digital life.",
+      "visual_keywords": [
+        "protection",
+        "security",
+        "2FA"
+      ],
+      "image_prompt": "A cartoon shield icon glowing, with two-factor authentication symbols (two circles with checkmarks) and a strong padlock symbol. Pip is standing proudly in front of the shield. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "ChatGPT HACKED? The Account Takeover EXPLAINED!",
+    "description": "Breaking down the recent ChatGPT account takeover vulnerability! Security researchers discovered a critical flaw that allowed unauthorized access to millions of user accounts. Learn how the exploit worked, what data was at risk, and crucial steps you can take to protect your digital privacy. Stay informed, stay secure!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#ChatGPT",
+      "#OpenAI",
+      "#CyberSecurity",
+      "#AccountTakeover",
+      "#TechNews",
+      "#AI",
+      "#DataPrivacy",
+      "#Vulnerability",
+      "#Shorts",
+      "#Explainer"
+    ]
+  },
+  "tiktok": {
+    "caption": "Your ChatGPT account was at risk! 🚨 Hackers found a critical flaw allowing full access. Here's how it worked & how to stay safe! #ChatGPT #SecurityBreach #AI #Hack #TechNews (Visuals generated with AI.)",
+    "hashtags": [
+      "#ChatGPT",
+      "#SecurityBreach",
+      "#AI",
+      "#Hack",
+      "#TechNews",
+      "#Cybersecurity",
+      "#Privacy",
+      "#DigitalSafety"
+    ]
+  }
+}

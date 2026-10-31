@@ -1,78 +1,88 @@
 {
-  "picked_trend": "The $6.3B Binance hack was pulled off in just 20 minutes",
-  "why_viral": "The hack is viral due to its colossal scale ($6.3 billion), the incredibly short time it took (20 minutes), and the involvement of a state-sponsored hacking group (North Korea's Lazarus Group). It highlights a significant vulnerability in the crypto world and has major geopolitical implications, making it a high-stakes, globally relevant story.",
-  "core_idea": "The core idea is to explain how a state-sponsored entity, likely North Korea's Lazarus Group, executed one of the largest and fastest cryptocurrency heists in history against Binance, stealing $6.3 billion in just 20 minutes by exploiting a blockchain bridge vulnerability, underscoring the advanced threats in the digital economy.",
-  "video_title": "The 20-Minute Binance Heist: North Korea's $6.3 Billion Crypto Hack",
-  "script": "Imagine losing $6.3 billion in just 20 minutes. That's what happened to crypto giant Binance in one of history's largest digital heists. This wasn't some amateur job; it was a sophisticated attack with geopolitical ties. Binance, one of the world's biggest cryptocurrency exchanges, became the target. The attackers exploited a vulnerability in a bridge connecting different blockchain networks, giving them access to a massive pool of funds. Who's behind this audacious crime? Evidence strongly points to North Korea’s notorious Lazarus Group. Known for state-sponsored cyber warfare, they fund their nation's programs through these massive digital robberies. The speed was astonishing: $6.3 billion vanished in just 20 minutes. While Binance is working to recover the funds, this incident is a stark reminder of the sophisticated threats facing our digital economy. No system is truly impenetrable.",
+  "picked_trend": "ChatGPT Account Takeover Vulnerability",
+  "why_viral": "This trend is highly viral because ChatGPT is a globally used AI platform, and news of a critical security vulnerability, especially one allowing account takeovers, directly impacts millions of users' trust and data security. The 'how we took over' narrative also creates significant intrigue and concern.",
+  "core_idea": "The core idea is to explain a recently discovered critical security vulnerability in ChatGPT that allowed unauthorized access to user accounts by exploiting a flaw in session token handling, and to emphasize the importance of user vigilance and security measures.",
+  "video_title": "ChatGPT HACKED? The Account Takeover EXPLAINED!",
+  "script": "Your ChatGPT account could have been secretly taken over. A critical new exploit just exposed millions of users to potential data theft. Security researchers found a flaw in OpenAI’s system. It wasn't a password guess, but a gap in how account session tokens were handled. Attackers could trick the system, gaining access to your active session. This bypassed your password entirely, giving them full control. This vulnerability exposed chat history, personal data, and even payment info. Imagine strangers reading your private AI conversations. OpenAI has patched it. But remember: use strong, unique passwords and enable two-factor authentication to protect your digital life.",
   "scenes": [
     {
-      "narration": "Imagine losing $6.3 billion in just 20 minutes. That's what happened to crypto giant Binance in one of history's largest digital heists. This wasn't some amateur job; it was a sophisticated attack with geopolitical ties.",
+      "narration": "Your ChatGPT account could have been secretly taken over. A critical new exploit just exposed millions of users to potential data theft.",
       "visual_keywords": [
-        "Digital theft",
-        "Falling money",
-        "Ticking clock"
+        "account",
+        "takeover",
+        "vulnerability"
       ],
-      "image_prompt": "A dramatic 2D cartoon of generic digital currency (represented by abstract coin icons) rapidly draining from a large, glowing vault shaped like a 'B' logo (no actual letters, just the shape). A large, ominous timer with '00:20:00' counting down is prominently displayed. Pip, looking concerned, stands next to the vault.",
+      "image_prompt": "A worried cartoon user icon (generic, no face) looking at a locked computer screen, with a digital padlock icon partially open. Pip peeking from behind the screen looking concerned. Vertical 9:16, 2D cartoon style, no text or brands.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Binance, one of the world's biggest cryptocurrency exchanges, became the target. The attackers exploited a vulnerability in a bridge connecting different blockchain networks, giving them access to a massive pool of funds.",
+      "narration": "Security researchers found a flaw in OpenAI’s system. It wasn't a password guess, but a gap in how account session tokens were handled.",
       "visual_keywords": [
-        "Blockchain bridge",
-        "Network diagram",
-        "Digital lock"
+        "security",
+        "exploit",
+        "session"
       ],
-      "image_prompt": "A 2D cartoon showing a stylized 'bridge' made of digital blocks connecting two glowing abstract blockchain networks. One side of the bridge has a visible 'crack' or 'breach' through which generic currency symbols are flowing away into the distance. Pip points to the crack with a worried expression.",
+      "image_prompt": "A stylized, abstract network of glowing lines and nodes, with one connection line visibly broken or interrupted. A small, simplified icon of a 'session token' (like a key or badge) is falling through the gap. Pip is trying to bridge the gap with a wrench. Vertical 9:16, 2D cartoon style, no text or brands.",
       "motion": "pan_right"
     },
     {
-      "narration": "Who's behind this audacious crime? Evidence strongly points to North Korea’s notorious Lazarus Group. Known for state-sponsored cyber warfare, they fund their nation's programs through these massive digital robberies.",
+      "narration": "Attackers could trick the system, gaining access to your active session. This bypassed your password entirely, giving them full control.",
       "visual_keywords": [
-        "Shadowy figures",
-        "Hacking",
-        "Cyber warfare"
+        "unauthorized",
+        "access",
+        "bypass"
       ],
-      "image_prompt": "A 2D cartoon featuring a shadowy, cloaked figure with glowing red eyes, representing a hacker, standing in front of a digital map showing connections to various global locations. The figure holds a generic stylized 'key' or 'data fragment.' Pip observes from a safe distance, looking intimidated.",
+      "image_prompt": "A digital ghost-like figure (no identifiable features) slipping past a cartoon bouncer (generic, no face) guarding a door labeled 'AI Account'. The bouncer is looking the other way. Pip is holding a magnifying glass, observing the ghost. Vertical 9:16, 2D cartoon style, no text or brands.",
       "motion": "zoom_out"
     },
     {
-      "narration": "The speed was astonishing: $6.3 billion vanished in just 20 minutes. While Binance is working to recover the funds, this incident is a stark reminder of the sophisticated threats facing our digital economy. No system is truly impenetrable.",
+      "narration": "This vulnerability exposed chat history, personal data, and even payment info. Imagine strangers reading your private AI conversations.",
       "visual_keywords": [
-        "Data recovery",
-        "Broken shield",
-        "Global impact"
+        "data",
+        "privacy",
+        "exposure"
       ],
-      "image_prompt": "A 2D cartoon depicting a broken digital shield, with generic currency symbols scattered around it. In the background, Pip and a team of small, generic helper robots are working diligently on glowing data streams, trying to pull currency symbols back towards the shield.",
-      "motion": "shake"
+      "image_prompt": "A thought bubble over a generic person's head filled with digital data icons (text documents, dollar signs, contact cards), with a shadowy, stylized hand reaching into the bubble. Pip is trying to swat the hand away. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "pan_left"
+    },
+    {
+      "narration": "OpenAI has patched it. But remember: use strong, unique passwords and enable two-factor authentication to protect your digital life.",
+      "visual_keywords": [
+        "protection",
+        "security",
+        "2FA"
+      ],
+      "image_prompt": "A cartoon shield icon glowing, with two-factor authentication symbols (two circles with checkmarks) and a strong padlock symbol. Pip is standing proudly in front of the shield. Vertical 9:16, 2D cartoon style, no text or brands.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The $6.3 Billion Binance Heist: North Korea's 20-Minute Crypto Hack",
-    "description": "Discover how North Korea's Lazarus Group allegedly pulled off one of the largest crypto heists in history, stealing $6.3 billion from Binance in a mere 20 minutes. We break down the vulnerability, the perpetrators, and the shocking speed of this state-sponsored cyber attack. Learn what this means for digital security and the global crypto market.\n\nVisuals generated with AI.",
+    "title": "ChatGPT HACKED? The Account Takeover EXPLAINED!",
+    "description": "Breaking down the recent ChatGPT account takeover vulnerability! Security researchers discovered a critical flaw that allowed unauthorized access to millions of user accounts. Learn how the exploit worked, what data was at risk, and crucial steps you can take to protect your digital privacy. Stay informed, stay secure!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#BinanceHack",
-      "#CryptoSecurity",
-      "#NorthKorea",
-      "#LazarusGroup",
-      "#CyberAttack",
-      "#Blockchain",
-      "#DigitalHeist",
-      "#CyberCrime",
-      "#Web3Security",
-      "#TrendingNews"
+      "#ChatGPT",
+      "#OpenAI",
+      "#CyberSecurity",
+      "#AccountTakeover",
+      "#TechNews",
+      "#AI",
+      "#DataPrivacy",
+      "#Vulnerability",
+      "#Shorts",
+      "#Explainer"
     ]
   },
   "tiktok": {
-    "caption": "Can you imagine $6.3 BILLION gone in 20 minutes? 🤯 That's the Binance hack story! North Korea's Lazarus Group is linked to this massive crypto heist. Here's why it's trending. #Binance #Crypto #Hacking (Visuals generated with AI.)",
+    "caption": "Your ChatGPT account was at risk! 🚨 Hackers found a critical flaw allowing full access. Here's how it worked & how to stay safe! #ChatGPT #SecurityBreach #AI #Hack #TechNews (Visuals generated with AI.)",
     "hashtags": [
-      "#BinanceHack",
-      "#CryptoNews",
-      "#NorthKorea",
-      "#LazarusGroup",
-      "#CyberSecurity",
-      "#TechTrends",
-      "#Shorts",
-      "#Explainers"
+      "#ChatGPT",
+      "#SecurityBreach",
+      "#AI",
+      "#Hack",
+      "#TechNews",
+      "#Cybersecurity",
+      "#Privacy",
+      "#DigitalSafety"
     ]
   }
 }
