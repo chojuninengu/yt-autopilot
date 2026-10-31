@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 164,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 135,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+    },
+    {
+      "source": "hackernews",
+      "title": "It's the Memory Latency, Stupid",
+      "score": 51,
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Duty of a Scholar",
+      "score": 55,
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "score": 114,
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    },
+    {
+      "source": "hackernews",
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "score": 5,
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "score": 25,
+      "url": "https://github.com/kerlenton/bootgpt"
+    },
+    {
+      "source": "hackernews",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "score": 275,
+      "url": "https://piefed.world/post/1503394"
+    },
+    {
+      "source": "hackernews",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "score": 22,
+      "url": "https://florianwilhelm.info/2026/10/sentinel_values/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "score": 133,
+      "url": "https://jepsen.io/analyses/particledb-1.1.4"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "score": 18,
+      "url": "https://epoyraz.github.io/nes-contra-us/"
+    },
+    {
+      "source": "hackernews",
+      "title": "William Nordhaus has died",
+      "score": 36,
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale"
+    },
+    {
+      "source": "hackernews",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "score": 285,
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
+    {
+      "source": "hackernews",
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "score": 8,
+      "url": "https://oqtadrive.org/10.other/5-years/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Distributed Proofreaders",
+      "score": 4,
+      "url": "https://www.pgdp.net/c/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "76ers vs hornets",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tim tebow",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "owen wilson",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "blippi",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "it",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "joe kropschot",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jeongyeong lee",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "talita alencar",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "austin vs la galaxy",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "barca game",
+      "traffic": "2000+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Don't do what I do, do what the handbook says"
+    },
+    {
+      "source": "r/memes",
+      "title": "it's not a coincidence..."
+    },
+    {
+      "source": "r/memes",
+      "title": "Throughout the day under the blazing sun"
+    },
+    {
+      "source": "r/memes",
+      "title": "Poor little guy"
+    },
+    {
+      "source": "r/memes",
+      "title": "Mine mine mine"
+    },
+    {
+      "source": "r/memes",
+      "title": "Ipad kids."
+    },
+    {
+      "source": "r/memes",
+      "title": "I was just curious."
+    },
+    {
+      "source": "r/memes",
+      "title": "Please help out a normie."
+    },
+    {
+      "source": "r/memes",
+      "title": "Very unique experience"
+    },
+    {
+      "source": "r/memes",
+      "title": "Life of a tall guy"
+    }
+  ],
+  "errors": []
+}
