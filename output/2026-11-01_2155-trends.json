@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "score": 650,
+      "url": "https://hackerbooks.org"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
+      "score": 52,
+      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/"
+    },
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 2097,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 35,
+      "url": "https://github.com/raphlinus/nibnib"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mathematics has changed. Let's act like it",
+      "score": 139,
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "score": 32,
+      "url": "https://nullprogram.com/blog/2025/02/05/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "score": 100,
+      "url": "https://tibleiz.net/copper/"
+    },
+    {
+      "source": "hackernews",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "score": 5,
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm"
+    },
+    {
+      "source": "hackernews",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "score": 728,
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 92,
+      "url": "https://arxiv.org/abs/2610.39302"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "score": 328,
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Novellas with Groff",
+      "score": 95,
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "score": 97,
+      "url": "https://github.com/ivankovic/omnidiff"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bidirectional charging during grid outages",
+      "score": 71,
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages"
+    },
+    {
+      "source": "hackernews",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "score": 112,
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nfl",
+      "traffic": "200000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "rashee rice",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jerry jones",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "brian schottenheimer",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "avión",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nfl rankings",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nfl playoff picture",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kingsley suamataia",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "christian parker",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "orlando pride vs seattle reign fc",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Kiss your ram"
+    },
+    {
+      "source": "r/memes",
+      "title": "Y'all forgot to ask him!"
+    },
+    {
+      "source": "r/memes",
+      "title": "Don't be selfish"
+    },
+    {
+      "source": "r/memes",
+      "title": "Go ahead...Take it from me."
+    },
+    {
+      "source": "r/memes",
+      "title": "Hope I dont get jumped for my 32gb"
+    },
+    {
+      "source": "r/memes",
+      "title": "Give it to us RAM and wriggling"
+    },
+    {
+      "source": "r/memes",
+      "title": "Quite understandable"
+    },
+    {
+      "source": "r/memes",
+      "title": "Its already true"
+    },
+    {
+      "source": "r/memes",
+      "title": "Fusion ha!"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's all for RAM and RAM's for all!"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,88 @@
+{
+  "picked_trend": "HackerTube: YouTube built from videos recommended by HN",
+  "why_viral": "HackerTube is trending because it offers a fresh, community-driven alternative to mainstream algorithmic content platforms. It appeals to users fatigued by generic recommendations and seeking higher quality, more relevant content curated by a discerning tech-savvy community like Hacker News. It represents a shift towards leveraging collective intelligence for content discovery.",
+  "core_idea": "The core idea behind HackerTube is to leverage collective intelligence and community curation to surface high-quality, relevant video content, bypassing traditional algorithmic biases. It aims to create a niche, curated video platform where genuine interest and technical insight drive discovery, promoting depth over mass virality.",
+  "video_title": "Why 'HackerTube' is Trending: A New Way to Watch Videos Online",
+  "script": "Tired of endless algorithmic scrolls and clickbait on YouTube? What if there was a version built by the internet's sharpest minds? Enter HackerTube, the trending project that's exactly what it sounds like. It's YouTube, but every video is recommended by the famously discerning Hacker News community. Why is this blowing up? It’s a rebellion against generic algorithms. HackerTube offers a platform where quality, technical insight, and genuine interest trump mass appeal, bringing niche gold to the surface. It’s not just videos. HackerBooks, a similar concept for books, is also gaining traction. This trend shows a powerful desire for community-driven curation in an ocean of digital noise. Are you ready to dive into content curated by the crowd, not just clicks? HackerTube is pioneering a new way to discover what truly matters online.",
+  "scenes": [
+    {
+      "narration": "Tired of endless algorithmic scrolls and clickbait on YouTube? What if there was a version built by the internet's sharpest minds?",
+      "visual_keywords": [
+        "algorithms",
+        "content overload",
+        "curated feed"
+      ],
+      "image_prompt": "Vertical 9:16. Pip, a small energetic blue robot, looking overwhelmed by a chaotic waterfall of generic, undefined digital content blocks. Behind it, a faint, organized grid appears. NO text, NO brands, NO real people.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Enter HackerTube, the trending project that's exactly what it sounds like. It's YouTube, but every video is recommended by the famously discerning Hacker News community.",
+      "visual_keywords": [
+        "community",
+        "curation",
+        "tech content"
+      ],
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, standing proudly next to a large digital screen displaying various generic video thumbnails (no brands, no recognizable figures). Above the screen, a thought bubble shows a diverse group of stylized, anonymous avatars 'voting' on content. NO text, NO brands, NO real people.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Why is this blowing up? It’s a rebellion against generic algorithms. HackerTube offers a platform where quality, technical insight, and genuine interest trump mass appeal, bringing niche gold to the surface.",
+      "visual_keywords": [
+        "discovery",
+        "niche",
+        "quality over quantity"
+      ],
+      "image_prompt": "Vertical 9:16. A simplified, stylized 'algorithm monster' (a tangle of wires and abstract shapes) being pushed aside by Pip, the energetic blue robot, who is pointing towards a glowing, elegant 'discovery pathway' leading to a treasure chest of knowledge. NO text, NO brands, NO real people.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "It’s not just videos. HackerBooks, a similar concept for books, is also gaining traction. This trend shows a powerful desire for community-driven curation in an ocean of digital noise.",
+      "visual_keywords": [
+        "collective intelligence",
+        "information overload",
+        "future of content"
+      ],
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, standing on a floating island of books and video screens. Above, stylized thought bubbles connect to a central glowing network, symbolizing collective intelligence. Below, a vast, undifferentiated sea of generic data. NO text, NO brands, NO real people.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "Are you ready to dive into content curated by the crowd, not just clicks? HackerTube is pioneering a new way to discover what truly matters online.",
+      "visual_keywords": [
+        "innovation",
+        "new experience",
+        "curated future"
+      ],
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, with an enthusiastic expression, gesturing towards a bright, inviting portal labeled with a generic 'play' icon. The background is clean and futuristic. NO text, NO brands, NO real people.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "HackerTube Explained: Why Community Curation is the Future of Video",
+    "description": "Tired of endless algorithmic feeds? Discover HackerTube, the trending project born from the Hacker News community. It's a YouTube where quality and genuine interest come first, curated by collective intelligence. Learn why this innovative platform is gaining massive attention and what it means for the future of online content discovery. #HackerTube #TechTrends #ContentCuration #CommunityPower #FutureOfVideo\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#HackerTube",
+      "#TechTrends",
+      "#ContentCuration",
+      "#CommunityPower",
+      "#FutureOfVideo",
+      "#HackerNews",
+      "#ViralTech"
+    ]
+  },
+  "tiktok": {
+    "caption": "Is this the future of YouTube? 👀 HackerTube is blowing up for a reason! Get ready for videos curated by the internet's sharpest minds, not just algorithms. (Visuals generated with AI.)",
+    "hashtags": [
+      "#HackerTube",
+      "#TechTok",
+      "#ViralTech",
+      "#ContentDiscovery",
+      "#NoAlgorithms",
+      "#HackerNews"
+    ]
+  }
+}

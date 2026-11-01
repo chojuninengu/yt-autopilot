@@ -1,88 +1,83 @@
 {
-  "picked_trend": "An Italian farmer found some unknown seeds in his attic and planted them",
-  "why_viral": "The story is a captivating blend of mystery, human interest, and natural wonder. The idea of ancient seeds blooming into a 'biblical' harvest is inherently intriguing and universally appealing, sparking curiosity about nature's resilience and the unexpected treasures hidden in plain sight.",
-  "core_idea": "A farmer's accidental discovery of ancient, dormant seeds leads to the unexpected revival of a forgotten plant variety, showcasing nature's enduring power and the incredible stories waiting to be unearthed.",
-  "video_title": "Mystery Seeds: The Farmer's Ancient Harvest",
-  "script": "An Italian farmer found ancient, unknown seeds in his attic. He planted them, and the results are truly astounding! Dario found these peculiar seeds in his grandparent's old house. They looked alien. With nothing to lose, he planted them. Weeks later, something incredible sprouted. Plants grew enormous, towering ten feet tall. They bore massive, unusual melons, unlike any cultivated today. Experts were baffled by this mysterious crop. The plants were identified as a nearly forgotten, ancient melon variety, dormant for over a century! A true testament to nature's resilience.",
+  "picked_trend": "HackerTube: YouTube built from videos recommended by HN",
+  "why_viral": "HackerTube is trending because it offers a fresh, community-driven alternative to mainstream algorithmic content platforms. It appeals to users fatigued by generic recommendations and seeking higher quality, more relevant content curated by a discerning tech-savvy community like Hacker News. It represents a shift towards leveraging collective intelligence for content discovery.",
+  "core_idea": "The core idea behind HackerTube is to leverage collective intelligence and community curation to surface high-quality, relevant video content, bypassing traditional algorithmic biases. It aims to create a niche, curated video platform where genuine interest and technical insight drive discovery, promoting depth over mass virality.",
+  "video_title": "Why 'HackerTube' is Trending: A New Way to Watch Videos Online",
+  "script": "Tired of endless algorithmic scrolls and clickbait on YouTube? What if there was a version built by the internet's sharpest minds? Enter HackerTube, the trending project that's exactly what it sounds like. It's YouTube, but every video is recommended by the famously discerning Hacker News community. Why is this blowing up? It’s a rebellion against generic algorithms. HackerTube offers a platform where quality, technical insight, and genuine interest trump mass appeal, bringing niche gold to the surface. It’s not just videos. HackerBooks, a similar concept for books, is also gaining traction. This trend shows a powerful desire for community-driven curation in an ocean of digital noise. Are you ready to dive into content curated by the crowd, not just clicks? HackerTube is pioneering a new way to discover what truly matters online.",
   "scenes": [
     {
-      "narration": "An Italian farmer found ancient, unknown seeds in his attic. He planted them, and the results are truly astounding!",
+      "narration": "Tired of endless algorithmic scrolls and clickbait on YouTube? What if there was a version built by the internet's sharpest minds?",
       "visual_keywords": [
-        "attic",
-        "mystery",
-        "old seeds"
+        "algorithms",
+        "content overload",
+        "curated feed"
       ],
-      "image_prompt": "A dusty, dimly lit attic corner with a small, unassuming wooden box. A tiny blue robot, Pip, is peering curiously into the box, which contains a few mysterious, dark seeds. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "Dario found these peculiar seeds in his grandparent's old house. They looked alien. With nothing to lose, he planted them.",
-      "visual_keywords": [
-        "old house",
-        "curiosity",
-        "planting"
-      ],
-      "image_prompt": "A cartoon farmer figure (generic character, no real people, just a faceless figure in overalls and a straw hat) carefully placing a tiny dark seed into a pot of soil. Pip is watching intently from beside the pot, looking intrigued. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "Weeks later, something incredible sprouted. Plants grew enormous, towering ten feet tall.",
-      "visual_keywords": [
-        "giant plants",
-        "fast growth",
-        "surprise"
-      ],
-      "image_prompt": "A time-lapse cartoon sequence showing a tiny sprout rapidly growing into a huge, leafy plant. Pip is looking amazed, hands up in surprise. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "Vertical 9:16. Pip, a small energetic blue robot, looking overwhelmed by a chaotic waterfall of generic, undefined digital content blocks. Behind it, a faint, organized grid appears. NO text, NO brands, NO real people.",
       "motion": "zoom_out"
     },
     {
-      "narration": "They bore massive, unusual melons, unlike any cultivated today. Experts were baffled by this mysterious crop.",
+      "narration": "Enter HackerTube, the trending project that's exactly what it sounds like. It's YouTube, but every video is recommended by the famously discerning Hacker News community.",
       "visual_keywords": [
-        "unique fruit",
-        "rare melons",
-        "investigation"
+        "community",
+        "curation",
+        "tech content"
       ],
-      "image_prompt": "A vibrant, lush garden with enormous, cartoonishly large melon plants. Giant, round melons are visible on the vines. Pip is next to a melon, holding a tiny magnifying glass and looking puzzled. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, standing proudly next to a large digital screen displaying various generic video thumbnails (no brands, no recognizable figures). Above the screen, a thought bubble shows a diverse group of stylized, anonymous avatars 'voting' on content. NO text, NO brands, NO real people.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "Why is this blowing up? It’s a rebellion against generic algorithms. HackerTube offers a platform where quality, technical insight, and genuine interest trump mass appeal, bringing niche gold to the surface.",
+      "visual_keywords": [
+        "discovery",
+        "niche",
+        "quality over quantity"
+      ],
+      "image_prompt": "Vertical 9:16. A simplified, stylized 'algorithm monster' (a tangle of wires and abstract shapes) being pushed aside by Pip, the energetic blue robot, who is pointing towards a glowing, elegant 'discovery pathway' leading to a treasure chest of knowledge. NO text, NO brands, NO real people.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "It’s not just videos. HackerBooks, a similar concept for books, is also gaining traction. This trend shows a powerful desire for community-driven curation in an ocean of digital noise.",
+      "visual_keywords": [
+        "collective intelligence",
+        "information overload",
+        "future of content"
+      ],
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, standing on a floating island of books and video screens. Above, stylized thought bubbles connect to a central glowing network, symbolizing collective intelligence. Below, a vast, undifferentiated sea of generic data. NO text, NO brands, NO real people.",
       "motion": "pan_left"
     },
     {
-      "narration": "The plants were identified as a nearly forgotten, ancient melon variety, dormant for over a century! A true testament to nature's resilience.",
+      "narration": "Are you ready to dive into content curated by the crowd, not just clicks? HackerTube is pioneering a new way to discover what truly matters online.",
       "visual_keywords": [
-        "ancient",
-        "resilience",
-        "revelation"
+        "innovation",
+        "new experience",
+        "curated future"
       ],
-      "image_prompt": "A stylized 'discovery' scene showing an ancient, unrolled scroll with a drawing of the giant melon. Pip is smiling, giving a thumbs-up, next to the scroll. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "Vertical 9:16. Pip, the energetic blue robot, with an enthusiastic expression, gesturing towards a bright, inviting portal labeled with a generic 'play' icon. The background is clean and futuristic. NO text, NO brands, NO real people.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "Mystery Seeds: The Farmer's Ancient Harvest | Why this Italian Farmer's Discovery Went Viral",
-    "description": "An Italian farmer's incredible discovery has captivated the world! Learn how he found ancient, unknown seeds in his attic, planted them, and ended up with a 'biblical' harvest of forgotten melons. This short-form video explains why this story is trending and the amazing science behind nature's resilience. #MysterySeeds #AncientPlants #ViralStory #NatureFacts\n\nVisuals generated with AI.",
+    "title": "HackerTube Explained: Why Community Curation is the Future of Video",
+    "description": "Tired of endless algorithmic feeds? Discover HackerTube, the trending project born from the Hacker News community. It's a YouTube where quality and genuine interest come first, curated by collective intelligence. Learn why this innovative platform is gaining massive attention and what it means for the future of online content discovery. #HackerTube #TechTrends #ContentCuration #CommunityPower #FutureOfVideo\n\nVisuals generated with AI.",
     "hashtags": [
-      "#MysterySeeds",
-      "#AncientPlants",
-      "#FarmerDiscovery",
-      "#ViralStory",
-      "#NatureFacts",
-      "#Curiosity",
-      "#ExplainerVideo",
-      "#Shorts",
-      "#DidYouKnow"
+      "#HackerTube",
+      "#TechTrends",
+      "#ContentCuration",
+      "#CommunityPower",
+      "#FutureOfVideo",
+      "#HackerNews",
+      "#ViralTech"
     ]
   },
   "tiktok": {
-    "caption": "This Italian farmer planted mystery seeds from his attic and what grew is MIND-BLOWING! 🤯 A true testament to nature's resilience. #MysterySeeds #AncientPlants #FarmerDiscovery #ViralStory (Visuals generated with AI.)",
+    "caption": "Is this the future of YouTube? 👀 HackerTube is blowing up for a reason! Get ready for videos curated by the internet's sharpest minds, not just algorithms. (Visuals generated with AI.)",
     "hashtags": [
-      "#MysterySeeds",
-      "#AncientPlants",
-      "#FarmerDiscovery",
-      "#ViralStory",
-      "#NatureFacts",
-      "#DidYouKnow",
-      "#AmazingNature",
-      "#Mystery",
-      "#Gardening"
+      "#HackerTube",
+      "#TechTok",
+      "#ViralTech",
+      "#ContentDiscovery",
+      "#NoAlgorithms",
+      "#HackerNews"
     ]
   }
 }
