@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 973,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "score": 274,
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "score": 47,
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+    },
+    {
+      "source": "hackernews",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 432,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+    },
+    {
+      "source": "hackernews",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "score": 152,
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+    },
+    {
+      "source": "hackernews",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "score": 38,
+      "url": "https://arxiv.org/abs/2409.02292"
+    },
+    {
+      "source": "hackernews",
+      "title": "Altoids Project",
+      "score": 81,
+      "url": "https://uvdn7.github.io/altoids-project/"
+    },
+    {
+      "source": "hackernews",
+      "title": "When electric cars were for women",
+      "score": 57,
+      "url": "https://spectrum.ieee.org/early-electric-vehicles"
+    },
+    {
+      "source": "hackernews",
+      "title": "It's the memory latency, stupid",
+      "score": 169,
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "score": 67,
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "score": 18,
+      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "score": 10,
+      "url": "https://dl.acm.org/doi/10.1145/857076.857077"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "score": 234,
+      "url": "https://jepsen.io/analyses/particledb-1.1.4"
+    },
+    {
+      "source": "hackernews",
+      "title": "Surviving \"The Graduate\"",
+      "score": 91,
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "score": 77,
+      "url": "https://epoyraz.github.io/nes-contra-us/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "oma vs pak",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "txst football",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pedro pascal",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bradley cooper",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "deportivo toluca fútbol club",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "conor mcgregor",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "flood watch",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "el chapo",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "is fortnite down right now",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "power ball drawing",
+      "traffic": "5000+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Im so disappointed in Grindr"
+    },
+    {
+      "source": "r/memes",
+      "title": "it's not a coincidence..."
+    },
+    {
+      "source": "r/memes",
+      "title": "Poor little guy"
+    },
+    {
+      "source": "r/memes",
+      "title": "Mine mine mine"
+    },
+    {
+      "source": "r/memes",
+      "title": "I was just curious."
+    },
+    {
+      "source": "r/memes",
+      "title": "Won’t someone think of the CEO’s??"
+    },
+    {
+      "source": "r/memes",
+      "title": "Life of a tall guy"
+    },
+    {
+      "source": "r/memes",
+      "title": "Ipad kids."
+    },
+    {
+      "source": "r/memes",
+      "title": "Very unique experience"
+    },
+    {
+      "source": "r/memes",
+      "title": "AI clownship"
+    }
+  ],
+  "errors": []
+}

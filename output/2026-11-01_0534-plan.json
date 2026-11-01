@@ -1,0 +1,91 @@
+{
+  "picked_trend": "An Italian farmer found some unknown seeds in his attic and planted them",
+  "why_viral": "This story is trending because it's a captivating tale of unexpected discovery and natural wonder. It combines elements of mystery, ancient history, and a touch of the miraculous ('biblical' yield), making it highly shareable and inspiring widespread curiosity about hidden potentials.",
+  "core_idea": "The core idea is that forgotten relics from the past, like ancient seeds, can hold incredible value and resilience, capable of yielding extraordinary results when given a chance. It highlights nature's enduring power and the potential for rediscovering lost agricultural heritage.",
+  "video_title": "The Attic's Ancient Secret: What an Italian Farmer Found",
+  "script": "Imagine finding a forgotten box in your attic, full of mystery. For one Italian farmer, it contained ancient seeds that changed everything. This isn't just a tale; it's a real discovery that's captivated millions. An Italian farmer stumbled upon unknown seeds, forgotten for generations, perhaps centuries. With nothing to lose, he planted them. What sprouted was incredible: ancient grains, perfectly adapted, flourishing with a 'biblical' yield, unlike anything seen today. This story shows nature's astonishing resilience and the power of ancient agriculture. It makes us wonder what other secrets the past holds for our future. It's a reminder that sometimes the most extraordinary discoveries come from the simplest acts of curiosity.",
+  "scenes": [
+    {
+      "narration": "Imagine finding a forgotten box in your attic, full of mystery. For one Italian farmer, it contained ancient seeds that changed everything.",
+      "visual_keywords": [
+        "dusty attic",
+        "old chest",
+        "glowing seeds"
+      ],
+      "image_prompt": "A dimly lit, dusty attic with an old, ornate wooden chest slightly ajar. A soft, mysterious glow emanates from inside the chest, illuminating a handful of ancient, unique-looking seeds. A small, blue, energetic robot named Pip with glowing yellow antenna and expressive round eyes peeks curiously over the edge of the chest, looking intrigued. Vertical 9:16, 2D cartoon style.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't just a tale; it's a real discovery that's captivated millions. An Italian farmer stumbled upon unknown seeds, forgotten for generations, perhaps centuries.",
+      "visual_keywords": [
+        "farmer discovery",
+        "antique container",
+        "ancient artifacts"
+      ],
+      "image_prompt": "A stylized 2D cartoon farmer, without distinct facial features or brand attire, holding a small, aged cloth pouch filled with unusual seeds. He stands in a rustic, old attic corner, surrounded by forgotten boxes and cobwebs. Pip is beside him, pointing excitedly at the seeds. Vertical 9:16, 2D cartoon style.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "With nothing to lose, he planted them. What sprouted was incredible: ancient grains, perfectly adapted, flourishing with a 'biblical' yield, unlike anything seen today.",
+      "visual_keywords": [
+        "lush field",
+        "towering plants",
+        "golden harvest"
+      ],
+      "image_prompt": "A vibrant, golden field under a warm, sunny sky. The field is filled with unusually tall, robust grain stalks, unlike modern crops, heavy with abundance. A cartoon farmer (no face) kneels in awe, gently touching the plants. Pip is watering a small, glowing sprout nearby with a tiny watering can. Vertical 9:16, 2D cartoon style.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This story shows nature's astonishing resilience and the power of ancient agriculture. It makes us wonder what other secrets the past holds for our future.",
+      "visual_keywords": [
+        "thriving nature",
+        "historical scroll",
+        "future potential"
+      ],
+      "image_prompt": "A harmonious landscape blending lush, diverse plant life with subtle hints of ancient agricultural patterns. In the background, a partially unfurled, stylized ancient scroll depicts historical farming methods. Pip stands in the foreground, looking thoughtful, with an imaginary lightbulb appearing above its head. Vertical 9:16, 2D cartoon style.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "It's a reminder that sometimes the most extraordinary discoveries come from the simplest acts of curiosity.",
+      "visual_keywords": [
+        "glowing seed",
+        "new growth",
+        "curiosity symbol"
+      ],
+      "image_prompt": "A single, large, ancient-looking seed at the center, emitting a soft, warm glow. From it, several vibrant green shoots are bursting forth, symbolizing new life and discovery. The background is a soft, blurred gradient of earthy greens and browns. Pip is observing the glowing seed with wide, amazed eyes. Vertical 9:16, 2D cartoon style.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Unbelievable! Farmer Plants Ancient Attic Seeds, Gets 'Biblical' Harvest | Hidden History",
+    "description": "An Italian farmer's incredible discovery in his attic has gone viral! He planted unknown, centuries-old seeds, leading to an astonishing 'biblical' harvest unlike anything seen today. Join us to explore this captivating story of nature's resilience, ancient agriculture, and the unexpected secrets the past holds for our future. What other hidden wonders are waiting to be rediscovered?\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#AncientSeeds",
+      "#FarmerStory",
+      "#Mystery",
+      "#BiblicalHarvest",
+      "#Rediscovery",
+      "#Agriculture",
+      "#ViralStory",
+      "#FacelessExplainer"
+    ]
+  },
+  "tiktok": {
+    "caption": "This Italian farmer found forgotten seeds in his attic and planted them. The result? A 'biblical' harvest! 🤯 You won't believe what sprouted! #AncientSecrets #FarmerLife #Unbelievable #HistoryHidden #NatureIsAmazing (Visuals generated with AI.)",
+    "hashtags": [
+      "#AncientSeeds",
+      "#FarmerStory",
+      "#Mystery",
+      "#BiblicalHarvest",
+      "#Rediscovery",
+      "#Agriculture",
+      "#ViralStory",
+      "#TikTokMadeMeThink"
+    ]
+  }
+}
