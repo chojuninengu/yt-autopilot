@@ -1,0 +1,93 @@
+{
+  "picked_trend": "An Italian farmer found some unknown seeds in his attic and planted them",
+  "why_viral": "The story is a captivating blend of mystery, human interest, and natural wonder. The idea of ancient seeds blooming into a 'biblical' harvest is inherently intriguing and universally appealing, sparking curiosity about nature's resilience and the unexpected treasures hidden in plain sight.",
+  "core_idea": "A farmer's accidental discovery of ancient, dormant seeds leads to the unexpected revival of a forgotten plant variety, showcasing nature's enduring power and the incredible stories waiting to be unearthed.",
+  "video_title": "Mystery Seeds: The Farmer's Ancient Harvest",
+  "script": "An Italian farmer found ancient, unknown seeds in his attic. He planted them, and the results are truly astounding! Dario found these peculiar seeds in his grandparent's old house. They looked alien. With nothing to lose, he planted them. Weeks later, something incredible sprouted. Plants grew enormous, towering ten feet tall. They bore massive, unusual melons, unlike any cultivated today. Experts were baffled by this mysterious crop. The plants were identified as a nearly forgotten, ancient melon variety, dormant for over a century! A true testament to nature's resilience.",
+  "scenes": [
+    {
+      "narration": "An Italian farmer found ancient, unknown seeds in his attic. He planted them, and the results are truly astounding!",
+      "visual_keywords": [
+        "attic",
+        "mystery",
+        "old seeds"
+      ],
+      "image_prompt": "A dusty, dimly lit attic corner with a small, unassuming wooden box. A tiny blue robot, Pip, is peering curiously into the box, which contains a few mysterious, dark seeds. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Dario found these peculiar seeds in his grandparent's old house. They looked alien. With nothing to lose, he planted them.",
+      "visual_keywords": [
+        "old house",
+        "curiosity",
+        "planting"
+      ],
+      "image_prompt": "A cartoon farmer figure (generic character, no real people, just a faceless figure in overalls and a straw hat) carefully placing a tiny dark seed into a pot of soil. Pip is watching intently from beside the pot, looking intrigued. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Weeks later, something incredible sprouted. Plants grew enormous, towering ten feet tall.",
+      "visual_keywords": [
+        "giant plants",
+        "fast growth",
+        "surprise"
+      ],
+      "image_prompt": "A time-lapse cartoon sequence showing a tiny sprout rapidly growing into a huge, leafy plant. Pip is looking amazed, hands up in surprise. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "They bore massive, unusual melons, unlike any cultivated today. Experts were baffled by this mysterious crop.",
+      "visual_keywords": [
+        "unique fruit",
+        "rare melons",
+        "investigation"
+      ],
+      "image_prompt": "A vibrant, lush garden with enormous, cartoonishly large melon plants. Giant, round melons are visible on the vines. Pip is next to a melon, holding a tiny magnifying glass and looking puzzled. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "The plants were identified as a nearly forgotten, ancient melon variety, dormant for over a century! A true testament to nature's resilience.",
+      "visual_keywords": [
+        "ancient",
+        "resilience",
+        "revelation"
+      ],
+      "image_prompt": "A stylized 'discovery' scene showing an ancient, unrolled scroll with a drawing of the giant melon. Pip is smiling, giving a thumbs-up, next to the scroll. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Mystery Seeds: The Farmer's Ancient Harvest | Why this Italian Farmer's Discovery Went Viral",
+    "description": "An Italian farmer's incredible discovery has captivated the world! Learn how he found ancient, unknown seeds in his attic, planted them, and ended up with a 'biblical' harvest of forgotten melons. This short-form video explains why this story is trending and the amazing science behind nature's resilience. #MysterySeeds #AncientPlants #ViralStory #NatureFacts\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#MysterySeeds",
+      "#AncientPlants",
+      "#FarmerDiscovery",
+      "#ViralStory",
+      "#NatureFacts",
+      "#Curiosity",
+      "#ExplainerVideo",
+      "#Shorts",
+      "#DidYouKnow"
+    ]
+  },
+  "tiktok": {
+    "caption": "This Italian farmer planted mystery seeds from his attic and what grew is MIND-BLOWING! 🤯 A true testament to nature's resilience. #MysterySeeds #AncientPlants #FarmerDiscovery #ViralStory (Visuals generated with AI.)",
+    "hashtags": [
+      "#MysterySeeds",
+      "#AncientPlants",
+      "#FarmerDiscovery",
+      "#ViralStory",
+      "#NatureFacts",
+      "#DidYouKnow",
+      "#AmazingNature",
+      "#Mystery",
+      "#Gardening"
+    ]
+  }
+}

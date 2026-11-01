@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 1652,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 34,
+      "url": "https://arxiv.org/abs/2610.39302"
+    },
+    {
+      "source": "hackernews",
+      "title": "Novellas with Groff",
+      "score": 25,
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pi Is the Last Harness",
+      "score": 11,
+      "url": "https://destiner.io/blog/post/pi-is-the-last-harness/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "score": 41,
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"
+    },
+    {
+      "source": "hackernews",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "score": 590,
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "score": 17,
+      "url": "https://kevs3d.co.uk/phoria2/"
+    },
+    {
+      "source": "hackernews",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "score": 31,
+      "url": "https://www.nature.com/articles/s41560-026-02144-0"
+    },
+    {
+      "source": "hackernews",
+      "title": "Radiation Map of the World",
+      "score": 44,
+      "url": "https://radiaverse.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "score": 211,
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "score": 24,
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+    },
+    {
+      "source": "hackernews",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "score": 333,
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+    },
+    {
+      "source": "hackernews",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 584,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "score": 35,
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "score": 32,
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "start em sit em",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jimmy movie",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dickson street shooting",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "sheriff country",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jiri lehecka",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "marcel hug",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "boca vs river",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ai sector stock selloff october",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "luigi suigo",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "is george pickens playing this week",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Kiss your ram"
+    },
+    {
+      "source": "r/memes",
+      "title": "Y'all forgot to ask him!"
+    },
+    {
+      "source": "r/memes",
+      "title": "Be a part of the change"
+    },
+    {
+      "source": "r/memes",
+      "title": "Won’t someone think of the CEO’s??"
+    },
+    {
+      "source": "r/memes",
+      "title": "Life of a tall guy"
+    },
+    {
+      "source": "r/memes",
+      "title": "C'mon man, that's too easy"
+    },
+    {
+      "source": "r/memes",
+      "title": "Go ahead...Take it from me."
+    },
+    {
+      "source": "r/memes",
+      "title": "AI clownship"
+    },
+    {
+      "source": "r/memes",
+      "title": "Hope I dont get jumped for my 32gb"
+    },
+    {
+      "source": "r/memes",
+      "title": "She never talked like this"
+    }
+  ],
+  "errors": []
+}
