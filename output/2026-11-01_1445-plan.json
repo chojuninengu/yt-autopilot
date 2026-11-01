@@ -1,0 +1,80 @@
+{
+  "picked_trend": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "why_viral": "This story is highly viral because it's a groundbreaking legal case that vividly illustrates the immediate ethical and professional challenges of AI misuse. It moves beyond theoretical discussions to real-world consequences, specifically 'prompt injection,' in a high-stakes environment like the courtroom, setting a crucial precedent for AI accountability.",
+  "core_idea": "The core idea is that lawyers attempted to manipulate an AI system using 'prompt injection' to generate a court filing containing misleading or fabricated content. This intentional misuse led to judicial sanctions, highlighting the critical need for human oversight, ethical responsibility, and professional accountability when utilizing AI tools in legal and other professional contexts.",
+  "video_title": "AI Ethics in Court: Lawyers Sanctioned for 'Prompt Injection'!",
+  "script": "Did lawyers just get sanctioned for *hacking* an AI in a Brazilian court? This unprecedented case highlights the wild west of AI ethics in the legal world! Here's the idea: lawyers allegedly used 'prompt injection' – essentially, hidden commands – to manipulate an AI. They made it generate court documents with fabricated details, hoping to gain an unfair advantage. But the court caught on fast. They ruled this manipulation a serious breach of professional conduct, hitting the lawyers with sanctions. This wasn't an AI error; it was intentional misuse. This historic ruling sends a clear message: while AI is a powerful tool, professionals are fully accountable for everything they submit. Digital ethics are now a critical courtroom reality.",
+  "scenes": [
+    {
+      "narration": "Did lawyers just get sanctioned for *hacking* an AI in a Brazilian court? This unprecedented case highlights the wild west of AI ethics in the legal world!",
+      "visual_keywords": [
+        "gavel",
+        "robot",
+        "courtroom"
+      ],
+      "image_prompt": "A 2D cartoon image of a large, stern-looking judge robot with a glowing gavel, looking down at a small, nervous-looking Pip robot holding a glowing legal document. The background is a simplified courtroom. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Here's the idea: lawyers allegedly used 'prompt injection' – essentially, hidden commands – to manipulate an AI. They made it generate court documents with fabricated details, hoping to gain an unfair advantage.",
+      "visual_keywords": [
+        "computer",
+        "hidden code",
+        "document"
+      ],
+      "image_prompt": "A 2D cartoon image showing a stylized computer screen displaying lines of code, with one line glowing ominously. A small mischievous Pip robot is peeking from behind the screen, holding a string connected to the glowing line of code. A legal document with some words highlighted is next to the computer. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "But the court caught on fast. They ruled this manipulation a serious breach of professional conduct, hitting the lawyers with sanctions. This wasn't an AI error; it was intentional misuse.",
+      "visual_keywords": [
+        "warning",
+        "penalty",
+        "ethical rules"
+      ],
+      "image_prompt": "A 2D cartoon image of a large, red \"STOP\" sign with a crossed-out AI robot symbol. Below it, Pip robot looks surprised, holding a small document with a \"SANCTIONED\" stamp. A stern, disapproving judge's shadow is cast over Pip. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "This historic ruling sends a clear message: while AI is a powerful tool, professionals are fully accountable for everything they submit. Digital ethics are now a critical courtroom reality.",
+      "visual_keywords": [
+        "balance",
+        "responsibility",
+        "future"
+      ],
+      "image_prompt": "A 2D cartoon image of a balanced scale. On one side, a stack of legal books and a small Pip robot diligently working. On the other side, a glowing, abstract AI brain symbol. The scale is perfectly balanced, representing accountability. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "AI Ethics in Court: Lawyers Sanctioned for 'Prompt Injection'!",
+    "description": "A Brazilian court just made history by sanctioning lawyers for 'prompt injection' in a legal filing! Learn how this unprecedented case highlights the critical ethical and legal challenges of AI misuse in professional fields, and why accountability for AI-generated content is now a courtroom reality. #AIethics #LegalTech #PromptInjection #CourtRuling #AIaccountability\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#AIethics",
+      "#LegalTech",
+      "#PromptInjection",
+      "#CourtRuling",
+      "#AIaccountability",
+      "#Brazil",
+      "#TechNews",
+      "#ExplainableAI"
+    ]
+  },
+  "tiktok": {
+    "caption": "Lawyers got sanctioned for *hacking* an AI in court! 🤯 This 'prompt injection' case is a HUGE deal for AI ethics in law. Watch to understand why! #AIethics #LegalTok #PromptInjection #CourtCase #AIresponsibility (Visuals generated with AI.)",
+    "hashtags": [
+      "#AIethics",
+      "#LegalTok",
+      "#PromptInjection",
+      "#CourtCase",
+      "#AIresponsibility",
+      "#TechNews",
+      "#Brazil",
+      "#LawyersOfTikTok"
+    ]
+  }
+}

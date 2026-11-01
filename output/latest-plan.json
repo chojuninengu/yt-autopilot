@@ -1,86 +1,76 @@
 {
-  "picked_trend": "An Italian farmer found some unknown seeds in his attic and planted them",
-  "why_viral": "This story is trending because it's a captivating tale of unexpected discovery and natural wonder. It combines elements of mystery, ancient history, and a touch of the miraculous ('biblical' yield), making it highly shareable and inspiring widespread curiosity about hidden potentials.",
-  "core_idea": "The core idea is that forgotten relics from the past, like ancient seeds, can hold incredible value and resilience, capable of yielding extraordinary results when given a chance. It highlights nature's enduring power and the potential for rediscovering lost agricultural heritage.",
-  "video_title": "The Attic's Ancient Secret: What an Italian Farmer Found",
-  "script": "Imagine finding a forgotten box in your attic, full of mystery. For one Italian farmer, it contained ancient seeds that changed everything. This isn't just a tale; it's a real discovery that's captivated millions. An Italian farmer stumbled upon unknown seeds, forgotten for generations, perhaps centuries. With nothing to lose, he planted them. What sprouted was incredible: ancient grains, perfectly adapted, flourishing with a 'biblical' yield, unlike anything seen today. This story shows nature's astonishing resilience and the power of ancient agriculture. It makes us wonder what other secrets the past holds for our future. It's a reminder that sometimes the most extraordinary discoveries come from the simplest acts of curiosity.",
+  "picked_trend": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "why_viral": "This story is highly viral because it's a groundbreaking legal case that vividly illustrates the immediate ethical and professional challenges of AI misuse. It moves beyond theoretical discussions to real-world consequences, specifically 'prompt injection,' in a high-stakes environment like the courtroom, setting a crucial precedent for AI accountability.",
+  "core_idea": "The core idea is that lawyers attempted to manipulate an AI system using 'prompt injection' to generate a court filing containing misleading or fabricated content. This intentional misuse led to judicial sanctions, highlighting the critical need for human oversight, ethical responsibility, and professional accountability when utilizing AI tools in legal and other professional contexts.",
+  "video_title": "AI Ethics in Court: Lawyers Sanctioned for 'Prompt Injection'!",
+  "script": "Did lawyers just get sanctioned for *hacking* an AI in a Brazilian court? This unprecedented case highlights the wild west of AI ethics in the legal world! Here's the idea: lawyers allegedly used 'prompt injection' – essentially, hidden commands – to manipulate an AI. They made it generate court documents with fabricated details, hoping to gain an unfair advantage. But the court caught on fast. They ruled this manipulation a serious breach of professional conduct, hitting the lawyers with sanctions. This wasn't an AI error; it was intentional misuse. This historic ruling sends a clear message: while AI is a powerful tool, professionals are fully accountable for everything they submit. Digital ethics are now a critical courtroom reality.",
   "scenes": [
     {
-      "narration": "Imagine finding a forgotten box in your attic, full of mystery. For one Italian farmer, it contained ancient seeds that changed everything.",
+      "narration": "Did lawyers just get sanctioned for *hacking* an AI in a Brazilian court? This unprecedented case highlights the wild west of AI ethics in the legal world!",
       "visual_keywords": [
-        "dusty attic",
-        "old chest",
-        "glowing seeds"
+        "gavel",
+        "robot",
+        "courtroom"
       ],
-      "image_prompt": "A dimly lit, dusty attic with an old, ornate wooden chest slightly ajar. A soft, mysterious glow emanates from inside the chest, illuminating a handful of ancient, unique-looking seeds. A small, blue, energetic robot named Pip with glowing yellow antenna and expressive round eyes peeks curiously over the edge of the chest, looking intrigued. Vertical 9:16, 2D cartoon style.",
+      "image_prompt": "A 2D cartoon image of a large, stern-looking judge robot with a glowing gavel, looking down at a small, nervous-looking Pip robot holding a glowing legal document. The background is a simplified courtroom. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
       "motion": "zoom_in"
     },
     {
-      "narration": "This isn't just a tale; it's a real discovery that's captivated millions. An Italian farmer stumbled upon unknown seeds, forgotten for generations, perhaps centuries.",
+      "narration": "Here's the idea: lawyers allegedly used 'prompt injection' – essentially, hidden commands – to manipulate an AI. They made it generate court documents with fabricated details, hoping to gain an unfair advantage.",
       "visual_keywords": [
-        "farmer discovery",
-        "antique container",
-        "ancient artifacts"
+        "computer",
+        "hidden code",
+        "document"
       ],
-      "image_prompt": "A stylized 2D cartoon farmer, without distinct facial features or brand attire, holding a small, aged cloth pouch filled with unusual seeds. He stands in a rustic, old attic corner, surrounded by forgotten boxes and cobwebs. Pip is beside him, pointing excitedly at the seeds. Vertical 9:16, 2D cartoon style.",
+      "image_prompt": "A 2D cartoon image showing a stylized computer screen displaying lines of code, with one line glowing ominously. A small mischievous Pip robot is peeking from behind the screen, holding a string connected to the glowing line of code. A legal document with some words highlighted is next to the computer. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
       "motion": "pan_right"
     },
     {
-      "narration": "With nothing to lose, he planted them. What sprouted was incredible: ancient grains, perfectly adapted, flourishing with a 'biblical' yield, unlike anything seen today.",
+      "narration": "But the court caught on fast. They ruled this manipulation a serious breach of professional conduct, hitting the lawyers with sanctions. This wasn't an AI error; it was intentional misuse.",
       "visual_keywords": [
-        "lush field",
-        "towering plants",
-        "golden harvest"
+        "warning",
+        "penalty",
+        "ethical rules"
       ],
-      "image_prompt": "A vibrant, golden field under a warm, sunny sky. The field is filled with unusually tall, robust grain stalks, unlike modern crops, heavy with abundance. A cartoon farmer (no face) kneels in awe, gently touching the plants. Pip is watering a small, glowing sprout nearby with a tiny watering can. Vertical 9:16, 2D cartoon style.",
+      "image_prompt": "A 2D cartoon image of a large, red \"STOP\" sign with a crossed-out AI robot symbol. Below it, Pip robot looks surprised, holding a small document with a \"SANCTIONED\" stamp. A stern, disapproving judge's shadow is cast over Pip. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "shake"
+    },
+    {
+      "narration": "This historic ruling sends a clear message: while AI is a powerful tool, professionals are fully accountable for everything they submit. Digital ethics are now a critical courtroom reality.",
+      "visual_keywords": [
+        "balance",
+        "responsibility",
+        "future"
+      ],
+      "image_prompt": "A 2D cartoon image of a balanced scale. On one side, a stack of legal books and a small Pip robot diligently working. On the other side, a glowing, abstract AI brain symbol. The scale is perfectly balanced, representing accountability. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
       "motion": "zoom_out"
-    },
-    {
-      "narration": "This story shows nature's astonishing resilience and the power of ancient agriculture. It makes us wonder what other secrets the past holds for our future.",
-      "visual_keywords": [
-        "thriving nature",
-        "historical scroll",
-        "future potential"
-      ],
-      "image_prompt": "A harmonious landscape blending lush, diverse plant life with subtle hints of ancient agricultural patterns. In the background, a partially unfurled, stylized ancient scroll depicts historical farming methods. Pip stands in the foreground, looking thoughtful, with an imaginary lightbulb appearing above its head. Vertical 9:16, 2D cartoon style.",
-      "motion": "pan_left"
-    },
-    {
-      "narration": "It's a reminder that sometimes the most extraordinary discoveries come from the simplest acts of curiosity.",
-      "visual_keywords": [
-        "glowing seed",
-        "new growth",
-        "curiosity symbol"
-      ],
-      "image_prompt": "A single, large, ancient-looking seed at the center, emitting a soft, warm glow. From it, several vibrant green shoots are bursting forth, symbolizing new life and discovery. The background is a soft, blurred gradient of earthy greens and browns. Pip is observing the glowing seed with wide, amazed eyes. Vertical 9:16, 2D cartoon style.",
-      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "Unbelievable! Farmer Plants Ancient Attic Seeds, Gets 'Biblical' Harvest | Hidden History",
-    "description": "An Italian farmer's incredible discovery in his attic has gone viral! He planted unknown, centuries-old seeds, leading to an astonishing 'biblical' harvest unlike anything seen today. Join us to explore this captivating story of nature's resilience, ancient agriculture, and the unexpected secrets the past holds for our future. What other hidden wonders are waiting to be rediscovered?\n\nVisuals generated with AI.",
+    "title": "AI Ethics in Court: Lawyers Sanctioned for 'Prompt Injection'!",
+    "description": "A Brazilian court just made history by sanctioning lawyers for 'prompt injection' in a legal filing! Learn how this unprecedented case highlights the critical ethical and legal challenges of AI misuse in professional fields, and why accountability for AI-generated content is now a courtroom reality. #AIethics #LegalTech #PromptInjection #CourtRuling #AIaccountability\n\nVisuals generated with AI.",
     "hashtags": [
-      "#AncientSeeds",
-      "#FarmerStory",
-      "#Mystery",
-      "#BiblicalHarvest",
-      "#Rediscovery",
-      "#Agriculture",
-      "#ViralStory",
-      "#FacelessExplainer"
+      "#AIethics",
+      "#LegalTech",
+      "#PromptInjection",
+      "#CourtRuling",
+      "#AIaccountability",
+      "#Brazil",
+      "#TechNews",
+      "#ExplainableAI"
     ]
   },
   "tiktok": {
-    "caption": "This Italian farmer found forgotten seeds in his attic and planted them. The result? A 'biblical' harvest! 🤯 You won't believe what sprouted! #AncientSecrets #FarmerLife #Unbelievable #HistoryHidden #NatureIsAmazing (Visuals generated with AI.)",
+    "caption": "Lawyers got sanctioned for *hacking* an AI in court! 🤯 This 'prompt injection' case is a HUGE deal for AI ethics in law. Watch to understand why! #AIethics #LegalTok #PromptInjection #CourtCase #AIresponsibility (Visuals generated with AI.)",
     "hashtags": [
-      "#AncientSeeds",
-      "#FarmerStory",
-      "#Mystery",
-      "#BiblicalHarvest",
-      "#Rediscovery",
-      "#Agriculture",
-      "#ViralStory",
-      "#TikTokMadeMeThink"
+      "#AIethics",
+      "#LegalTok",
+      "#PromptInjection",
+      "#CourtCase",
+      "#AIresponsibility",
+      "#TechNews",
+      "#Brazil",
+      "#LawyersOfTikTok"
     ]
   }
 }
