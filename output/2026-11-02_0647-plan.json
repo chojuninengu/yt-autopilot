@@ -1,0 +1,91 @@
+{
+  "picked_trend": "HackerTube: YouTube built from videos recommended by HN",
+  "why_viral": "HackerTube is trending because it offers a highly curated, algorithm-free alternative to mainstream video platforms. By leveraging the collective intelligence of the Hacker News community, it filters out noise and presents a focused collection of insightful and relevant tech, science, and educational videos. This community-driven approach resonates with users seeking quality content without the distractions of typical social media algorithms, leading to its rapid adoption and even inspiring spin-offs like 'HackerBooks' and 'Wikihack'.",
+  "core_idea": "The core idea behind HackerTube is to create a valuable, signal-to-noise optimized video consumption experience. It achieves this by automatically aggregating YouTube videos that are frequently shared, upvoted, and discussed within the Hacker News community. This turns a highly respected tech forum into a powerful, human-curated content discovery engine, ensuring that users are exposed to high-quality, relevant, and thought-provoking material.",
+  "video_title": "HackerTube: The Curated YouTube for Tech Minds",
+  "script": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech. That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News. Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation. It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles. So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
+  "scenes": [
+    {
+      "narration": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech.",
+      "visual_keywords": [
+        "Digital noise",
+        "Curated content",
+        "Information overload"
+      ],
+      "image_prompt": "A chaotic, overwhelming digital landscape with swirling, indistinguishable video thumbnails. In the foreground, a small, energetic blue robot, Pip, looks overwhelmed but then notices a glowing, inviting pathway forming through the visual noise. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News.",
+      "visual_keywords": [
+        "Hacker News concept",
+        "Curated videos",
+        "Tech community"
+      ],
+      "image_prompt": "A clean, minimalist interface reminiscent of a video player, but instead of typical thumbnails, there are small, stylized badges with a simple 'HN' icon on each video entry. Pip, the blue robot, stands proudly next to it, pointing to the screen with a knowing smile. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation.",
+      "visual_keywords": [
+        "Quality content",
+        "Focused learning",
+        "Innovation"
+      ],
+      "image_prompt": "A bright, organized library of virtual video screens, each displaying a distinct, educational topic (e.g., coding symbols, a rocket launching, a simplified brain diagram). Pip is happily exploring, holding a small magnifying glass, clearly finding valuable content. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles.",
+      "visual_keywords": [
+        "Community wisdom",
+        "Knowledge sharing",
+        "Innovation ecosystem"
+      ],
+      "image_prompt": "Pip, the blue robot, is at the center of a circular table. Around the table are three glowing holographic projections: one showing a video play icon (for HackerTube), another an open book (for HackerBooks), and the third a stylized 'W' for Wikipedia (for Wikihack). All are connected by elegant lines representing shared knowledge. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
+      "visual_keywords": [
+        "Discovery",
+        "Exploration",
+        "Intelligent content"
+      ],
+      "image_prompt": "Pip, the blue robot, stands on a small, vibrant hill, looking out at a horizon filled with bright, glowing, abstract icons representing different knowledge domains (e.g., a gear, a lightbulb, a code bracket). The sky is a gradient of inviting colors, symbolizing potential and new discoveries. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "HackerTube: Why Tech's Smartest Are Ditching Regular YouTube",
+    "description": "Ever wish YouTube was less noise, more signal? HackerTube is the answer! This trending platform curates videos exclusively from Hacker News recommendations, offering a goldmine of high-quality tech, science, and educational content. Discover why community-driven curation is changing how we consume video and inspiring projects like HackerBooks and Wikihack. #HackerTube #TechTrends #CuratedContent #HackerNews #Innovation #FacelessExplainer\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#HackerTube",
+      "#TechTrends",
+      "#CuratedContent",
+      "#HackerNews",
+      "#Innovation",
+      "#TechExplained",
+      "#Shorts"
+    ]
+  },
+  "tiktok": {
+    "caption": "Tired of endless YouTube scrolling? 😩 Meet HackerTube! It's the new platform where every video is hand-picked by the smartest tech minds from Hacker News. No clickbait, just pure knowledge. 🧠✨ Discover why it's blowing up and inspiring new ways to consume content! #HackerTube #TechTrends #HackerNews #CuratedContent #LearnOnTikTok #TechTok #Innovation #ViralTech (Visuals generated with AI.)",
+    "hashtags": [
+      "#HackerTube",
+      "#TechTrends",
+      "#HackerNews",
+      "#CuratedContent",
+      "#LearnOnTikTok",
+      "#TechTok",
+      "#Innovation",
+      "#ViralTech",
+      "#Shorts"
+    ]
+  }
+}

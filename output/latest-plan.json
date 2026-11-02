@@ -1,74 +1,86 @@
 {
-  "picked_trend": "Binance resumes withdrawals following $6.3 billion breach / Crypto firm Binance covers 90% of losses after $6.3bn hack",
-  "why_viral": "This event is highly viral due to the sheer scale of the financial loss ($6.3 billion), making it one of the largest crypto hacks ever. It involves Binance, a major cryptocurrency exchange, which draws significant attention from investors and the general public concerned about digital asset security. The subsequent announcement of covering 90% of losses adds a dramatic twist, raising questions about security, risk management, and the resilience of centralized crypto platforms.",
-  "core_idea": "Binance, a leading cryptocurrency exchange, was hit by a colossal $6.3 billion security breach. Despite the immense loss, Binance quickly moved to resume withdrawals and announced plans to cover 90% of the stolen funds, prompting discussions about the security of crypto exchanges and the future of digital asset protection.",
-  "video_title": "Binance's $6.3 Billion Hack: Crypto's Biggest Heist and Shocking Recovery",
-  "script": "Imagine losing six point three BILLION dollars overnight. That's what hit crypto giant Binance recently in one of the largest hacks ever recorded. Attackers exploited vulnerabilities, siphoning off a massive sum. The crypto world held its breath, wondering if Binance could survive. But then, a shocker. Binance announced it had resumed withdrawals, claiming to cover a staggering 90% of the losses. This rapid recovery is a double-edged sword. It showcases Binance's strength but also exposes the fragility of even major exchanges. What does this mean for your digital assets?",
+  "picked_trend": "HackerTube: YouTube built from videos recommended by HN",
+  "why_viral": "HackerTube is trending because it offers a highly curated, algorithm-free alternative to mainstream video platforms. By leveraging the collective intelligence of the Hacker News community, it filters out noise and presents a focused collection of insightful and relevant tech, science, and educational videos. This community-driven approach resonates with users seeking quality content without the distractions of typical social media algorithms, leading to its rapid adoption and even inspiring spin-offs like 'HackerBooks' and 'Wikihack'.",
+  "core_idea": "The core idea behind HackerTube is to create a valuable, signal-to-noise optimized video consumption experience. It achieves this by automatically aggregating YouTube videos that are frequently shared, upvoted, and discussed within the Hacker News community. This turns a highly respected tech forum into a powerful, human-curated content discovery engine, ensuring that users are exposed to high-quality, relevant, and thought-provoking material.",
+  "video_title": "HackerTube: The Curated YouTube for Tech Minds",
+  "script": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech. That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News. Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation. It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles. So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
   "scenes": [
     {
-      "narration": "Imagine losing six point three BILLION dollars overnight. That's what hit crypto giant Binance recently in one of the largest hacks ever recorded.",
+      "narration": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech.",
       "visual_keywords": [
-        "falling money",
-        "broken safe",
-        "shocked robot"
+        "Digital noise",
+        "Curated content",
+        "Information overload"
       ],
-      "image_prompt": "A cartoon illustration of a digital safe exploding, with binary code and digital coins scattering everywhere. A small energetic blue robot, Pip, is standing nearby, eyes wide with shock, holding a tiny calculator showing '6.3 BILLION'. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "Attackers exploited vulnerabilities, siphoning off a massive sum. The crypto world held its breath, wondering if Binance could survive.",
-      "visual_keywords": [
-        "cyber theft",
-        "digital drain",
-        "anxious crowd"
-      ],
-      "image_prompt": "A shadowy, hooded figure with glowing red eyes, representing a hacker, is digitally pulling a stream of glowing cryptocurrencies out of a large server tower. Pip is frantically trying to block the stream with a small digital shield, looking worried. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "But then, a shocker. Binance announced it had resumed withdrawals, claiming to cover a staggering 90% of the losses.",
-      "visual_keywords": [
-        "recovery",
-        "rebuilding",
-        "money flowing back"
-      ],
-      "image_prompt": "A digital bridge being rapidly rebuilt across a chasm, made of glowing green data streams. On one side, a symbol of a bank vault, on the other, a happy crowd of stylized, abstract figures cheering. Pip is operating a control panel, overseeing the reconstruction with a determined expression. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "A chaotic, overwhelming digital landscape with swirling, indistinguishable video thumbnails. In the foreground, a small, energetic blue robot, Pip, looks overwhelmed but then notices a glowing, inviting pathway forming through the visual noise. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This rapid recovery is a double-edged sword. It showcases Binance's strength but also exposes the fragility of even major exchanges. What does this mean for your digital assets?",
+      "narration": "That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News.",
       "visual_keywords": [
-        "security question",
-        "balancing act",
-        "digital future"
+        "Hacker News concept",
+        "Curated videos",
+        "Tech community"
       ],
-      "image_prompt": "A cartoon illustration of a large, glowing question mark hovering over two opposing forces: one side showing a strong, locked digital vault, and the other showing a cracked and vulnerable server. Pip is standing between them, looking thoughtful, with gears turning in its head. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "A clean, minimalist interface reminiscent of a video player, but instead of typical thumbnails, there are small, stylized badges with a simple 'HN' icon on each video entry. Pip, the blue robot, stands proudly next to it, pointing to the screen with a knowing smile. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation.",
+      "visual_keywords": [
+        "Quality content",
+        "Focused learning",
+        "Innovation"
+      ],
+      "image_prompt": "A bright, organized library of virtual video screens, each displaying a distinct, educational topic (e.g., coding symbols, a rocket launching, a simplified brain diagram). Pip is happily exploring, holding a small magnifying glass, clearly finding valuable content. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles.",
+      "visual_keywords": [
+        "Community wisdom",
+        "Knowledge sharing",
+        "Innovation ecosystem"
+      ],
+      "image_prompt": "Pip, the blue robot, is at the center of a circular table. Around the table are three glowing holographic projections: one showing a video play icon (for HackerTube), another an open book (for HackerBooks), and the third a stylized 'W' for Wikipedia (for Wikihack). All are connected by elegant lines representing shared knowledge. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
+      "visual_keywords": [
+        "Discovery",
+        "Exploration",
+        "Intelligent content"
+      ],
+      "image_prompt": "Pip, the blue robot, stands on a small, vibrant hill, looking out at a horizon filled with bright, glowing, abstract icons representing different knowledge domains (e.g., a gear, a lightbulb, a code bracket). The sky is a gradient of inviting colors, symbolizing potential and new discoveries. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
       "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "Binance's $6.3 Billion Hack: Crypto's Biggest Heist and Shocking Recovery",
-    "description": "A massive $6.3 billion hack hit crypto giant Binance, sending shockwaves through the digital finance world. How did attackers pull off one of the largest heists in crypto history, and how did Binance manage to recover and promise to cover 90% of the losses? This video explains why this story is trending, the vulnerabilities exposed, and what it means for the security of your digital assets. Don't miss out on understanding the implications for the future of cryptocurrency.\n\nVisuals generated with AI.",
+    "title": "HackerTube: Why Tech's Smartest Are Ditching Regular YouTube",
+    "description": "Ever wish YouTube was less noise, more signal? HackerTube is the answer! This trending platform curates videos exclusively from Hacker News recommendations, offering a goldmine of high-quality tech, science, and educational content. Discover why community-driven curation is changing how we consume video and inspiring projects like HackerBooks and Wikihack. #HackerTube #TechTrends #CuratedContent #HackerNews #Innovation #FacelessExplainer\n\nVisuals generated with AI.",
     "hashtags": [
-      "#BinanceHack",
-      "#CryptoNews",
-      "#CyberSecurity",
-      "#Blockchain",
-      "#DigitalAssets",
-      "#FinancialNews",
-      "#Trending"
+      "#HackerTube",
+      "#TechTrends",
+      "#CuratedContent",
+      "#HackerNews",
+      "#Innovation",
+      "#TechExplained",
+      "#Shorts"
     ]
   },
   "tiktok": {
-    "caption": "Binance got hit by a $6.3 BILLION hack! 🤯 But then, they did THIS. Why this crypto giant's recovery is blowing minds and what it means for your digital money! #CryptoCrisis #Binance #CyberAttack #WhatHappened (Visuals generated with AI.)",
+    "caption": "Tired of endless YouTube scrolling? 😩 Meet HackerTube! It's the new platform where every video is hand-picked by the smartest tech minds from Hacker News. No clickbait, just pure knowledge. 🧠✨ Discover why it's blowing up and inspiring new ways to consume content! #HackerTube #TechTrends #HackerNews #CuratedContent #LearnOnTikTok #TechTok #Innovation #ViralTech (Visuals generated with AI.)",
     "hashtags": [
-      "#BinanceHack",
-      "#CryptoNews",
-      "#CyberSecurity",
-      "#Blockchain",
-      "#Finance",
-      "#TrendingNow",
-      "#TechExplainer"
+      "#HackerTube",
+      "#TechTrends",
+      "#HackerNews",
+      "#CuratedContent",
+      "#LearnOnTikTok",
+      "#TechTok",
+      "#Innovation",
+      "#ViralTech",
+      "#Shorts"
     ]
   }
 }
