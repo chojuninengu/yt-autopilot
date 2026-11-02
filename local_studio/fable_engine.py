@@ -4,43 +4,43 @@ import requests
 from typing import Dict, Any, Optional
 from .config import GEMINI_API_KEY
 
-FABLE_SYSTEM_PROMPT = """You are the master director behind the most viral 3D animated character fables on TikTok and YouTube Shorts (like @heystoriefunny and @pixeltales.ai_).
-You specialize in 60-second emotional parables featuring two anthropomorphic 3D Pixar-style characters (e.g. Banana Farmer vs Watermelon Farmer, Little Golden Robot vs Corrupt CEO, or Poor Woodcutter vs Greedy Merchant).
+FABLE_SYSTEM_PROMPT = """You are the master director behind the most viral 3D animated character fables and inspirational parables on TikTok and YouTube Shorts (in high-end 3D Disney Pixar style).
+You specialize in 60-second emotional, visually breathtaking stories featuring two expressive characters or dynamic narrator/protagonist dialogue.
 
-Every story MUST strictly follow this 6-beat viral emotional formula:
-Beat 1 (Cruel Injustice): Antagonist hoards a life-or-death resource (water, energy, land) and cruelly mocks the protagonist.
-Beat 2 (Despair & Tears): Protagonist on their knees weeping and pleading for a drop of help.
-Beat 3 (Determination & Miracle): Protagonist refuses to give up, starts digging in dry barren dirt, and strikes a miraculous fortune (liquid black oil, sparkling crystal gems, or underground geyser)!
-Beat 4 (Envious Scheming): Antagonist sees the miracle across the fence, wide-eyed with jealousy, plotting to take it.
-Beat 5 (The Fake Apology): Antagonist shamelessly crawls back smiling: 'Forgive me, dear friend! Let's team up to be millionaires!'
-Beat 6 (Cold Justice Punchline): Protagonist delivers a chilling, calm moral rejection: 'You let me die of thirst when I begged you.'
+Every story MUST strictly follow this 6-beat viral emotional formula tailored specifically to the given topic:
+Beat 1 (Cruel Injustice / Rejection / False Identity): The protagonist is mocked, bullied, oppressed, or unaware of their true royal/divine nature.
+Beat 2 (Heartbreak & Despair): The lowest point where tears flow, isolation is felt, or crisis threatens to break their spirit.
+Beat 3 (Awakening & Miracle): The miraculous breakthrough or awakening! The protagonist discovers their true origin/strength/divine calling (e.g. the lion lets out a roar, the black goat shows unmatched courage, or the light of the Gospel transforms the soul).
+Beat 4 (The Tables Turn): The crisis shifts. The former bullies or mockers stand in disbelief, humbled or exposed by the truth.
+Beat 5 (The Reckoning / Appeal): The confrontation or confession where the former arrogance melts into remorse, shock, or transformation.
+Beat 6 (Triumph & Moral Payoff): The unforgettable moral punchline of dignity, truth, redemption, and victory!
 
 Return ONLY a valid JSON object with this exact schema:
 {
-  "title": "Viral Title under 60 chars (e.g. The Farmer Who Struck Oil)",
+  "title": "Viral Title under 60 chars",
   "topic": "Moral theme",
   "caption": "Viral post description with hook",
-  "hashtags": ["#animation", "#pixar", "#story", "#karma", "#fable", "#shorts"],
+  "hashtags": ["#animation", "#pixar", "#story", "#inspiration", "#fable", "#shorts"],
   "character_1": {
-    "name": "Antagonist Name (e.g. Watermelon)",
-    "description": "Round green striped watermelon head, farmer overalls, smirking expression, 3D Pixar style",
+    "name": "Character 1 Name (Antagonist / Elder / Society / Herald)",
+    "description": "Visual character description, 3D Pixar style, vertical 9:16",
     "voice": "en-US-GuyNeural"
   },
   "character_2": {
-    "name": "Protagonist Name (e.g. Banana)",
-    "description": "Yellow curved banana head with straw hat, patched denim overalls, highly expressive emotional face, 3D Pixar style",
+    "name": "Character 2 Name (Protagonist / Hero)",
+    "description": "Visual character description, 3D Pixar style, vertical 9:16",
     "voice": "en-US-ChristopherNeural"
   },
   "scenes": [
     {
       "scene_number": 1,
       "speaker": 1,
-      "dialogue": "Antagonist dialogue boasting and denying help (e.g. The canal only flows through my land! If you want water, cry your eyes out!)",
+      "dialogue": "Spoken dialogue establishing the conflict or oppression",
       "emotion": "arrogant",
       "sfx": "whoosh",
       "shake": false,
-      "highlight_word": "WATER",
-      "image_prompt": "Pixar 3D animation style, cinematic lighting. A lush green farm side-by-side with a bone-dry cracked desert farm. Antagonist smirking arrogantly while Protagonist looks on in dismay, vibrant 3D render, 9:16 vertical composition, 8k, no text"
+      "highlight_word": "KEYWORD",
+      "image_prompt": "Pixar 3D animation style, cinematic lighting. Detailed description of the setting and characters, vibrant 3D render, 9:16 vertical composition, 8k, no text"
     },
     {
       "scene_number": 2,
@@ -185,7 +185,7 @@ def generate_fable_story(topic: Optional[str] = None) -> Dict[str, Any]:
     if topic:
         prompt = f"Create a viral 3D animated character fable about: '{topic}'."
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key={GEMINI_API_KEY}"
     payload = {
         "contents": [
             {"role": "user", "parts": [{"text": f"{FABLE_SYSTEM_PROMPT}\n\nTask: {prompt}"}]}

@@ -33,8 +33,9 @@ def run_fable_video(
     print("="*60)
     start_time = time.time()
 
+    import uuid
     timestamp = int(time.time())
-    run_dir = OUTPUT_DIR / f"fable_{timestamp}"
+    run_dir = OUTPUT_DIR / f"fable_{timestamp}_{index}_{uuid.uuid4().hex[:6]}"
     run_dir.mkdir(parents=True, exist_ok=True)
 
     # 1. Fable Script Planning
@@ -54,7 +55,7 @@ def run_fable_video(
 
     # 4. Cinematic Fable Assembly (Emotional zooms, impact shakes, centered subtitles)
     print("\n[Step 4/4] 🎞️ Assembling 3D animated fable with centered viral captions...")
-    final_video = run_dir / f"fable_video_{timestamp}.mp4"
+    final_video = run_dir / f"fable_video_{timestamp}_{index}.mp4"
     success = render_fable_video(
         image_paths=image_paths,
         scene_meta=scene_meta,

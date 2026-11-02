@@ -53,9 +53,11 @@ def generate_wav2lip_clip(
         logger.warning(f"[Wav2Lip] Files missing in {cache_dir}")
         return None
 
-    temp_wav = f"/tmp/w2l_{os.path.basename(str(audio_path))}.wav"
+    import uuid
+    uid = uuid.uuid4().hex[:8]
+    temp_wav = f"/tmp/w2l_{uid}_{os.path.basename(str(audio_path))}.wav"
     ensure_pcm_wav(str(audio_path), temp_wav)
-    temp_out = f"/tmp/w2l_raw_{os.path.basename(str(image_path))}.mp4"
+    temp_out = f"/tmp/w2l_raw_{uid}_{os.path.basename(str(image_path))}.mp4"
 
     cmd = [
         "python3", inference_script,
