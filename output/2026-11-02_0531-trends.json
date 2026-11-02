@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "score": 1131,
+      "url": "https://hackerbooks.org"
+    },
+    {
+      "source": "hackernews",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "score": 58,
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "score": 208,
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 2415,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "score": 60,
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trigger.dev customer environment variables exposed",
+      "score": 42,
+      "url": "https://trigger.dev/blog/security-incident-nov-2026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "score": 235,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 121,
+      "url": "https://github.com/raphlinus/nibnib"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "score": 97,
+      "url": "https://nullprogram.com/blog/2025/02/05/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "score": 151,
+      "url": "https://tibleiz.net/copper/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "score": 196,
+      "url": "https://github.com/ivankovic/omnidiff"
+    },
+    {
+      "source": "hackernews",
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "score": 38,
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "score": 55,
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
+    },
+    {
+      "source": "hackernews",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "score": 61,
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm"
+    },
+    {
+      "source": "hackernews",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 124,
+      "url": "https://arxiv.org/abs/2610.39302"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "grambling state basketball",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "commanders standings",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "el chapo",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "grand ole opry longest serving member",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "austin reaves",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "midterms",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ryan murphy",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "luka stats",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "giants schedule",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "high point basketball",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/memes",
+      "title": "Kiss your ram"
+    },
+    {
+      "source": "r/memes",
+      "title": "Don't be selfish"
+    },
+    {
+      "source": "r/memes",
+      "title": "It's all for RAM and RAM's for all!"
+    },
+    {
+      "source": "r/memes",
+      "title": "Hope I dont get jumped for my 32gb"
+    },
+    {
+      "source": "r/memes",
+      "title": "Its already true"
+    },
+    {
+      "source": "r/memes",
+      "title": "Give it to us RAM and wriggling"
+    },
+    {
+      "source": "r/memes",
+      "title": "Quite understandable"
+    },
+    {
+      "source": "r/memes",
+      "title": "literaly 1984"
+    },
+    {
+      "source": "r/memes",
+      "title": "Think of the poor billionaires"
+    },
+    {
+      "source": "r/memes",
+      "title": "The unrealistic part is that a Potter Adult would immediately get the pun"
+    }
+  ],
+  "errors": []
+}

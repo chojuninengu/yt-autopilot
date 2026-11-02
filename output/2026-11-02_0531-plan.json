@@ -1,0 +1,78 @@
+{
+  "picked_trend": "Binance resumes withdrawals following $6.3 billion breach / Crypto firm Binance covers 90% of losses after $6.3bn hack",
+  "why_viral": "This event is highly viral due to the sheer scale of the financial loss ($6.3 billion), making it one of the largest crypto hacks ever. It involves Binance, a major cryptocurrency exchange, which draws significant attention from investors and the general public concerned about digital asset security. The subsequent announcement of covering 90% of losses adds a dramatic twist, raising questions about security, risk management, and the resilience of centralized crypto platforms.",
+  "core_idea": "Binance, a leading cryptocurrency exchange, was hit by a colossal $6.3 billion security breach. Despite the immense loss, Binance quickly moved to resume withdrawals and announced plans to cover 90% of the stolen funds, prompting discussions about the security of crypto exchanges and the future of digital asset protection.",
+  "video_title": "Binance's $6.3 Billion Hack: Crypto's Biggest Heist and Shocking Recovery",
+  "script": "Imagine losing six point three BILLION dollars overnight. That's what hit crypto giant Binance recently in one of the largest hacks ever recorded. Attackers exploited vulnerabilities, siphoning off a massive sum. The crypto world held its breath, wondering if Binance could survive. But then, a shocker. Binance announced it had resumed withdrawals, claiming to cover a staggering 90% of the losses. This rapid recovery is a double-edged sword. It showcases Binance's strength but also exposes the fragility of even major exchanges. What does this mean for your digital assets?",
+  "scenes": [
+    {
+      "narration": "Imagine losing six point three BILLION dollars overnight. That's what hit crypto giant Binance recently in one of the largest hacks ever recorded.",
+      "visual_keywords": [
+        "falling money",
+        "broken safe",
+        "shocked robot"
+      ],
+      "image_prompt": "A cartoon illustration of a digital safe exploding, with binary code and digital coins scattering everywhere. A small energetic blue robot, Pip, is standing nearby, eyes wide with shock, holding a tiny calculator showing '6.3 BILLION'. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Attackers exploited vulnerabilities, siphoning off a massive sum. The crypto world held its breath, wondering if Binance could survive.",
+      "visual_keywords": [
+        "cyber theft",
+        "digital drain",
+        "anxious crowd"
+      ],
+      "image_prompt": "A shadowy, hooded figure with glowing red eyes, representing a hacker, is digitally pulling a stream of glowing cryptocurrencies out of a large server tower. Pip is frantically trying to block the stream with a small digital shield, looking worried. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "But then, a shocker. Binance announced it had resumed withdrawals, claiming to cover a staggering 90% of the losses.",
+      "visual_keywords": [
+        "recovery",
+        "rebuilding",
+        "money flowing back"
+      ],
+      "image_prompt": "A digital bridge being rapidly rebuilt across a chasm, made of glowing green data streams. On one side, a symbol of a bank vault, on the other, a happy crowd of stylized, abstract figures cheering. Pip is operating a control panel, overseeing the reconstruction with a determined expression. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This rapid recovery is a double-edged sword. It showcases Binance's strength but also exposes the fragility of even major exchanges. What does this mean for your digital assets?",
+      "visual_keywords": [
+        "security question",
+        "balancing act",
+        "digital future"
+      ],
+      "image_prompt": "A cartoon illustration of a large, glowing question mark hovering over two opposing forces: one side showing a strong, locked digital vault, and the other showing a cracked and vulnerable server. Pip is standing between them, looking thoughtful, with gears turning in its head. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Binance's $6.3 Billion Hack: Crypto's Biggest Heist and Shocking Recovery",
+    "description": "A massive $6.3 billion hack hit crypto giant Binance, sending shockwaves through the digital finance world. How did attackers pull off one of the largest heists in crypto history, and how did Binance manage to recover and promise to cover 90% of the losses? This video explains why this story is trending, the vulnerabilities exposed, and what it means for the security of your digital assets. Don't miss out on understanding the implications for the future of cryptocurrency.\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#BinanceHack",
+      "#CryptoNews",
+      "#CyberSecurity",
+      "#Blockchain",
+      "#DigitalAssets",
+      "#FinancialNews",
+      "#Trending"
+    ]
+  },
+  "tiktok": {
+    "caption": "Binance got hit by a $6.3 BILLION hack! 🤯 But then, they did THIS. Why this crypto giant's recovery is blowing minds and what it means for your digital money! #CryptoCrisis #Binance #CyberAttack #WhatHappened (Visuals generated with AI.)",
+    "hashtags": [
+      "#BinanceHack",
+      "#CryptoNews",
+      "#CyberSecurity",
+      "#Blockchain",
+      "#Finance",
+      "#TrendingNow",
+      "#TechExplainer"
+    ]
+  }
+}
