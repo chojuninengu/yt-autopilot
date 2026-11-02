@@ -1,86 +1,76 @@
 {
-  "picked_trend": "HackerTube: YouTube built from videos recommended by HN",
-  "why_viral": "HackerTube is trending because it offers a highly curated, algorithm-free alternative to mainstream video platforms. By leveraging the collective intelligence of the Hacker News community, it filters out noise and presents a focused collection of insightful and relevant tech, science, and educational videos. This community-driven approach resonates with users seeking quality content without the distractions of typical social media algorithms, leading to its rapid adoption and even inspiring spin-offs like 'HackerBooks' and 'Wikihack'.",
-  "core_idea": "The core idea behind HackerTube is to create a valuable, signal-to-noise optimized video consumption experience. It achieves this by automatically aggregating YouTube videos that are frequently shared, upvoted, and discussed within the Hacker News community. This turns a highly respected tech forum into a powerful, human-curated content discovery engine, ensuring that users are exposed to high-quality, relevant, and thought-provoking material.",
-  "video_title": "HackerTube: The Curated YouTube for Tech Minds",
-  "script": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech. That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News. Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation. It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles. So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
+  "picked_trend": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+  "why_viral": "The concept of an 'invisibility cloak' is a deeply ingrained science fiction fantasy that instantly captures human imagination. Making it real, even in the thermal spectrum, is a mind-bending scientific breakthrough that feels like magic becoming reality, creating immediate viral intrigue.",
+  "core_idea": "Scientists have developed a thermal invisibility cloak that redirects heat around an object, making it undetectable to infrared cameras, representing a major leap in stealth technology and thermal control.",
+  "video_title": "The REAL Invisibility Cloak? Scientists Just Made Objects Disappear!",
+  "script": "Forget sci-fi movies! Scientists just created a real-life invisibility cloak, and it's not just a trick of the light. But here's the mind-blower: this cloak works by making objects disappear from THERMAL cameras. It literally redirects heat around an object, making it invisible to infrared detection. Think about it: no heat signature means a drone can't find you, or a building could become undetectable to thermal surveillance. It's a game-changer for stealth technology and energy efficiency. This isn't about magic; it's about controlling energy on a fundamental level. From Harry Potter's cloak to military stealth, thermal invisibility is a huge leap, proving science is always stranger than fiction.",
   "scenes": [
     {
-      "narration": "Feeling lost in YouTube's endless scroll? Imagine a platform where every video is hand-picked by the sharpest minds in tech.",
+      "narration": "Forget sci-fi movies! Scientists just created a real-life invisibility cloak, and it's not just a trick of the light.",
       "visual_keywords": [
-        "Digital noise",
-        "Curated content",
-        "Information overload"
+        "Science lab",
+        "thermal vision",
+        "distortion"
       ],
-      "image_prompt": "A chaotic, overwhelming digital landscape with swirling, indistinguishable video thumbnails. In the foreground, a small, energetic blue robot, Pip, looks overwhelmed but then notices a glowing, inviting pathway forming through the visual noise. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "That's exactly what HackerTube promises. It's a new kind of video platform, featuring only content highly recommended and discussed on Hacker News.",
-      "visual_keywords": [
-        "Hacker News concept",
-        "Curated videos",
-        "Tech community"
-      ],
-      "image_prompt": "A clean, minimalist interface reminiscent of a video player, but instead of typical thumbnails, there are small, stylized badges with a simple 'HN' icon on each video entry. Pip, the blue robot, stands proudly next to it, pointing to the screen with a knowing smile. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "Why is this blowing up? Because it cuts through the noise. No clickbait, no endless autoplay. Just high-quality, insightful videos on programming, science, and innovation.",
-      "visual_keywords": [
-        "Quality content",
-        "Focused learning",
-        "Innovation"
-      ],
-      "image_prompt": "A bright, organized library of virtual video screens, each displaying a distinct, educational topic (e.g., coding symbols, a rocket launching, a simplified brain diagram). Pip is happily exploring, holding a small magnifying glass, clearly finding valuable content. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot of a high-tech science laboratory. In the center, a perfectly smooth, dark, cylindrical object stands on a gleaming metal pedestal. Around it, a subtle, almost invisible shimmer or heat distortion effect is visible, hinting at the cloak's presence. Robotic arms and laser pointers are subtly active in the background, out of focus. NO text, NO watermarks.",
       "motion": "zoom_in"
     },
     {
-      "narration": "It’s about community-driven curation, creating a trusted source for learning. This concept is so powerful, it's already inspired 'HackerBooks' for books and 'Wikihack' for Wikipedia articles.",
+      "narration": "But here's the mind-blower: this cloak works by making objects disappear from THERMAL cameras. It literally redirects heat around an object, making it invisible to infrared detection.",
       "visual_keywords": [
-        "Community wisdom",
-        "Knowledge sharing",
-        "Innovation ecosystem"
+        "Heat signature",
+        "infrared",
+        "thermal map"
       ],
-      "image_prompt": "Pip, the blue robot, is at the center of a circular table. Around the table are three glowing holographic projections: one showing a video play icon (for HackerTube), another an open book (for HackerBooks), and the third a stylized 'W' for Wikipedia (for Wikihack). All are connected by elegant lines representing shared knowledge. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic view as if looking through an advanced infrared camera. A recognizable object (like a mug or small box) is visible in stark red and orange heat signature, then slowly fades into the cool blue and purple background, becoming thermally invisible. The background shows a dimly lit lab environment. NO text, NO watermarks.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "Think about it: no heat signature means a drone can't find you, or a building could become undetectable to thermal surveillance. It's a game-changer for stealth technology and energy efficiency.",
+      "visual_keywords": [
+        "Stealth technology",
+        "drone",
+        "urban surveillance"
+      ],
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot showing a sleek, futuristic stealth drone flying over a nighttime cityscape. Below, an overlay simulating an infrared camera view shows the city's heat signatures, but a specific area where the drone passes is eerily blank, showing no thermal presence. The drone itself is almost perfectly black against the dark sky. NO text, NO watermarks.",
       "motion": "zoom_out"
     },
     {
-      "narration": "So if you're craving a more discerning and valuable video experience, HackerTube might just be your next favorite rabbit hole. Explore smarter, not just longer.",
+      "narration": "This isn't about magic; it's about controlling energy on a fundamental level. From Harry Potter's cloak to military stealth, thermal invisibility is a huge leap, proving science is always stranger than fiction.",
       "visual_keywords": [
-        "Discovery",
-        "Exploration",
-        "Intelligent content"
+        "Breakthrough",
+        "future",
+        "innovation"
       ],
-      "image_prompt": "Pip, the blue robot, stands on a small, vibrant hill, looking out at a horizon filled with bright, glowing, abstract icons representing different knowledge domains (e.g., a gear, a lightbulb, a code bracket). The sky is a gradient of inviting colors, symbolizing potential and new discoveries. Vertical 9:16. Absolutely NO text or letters in the image, NO real people, NO brands.",
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot of a diverse team of scientists (male and female, various ethnicities) in a brightly lit, modern control room, looking at large holographic displays with complex thermal data visualizations. One scientist points excitedly at a display, while others share satisfied smiles. The atmosphere is triumphant and groundbreaking. NO text, NO watermarks.",
       "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "HackerTube: Why Tech's Smartest Are Ditching Regular YouTube",
-    "description": "Ever wish YouTube was less noise, more signal? HackerTube is the answer! This trending platform curates videos exclusively from Hacker News recommendations, offering a goldmine of high-quality tech, science, and educational content. Discover why community-driven curation is changing how we consume video and inspiring projects like HackerBooks and Wikihack. #HackerTube #TechTrends #CuratedContent #HackerNews #Innovation #FacelessExplainer\n\nVisuals generated with AI.",
+    "title": "🤯 REAL Invisibility Cloak? Scientists Make Objects VANISH from Heat!",
+    "description": "Imagine a world where objects disappear... not with magic, but with cutting-edge science! Scientists have just developed a 3D thermal invisibility cloak that can make anything invisible to infrared cameras. This isn't just a sci-fi dream; it's a groundbreaking reality that redirects heat, erasing thermal signatures. Discover how this incredible invention works and its mind-blowing implications for stealth technology, surveillance, and even energy efficiency. Prepare to have your mind blown by the future of science!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#HackerTube",
-      "#TechTrends",
-      "#CuratedContent",
-      "#HackerNews",
-      "#Innovation",
-      "#TechExplained",
-      "#Shorts"
+      "#InvisibilityCloak",
+      "#ScienceBreakthrough",
+      "#ThermalInvisibility",
+      "#FutureTech",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#UnbelievablePhenomena",
+      "#Curiosity"
     ]
   },
   "tiktok": {
-    "caption": "Tired of endless YouTube scrolling? 😩 Meet HackerTube! It's the new platform where every video is hand-picked by the smartest tech minds from Hacker News. No clickbait, just pure knowledge. 🧠✨ Discover why it's blowing up and inspiring new ways to consume content! #HackerTube #TechTrends #HackerNews #CuratedContent #LearnOnTikTok #TechTok #Innovation #ViralTech (Visuals generated with AI.)",
+    "caption": "Wait, is THIS real?! 🤯 Scientists just created a thermal invisibility cloak! No heat signature, no detection. Sci-fi just became science fact! #InvisibilityCloak #ScienceBreakthrough #TechTok #FutureIsNow #MindBlown #ScienceFacts #ThermalVision (Visuals generated with AI.)",
     "hashtags": [
-      "#HackerTube",
-      "#TechTrends",
-      "#HackerNews",
-      "#CuratedContent",
-      "#LearnOnTikTok",
+      "#InvisibilityCloak",
+      "#ScienceBreakthrough",
       "#TechTok",
-      "#Innovation",
-      "#ViralTech",
-      "#Shorts"
+      "#FutureIsNow",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#ThermalVision",
+      "#Curiosity"
     ]
   }
 }

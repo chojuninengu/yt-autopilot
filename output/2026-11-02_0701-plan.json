@@ -1,0 +1,80 @@
+{
+  "picked_trend": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+  "why_viral": "The concept of an 'invisibility cloak' is a deeply ingrained science fiction fantasy that instantly captures human imagination. Making it real, even in the thermal spectrum, is a mind-bending scientific breakthrough that feels like magic becoming reality, creating immediate viral intrigue.",
+  "core_idea": "Scientists have developed a thermal invisibility cloak that redirects heat around an object, making it undetectable to infrared cameras, representing a major leap in stealth technology and thermal control.",
+  "video_title": "The REAL Invisibility Cloak? Scientists Just Made Objects Disappear!",
+  "script": "Forget sci-fi movies! Scientists just created a real-life invisibility cloak, and it's not just a trick of the light. But here's the mind-blower: this cloak works by making objects disappear from THERMAL cameras. It literally redirects heat around an object, making it invisible to infrared detection. Think about it: no heat signature means a drone can't find you, or a building could become undetectable to thermal surveillance. It's a game-changer for stealth technology and energy efficiency. This isn't about magic; it's about controlling energy on a fundamental level. From Harry Potter's cloak to military stealth, thermal invisibility is a huge leap, proving science is always stranger than fiction.",
+  "scenes": [
+    {
+      "narration": "Forget sci-fi movies! Scientists just created a real-life invisibility cloak, and it's not just a trick of the light.",
+      "visual_keywords": [
+        "Science lab",
+        "thermal vision",
+        "distortion"
+      ],
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot of a high-tech science laboratory. In the center, a perfectly smooth, dark, cylindrical object stands on a gleaming metal pedestal. Around it, a subtle, almost invisible shimmer or heat distortion effect is visible, hinting at the cloak's presence. Robotic arms and laser pointers are subtly active in the background, out of focus. NO text, NO watermarks.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "But here's the mind-blower: this cloak works by making objects disappear from THERMAL cameras. It literally redirects heat around an object, making it invisible to infrared detection.",
+      "visual_keywords": [
+        "Heat signature",
+        "infrared",
+        "thermal map"
+      ],
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic view as if looking through an advanced infrared camera. A recognizable object (like a mug or small box) is visible in stark red and orange heat signature, then slowly fades into the cool blue and purple background, becoming thermally invisible. The background shows a dimly lit lab environment. NO text, NO watermarks.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Think about it: no heat signature means a drone can't find you, or a building could become undetectable to thermal surveillance. It's a game-changer for stealth technology and energy efficiency.",
+      "visual_keywords": [
+        "Stealth technology",
+        "drone",
+        "urban surveillance"
+      ],
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot showing a sleek, futuristic stealth drone flying over a nighttime cityscape. Below, an overlay simulating an infrared camera view shows the city's heat signatures, but a specific area where the drone passes is eerily blank, showing no thermal presence. The drone itself is almost perfectly black against the dark sky. NO text, NO watermarks.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't about magic; it's about controlling energy on a fundamental level. From Harry Potter's cloak to military stealth, thermal invisibility is a huge leap, proving science is always stranger than fiction.",
+      "visual_keywords": [
+        "Breakthrough",
+        "future",
+        "innovation"
+      ],
+      "image_prompt": "A hyper-realistic, vertical 9:16 3D cinematic shot of a diverse team of scientists (male and female, various ethnicities) in a brightly lit, modern control room, looking at large holographic displays with complex thermal data visualizations. One scientist points excitedly at a display, while others share satisfied smiles. The atmosphere is triumphant and groundbreaking. NO text, NO watermarks.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 REAL Invisibility Cloak? Scientists Make Objects VANISH from Heat!",
+    "description": "Imagine a world where objects disappear... not with magic, but with cutting-edge science! Scientists have just developed a 3D thermal invisibility cloak that can make anything invisible to infrared cameras. This isn't just a sci-fi dream; it's a groundbreaking reality that redirects heat, erasing thermal signatures. Discover how this incredible invention works and its mind-blowing implications for stealth technology, surveillance, and even energy efficiency. Prepare to have your mind blown by the future of science!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#InvisibilityCloak",
+      "#ScienceBreakthrough",
+      "#ThermalInvisibility",
+      "#FutureTech",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#UnbelievablePhenomena",
+      "#Curiosity"
+    ]
+  },
+  "tiktok": {
+    "caption": "Wait, is THIS real?! 🤯 Scientists just created a thermal invisibility cloak! No heat signature, no detection. Sci-fi just became science fact! #InvisibilityCloak #ScienceBreakthrough #TechTok #FutureIsNow #MindBlown #ScienceFacts #ThermalVision (Visuals generated with AI.)",
+    "hashtags": [
+      "#InvisibilityCloak",
+      "#ScienceBreakthrough",
+      "#TechTok",
+      "#FutureIsNow",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#ThermalVision",
+      "#Curiosity"
+    ]
+  }
+}
