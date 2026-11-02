@@ -1,0 +1,92 @@
+{
+  "picked_trend": "Bones may release proteins that slow aging and extend life span",
+  "why_viral": "The idea that a fundamental part of our body, often considered inert (bones), could hold the key to combating aging and extending life is incredibly captivating and relevant to everyone. It challenges common understanding and offers a glimpse into a healthier future, making it highly shareable.",
+  "core_idea": "New scientific discoveries suggest that bones act as endocrine organs, releasing proteins like osteocalcin that can combat age-related decline, improve cognitive function, and potentially extend lifespan.",
+  "video_title": "Bones: The ULTIMATE Anti-Aging Secret?",
+  "script": "What if the secret to a longer, healthier life wasn't in your diet or exercise alone, but hidden deep inside your bones? Prepare to have your mind blown! Scientists have discovered that bones aren't just passive scaffolds. They're active endocrine organs, releasing powerful proteins directly into your bloodstream! One of these game-changing proteins is called osteocalcin. Studies show it dramatically improves memory, enhances muscle function, and even boosts male fertility! In animal trials, boosting osteocalcin levels significantly slowed age-related decline and extended lifespan. Imagine the profound implications for human longevity and vitality! Could stronger, healthier bones be your ultimate anti-aging secret? This mind-bending discovery is redefining our understanding of youth and wellness. Stay curious!",
+  "scenes": [
+    {
+      "narration": "What if the secret to a longer, healthier life wasn't in your diet or exercise alone, but hidden deep inside your bones? Prepare to have your mind blown!",
+      "visual_keywords": [
+        "human skeleton",
+        "bone marrow",
+        "mystery"
+      ],
+      "image_prompt": "A dramatic, cinematic 3D rendering (vertical 9:16) of a glowing, intricate human skeletal system, focusing on the femur bone. The camera slowly zooms into the internal structure of the bone, revealing a subtle, mysterious energy radiating from within the bone marrow. Dark, atmospheric background with subtle light rays. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Scientists have discovered that bones aren't just passive scaffolds. They're active endocrine organs, releasing powerful proteins directly into your bloodstream!",
+      "visual_keywords": [
+        "bone cells",
+        "protein release",
+        "blood vessels"
+      ],
+      "image_prompt": "A stunning, high-definition 3D cinematic shot (vertical 9:16) showing a cross-section of bone tissue at a microscopic level. Tiny, complex protein molecules are visibly detaching from bone cells and flowing into a network of glowing red and blue blood vessels, illustrating their active release into the bloodstream. Scientific, sterile lab environment in the background. No text or watermarks.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "One of these game-changing proteins is called osteocalcin. Studies show it dramatically improves memory, enhances muscle function, and even boosts male fertility!",
+      "visual_keywords": [
+        "brain activity",
+        "muscle strength",
+        "cellular regeneration"
+      ],
+      "image_prompt": "A dynamic 3D cinematic scene (vertical 9:16) transitioning between three concepts: first, a vibrant, glowing human brain showing neural pathways lighting up; then, a stylized, powerful human muscle fiber contracting with microscopic energy pulses; finally, a representation of healthy, dividing cells. The transitions are fluid and energetic. Futuristic, clean aesthetic. No text or watermarks.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "In animal trials, boosting osteocalcin levels significantly slowed age-related decline and extended lifespan. Imagine the profound implications for human longevity and vitality!",
+      "visual_keywords": [
+        "mice longevity",
+        "age reversal",
+        "futuristic research"
+      ],
+      "image_prompt": "A compelling 3D cinematic visual (vertical 9:16) showing a side-by-side comparison of two mice in clear, sterile lab enclosures. One mouse appears visibly aged and frail, while the other looks youthful and robust. A subtle, glowing aura surrounds the youthful mouse. The background features sophisticated, sleek scientific research equipment in a modern lab. No text or watermarks.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "Could stronger, healthier bones be your ultimate anti-aging secret? This mind-bending discovery is redefining our understanding of youth and wellness. Stay curious!",
+      "visual_keywords": [
+        "healthy person",
+        "glowing bone",
+        "future health"
+      ],
+      "image_prompt": "An inspiring 3D cinematic shot (vertical 9:16) of a vibrant, healthy-looking person (gender neutral, mid-30s) standing confidently, bathed in soft, optimistic light. Superimposed subtly within their body is a glowing, healthy bone structure, emitting a warm, energetic light. The background is a clean, minimalist representation of a bright, hopeful future. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    }
+  ],
+  "youtube": {
+    "title": "Your Bones Are Key To Longevity? Shocking Science Discovery!",
+    "description": "Unlock the secrets within your bones! New research reveals our skeletal system is far more than just structure—it's an active organ releasing proteins that fight aging, boost memory, and extend life. Could osteocalcin be the ultimate anti-aging breakthrough? Dive into this mind-bending discovery reshaping our understanding of youth and vitality! #ScienceBreakthrough #AntiAging #Longevity #Bones #Osteocalcin #Curiosity\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#ScienceBreakthrough",
+      "#AntiAging",
+      "#Longevity",
+      "#Bones",
+      "#Osteocalcin",
+      "#Curiosity",
+      "#HealthScience",
+      "#YouthfulLiving",
+      "#MedicalDiscovery"
+    ]
+  },
+  "tiktok": {
+    "caption": "Did you know your bones might hold the secret to a longer, healthier life? 🤯 Scientists discovered they're pumping out proteins that fight aging! #AntiAging #Longevity #ScienceFacts #MindBlown #HealthTok (Visuals generated with AI.)",
+    "hashtags": [
+      "#AntiAging",
+      "#Longevity",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#HealthTok",
+      "#Bones",
+      "#Curiosity",
+      "#BodySecrets"
+    ]
+  }
+}

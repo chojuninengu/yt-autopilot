@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "WTF Ubuntu?",
+      "score": 185,
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "score": 1712,
+      "url": "https://hackerbooks.org"
+    },
+    {
+      "source": "hackernews",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "score": 685,
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "score": 125,
+      "url": "https://syscall.sh/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+      "score": 41,
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 2741,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+      "score": 18,
+      "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "score": 222,
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "score": 565,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "score": 175,
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "score": 213,
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trigger.dev customer environment variables exposed",
+      "score": 145,
+      "url": "https://trigger.dev/blog/security-incident-nov-2026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "score": 140,
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 173,
+      "url": "https://github.com/raphlinus/nibnib"
+    },
+    {
+      "source": "hackernews",
+      "title": "Never Complain, Never Explain",
+      "score": 90,
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth",
+      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nine killed as small jet crashes on Florida street",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pltr",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "qqqm",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nasdaq composite",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jessica alba",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "brent crude oil price",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "triumph band reunion tour canceled",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "voo stock",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "intel stock price",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "schd",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "palantir stock",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that sailors used to pour oil into the ocean during storms to calm the waves, and ships were required to carry \"storm oil\" for this purpose until the late 20th century."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in WW2, the average age of the combat soldier was 26. In Vietnam, he was 19"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Candace Newmaker, a 10-year-old girl who died in 2000 during a “rebirthing” treatment meant to cure reactive attachment disorder. She was wrapped in flannel and covered with pillows to simulate a birth canal, and was expected to fight her way out of it, suffocating to death during the treatment."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 1960 France tested a nuclear bomb in the Algerian desert that was 4 times stronger than Hiroshima, they didn't warn any of the locals in the surrounding area, and France estimated that roughly 27000 people were harmed by the fallout"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL two pilots flew a Cessna 172 continuously for 64 days, 22 hours and 19 minutes in 1959. Their world record has remained unbeaten for 67 years."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Tadeusz Kościuszko, a Polish engineer, helped Americans beat the British at Saratoga, and went unpaid for 7 years. He then willed his entire US fortune to free enslaved people."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL a entire species of enormous dugong was annihilated within 30 years of their discovery by Europeans"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL although she dropped out from school at 14, Elena Ceaușescu, wife of Nicolae Ceaușescu, passed herself as an eminent chemistry researcher, getting honorary degrees from both Romanian and foreign colleges and having work ghostwritten by actual scientists"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Cats Can’t Taste Sugar"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Dollar is the name of more than 25 currencies and their base units. The United States dollar, named after the international currency known as the Spanish dollar, was established in 1792 and is the first so named that still survives."
+    }
+  ],
+  "errors": []
+}
