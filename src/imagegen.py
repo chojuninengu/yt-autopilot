@@ -173,7 +173,7 @@ def generate_image(prompt: str, out_path: pathlib.Path | str, cfg: dict, seed: i
 
     art_style = cfg.get("art_style", "")
     character = cfg.get("character", {})
-    char_desc = character.get("description", "")
+    char_desc = character.get("description", "") if character.get("enabled", False) else ""
     blocked_terms = cfg.get("blocked_terms", ["mrbeast", "mr beast"])
 
     final_prompt = sanitize_prompt(prompt, art_style, char_desc, blocked_terms)

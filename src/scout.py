@@ -96,10 +96,12 @@ def collect(cfg):
     items, errors = [], []
     jobs = [
         ("hackernews", lambda: hacker_news(cfg.get("hn_limit", 15))),
+        ("science_daily", lambda: rss_feed("https://www.sciencedaily.com/rss/top/science.xml", "science_daily", 10)),
+        ("ars_technica", lambda: rss_feed("https://feeds.arstechnica.com/arstechnica/index", "ars_technica", 10)),
         ("techcrunch", lambda: rss_feed("https://techcrunch.com/feed/", "techcrunch", 10)),
         ("bbc_world", lambda: rss_feed("https://feeds.bbci.co.uk/news/world/rss.xml", "bbc_world", 10)),
         ("google_trends", lambda: google_trends(cfg.get("google_trends_geo", "US"), cfg.get("trends_limit", 15))),
-        ("reddit", lambda: reddit(cfg.get("reddit_subs", ["technology", "OutOfTheLoop"]), cfg.get("reddit_limit", 10))),
+        ("reddit", lambda: reddit(cfg.get("reddit_subs", ["todayilearned", "technology", "OutOfTheLoop", "science"]), cfg.get("reddit_limit", 10))),
     ]
     for name, fn in jobs:
         try:

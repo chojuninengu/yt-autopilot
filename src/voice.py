@@ -3,8 +3,8 @@ import asyncio
 import pathlib
 import edge_tts
 
-DEFAULT_VOICE = "en-US-ChristopherNeural"
-FALLBACK_VOICE = "en-US-GuyNeural"
+DEFAULT_VOICE = "en-US-AvaNeural"
+FALLBACK_VOICE = "en-US-JennyNeural"
 
 
 async def _synthesize(text: str, voice: str, audio_path: pathlib.Path, srt_path: pathlib.Path):
