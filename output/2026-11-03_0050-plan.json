@@ -1,0 +1,87 @@
+{
+  "picked_trend": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+  "why_viral": "This story combines several viral elements: a mysterious 'discovery,' the extreme and enigmatic setting of Antarctica, the involvement of NASA, and an optical illusion. The initial visual is highly captivating and sparks immediate curiosity, leading to a satisfying scientific explanation that still highlights the wonders of nature.",
+  "core_idea": "NASA satellite imagery of Antarctica revealed a natural ice and snow formation that eerily resembles a giant human skull, an incredible example of pareidolia created by glacial erosion and light.",
+  "video_title": "Antarctica's HAUNTING Skull: NASA's Icy Mystery!",
+  "script": "Imagine NASA spots something chilling in the icy expanse of Antarctica. A giant, haunting skull, staring back from the frozen continent! This isn't a scene from a sci-fi movie. This is a real image captured by NASA's Earth Observatory, and it’s taken the internet by storm! But what exactly did they find? Turns out, this chilling discovery isn't an ancient giant or an alien relic. It's a natural phenomenon: an impressive crater formed by glacial erosion and wind. The perfect angle, light, and shadow combined to create an incredible pareidolia – our brains seeing familiar patterns where none truly exist. A mind-bending illusion, courtesy of Mother Nature and NASA's eagle eye.",
+  "scenes": [
+    {
+      "narration": "Imagine NASA spots something chilling in the icy expanse of Antarctica. A giant, haunting skull, staring back from the frozen continent!",
+      "visual_keywords": [
+        "Antarctica",
+        "ice skull",
+        "mystery"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic shot from above, showcasing a vast, desolate Antarctic landscape. In the center, a massive, naturally formed ice and snow structure eerily resembles a human skull, with dark, hollow 'eye sockets' and a defined 'jawline' carved by shadows. The sun casts a harsh, dramatic light, emphasizing the skull's haunting features. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "This isn't a scene from a sci-fi movie. This is a real image captured by NASA's Earth Observatory, and it’s taken the internet by storm!",
+      "visual_keywords": [
+        "Satellite image",
+        "frozen land",
+        "NASA data"
+      ],
+      "image_prompt": "A high-tech, futuristic control room with multiple holographic screens displaying satellite imagery of Antarctica. One large screen shows a detailed, vibrant satellite map focusing on the skull-like formation, with subtle scientific data overlays. Scientists in clean lab coats are observing with focused intensity, gesturing at the screens. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "But what exactly did they find? Turns out, this chilling discovery isn't an ancient giant or an alien relic. It's a natural phenomenon: an impressive crater formed by glacial erosion and wind.",
+      "visual_keywords": [
+        "Glacial erosion",
+        "ice crater",
+        "wind patterns"
+      ],
+      "image_prompt": "A powerful 3D cinematic close-up of the 'skull' formation, revealing intricate details of ice, snow, and exposed rock. Wind patterns are subtly visible as swirling snow drifts around the edges, showing the forces of nature sculpting the landscape. The crater's depth and texture are highlighted. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "The perfect angle, light, and shadow combined to create an incredible pareidolia – our brains seeing familiar patterns where none truly exist. A mind-bending illusion, courtesy of Mother Nature and NASA's eagle eye.",
+      "visual_keywords": [
+        "Optical illusion",
+        "brain perception",
+        "nature's art"
+      ],
+      "image_prompt": "A visually artistic 3D cinematic shot blending the 'skull' formation with abstract representations of neural pathways and human eyes. The ice formation slowly transforms, subtly revealing the natural contours of the landscape, while faint, glowing lines symbolize brain activity perceiving the pattern. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Antarctica's HAUNTING Skull: NASA's Icy Mystery Explained! #Curiosity",
+    "description": "NASA satellites spotted a massive, skull-shaped formation in the ice of Antarctica, sparking global curiosity! Is it an ancient relic, an alien secret, or something even stranger? Join us as we uncover the scientific explanation behind this mind-bending natural phenomenon and explore how our brains play tricks on us. You won't believe what's really lurking in the Antarctic ice!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#Antarctica",
+      "#NASA",
+      "#Mystery",
+      "#Skull",
+      "#IceFormation",
+      "#OpticalIllusion",
+      "#Pareidolia",
+      "#ScienceFacts",
+      "#Curiosity",
+      "#Explainer",
+      "#ViralMystery",
+      "#EarthObservatory"
+    ]
+  },
+  "tiktok": {
+    "caption": "NASA found a GIANT SKULL in Antarctica! 🤯 Is it real? What IS this chilling formation? The truth is mind-blowing! #Antarctica #NASA #Mystery #Skull #Ice #Science #OpticalIllusion #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#Antarctica",
+      "#NASA",
+      "#Mystery",
+      "#Skull",
+      "#Ice",
+      "#Science",
+      "#OpticalIllusion",
+      "#Pareidolia",
+      "#Curiosity",
+      "#DidYouKnow",
+      "#Viral"
+    ]
+  }
+}
