@@ -23,25 +23,28 @@ STORIES = [
     {
         "id": 1,
         "topic": (
-            "A lion cub who grew up in a flock of sheep, bleating and grazing timidly like a sheep without knowing his true royal origin. "
-            "When a vicious wolf attacks the herd, he catches his reflection in the water, awakens his kingly identity, "
-            "and lets out a thunderous roar that shakes the valley and protects the flock."
+            "The Gorilla Gamer's Glitch: A young man endures a ridiculously unlucky life where nothing makes sense, "
+            "until one day he freezes in mid-air with a giant glowing PAUSE sign in the clouds. "
+            "Glitching through the sky, he discovers his entire life is an arcade game being played by Barnaby, "
+            "a 400-pound silverback gorilla wearing a gaming headset in an intergalactic arcade."
         )
     },
     {
         "id": 2,
         "topic": (
-            "A gentle and brave black goat who is bullied, excluded, and mocked by a herd of proud white goats because of his dark coat (racism and prejudice). "
-            "When a dangerous blizzard and mountain predator strikes the herd, the black goat demonstrates supreme courage and strength, "
-            "saving all the white goats and humbling their pride with a powerful lesson on dignity and true worth."
+            "The Crocodile Who Thought He Was a Handbag: A gentle baby crocodile who hates fighting and loves sunbathing "
+            "completely motionless is mistaken for a luxury Italian handbag by a Paris fashion stylist. "
+            "Carried onto the runway of Milan Fashion Week, his unblinking stillness becomes an international sensation, "
+            "turning him into the world's highest-paid luxury fashion supermodel."
         )
     },
     {
         "id": 3,
         "topic": (
-            "A black Africa evolution and spiritual awakening through the gospel of Christ Jesus: "
-            "from ancient trials and spiritual bondage to rising in unshakeable faith, vibrant joyful worship, healing, unity, "
-            "and divine light, transforming villages and nations through the love, sacrifice, and redemption of Jesus Christ."
+            "The Fisherman Who Reeled in the Moon's Reflection: Old Ezekiel casts his fishing line into a midnight lake, "
+            "snags something impossibly heavy, and accidentally hooks and pulls the glowing physical reflection of the moon "
+            "right out of the water. As the sky plunges into pitch darkness, Ezekiel and a frantic forest owl "
+            "must launch the glowing moon back into the sky using a giant willow tree slingshot before sunrise."
         )
     }
 ]

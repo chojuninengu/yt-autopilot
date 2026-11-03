@@ -27,10 +27,10 @@ def render_fable_video(
         is_shake = meta.get("shake", False)
         audio_file = meta.get("audio_path")
 
-        # 1. Attempt local AI lip-sync (Wav2Lip)
+        # 1. Attempt local AI lip-sync (Wav2Lip) only if explicitly enabled
         has_lipsync = False
         import os
-        if audio_file and Path(audio_file).exists() and not os.getenv("SKIP_WAV2LIP"):
+        if audio_file and Path(audio_file).exists() and os.getenv("ENABLE_WAV2LIP", "0") == "1":
             from .character_animator import generate_wav2lip_clip
             w2l_clip = generate_wav2lip_clip(str(img), str(audio_file), str(clip_path), target_width=width, target_height=height)
             if w2l_clip and Path(w2l_clip).exists() and Path(w2l_clip).stat().st_size > 5000:

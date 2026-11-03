@@ -33,7 +33,8 @@ def upload_to_youtube(video_path: Path, title: str, description: str, tags: list
 def host_video_for_buffer(video_path: Path) -> Optional[str]:
     """Hosts local video on GitHub Releases so Buffer can fetch and publish it to TikTok."""
     tag = f"v-studio-{datetime.date.today().isoformat()}"
-    filename = f"studio_{int(datetime.datetime.now().timestamp())}.mp4"
+    import uuid
+    filename = f"studio_{int(datetime.datetime.now().timestamp())}_{uuid.uuid4().hex[:6]}.mp4"
     staged_file = video_path.parent / filename
     
     # Copy to unique filename
