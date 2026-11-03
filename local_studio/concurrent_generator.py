@@ -23,28 +23,30 @@ STORIES = [
     {
         "id": 1,
         "topic": (
-            "The Gorilla Gamer's Glitch: A young man endures a ridiculously unlucky life where nothing makes sense, "
-            "until one day he freezes in mid-air with a giant glowing PAUSE sign in the clouds. "
-            "Glitching through the sky, he discovers his entire life is an arcade game being played by Barnaby, "
-            "a 400-pound silverback gorilla wearing a gaming headset in an intergalactic arcade."
+            "Don Coo-leone: The Pigeon Mafia Boss of Paris. "
+            "Tourists think city pigeons bob their heads because of bird biology. In reality, "
+            "a plump grey pigeon wearing a tiny fedora named Don Coo-leone runs an underground "
+            "pastry extortion syndicate behind a luxury French bakery, collecting a strict 10% croissant tax "
+            "from all the neighborhood sparrows and ducks with his feather-suited enforcers."
         )
     },
     {
         "id": 2,
         "topic": (
-            "The Crocodile Who Thought He Was a Handbag: A gentle baby crocodile who hates fighting and loves sunbathing "
-            "completely motionless is mistaken for a luxury Italian handbag by a Paris fashion stylist. "
-            "Carried onto the runway of Milan Fashion Week, his unblinking stillness becomes an international sensation, "
-            "turning him into the world's highest-paid luxury fashion supermodel."
+            "The WiFi Signal That Sued the Microwave. "
+            "Sparky, an adorable, energetic glowing little blue 5GHz WiFi sprite, files an official lawsuit "
+            "in kitchen appliance small-claims court against Bertha, the stubborn humming microwave, "
+            "for electromagnetic assault and disconnecting gamers every time someone heats up leftover pizza."
         )
     },
     {
         "id": 3,
         "topic": (
-            "The Fisherman Who Reeled in the Moon's Reflection: Old Ezekiel casts his fishing line into a midnight lake, "
-            "snags something impossibly heavy, and accidentally hooks and pulls the glowing physical reflection of the moon "
-            "right out of the water. As the sky plunges into pitch darkness, Ezekiel and a frantic forest owl "
-            "must launch the glowing moon back into the sky using a giant willow tree slingshot before sunrise."
+            "Nitro Snail: The Speed Demon of the Garden. "
+            "Sheldon, the slowest and most mocked garden snail in the backyard, accidentally sips "
+            "a glowing drop of spilled rocket nitro fuel in an auto mechanic's garage. "
+            "His shell suddenly sprouts dual chrome exhaust pipes spitting roaring blue flames, "
+            "blasting him past speeding supercars on the highway at 200 miles per hour."
         )
     }
 ]

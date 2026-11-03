@@ -32,9 +32,10 @@ def upload_to_youtube(video_path: Path, title: str, description: str, tags: list
 
 def host_video_for_buffer(video_path: Path) -> Optional[str]:
     """Hosts local video on GitHub Releases so Buffer can fetch and publish it to TikTok."""
-    tag = f"v-studio-{datetime.date.today().isoformat()}"
     import uuid
-    filename = f"studio_{int(datetime.datetime.now().timestamp())}_{uuid.uuid4().hex[:6]}.mp4"
+    uid = uuid.uuid4().hex[:6]
+    tag = f"v-studio-{datetime.date.today().isoformat()}-{uid}"
+    filename = f"studio_{int(datetime.datetime.now().timestamp())}_{uid}.mp4"
     staged_file = video_path.parent / filename
     
     # Copy to unique filename
@@ -43,15 +44,12 @@ def host_video_for_buffer(video_path: Path) -> Optional[str]:
 
     print(f"[Publisher] Uploading {filename} to GitHub release '{tag}'...")
     try:
-        # Check if release exists, if not create it
-        check_cmd = ["gh", "release", "view", tag]
-        if subprocess.run(check_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode != 0:
-            create_cmd = ["gh", "release", "create", tag, str(staged_file), "--title", f"Local Studio Releases {tag}", "--notes", "Automated local studio uploads"]
-            subprocess.run(create_cmd, check=True)
-        else:
-            upload_cmd = ["gh", "release", "upload", tag, str(staged_file), "--clobber"]
-            subprocess.run(upload_cmd, check=True)
-
+        create_cmd = [
+            "gh", "release", "create", tag, str(staged_file),
+            "--title", f"Local Studio Release {tag}",
+            "--notes", "Automated local studio upload"
+        ]
+        subprocess.run(create_cmd, check=True)
         public_url = f"https://github.com/chojuninengu/yt-autopilot/releases/download/{tag}/{filename}"
         print(f"[Publisher] Video hosted publicly at: {public_url}")
         return public_url

@@ -107,7 +107,7 @@ def render_fable_video(
         final_cmd = [
             "ffmpeg", "-y", "-i", str(unsubbed),
             "-vf", sub_filter,
-            "-c:v", "libx264", "-preset", "fast", "-c:a", "copy",
+            "-c:v", "libx264", "-preset", "fast", "-crf", "25", "-c:a", "copy",
             str(output_path)
         ]
         subprocess.run(final_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
