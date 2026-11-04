@@ -11,11 +11,46 @@ from .config import PROJECT_ROOT, BUFFER_ACCESS_TOKEN, YOUTUBE_TOKEN
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-def upload_to_youtube(video_path: Path, title: str, description: str, tags: list, privacy: str = "public") -> Optional[str]:
-    """Uploads video directly to YouTube Shorts via YouTube Data API."""
+def upload_to_youtube(
+    video_path: Path,
+    title: str,
+    description: str,
+    tags: list,
+    privacy: str = "public",
+    public_url: Optional[str] = None
+) -> Optional[str]:
+    """Uploads video to YouTube Shorts. Prioritizes Buffer connected channel to avoid OAuth 7-day expiration, with fallback to direct YouTube Data API."""
+    # 1. Try publishing via Buffer if configured
+    if BUFFER_ACCESS_TOKEN:
+        try:
+            from src.buffer_upload import post_video_to_buffer, get_channels
+            channels = get_channels()
+            has_yt = any(ch.get("service", "").lower() == "youtube" for ch in channels)
+            if has_yt:
+                print(f"[Publisher] Uploading to YouTube via Buffer connected channel...")
+                if not public_url:
+                    public_url = host_video_for_buffer(video_path)
+                if public_url:
+                    full_text = f"{title}\n\n{description}" if title not in description else description
+                    result = post_video_to_buffer(
+                        video_url=public_url,
+                        text=full_text,
+                        service="youtube",
+                        share_mode="shareNow",
+                        dry_run=False,
+                        title=title,
+                        privacy=privacy
+                    )
+                    post_id = result.get("id")
+                    print(f"[Publisher] Successfully published to YouTube via Buffer! Post ID: {post_id}")
+                    return post_id
+        except Exception as e:
+            print(f"[Publisher] Buffer YouTube dispatch failed ({e}), attempting direct YouTube API...")
+
+    # 2. Fallback to direct YouTube Data API
     try:
-        from src.youtube_upload import upload_video, get_credentials
-        print(f"[Publisher] Uploading to YouTube: '{title}'...")
+        from src.youtube_upload import upload_video
+        print(f"[Publisher] Uploading directly to YouTube API: '{title}'...")
         video_id = upload_video(
             video_path=video_path,
             title=title,
@@ -27,11 +62,11 @@ def upload_to_youtube(video_path: Path, title: str, description: str, tags: list
         print(f"[Publisher] URL: https://youtube.com/shorts/{video_id}")
         return video_id
     except Exception as e:
-        print(f"[Publisher] YouTube upload failed: {e}")
+        print(f"[Publisher] Direct YouTube upload failed: {e}")
         return None
 
 def host_video_for_buffer(video_path: Path) -> Optional[str]:
-    """Hosts local video on GitHub Releases so Buffer can fetch and publish it to TikTok."""
+    """Hosts local video on GitHub Releases so Buffer can fetch and publish it to TikTok & YouTube."""
     import uuid
     uid = uuid.uuid4().hex[:6]
     tag = f"v-studio-{datetime.date.today().isoformat()}-{uid}"
@@ -57,13 +92,14 @@ def host_video_for_buffer(video_path: Path) -> Optional[str]:
         print(f"[Publisher] Warning: Failed to host video via gh CLI ({e})")
         return None
 
-def upload_to_tiktok(video_path: Path, caption: str, tags: list) -> Optional[str]:
+def upload_to_tiktok(video_path: Path, caption: str, tags: list, public_url: Optional[str] = None) -> Optional[str]:
     """Uploads video to TikTok via Buffer GraphQL API."""
     if not BUFFER_ACCESS_TOKEN:
         print("[Publisher] BUFFER_ACCESS_TOKEN not set, skipping TikTok upload.")
         return None
 
-    public_url = host_video_for_buffer(video_path)
+    if not public_url:
+        public_url = host_video_for_buffer(video_path)
     if not public_url:
         print("[Publisher] Cannot upload to TikTok without public URL.")
         return None
@@ -94,10 +130,15 @@ def publish_video(video_path: Path, plan: Dict[str, Any], platforms: list = None
     tags = plan.get("hashtags", ["#shorts", "#viral"])
     description = f"{caption}\n\n{' '.join(tags)}"
 
+    # Host video once if Buffer is used by either platform
+    public_url = None
+    if BUFFER_ACCESS_TOKEN and any(p in platforms for p in ["tiktok", "youtube"]):
+        public_url = host_video_for_buffer(video_path)
+
     results = {}
     if "youtube" in platforms:
-        results["youtube"] = upload_to_youtube(video_path, title, description, tags)
+        results["youtube"] = upload_to_youtube(video_path, title, description, tags, public_url=public_url)
     if "tiktok" in platforms:
-        results["tiktok"] = upload_to_tiktok(video_path, caption, tags)
+        results["tiktok"] = upload_to_tiktok(video_path, caption, tags, public_url=public_url)
 
     return results

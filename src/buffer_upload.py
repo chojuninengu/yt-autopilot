@@ -82,9 +82,12 @@ def post_video_to_buffer(
     text: str,
     service: str = "tiktok",
     share_mode: str = "shareNow",
-    dry_run: bool = False
+    dry_run: bool = False,
+    title: str | None = None,
+    category_id: str = "24",
+    privacy: str = "public"
 ) -> dict:
-    """Post video to Buffer channel (e.g. TikTok) using a direct publicly accessible MP4 URL."""
+    """Post video to Buffer channel (e.g. TikTok, YouTube) using a direct publicly accessible MP4 URL."""
     channels = get_channels()
     target_channel = None
     for ch in channels:
@@ -129,22 +132,33 @@ def post_video_to_buffer(
     }
     """
 
-    variables = {
-      "input": {
+    post_input = {
         "channelId": channel_id,
         "text": text,
         "mode": share_mode,
         "schedulingType": "automatic",
         "needsApproval": False,
         "assets": [
-          {
-            "video": {
-              "url": video_url
+            {
+                "video": {
+                    "url": video_url
+                }
             }
-          }
         ]
-      }
     }
+
+    if service.lower() == "youtube":
+        yt_title = (title or text.split("\n")[0]).strip()[:95]
+        post_input["metadata"] = {
+            "youtube": {
+                "title": yt_title,
+                "categoryId": str(category_id),
+                "privacy": privacy.lower(),
+                "madeForKids": False
+            }
+        }
+
+    variables = {"input": post_input}
 
     result = execute_graphql(mutation, variables)
     create_post_result = result.get("createPost", {})
