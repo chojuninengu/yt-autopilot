@@ -23,30 +23,29 @@ STORIES = [
     {
         "id": 1,
         "topic": (
-            "Don Coo-leone: The Pigeon Mafia Boss of Paris. "
-            "Tourists think city pigeons bob their heads because of bird biology. In reality, "
-            "a plump grey pigeon wearing a tiny fedora named Don Coo-leone runs an underground "
-            "pastry extortion syndicate behind a luxury French bakery, collecting a strict 10% croissant tax "
-            "from all the neighborhood sparrows and ducks with his feather-suited enforcers."
+            "The Little Girl Who Adopted a Dragon Kitten. "
+            "Lily, an innocent, sweet 5-year-old little girl with pigtails (child voice), finds a giant fiery red dragon "
+            "named Ignis (deep roaring monster voice) hiding in the backyard and brings him inside convinced he is just a big lost kitten. "
+            "When Ignis accidentally breathes smoke on the curtains, Lily firmly scolds him like a naughty puppy, "
+            "melting the fierce beast's heart until he purrs like a giant furnace."
         )
     },
     {
         "id": 2,
         "topic": (
-            "The WiFi Signal That Sued the Microwave. "
-            "Sparky, an adorable, energetic glowing little blue 5GHz WiFi sprite, files an official lawsuit "
-            "in kitchen appliance small-claims court against Bertha, the stubborn humming microwave, "
-            "for electromagnetic assault and disconnecting gamers every time someone heats up leftover pizza."
+            "Nonna Maria vs The Raccoon Jewel Thief. "
+            "Nonna Maria, a feisty, sharp-tongued grandmother armed with a wooden rolling pin (expressive elderly woman voice), "
+            "catches Sly, a smooth-talking raccoon thief wearing a tiny silk bandit mask (suave cocky male voice), "
+            "trying to break into her safe to steal her legendary secret lasagna recipe."
         )
     },
     {
         "id": 3,
         "topic": (
-            "Nitro Snail: The Speed Demon of the Garden. "
-            "Sheldon, the slowest and most mocked garden snail in the backyard, accidentally sips "
-            "a glowing drop of spilled rocket nitro fuel in an auto mechanic's garage. "
-            "His shell suddenly sprouts dual chrome exhaust pipes spitting roaring blue flames, "
-            "blasting him past speeding supercars on the highway at 200 miles per hour."
+            "The Boy Who Planted a Magic Jellybean. "
+            "Leo, an excited 8-year-old boy (young boy child voice), buries a glowing blue jellybean in the garden "
+            "hoping for a miracle. Minutes later, an ancient, towering talking Candy Tree named Barnaby (deep wise elder voice) "
+            "erupts from the soil, cracking sarcastic jokes and raining down rainbow sour gummies on the neighborhood kids."
         )
     }
 ]

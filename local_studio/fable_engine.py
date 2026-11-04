@@ -15,6 +15,29 @@ Beat 4 (The Tables Turn): The crisis shifts. The former bullies or mockers stand
 Beat 5 (The Reckoning / Appeal): The confrontation or confession where the former arrogance melts into remorse, shock, or transformation.
 Beat 6 (Triumph & Moral Payoff): The unforgettable moral punchline of dignity, truth, redemption, and victory!
 
+CRITICAL CHARACTER VOICE CASTING:
+You MUST assign distinct, appropriate voices to character_1 and character_2 from this Voice Palette based on age, gender, and personality:
+- CHILDREN & CUTE CREATURES (kids, baby animals, sprites, cute bugs, tiny snails):
+  • "en-US-AnaNeural" (Cute, innocent young child, high clarity cartoon)
+  • "en-GB-MaisieNeural" (Cheerful British child/young girl)
+- FEMALE CHARACTERS (heroines, mothers, queens, sassy women):
+  • "en-US-AvaNeural" (Warm, expressive, crystal-clear American female lead)
+  • "en-US-EmmaNeural" (Gentle, emotional, heartfelt female)
+  • "en-US-JennyNeural" (Upbeat, youthful, energetic female)
+  • "en-US-AriaNeural" (Dramatic, intense, commanding female)
+  • "en-GB-SoniaNeural" (Sophisticated, elegant British female or villainess)
+  • "en-US-MichelleNeural" (Sarcastic, humorous modern female)
+- MALE CHARACTERS (young men, relatable heroes, energetic leads):
+  • "en-US-BrianNeural" (Modern, punchy, charismatic young adult male)
+  • "en-US-AndrewNeural" (Warm, honest, youthful male)
+  • "en-US-GuyNeural" (Energetic, confident, action male)
+  • "en-GB-RyanNeural" (Refined, crisp British male)
+- ELDERS, DEEP GIANTS, BOSSES & MONSTERS (grandparents, mafia bosses, lions, deep monsters):
+  • "en-US-ChristopherNeural" (Deep, authoritative elder/narrator)
+  • "en-US-EricNeural" (Deep, booming, raspy, powerful male)
+
+NOTE: character_1 and character_2 MUST NEVER share the same voice! Create sharp, entertaining contrast (e.g. child vs adult, deep monster vs cute sprite, female vs male).
+
 Return ONLY a valid JSON object with this exact schema:
 {
   "title": "Viral Title under 60 chars",
@@ -22,14 +45,18 @@ Return ONLY a valid JSON object with this exact schema:
   "caption": "Viral post description with hook",
   "hashtags": ["#animation", "#pixar", "#story", "#inspiration", "#fable", "#shorts"],
   "character_1": {
-    "name": "Character 1 Name (Antagonist / Elder / Society / Herald)",
+    "name": "Character 1 Name (e.g. Don Coo-leone / Bertha)",
+    "gender": "male" | "female" | "child" | "elder" | "creature",
     "description": "Visual character description, 3D Pixar style, vertical 9:16",
-    "voice": "en-US-GuyNeural"
+    "voice": "Choose appropriate voice from palette above (e.g. en-US-EricNeural)",
+    "pitch": "+0Hz"
   },
   "character_2": {
-    "name": "Character 2 Name (Protagonist / Hero)",
+    "name": "Character 2 Name (e.g. Sparky / Sheldon)",
+    "gender": "male" | "female" | "child" | "elder" | "creature",
     "description": "Visual character description, 3D Pixar style, vertical 9:16",
-    "voice": "en-US-ChristopherNeural"
+    "voice": "Choose contrasting voice from palette above (e.g. en-US-AnaNeural)",
+    "pitch": "+12Hz"
   },
   "scenes": [
     {
