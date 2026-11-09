@@ -116,7 +116,46 @@ def main():
         )
         print(f"\nPhase 3 Complete! Video is live at https://youtu.be/{video_id} ({privacy})")
     except Exception as ex:
-        sys.exit(f"Upload failed: {ex}")
+        print(f"[Phase 3] Direct YouTube API upload failed: {ex}")
+        buffer_token = os.environ.get("BUFFER_ACCESS_TOKEN")
+        if not buffer_token:
+            try:
+                from buffer_upload import get_buffer_token
+                buffer_token = get_buffer_token()
+            except Exception:
+                buffer_token = None
+
+        if buffer_token:
+            print("[Phase 3] Attempting YouTube upload fallback via Buffer...")
+            try:
+                from buffer_upload import post_video_to_buffer
+                tag = os.environ.get("TAG")
+                run_id = os.environ.get("RUN_ID")
+                video_url = None
+                if tag and run_id:
+                    repo = os.environ.get("GITHUB_REPOSITORY", "chojuninengu/yt-autopilot")
+                    video_url = f"https://github.com/{repo}/releases/download/{tag}/{run_id}-video.mp4"
+
+                if not video_url:
+                    from local_studio.publisher import host_video_for_buffer
+                    video_url = host_video_for_buffer(video_path)
+
+                if video_url:
+                    post_info = post_video_to_buffer(
+                        video_url=video_url,
+                        text=description,
+                        service="youtube",
+                        share_mode="shareNow",
+                        title=title,
+                        privacy=privacy
+                    )
+                    post_id = post_info.get("id")
+                    print(f"\nPhase 3 Complete via Buffer! Post ID: {post_id}")
+                    return
+            except Exception as b_ex:
+                print(f"[Phase 3] Buffer YouTube fallback also failed: {b_ex}")
+
+        print(f"[Phase 3] Warning: YouTube upload could not be completed ({ex}), continuing pipeline...")
 
 
 if __name__ == "__main__":
