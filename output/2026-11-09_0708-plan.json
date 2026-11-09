@@ -1,0 +1,85 @@
+{
+  "picked_trend": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+  "why_viral": "The idea that Mars, long considered a geologically 'dead' planet, might still have active volcanic processes is a mind-bending revelation. It challenges fundamental scientific assumptions and opens up thrilling new possibilities for the existence of subsurface water and even life, making it highly engaging for a broad audience.",
+  "core_idea": "Recent detection of sulfur dioxide gas plumes on Mars indicates potential ongoing volcanic activity, radically changing our understanding of the Red Planet's geology and habitability.",
+  "video_title": "Is Mars ALIVE? Mysterious Gas Leaks Hint at Active Volcanoes!",
+  "script": "For decades, Mars has been seen as a cold, dead world. But new evidence is flipping that entire narrative on its head. Scientists have just detected mysterious sulfur dioxide plumes escaping from the Red Planet. On Earth, these gas signatures usually point to one thing: active volcanoes! This groundbreaking discovery suggests Mars might not be geologically dead after all. Imagine, internal heat, potential for subsurface water, and entirely new possibilities for life! Are we witnessing ancient Martian volcanoes reawakening, or has this activity been hidden beneath the surface all along? The implications for future space exploration are monumental.",
+  "scenes": [
+    {
+      "narration": "For decades, Mars has been seen as a cold, dead world. But new evidence is flipping that entire narrative on its head.",
+      "visual_keywords": [
+        "Mars",
+        "desolate",
+        "mystery"
+      ],
+      "image_prompt": "A dramatic, vertical 9:16 cinematic shot of the Martian surface at twilight. Craggy red rock formations stretch into the distance under a dusty orange sky, with a hint of an ancient, dried riverbed. A faint, ethereal, shimmering plume of gas rises from a fissure in the rock. NO text, NO watermarks, NO brands.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Scientists have just detected mysterious sulfur dioxide plumes escaping from the Red Planet. On Earth, these gas signatures usually point to one thing: active volcanoes!",
+      "visual_keywords": [
+        "gas plume",
+        "observatory",
+        "data"
+      ],
+      "image_prompt": "A high-tech Martian rover, equipped with advanced sensors, positioned on a rocky Martian landscape. In the background, a distinct, light-colored gas plume is subtly rising from a distant crater or fissure. The scene is bathed in a soft, alien light. Vertical 9:16. NO text, NO watermarks, NO brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "This groundbreaking discovery suggests Mars might not be geologically dead after all. Imagine, internal heat, potential for subsurface water, and entirely new possibilities for life!",
+      "visual_keywords": [
+        "molten core",
+        "water",
+        "life"
+      ],
+      "image_prompt": "A stylized, cross-section view of Mars, showing a glowing, molten core. Veins of glowing orange magma extend upwards towards the surface, where pockets of blue liquid water are depicted beneath the crust. Above the surface, a faint, translucent green aura suggests potential for life. Vertical 9:16. NO text, NO watermarks, NO brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "Are we witnessing ancient Martian volcanoes reawakening, or has this activity been hidden beneath the surface all along? The implications for future space exploration are monumental.",
+      "visual_keywords": [
+        "space exploration",
+        "future",
+        "wonder"
+      ],
+      "image_prompt": "An astronaut in a futuristic suit stands on a high cliff overlooking a vast Martian canyon, gazing at the horizon. In the distance, faint, wispy plumes of gas are visible against the deep red sky. A sleek, advanced spacecraft is partially visible, landed nearby. Vertical 9:16. NO text, NO watermarks, NO brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Is Mars ALIVE? Mysterious Gas Leaks Hint at Active Volcanoes!",
+    "description": "Prepare to have your mind blown! For decades, we thought Mars was a cold, geologically dead planet. But new scientific findings are shaking up everything we know! Discover how mysterious sulfur dioxide plumes detected on the Red Planet suggest it might be volcanically active. This groundbreaking revelation could mean internal heat, subsurface water, and even new possibilities for life. What does this mean for the future of space exploration? Watch to find out!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#Mars",
+      "#Space",
+      "#Volcanoes",
+      "#Science",
+      "#Discovery",
+      "#RedPlanet",
+      "#Astronomy",
+      "#Mystery",
+      "#NASA",
+      "#ESA",
+      "#Curiosity"
+    ]
+  },
+  "tiktok": {
+    "caption": "Mars, volcanically active? 🤯 New gas leaks suggest the Red Planet isn't as 'dead' as we thought! Could this mean water, heat, and even life beneath the surface? #Mars #Space #Volcanoes #ScienceFacts #Mystery #Discovery #RedPlanet #AlienLife (Visuals generated with AI.)",
+    "hashtags": [
+      "#Mars",
+      "#Space",
+      "#Volcanoes",
+      "#ScienceFacts",
+      "#Mystery",
+      "#Discovery",
+      "#RedPlanet",
+      "#AlienLife",
+      "#Astronomy",
+      "#DidYouKnow"
+    ]
+  }
+}

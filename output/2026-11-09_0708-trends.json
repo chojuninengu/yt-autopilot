@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "score": 385,
+      "url": "https://ketchup3d.github.io/app/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Unlocking any car from X brand in most of the world",
+      "score": 227,
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm not convinced the AI bubble exists",
+      "score": 178,
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chimera Vocal Synth",
+      "score": 171,
+      "url": "https://chimera-vocal-synth.vercel.app/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Declarative Dragging",
+      "score": 470,
+      "url": "https://declarative-dragging.github.io/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "score": 253,
+      "url": "https://duxlabs.dev/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "score": 354,
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "score": 189,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "score": 533,
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Critique of GPUI",
+      "score": 70,
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui"
+    },
+    {
+      "source": "hackernews",
+      "title": "RIP, Harvest",
+      "score": 289,
+      "url": "https://aphyr.com/posts/427-rip-harvest"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "score": 16,
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "score": 48,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "score": 710,
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+      "source": "hackernews",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "score": 405,
+      "url": "https://github.com/synchopate/llama-modchip"
+    },
+    {
+      "source": "science_daily",
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists just found dinosaur blood that survived 115 million years",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "10",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "joseph baena",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "michaella love is blind",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jimmy fallon",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "rockstar gta 6 new screenshots",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "magda linette",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "杭州临平",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "denzel washington",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "janice tjen",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "delhi aqi",
+      "traffic": "200+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Whoopi Goldberg's real name is Caryn Johnson, and she adopted the last name \"Goldberg\" at her mother's suggestion because a Jewish-sounding name gave her a better chance of making it in Hollywood."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL chewing gum can release tiny plastic particles directly into your saliva. Researchers discovered that as gum is chewed, microscopic particles gradually break away from its structure and mix with your saliva."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL After losses or ties, Ohio State coach Woody Hayes conducted locker room interviews while completely naked. A journalist from his tenure noted, \"He was an ugly guy so it would clear the locker room out pretty fast.\""
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about the Texas A&M University bonfire collapse which killed 12 people and injured 27 others in 1999. The annual tradition started in 1909, but the official school-sanctioned event was canceled after the tragedy."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Pelé once played as a goalkeeper in four matches for Santos, without conceding a single goal."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Nagasaki holds the oldest Chinese community in Japan. Most were from fujian province of China and were Ming dynasty loyalist who had fled to Japan."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the Tuatara is a reptile native to New Zealand that evolved to have 3 eyes and can live in temperatures as low as 41°F (5°C). Despite its close resemblance to lizards, they in fact are not lizards. Instead being the only living member of the Rhynchocephalia lineage"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Alsace and Lorraine don't exist as administrative regions anymore. They got merged with Champagne-Ardenne in 2016."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Extremal Black Holes have the absolute minimum mass allowed for their charge or spin. This drops their temperature to absolute zero, meaning they emit zero Hawking radiation and could theoretically last forever—making them immortal objects that bypass standard black hole death."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that there is a fruit in Indonesia that is poisonous. In order for it to be edible, the fruits have to be boiled and fermented in ash for about 40 days, in which the hydrogen cyanide is removed."
+    }
+  ],
+  "errors": []
+}
