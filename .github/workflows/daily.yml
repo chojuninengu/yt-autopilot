@@ -54,22 +54,27 @@ jobs:
           gh release create "$TAG" "output/${RUN_ID}-video.mp4" \
             --title "Video $TAG" \
             --notes "Automated short video: $(head -n 1 output/${RUN_ID}-plan.md | sed 's/^# //')" || echo "Release create step returned non-zero"
-      - name: Phase 3 - Upload to YouTube
+      - name: Phase 3 - Upload to YouTube (via Buffer or direct API)
+        continue-on-error: true
         env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
           YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
         run: |
-          if [ -n "$YOUTUBE_TOKEN" ]; then
+          if [ -n "$BUFFER_ACCESS_TOKEN" ]; then
+            python src/buffer_upload.py --plan "output/${RUN_ID}-plan.json" --video-url "https://github.com/${{ github.repository }}/releases/download/${TAG}/${RUN_ID}-video.mp4" --service youtube
+          elif [ -n "$YOUTUBE_TOKEN" ]; then
             python src/run_phase3.py --plan "output/${RUN_ID}-plan.json" --video "output/${RUN_ID}-video.mp4"
           else
-            echo "YOUTUBE_TOKEN not configured; skipping YouTube upload."
+            echo "Neither BUFFER_ACCESS_TOKEN nor YOUTUBE_TOKEN configured; skipping YouTube upload."
           fi
       - name: Phase 4 - Upload to TikTok (via Buffer or direct API)
+        continue-on-error: true
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
           TIKTOK_TOKEN: ${{ secrets.TIKTOK_TOKEN }}
         run: |
           if [ -n "$BUFFER_ACCESS_TOKEN" ]; then
-            python src/buffer_upload.py --plan "output/${RUN_ID}-plan.json" --video-url "https://github.com/${{ github.repository }}/releases/download/${TAG}/${RUN_ID}-video.mp4"
+            python src/buffer_upload.py --plan "output/${RUN_ID}-plan.json" --video-url "https://github.com/${{ github.repository }}/releases/download/${TAG}/${RUN_ID}-video.mp4" --service tiktok
           elif [ -n "$TIKTOK_TOKEN" ]; then
             python src/run_phase4.py --plan "output/${RUN_ID}-plan.json" --video "output/${RUN_ID}-video.mp4"
           else

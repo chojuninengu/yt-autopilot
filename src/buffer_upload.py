@@ -214,11 +214,19 @@ def main():
 
     plan = json.loads(plan_path.read_text(encoding="utf-8"))
 
-    # Caption and hashtags from plan
-    tt_meta = plan.get("tiktok", {})
-    caption = tt_meta.get("caption", plan.get("video_title", "Daily Video"))
-    hashtags = " ".join("#" + h.lstrip("#") for h in tt_meta.get("hashtags", ["shorts", "trending"]))
-    full_text = f"{caption}\n\n{hashtags}".strip()
+    # Caption and hashtags from plan based on service
+    if args.service.lower() == "youtube":
+        yt_meta = plan.get("youtube", {})
+        title = yt_meta.get("title", plan.get("video_title", "Daily Video"))
+        desc = yt_meta.get("description", "")
+        hashtags = " ".join("#" + h.lstrip("#") for h in yt_meta.get("hashtags", ["shorts", "trending"]))
+        full_text = f"{title}\n\n{desc}\n\n{hashtags}".strip() if desc else f"{title}\n\n{hashtags}".strip()
+    else:
+        tt_meta = plan.get("tiktok", {})
+        title = None
+        caption = tt_meta.get("caption", plan.get("video_title", "Daily Video"))
+        hashtags = " ".join("#" + h.lstrip("#") for h in tt_meta.get("hashtags", ["shorts", "trending"]))
+        full_text = f"{caption}\n\n{hashtags}".strip()
 
     # Determine video URL
     video_url = args.video_url
@@ -232,7 +240,8 @@ def main():
             text=full_text,
             service=args.service,
             share_mode=args.mode,
-            dry_run=args.dry_run
+            dry_run=args.dry_run,
+            title=title
         )
     except Exception as ex:
         sys.exit(f"Buffer posting failed: {ex}")
