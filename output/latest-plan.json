@@ -1,83 +1,78 @@
 {
-  "picked_trend": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-  "why_viral": "This story combines several viral elements: a mysterious 'discovery,' the extreme and enigmatic setting of Antarctica, the involvement of NASA, and an optical illusion. The initial visual is highly captivating and sparks immediate curiosity, leading to a satisfying scientific explanation that still highlights the wonders of nature.",
-  "core_idea": "NASA satellite imagery of Antarctica revealed a natural ice and snow formation that eerily resembles a giant human skull, an incredible example of pareidolia created by glacial erosion and light.",
-  "video_title": "Antarctica's HAUNTING Skull: NASA's Icy Mystery!",
-  "script": "Imagine NASA spots something chilling in the icy expanse of Antarctica. A giant, haunting skull, staring back from the frozen continent! This isn't a scene from a sci-fi movie. This is a real image captured by NASA's Earth Observatory, and it’s taken the internet by storm! But what exactly did they find? Turns out, this chilling discovery isn't an ancient giant or an alien relic. It's a natural phenomenon: an impressive crater formed by glacial erosion and wind. The perfect angle, light, and shadow combined to create an incredible pareidolia – our brains seeing familiar patterns where none truly exist. A mind-bending illusion, courtesy of Mother Nature and NASA's eagle eye.",
+  "picked_trend": "TIL the Tuatara is a reptile native to New Zealand that evolved to have 3 eyes and can live in temperatures as low as 41°F (5°C). Despite its close resemblance to lizards, they in fact are not lizards. Instead being the only living member of the Rhynchocephalia lineage",
+  "why_viral": "This story is incredibly viral because it features a truly bizarre and unique animal that defies common categorization. The idea of a 'three-eyed' reptile that isn't a lizard and is a 'living fossil' from the dinosaur age is mind-bending, visually intriguing, and sparks immediate curiosity about Earth's ancient past and evolutionary oddities.",
+  "core_idea": "The Tuatara is a unique, three-eyed reptile from New Zealand, not a lizard, and the last surviving member of an ancient lineage that roamed Earth alongside dinosaurs.",
+  "video_title": "The 3-Eyed Reptile That Isn't a Lizard!",
+  "script": "Prepare for a prehistoric surprise! Meet the Tuatara, New Zealand's mysterious reptile. It looks like a lizard, but it’s not. This creature is a living fossil, older than dinosaurs. Its most bizarre secret? A distinct third eye right on its head! This parietal eye senses light and dark, guiding the Tuatara's ancient body clock for survival. These incredible animals are the last of Rhynchocephalia, a reptile order that walked Earth over 200 million years ago. They represent a unique evolutionary branch, distinct from modern snakes and lizards. Tuataras thrive in New Zealand's cool climate. They are known for extreme longevity, living over 100 years, offering a living link to Earth's deep past, full of secrets!",
   "scenes": [
     {
-      "narration": "Imagine NASA spots something chilling in the icy expanse of Antarctica. A giant, haunting skull, staring back from the frozen continent!",
+      "narration": "Prepare for a prehistoric surprise! Meet the Tuatara, New Zealand's mysterious reptile. It looks like a lizard, but it’s not. This creature is a living fossil, older than dinosaurs.",
       "visual_keywords": [
-        "Antarctica",
-        "ice skull",
-        "mystery"
+        "Ancient forest",
+        "reptile",
+        "mysterious"
       ],
-      "image_prompt": "A breathtaking 3D cinematic shot from above, showcasing a vast, desolate Antarctic landscape. In the center, a massive, naturally formed ice and snow structure eerily resembles a human skull, with dark, hollow 'eye sockets' and a defined 'jawline' carved by shadows. The sun casts a harsh, dramatic light, emphasizing the skull's haunting features. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "This isn't a scene from a sci-fi movie. This is a real image captured by NASA's Earth Observatory, and it’s taken the internet by storm!",
-      "visual_keywords": [
-        "Satellite image",
-        "frozen land",
-        "NASA data"
-      ],
-      "image_prompt": "A high-tech, futuristic control room with multiple holographic screens displaying satellite imagery of Antarctica. One large screen shows a detailed, vibrant satellite map focusing on the skull-like formation, with subtle scientific data overlays. Scientists in clean lab coats are observing with focused intensity, gesturing at the screens. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "But what exactly did they find? Turns out, this chilling discovery isn't an ancient giant or an alien relic. It's a natural phenomenon: an impressive crater formed by glacial erosion and wind.",
-      "visual_keywords": [
-        "Glacial erosion",
-        "ice crater",
-        "wind patterns"
-      ],
-      "image_prompt": "A powerful 3D cinematic close-up of the 'skull' formation, revealing intricate details of ice, snow, and exposed rock. Wind patterns are subtly visible as swirling snow drifts around the edges, showing the forces of nature sculpting the landscape. The crater's depth and texture are highlighted. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "image_prompt": "A stunning 3D cinematic vertical shot (9:16) of a Tuatara, its rough, textured skin and keen eyes visible, peering out from lush, primeval New Zealand forest foliage. Misty atmosphere, deep green and earthy tones. No text or watermarks.",
       "motion": "zoom_in"
     },
     {
-      "narration": "The perfect angle, light, and shadow combined to create an incredible pareidolia – our brains seeing familiar patterns where none truly exist. A mind-bending illusion, courtesy of Mother Nature and NASA's eagle eye.",
+      "narration": "Its most bizarre secret? A distinct third eye right on its head! This parietal eye senses light and dark, guiding the Tuatara's ancient body clock for survival.",
       "visual_keywords": [
-        "Optical illusion",
-        "brain perception",
-        "nature's art"
+        "Third eye",
+        "close-up",
+        "unusual feature"
       ],
-      "image_prompt": "A visually artistic 3D cinematic shot blending the 'skull' formation with abstract representations of neural pathways and human eyes. The ice formation slowly transforms, subtly revealing the natural contours of the landscape, while faint, glowing lines symbolize brain activity perceiving the pattern. Vertical 9:16. Absolutely NO text or letters in the image, NO watermarks, NO brands.",
+      "image_prompt": "A striking 3D cinematic vertical close-up (9:16) of a Tuatara's head, highlighting the slightly recessed 'parietal eye' on its crown. Subtle, ethereal glow around the third eye. Focus on textured scales and the creature's ancient look. No text or watermarks.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "These incredible animals are the last of Rhynchocephalia, a reptile order that walked Earth over 200 million years ago. They represent a unique evolutionary branch, distinct from modern snakes and lizards.",
+      "visual_keywords": [
+        "Dinosaur era",
+        "ancient evolution",
+        "unique species"
+      ],
+      "image_prompt": "A majestic 3D cinematic vertical shot (9:16) depicting a stylized primeval landscape. Distant, shadowy dinosaur silhouettes against a dramatic, ancient sky. In the foreground, a primitive Tuatara-like creature is cautiously exploring a fern-covered ground. Soft, diffused lighting. No text or watermarks.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "Tuataras thrive in New Zealand's cool climate. They are known for extreme longevity, living over 100 years, offering a living link to Earth's deep past, full of secrets!",
+      "visual_keywords": [
+        "New Zealand",
+        "longevity",
+        "cool climate"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic vertical shot (9:16) of a Tuatara perched on a mossy rock amidst a misty, cool New Zealand coastal environment. Gentle moonlight illuminates its scales. A sense of ancient wisdom. No text or watermarks.",
       "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "Antarctica's HAUNTING Skull: NASA's Icy Mystery Explained! #Curiosity",
-    "description": "NASA satellites spotted a massive, skull-shaped formation in the ice of Antarctica, sparking global curiosity! Is it an ancient relic, an alien secret, or something even stranger? Join us as we uncover the scientific explanation behind this mind-bending natural phenomenon and explore how our brains play tricks on us. You won't believe what's really lurking in the Antarctic ice!\n\nVisuals generated with AI.",
+    "title": "The 3-Eyed Reptile That Isn't a Lizard! (Living Fossil from Dinosaur Era)",
+    "description": "Discover the incredible Tuatara, a mysterious New Zealand reptile that looks like a lizard but isn't! This 'living fossil' has a hidden third eye and is the last survivor of an ancient lineage that roamed Earth alongside dinosaurs. Learn about its unique features, extreme longevity, and why it's a true relic of time.\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Antarctica",
-      "#NASA",
-      "#Mystery",
-      "#Skull",
-      "#IceFormation",
-      "#OpticalIllusion",
-      "#Pareidolia",
-      "#ScienceFacts",
+      "#Tuatara",
+      "#LivingFossil",
+      "#NewZealand",
+      "#AncientAnimals",
+      "#StrangeCreatures",
+      "#Reptiles",
       "#Curiosity",
-      "#Explainer",
-      "#ViralMystery",
-      "#EarthObservatory"
+      "#ScienceFacts",
+      "#DinosaurEra",
+      "#ThirdEye"
     ]
   },
   "tiktok": {
-    "caption": "NASA found a GIANT SKULL in Antarctica! 🤯 Is it real? What IS this chilling formation? The truth is mind-blowing! #Antarctica #NASA #Mystery #Skull #Ice #Science #OpticalIllusion #MindBlown (Visuals generated with AI.)",
+    "caption": "This isn't a lizard! 🤯 Meet the Tuatara, New Zealand's 3-eyed living fossil that's older than dinosaurs! #Tuatara #LivingFossil #NewZealand #AncientAnimals #StrangeCreatures #ReptileFacts #Curiosity #Science (Visuals generated with AI.)",
     "hashtags": [
-      "#Antarctica",
-      "#NASA",
-      "#Mystery",
-      "#Skull",
-      "#Ice",
-      "#Science",
-      "#OpticalIllusion",
-      "#Pareidolia",
+      "#Tuatara",
+      "#LivingFossil",
+      "#NewZealand",
+      "#AncientAnimals",
+      "#StrangeCreatures",
+      "#ReptileFacts",
       "#Curiosity",
-      "#DidYouKnow",
-      "#Viral"
+      "#Science"
     ]
   }
 }
