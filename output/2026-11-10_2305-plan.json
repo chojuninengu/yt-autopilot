@@ -1,0 +1,81 @@
+{
+  "picked_trend": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+  "why_viral": "This story is highly viral because it presents a mind-bending, counter-intuitive discovery about evolution. The idea of 'giant predators' shrinking, defying common expectations of evolution towards larger, more dominant forms, creates immediate intrigue and challenges fundamental understanding, making it fascinating and shareable.",
+  "core_idea": "A new fossil discovery reveals that top predators in an ancient ocean underwent 'miniaturization,' consistently shrinking over millions of years, challenging conventional evolutionary theories.",
+  "video_title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist",
+  "script": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms. But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger. Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures. This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
+  "scenes": [
+    {
+      "narration": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms.",
+      "visual_keywords": [
+        "ancient ocean",
+        "giant predators",
+        "primordial sea"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic scene, vertical 9:16, of a vast, dark ancient ocean. Silhouettes of colossal, primitive marine predators, like giant anomalocarids or early cephalopods, cruise ominously through the murky, bioluminescent depths, their forms hinting at immense power. No text.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger.",
+      "visual_keywords": [
+        "fossil discovery",
+        "ancient marine life",
+        "surprising twist"
+      ],
+      "image_prompt": "A dramatic 3D cinematic scene, vertical 9:16, inside a dimly lit, high-tech research lab. A paleontologist, with intense focus, gently brushes away sediment from a remarkably preserved fossil embedded in a rock slab, revealing the intricate skeletal structure of an ancient, smaller marine predator. Futuristic display screens show genetic analysis. No text.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures.",
+      "visual_keywords": [
+        "evolution",
+        "miniaturization",
+        "apex predators"
+      ],
+      "image_prompt": "A striking 3D cinematic scene, vertical 9:16, illustrating the evolutionary timeline. On the left, a large, fierce ancient marine predator, like a formidable fish or arthropod, dominates the scene. To the right, a sequence of progressively smaller, yet still predatory, versions of the same creature, showing a clear reduction in size over millions of years. The background is a stylized underwater gradient. No text.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
+      "visual_keywords": [
+        "evolutionary theory",
+        "survival strategy",
+        "deep past"
+      ],
+      "image_prompt": "A profound 3D cinematic scene, vertical 9:16, depicting ancient, weathered rock formations on an ocean floor, with ethereal light filtering down from above. Mysterious shadows of unseen lifeforms dart in the distance, emphasizing the vast, unexplored nature of ancient aquatic environments. No text.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    }
+  ],
+  "youtube": {
+    "title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist Revealed!",
+    "description": "Prepare to have your mind blown! A new fossil discovery from an ancient ocean reveals a shocking twist in evolution: top predators didn't grow bigger, they actually shrank over millions of years! This counter-intuitive finding challenges everything we thought we knew about survival and adaptation. Dive deep into this unbelievable scientific breakthrough with us! #Evolution #AncientOcean #Predators #ScienceFacts #Curiosity #DeepSeaSecrets #AmazingDiscoveries\n\nVisuals generated with AI.",
+    "hashtags": [
+      "Evolution",
+      "AncientOcean",
+      "Predators",
+      "ScienceFacts",
+      "Curiosity",
+      "DeepSeaSecrets",
+      "AmazingDiscoveries",
+      "Paleontology",
+      "Unbelievable"
+    ]
+  },
+  "tiktok": {
+    "caption": "🤯 Evolution’s craziest twist just discovered! In an ancient ocean, top predators *shrank* instead of growing bigger. What?! This changes everything! #Evolution #AncientHistory #ScienceFacts #MindBlown #Curiosity #OceanMysteries (Visuals generated with AI.)",
+    "hashtags": [
+      "Evolution",
+      "AncientHistory",
+      "ScienceFacts",
+      "MindBlown",
+      "Curiosity",
+      "OceanMysteries",
+      "Paleontology",
+      "DidYouKnow"
+    ]
+  }
+}

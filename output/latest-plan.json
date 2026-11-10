@@ -1,77 +1,77 @@
 {
-  "picked_trend": "TIL in 1978, a film crew re-lettered a 730-foot freighter to look like the SS Edmund Fitzgerald for a cancelled film titled “The November Gale”. When it sailed through Lake Superior, it caused panic and controversy among onlookers and other vessels, who reported seeing a “ghost ship” on the water.",
-  "why_viral": "The story features a real-life 'ghost ship' incident, playing on universal fears and curiosity about the unexplained. The connection to the infamous SS Edmund Fitzgerald adds historical intrigue, and the twist of it being a film prop provides a satisfying, mind-bending reveal, making it highly shareable and engaging.",
-  "core_idea": "A film crew's attempt to recreate the SS Edmund Fitzgerald for a movie accidentally triggered widespread panic and 'ghost ship' sightings on Lake Superior in 1978.",
-  "video_title": "The Ghost Ship That Terrified Lake Superior",
-  "script": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters. Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted? The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes. This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
+  "picked_trend": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+  "why_viral": "This story is highly viral because it presents a mind-bending, counter-intuitive discovery about evolution. The idea of 'giant predators' shrinking, defying common expectations of evolution towards larger, more dominant forms, creates immediate intrigue and challenges fundamental understanding, making it fascinating and shareable.",
+  "core_idea": "A new fossil discovery reveals that top predators in an ancient ocean underwent 'miniaturization,' consistently shrinking over millions of years, challenging conventional evolutionary theories.",
+  "video_title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist",
+  "script": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms. But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger. Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures. This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
   "scenes": [
     {
-      "narration": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters.",
+      "narration": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms.",
       "visual_keywords": [
-        "foggy lake",
-        "freighter",
-        "panic"
+        "ancient ocean",
+        "giant predators",
+        "primordial sea"
       ],
-      "image_prompt": "A massive, vintage 730-foot freighter ship, shrouded in thick, eerie fog, sails across the dark, choppy waters of Lake Superior at dusk. The ship's silhouette is stark, resembling an old, lost vessel. Distant, small fishing boats in the foreground appear distressed, their crews pointing in terror. Cinematic, vertical 9:16.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted?",
-      "visual_keywords": [
-        "radar screen",
-        "confused sailors",
-        "radio chatter"
-      ],
-      "image_prompt": "Inside a dimly lit ship's bridge in 1978, a vintage radar screen glows with an unidentified large blip. A bewildered sailor in a navy uniform stares intently at the screen, one hand on a crackling radio, his face etched with confusion and fear. Outside the window, a glimpse of a dark, stormy lake. Cinematic, vertical 9:16.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes.",
-      "visual_keywords": [
-        "film crew",
-        "ship painting",
-        "movie set"
-      ],
-      "image_prompt": "A bustling film set on the docks of a large port in 1978. A massive 730-foot freighter is being meticulously repainted and re-lettered by a crew of workers, with 'SS Edmund Fitzgerald' clearly visible on its side. Film cameras and lighting equipment are visible nearby. The atmosphere is industrial and busy. Cinematic, vertical 9:16.",
+      "image_prompt": "A breathtaking 3D cinematic scene, vertical 9:16, of a vast, dark ancient ocean. Silhouettes of colossal, primitive marine predators, like giant anomalocarids or early cephalopods, cruise ominously through the murky, bioluminescent depths, their forms hinting at immense power. No text.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
+      "narration": "But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger.",
       "visual_keywords": [
-        "newspaper headlines",
-        "public outrage",
-        "freighter sailing"
+        "fossil discovery",
+        "ancient marine life",
+        "surprising twist"
       ],
-      "image_prompt": "A dynamic shot of a 1978 newspaper front page with a screaming headline about the 'Lake Superior Ghost Ship' or 'Fitzgerald Phantom,' surrounded by worried faces of people discussing the news. In the background, slightly out of focus, the re-lettered freighter sails serenely on Lake Superior, highlighting the contrast between perception and reality. Cinematic, vertical 9:16.",
-      "motion": "pan_left"
+      "image_prompt": "A dramatic 3D cinematic scene, vertical 9:16, inside a dimly lit, high-tech research lab. A paleontologist, with intense focus, gently brushes away sediment from a remarkably preserved fossil embedded in a rock slab, revealing the intricate skeletal structure of an ancient, smaller marine predator. Futuristic display screens show genetic analysis. No text.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures.",
+      "visual_keywords": [
+        "evolution",
+        "miniaturization",
+        "apex predators"
+      ],
+      "image_prompt": "A striking 3D cinematic scene, vertical 9:16, illustrating the evolutionary timeline. On the left, a large, fierce ancient marine predator, like a formidable fish or arthropod, dominates the scene. To the right, a sequence of progressively smaller, yet still predatory, versions of the same creature, showing a clear reduction in size over millions of years. The background is a stylized underwater gradient. No text.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
+      "visual_keywords": [
+        "evolutionary theory",
+        "survival strategy",
+        "deep past"
+      ],
+      "image_prompt": "A profound 3D cinematic scene, vertical 9:16, depicting ancient, weathered rock formations on an ocean floor, with ethereal light filtering down from above. Mysterious shadows of unseen lifeforms dart in the distance, emphasizing the vast, unexplored nature of ancient aquatic environments. No text.",
+      "motion": "zoom_out"
     }
   ],
   "youtube": {
-    "title": "The Real-Life Ghost Ship That Terrified Lake Superior! 🚢👻",
-    "description": "In 1978, a mysterious vessel eerily resembling the infamous SS Edmund Fitzgerald caused widespread panic on Lake Superior. Was it a haunting? A spectral return from the deep? Uncover the unbelievable true story behind the 'ghost ship' sighting that turned a simple film prop into a real-life maritime mystery. Prepare to have your mind blown by this bizarre discovery!\n\nVisuals generated with AI.",
+    "title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist Revealed!",
+    "description": "Prepare to have your mind blown! A new fossil discovery from an ancient ocean reveals a shocking twist in evolution: top predators didn't grow bigger, they actually shrank over millions of years! This counter-intuitive finding challenges everything we thought we knew about survival and adaptation. Dive deep into this unbelievable scientific breakthrough with us! #Evolution #AncientOcean #Predators #ScienceFacts #Curiosity #DeepSeaSecrets #AmazingDiscoveries\n\nVisuals generated with AI.",
     "hashtags": [
-      "#GhostShip",
-      "#TrueStory",
-      "#LakeSuperior",
-      "#EdmundFitzgerald",
-      "#Unbelievable",
-      "#Mystery",
-      "#MaritimeHistory",
-      "#Curiosity",
-      "#Viral"
+      "Evolution",
+      "AncientOcean",
+      "Predators",
+      "ScienceFacts",
+      "Curiosity",
+      "DeepSeaSecrets",
+      "AmazingDiscoveries",
+      "Paleontology",
+      "Unbelievable"
     ]
   },
   "tiktok": {
-    "caption": "Ghost ship spotted on Lake Superior?! 😱 The unbelievable truth behind this real-life phantom will shock you! #GhostShip #LakeSuperior #Mystery #TrueStory (Visuals generated with AI.)",
+    "caption": "🤯 Evolution’s craziest twist just discovered! In an ancient ocean, top predators *shrank* instead of growing bigger. What?! This changes everything! #Evolution #AncientHistory #ScienceFacts #MindBlown #Curiosity #OceanMysteries (Visuals generated with AI.)",
     "hashtags": [
-      "#GhostShip",
-      "#LakeSuperior",
-      "#Mystery",
-      "#TrueStory",
-      "#EdmundFitzgerald",
-      "#Viral",
-      "#Curiosity",
-      "#Unbelievable"
+      "Evolution",
+      "AncientHistory",
+      "ScienceFacts",
+      "MindBlown",
+      "Curiosity",
+      "OceanMysteries",
+      "Paleontology",
+      "DidYouKnow"
     ]
   }
 }
