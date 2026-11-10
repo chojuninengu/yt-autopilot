@@ -15,6 +15,8 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -49,7 +51,7 @@ jobs:
           retention-days: 14
       - name: Publish video to GitHub Release
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           gh release create "$TAG" "output/${RUN_ID}-video.mp4" \
             --title "Video $TAG" \
@@ -82,8 +84,8 @@ jobs:
           fi
       - name: Commit daily plan results
         run: |
-          git config user.name "yt-autopilot-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "${{ secrets.GIT_USER_NAME || vars.GIT_USER_NAME || github.actor }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL || vars.GIT_USER_EMAIL || format('{0}+{1}@users.noreply.github.com', github.actor_id, github.actor) }}"
           git pull --rebase origin main || true
           git add output/*-plan.md output/*-plan.json output/*-trends.json output/.gitkeep
           git commit -m "video plan ${TAG} [skip ci]" || echo "nothing to commit"
