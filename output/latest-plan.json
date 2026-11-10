@@ -1,81 +1,78 @@
 {
-  "picked_trend": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-  "why_viral": "The idea that Mars, long considered a geologically 'dead' planet, might still have active volcanic processes is a mind-bending revelation. It challenges fundamental scientific assumptions and opens up thrilling new possibilities for the existence of subsurface water and even life, making it highly engaging for a broad audience.",
-  "core_idea": "Recent detection of sulfur dioxide gas plumes on Mars indicates potential ongoing volcanic activity, radically changing our understanding of the Red Planet's geology and habitability.",
-  "video_title": "Is Mars ALIVE? Mysterious Gas Leaks Hint at Active Volcanoes!",
-  "script": "For decades, Mars has been seen as a cold, dead world. But new evidence is flipping that entire narrative on its head. Scientists have just detected mysterious sulfur dioxide plumes escaping from the Red Planet. On Earth, these gas signatures usually point to one thing: active volcanoes! This groundbreaking discovery suggests Mars might not be geologically dead after all. Imagine, internal heat, potential for subsurface water, and entirely new possibilities for life! Are we witnessing ancient Martian volcanoes reawakening, or has this activity been hidden beneath the surface all along? The implications for future space exploration are monumental.",
+  "picked_trend": "TIL that Uranus rotates on its side at an axial tilt of nearly 98 degrees, causing each of its poles to experience 42 years of continuous sunlight followed by 42 years of darkness.",
+  "why_viral": "The extreme and bizarre nature of Uranus's axial tilt and its resulting decades-long seasons of light and darkness are incredibly mind-bending and visually stunning, making it a perfect 'curiosity explainer' topic. It's a fundamental planetary mystery with dramatic consequences.",
+  "core_idea": "Uranus's unique, extreme axial tilt causes its poles to experience 42 years of continuous sunlight followed by 42 years of total darkness, creating the solar system's most extreme seasons.",
+  "video_title": "The Planet Where Seasons Last 42 Years?! (Uranus's Bizarre Tilt)",
+  "script": "Imagine a planet where summer lasts 42 years, and then winter lasts another 42 years! Welcome to Uranus, the solar system's oddball that spins almost completely on its side. With an axial tilt of nearly 98 degrees, Uranus rolls through space like a tumbleweed. This extreme tilt means that for almost half its orbit, one pole is constantly bathed in sunlight while the other is plunged into absolute darkness. That's 42 Earth years of endless day, followed by 42 years of unending night! Scientists believe a massive collision billions of years ago literally knocked Uranus sideways. This ancient catastrophe shaped a world unlike any other, giving it the most extreme seasons in our solar system. So next time you think about summer vacation, spare a thought for Uranus – it's having a very, very long one!",
   "scenes": [
     {
-      "narration": "For decades, Mars has been seen as a cold, dead world. But new evidence is flipping that entire narrative on its head.",
+      "narration": "Imagine a planet where summer lasts 42 years, and then winter lasts another 42 years! Welcome to Uranus, the solar system's oddball that spins almost completely on its side.",
       "visual_keywords": [
-        "Mars",
-        "desolate",
-        "mystery"
+        "Uranus planet",
+        "tilted axis",
+        "cosmic anomaly"
       ],
-      "image_prompt": "A dramatic, vertical 9:16 cinematic shot of the Martian surface at twilight. Craggy red rock formations stretch into the distance under a dusty orange sky, with a hint of an ancient, dried riverbed. A faint, ethereal, shimmering plume of gas rises from a fissure in the rock. NO text, NO watermarks, NO brands.",
+      "image_prompt": "A breathtaking 3D cinematic shot of the ice giant planet Uranus, vibrant blue-green, rotating dramatically on its side compared to the orbital plane. Streaks of distant starlight frame the scene in deep space, vertical 9:16.",
+      "motion": "pan_left"
+    },
+    {
+      "narration": "With an axial tilt of nearly 98 degrees, Uranus rolls through space like a tumbleweed. This extreme tilt means that for almost half its orbit, one pole is constantly bathed in sunlight while the other is plunged into absolute darkness.",
+      "visual_keywords": [
+        "Uranus pole",
+        "extreme light",
+        "planetary rotation"
+      ],
+      "image_prompt": "A dramatic 3D cinematic close-up of Uranus's glowing pole, bathed in intense, continuous sunlight, contrasting with the shadowed, distant other side of the planet. Rings are faintly visible, vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Scientists have just detected mysterious sulfur dioxide plumes escaping from the Red Planet. On Earth, these gas signatures usually point to one thing: active volcanoes!",
+      "narration": "That's 42 Earth years of endless day, followed by 42 years of unending night! Scientists believe a massive collision billions of years ago literally knocked Uranus sideways.",
       "visual_keywords": [
-        "gas plume",
-        "observatory",
-        "data"
+        "cosmic collision",
+        "planet impact",
+        "proto-planet"
       ],
-      "image_prompt": "A high-tech Martian rover, equipped with advanced sensors, positioned on a rocky Martian landscape. In the background, a distinct, light-colored gas plume is subtly rising from a distant crater or fissure. The scene is bathed in a soft, alien light. Vertical 9:16. NO text, NO watermarks, NO brands.",
-      "motion": "pan_right"
+      "image_prompt": "A stunning 3D cinematic depiction of a colossal, ancient impact event, a smaller protoplanet violently colliding with a young, gaseous Uranus, sending shockwaves and debris across the primordial solar system, vertical 9:16.",
+      "motion": "shake"
     },
     {
-      "narration": "This groundbreaking discovery suggests Mars might not be geologically dead after all. Imagine, internal heat, potential for subsurface water, and entirely new possibilities for life!",
+      "narration": "This ancient catastrophe shaped a world unlike any other, giving it the most extreme seasons in our solar system. So next time you think about summer vacation, spare a thought for Uranus – it's having a very, very long one!",
       "visual_keywords": [
-        "molten core",
-        "water",
-        "life"
+        "Uranus seasons",
+        "extreme weather",
+        "deep space"
       ],
-      "image_prompt": "A stylized, cross-section view of Mars, showing a glowing, molten core. Veins of glowing orange magma extend upwards towards the surface, where pockets of blue liquid water are depicted beneath the crust. Above the surface, a faint, translucent green aura suggests potential for life. Vertical 9:16. NO text, NO watermarks, NO brands.",
+      "image_prompt": "A final awe-inspiring 3D cinematic shot of Uranus, showcasing its full glory with its rings, viewed from a slightly oblique angle that emphasizes its unique side-on rotation. The planet glows softly against the infinite blackness of space, vertical 9:16.",
       "motion": "zoom_out"
-    },
-    {
-      "narration": "Are we witnessing ancient Martian volcanoes reawakening, or has this activity been hidden beneath the surface all along? The implications for future space exploration are monumental.",
-      "visual_keywords": [
-        "space exploration",
-        "future",
-        "wonder"
-      ],
-      "image_prompt": "An astronaut in a futuristic suit stands on a high cliff overlooking a vast Martian canyon, gazing at the horizon. In the distance, faint, wispy plumes of gas are visible against the deep red sky. A sleek, advanced spacecraft is partially visible, landed nearby. Vertical 9:16. NO text, NO watermarks, NO brands.",
-      "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "Is Mars ALIVE? Mysterious Gas Leaks Hint at Active Volcanoes!",
-    "description": "Prepare to have your mind blown! For decades, we thought Mars was a cold, geologically dead planet. But new scientific findings are shaking up everything we know! Discover how mysterious sulfur dioxide plumes detected on the Red Planet suggest it might be volcanically active. This groundbreaking revelation could mean internal heat, subsurface water, and even new possibilities for life. What does this mean for the future of space exploration? Watch to find out!\n\nVisuals generated with AI.",
+    "title": "The Planet Where Seasons Last 42 Years?! (Uranus's Bizarre Tilt) #SpaceFacts",
+    "description": "Ever wondered about the weirdest planets in our solar system? Dive into the mind-bending reality of Uranus, the ice giant that spins almost completely on its side! Discover how its extreme 98-degree axial tilt leads to poles experiencing 42 years of continuous sunlight, followed by 42 years of total darkness. Learn about the ancient cosmic collision believed to be responsible for this planetary oddity. Get ready for some truly extreme space facts! #Uranus #Space #Astronomy #Planets #Curiosity #ScienceFacts #SolarSystem #CosmicMystery\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Mars",
-      "#Space",
-      "#Volcanoes",
-      "#Science",
-      "#Discovery",
-      "#RedPlanet",
+      "#Uranus",
+      "#SpaceFacts",
       "#Astronomy",
-      "#Mystery",
-      "#NASA",
-      "#ESA",
-      "#Curiosity"
+      "#Planets",
+      "#Science",
+      "#Curiosity",
+      "#SolarSystem",
+      "#CosmicMystery",
+      "#DidYouKnow"
     ]
   },
   "tiktok": {
-    "caption": "Mars, volcanically active? 🤯 New gas leaks suggest the Red Planet isn't as 'dead' as we thought! Could this mean water, heat, and even life beneath the surface? #Mars #Space #Volcanoes #ScienceFacts #Mystery #Discovery #RedPlanet #AlienLife (Visuals generated with AI.)",
+    "caption": "Imagine 42 years of endless summer, then 42 years of total night! 🤯 Welcome to Uranus, the planet that spins on its side and has the wildest seasons in our solar system. 🪐 #Uranus #SpaceFacts #Astronomy #PlanetTilt #Cosmic #ScienceTok #MindBlown #DidYouKnow (Visuals generated with AI.)",
     "hashtags": [
-      "#Mars",
-      "#Space",
-      "#Volcanoes",
-      "#ScienceFacts",
-      "#Mystery",
-      "#Discovery",
-      "#RedPlanet",
-      "#AlienLife",
+      "#Uranus",
+      "#SpaceFacts",
       "#Astronomy",
-      "#DidYouKnow"
+      "#PlanetTilt",
+      "#Cosmic",
+      "#ScienceTok",
+      "#MindBlown",
+      "#DidYouKnow",
+      "#ExtremeSeasons"
     ]
   }
 }

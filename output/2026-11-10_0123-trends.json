@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 933,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "source": "hackernews",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 451,
+      "url": "https://postalpro.usps.com/zcb"
+    },
+    {
+      "source": "hackernews",
+      "title": "TPU 8tx and TPU 8i Max",
+      "score": 195,
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "score": 384,
+      "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "score": 457,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+    },
+    {
+      "source": "hackernews",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "score": 265,
+      "url": "https://e-means.github.io/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "score": 98,
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "score": 276,
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+    },
+    {
+      "source": "hackernews",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "score": 842,
+      "url": "https://www.foldableflight.com"
+    },
+    {
+      "source": "hackernews",
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "score": 239,
+      "url": "https://research.meta.ai/blog/muse-ember"
+    },
+    {
+      "source": "hackernews",
+      "title": "Horible public key tricks",
+      "score": 17,
+      "url": "https://maurycyz.com/projects/badcert/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "score": 274,
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "score": 96,
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028"
+    },
+    {
+      "source": "hackernews",
+      "title": "Exact – a new cross platform UI framework by the Expo team",
+      "score": 31,
+      "url": "https://github.com/expo/exact"
+    },
+    {
+      "source": "hackernews",
+      "title": "A primer on GPUs and kernel optimization",
+      "score": 85,
+      "url": "https://www.nabo.dev/blogs/kernel-primer"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a surprising link between acorns and lyme disease",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "F1 in Brazil: You’ve got to keep your tires alive",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "carmelo anthony",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mel gibson",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "siue vs missouri",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "spurs vs suns",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "troy aikman",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "grayson allen",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "hailee steinfeld",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "amy robach",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "josh allen wife",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ausar thompson",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 1881, Fanny Hesse suggested growing bacteria on agar, a jelly ingredient from her own kitchen, because the gelatin in her husband's experiments kept melting in the summer heat. Agar is still the standard in labs worldwide, and she never got credit for the idea."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL sleeping in a cold room is better for you as your core temperature needs to drop to signal to the brain and body that it's time to go to sleep. This lower temperature has been found to help people fall asleep faster and sleep more deeply."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL in 1982, 19 year old UT student Gregory Watson wrote a paper about how a 1789 Amendment to the Constitution was never ratified. The TA and professor gave him a C Grade. He campaigned for it and in 1992 the amendment was ratified. 35 years later his C was changed to an A."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Rowan Atkinson once received a record high car insurance payment of £910000. In 2011 he was involved in a serious crash after loosing control of his rare McLaren F1 and colliding with a tree."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Extremal Black Holes have the absolute minimum mass allowed for their charge or spin. This drops their temperature to absolute zero, meaning they emit zero Hawking radiation and could theoretically last forever—making them immortal objects that bypass standard black hole death."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the Tuatara is a reptile native to New Zealand that evolved to have 3 eyes and can live in temperatures as low as 41°F (5°C). Despite its close resemblance to lizards, they in fact are not lizards. Instead being the only living member of the Rhynchocephalia lineage"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that there is a fruit in Indonesia that is poisonous. In order for it to be edible, the fruits have to be boiled and fermented in ash for about 40 days, in which the hydrogen cyanide is removed."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Uranus rotates on its side at an axial tilt of nearly 98 degrees, causing each of its poles to experience 42 years of continuous sunlight followed by 42 years of darkness."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Lycia Naff who briefly appeared in 1990 movie Total Recall as a three-breasted sex worker subsequently received a flood of media inquiries and invitations to talk shows including from Johnny Carson. She turned them all down and regretted it afterwards."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 2019, a Canadian woman scared off a cougar approaching her and her dog by playing Metallica's “Don’t Tread on Me” on her cellphone after shouting failed to deter it."
+    }
+  ],
+  "errors": []
+}
