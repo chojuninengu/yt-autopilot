@@ -1,84 +1,77 @@
 {
-  "picked_trend": "science_daily - DNA on the Shroud of Turin reveals centuries of hidden secrets",
-  "why_viral": "The Shroud of Turin is one of the most controversial and mysterious artifacts in human history. Applying modern DNA analysis to it, and revealing a complex, multicultural history of contact, challenges long-held beliefs and sparks immense curiosity and debate about its true origins and journey. It combines ancient mystery with cutting-edge science.",
-  "core_idea": "DNA analysis of the Shroud of Turin has uncovered a surprising tapestry of human, plant, and animal genetic material, suggesting centuries of diverse human interaction from various global regions, rather than a single, isolated relic.",
-  "video_title": "Shroud of Turin: DNA Reveals Jaw-Dropping Secrets!",
-  "script": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science. The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find? Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East! From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas. The Shroud of Turin continues to surprise us!",
+  "picked_trend": "TIL in 1978, a film crew re-lettered a 730-foot freighter to look like the SS Edmund Fitzgerald for a cancelled film titled “The November Gale”. When it sailed through Lake Superior, it caused panic and controversy among onlookers and other vessels, who reported seeing a “ghost ship” on the water.",
+  "why_viral": "The story features a real-life 'ghost ship' incident, playing on universal fears and curiosity about the unexplained. The connection to the infamous SS Edmund Fitzgerald adds historical intrigue, and the twist of it being a film prop provides a satisfying, mind-bending reveal, making it highly shareable and engaging.",
+  "core_idea": "A film crew's attempt to recreate the SS Edmund Fitzgerald for a movie accidentally triggered widespread panic and 'ghost ship' sightings on Lake Superior in 1978.",
+  "video_title": "The Ghost Ship That Terrified Lake Superior",
+  "script": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters. Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted? The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes. This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
   "scenes": [
     {
-      "narration": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science.",
+      "narration": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters.",
       "visual_keywords": [
-        "ancient artifact",
-        "mysterious fabric",
-        "sacred light"
+        "foggy lake",
+        "freighter",
+        "panic"
       ],
-      "image_prompt": "Cinematic vertical 9:16 shot of the Shroud of Turin draped in a dimly lit, ancient stone chamber, ethereal light gently illuminating its faint facial impression. Dust motes dance in the air. Focus on the enigmatic face, with subtle texture of old linen. No text or watermarks.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find?",
-      "visual_keywords": [
-        "science lab",
-        "DNA analysis",
-        "microscope"
-      ],
-      "image_prompt": "High-tech forensic lab with glowing equipment, vertical 9:16. A single gloved hand carefully places a microscopic fiber onto a slide under a powerful electron microscope. Focus on the intricate details of the fiber and the precision of the scientific process. No text or watermarks.",
+      "image_prompt": "A massive, vintage 730-foot freighter ship, shrouded in thick, eerie fog, sails across the dark, choppy waters of Lake Superior at dusk. The ship's silhouette is stark, resembling an old, lost vessel. Distant, small fishing boats in the foreground appear distressed, their crews pointing in terror. Cinematic, vertical 9:16.",
       "motion": "pan_right"
     },
     {
-      "narration": "Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East!",
+      "narration": "Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted?",
       "visual_keywords": [
-        "world map",
-        "diverse cultures",
-        "ancient routes"
+        "radar screen",
+        "confused sailors",
+        "radio chatter"
       ],
-      "image_prompt": "Stylized, ancient world map, vertical 9:16, with glowing lines tracing historical trade routes connecting Europe, Africa, Asia, and the Middle East. Silhouetted figures representing different historical cultures appear faintly along the routes, suggesting movement and interaction. No text or watermarks.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas.",
-      "visual_keywords": [
-        "genetic code",
-        "historical puzzle",
-        "unraveling mystery"
-      ],
-      "image_prompt": "Dramatic vertical 9:16 shot of intertwined DNA strands, glowing with ethereal light, superimposed over a blurred background of an ancient, mysterious archive or library. The DNA represents the 'unlocking' of historical data. No text or watermarks.",
+      "image_prompt": "Inside a dimly lit ship's bridge in 1978, a vintage radar screen glows with an unidentified large blip. A bewildered sailor in a navy uniform stares intently at the screen, one hand on a crackling radio, his face etched with confusion and fear. Outside the window, a glimpse of a dark, stormy lake. Cinematic, vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "The Shroud of Turin continues to surprise us!",
+      "narration": "The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes.",
       "visual_keywords": [
-        "shroud mystery",
-        "enduring enigma",
-        "human wonder"
+        "film crew",
+        "ship painting",
+        "movie set"
       ],
-      "image_prompt": "A close-up, reverent vertical 9:16 shot of the Shroud of Turin, focusing on the intricate weave and the subtle details of the imprint, bathed in a soft, mysterious light. The image evokes a sense of ancient history and unresolved wonder. No text or watermarks.",
+      "image_prompt": "A bustling film set on the docks of a large port in 1978. A massive 730-foot freighter is being meticulously repainted and re-lettered by a crew of workers, with 'SS Edmund Fitzgerald' clearly visible on its side. Film cameras and lighting equipment are visible nearby. The atmosphere is industrial and busy. Cinematic, vertical 9:16.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
+      "visual_keywords": [
+        "newspaper headlines",
+        "public outrage",
+        "freighter sailing"
+      ],
+      "image_prompt": "A dynamic shot of a 1978 newspaper front page with a screaming headline about the 'Lake Superior Ghost Ship' or 'Fitzgerald Phantom,' surrounded by worried faces of people discussing the news. In the background, slightly out of focus, the re-lettered freighter sails serenely on Lake Superior, highlighting the contrast between perception and reality. Cinematic, vertical 9:16.",
       "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "🤯 Shroud of Turin: DNA Reveals Centuries of Jaw-Dropping Secrets!",
-    "description": "The Shroud of Turin, one of history's most debated artifacts, has just been subjected to groundbreaking DNA analysis! What did scientists uncover? Prepare to be amazed as we delve into the genetic tapestry that reveals a complex, multicultural journey spanning continents and centuries. This isn't just about ancient relics; it's about how modern science is rewriting our understanding of the past. #ShroudOfTurin #DNAanalysis #AncientMysteries #ScienceBreakthrough #HistoricalDiscovery\n\nVisuals generated with AI.",
+    "title": "The Real-Life Ghost Ship That Terrified Lake Superior! 🚢👻",
+    "description": "In 1978, a mysterious vessel eerily resembling the infamous SS Edmund Fitzgerald caused widespread panic on Lake Superior. Was it a haunting? A spectral return from the deep? Uncover the unbelievable true story behind the 'ghost ship' sighting that turned a simple film prop into a real-life maritime mystery. Prepare to have your mind blown by this bizarre discovery!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#ShroudOfTurin",
-      "#DNAanalysis",
-      "#AncientMysteries",
-      "#ScienceBreakthrough",
-      "#HistoricalDiscovery",
-      "#UnbelievableFacts",
-      "#Curiosity"
+      "#GhostShip",
+      "#TrueStory",
+      "#LakeSuperior",
+      "#EdmundFitzgerald",
+      "#Unbelievable",
+      "#Mystery",
+      "#MaritimeHistory",
+      "#Curiosity",
+      "#Viral"
     ]
   },
   "tiktok": {
-    "caption": "The Shroud of Turin's deepest secrets just got exposed by DNA! 🧬 You WON'T believe what scientists found about this ancient relic's journey across the world.🤯 #ShroudOfTurin #DNAreveals #AncientMystery #MindBlown #HistoryFacts (Visuals generated with AI.)",
+    "caption": "Ghost ship spotted on Lake Superior?! 😱 The unbelievable truth behind this real-life phantom will shock you! #GhostShip #LakeSuperior #Mystery #TrueStory (Visuals generated with AI.)",
     "hashtags": [
-      "#ShroudOfTurin",
-      "#DNAreveals",
-      "#AncientMystery",
-      "#MindBlown",
-      "#HistoryFacts",
-      "#ScienceTok",
-      "#Curiosity"
+      "#GhostShip",
+      "#LakeSuperior",
+      "#Mystery",
+      "#TrueStory",
+      "#EdmundFitzgerald",
+      "#Viral",
+      "#Curiosity",
+      "#Unbelievable"
     ]
   }
 }

@@ -1,0 +1,81 @@
+{
+  "picked_trend": "TIL in 1978, a film crew re-lettered a 730-foot freighter to look like the SS Edmund Fitzgerald for a cancelled film titled “The November Gale”. When it sailed through Lake Superior, it caused panic and controversy among onlookers and other vessels, who reported seeing a “ghost ship” on the water.",
+  "why_viral": "The story features a real-life 'ghost ship' incident, playing on universal fears and curiosity about the unexplained. The connection to the infamous SS Edmund Fitzgerald adds historical intrigue, and the twist of it being a film prop provides a satisfying, mind-bending reveal, making it highly shareable and engaging.",
+  "core_idea": "A film crew's attempt to recreate the SS Edmund Fitzgerald for a movie accidentally triggered widespread panic and 'ghost ship' sightings on Lake Superior in 1978.",
+  "video_title": "The Ghost Ship That Terrified Lake Superior",
+  "script": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters. Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted? The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes. This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
+  "scenes": [
+    {
+      "narration": "Imagine seeing a ghost ship. In 1978, panic erupted on Lake Superior when a vessel eerily identical to the lost SS Edmund Fitzgerald was spotted sailing the waters.",
+      "visual_keywords": [
+        "foggy lake",
+        "freighter",
+        "panic"
+      ],
+      "image_prompt": "A massive, vintage 730-foot freighter ship, shrouded in thick, eerie fog, sails across the dark, choppy waters of Lake Superior at dusk. The ship's silhouette is stark, resembling an old, lost vessel. Distant, small fishing boats in the foreground appear distressed, their crews pointing in terror. Cinematic, vertical 9:16.",
+      "motion": "pan_right",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Boats reported a phantom freighter, convincing sailors and shore observers they were witnessing a spectral return of the legendary wreck. Was the lake haunted?",
+      "visual_keywords": [
+        "radar screen",
+        "confused sailors",
+        "radio chatter"
+      ],
+      "image_prompt": "Inside a dimly lit ship's bridge in 1978, a vintage radar screen glows with an unidentified large blip. A bewildered sailor in a navy uniform stares intently at the screen, one hand on a crackling radio, his face etched with confusion and fear. Outside the window, a glimpse of a dark, stormy lake. Cinematic, vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "The truth was far stranger! A film crew, working on a canceled movie, had re-lettered a 730-foot freighter to *become* the Edmund Fitzgerald for their scenes.",
+      "visual_keywords": [
+        "film crew",
+        "ship painting",
+        "movie set"
+      ],
+      "image_prompt": "A bustling film set on the docks of a large port in 1978. A massive 730-foot freighter is being meticulously repainted and re-lettered by a crew of workers, with 'SS Edmund Fitzgerald' clearly visible on its side. Film cameras and lighting equipment are visible nearby. The atmosphere is industrial and busy. Cinematic, vertical 9:16.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This bizarre cinematic stunt sparked widespread fear and controversy. A simple movie prop created a real-life 'ghost ship' event, proving reality is truly stranger than fiction!",
+      "visual_keywords": [
+        "newspaper headlines",
+        "public outrage",
+        "freighter sailing"
+      ],
+      "image_prompt": "A dynamic shot of a 1978 newspaper front page with a screaming headline about the 'Lake Superior Ghost Ship' or 'Fitzgerald Phantom,' surrounded by worried faces of people discussing the news. In the background, slightly out of focus, the re-lettered freighter sails serenely on Lake Superior, highlighting the contrast between perception and reality. Cinematic, vertical 9:16.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The Real-Life Ghost Ship That Terrified Lake Superior! 🚢👻",
+    "description": "In 1978, a mysterious vessel eerily resembling the infamous SS Edmund Fitzgerald caused widespread panic on Lake Superior. Was it a haunting? A spectral return from the deep? Uncover the unbelievable true story behind the 'ghost ship' sighting that turned a simple film prop into a real-life maritime mystery. Prepare to have your mind blown by this bizarre discovery!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#GhostShip",
+      "#TrueStory",
+      "#LakeSuperior",
+      "#EdmundFitzgerald",
+      "#Unbelievable",
+      "#Mystery",
+      "#MaritimeHistory",
+      "#Curiosity",
+      "#Viral"
+    ]
+  },
+  "tiktok": {
+    "caption": "Ghost ship spotted on Lake Superior?! 😱 The unbelievable truth behind this real-life phantom will shock you! #GhostShip #LakeSuperior #Mystery #TrueStory (Visuals generated with AI.)",
+    "hashtags": [
+      "#GhostShip",
+      "#LakeSuperior",
+      "#Mystery",
+      "#TrueStory",
+      "#EdmundFitzgerald",
+      "#Viral",
+      "#Curiosity",
+      "#Unbelievable"
+    ]
+  }
+}
