@@ -1,0 +1,89 @@
+{
+  "picked_trend": "science_daily - DNA on the Shroud of Turin reveals centuries of hidden secrets",
+  "why_viral": "The Shroud of Turin is one of the most controversial and mysterious artifacts in human history. Applying modern DNA analysis to it, and revealing a complex, multicultural history of contact, challenges long-held beliefs and sparks immense curiosity and debate about its true origins and journey. It combines ancient mystery with cutting-edge science.",
+  "core_idea": "DNA analysis of the Shroud of Turin has uncovered a surprising tapestry of human, plant, and animal genetic material, suggesting centuries of diverse human interaction from various global regions, rather than a single, isolated relic.",
+  "video_title": "Shroud of Turin: DNA Reveals Jaw-Dropping Secrets!",
+  "script": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science. The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find? Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East! From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas. The Shroud of Turin continues to surprise us!",
+  "scenes": [
+    {
+      "narration": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science.",
+      "visual_keywords": [
+        "ancient artifact",
+        "mysterious fabric",
+        "sacred light"
+      ],
+      "image_prompt": "Cinematic vertical 9:16 shot of the Shroud of Turin draped in a dimly lit, ancient stone chamber, ethereal light gently illuminating its faint facial impression. Dust motes dance in the air. Focus on the enigmatic face, with subtle texture of old linen. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find?",
+      "visual_keywords": [
+        "science lab",
+        "DNA analysis",
+        "microscope"
+      ],
+      "image_prompt": "High-tech forensic lab with glowing equipment, vertical 9:16. A single gloved hand carefully places a microscopic fiber onto a slide under a powerful electron microscope. Focus on the intricate details of the fiber and the precision of the scientific process. No text or watermarks.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East!",
+      "visual_keywords": [
+        "world map",
+        "diverse cultures",
+        "ancient routes"
+      ],
+      "image_prompt": "Stylized, ancient world map, vertical 9:16, with glowing lines tracing historical trade routes connecting Europe, Africa, Asia, and the Middle East. Silhouetted figures representing different historical cultures appear faintly along the routes, suggesting movement and interaction. No text or watermarks.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas.",
+      "visual_keywords": [
+        "genetic code",
+        "historical puzzle",
+        "unraveling mystery"
+      ],
+      "image_prompt": "Dramatic vertical 9:16 shot of intertwined DNA strands, glowing with ethereal light, superimposed over a blurred background of an ancient, mysterious archive or library. The DNA represents the 'unlocking' of historical data. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "The Shroud of Turin continues to surprise us!",
+      "visual_keywords": [
+        "shroud mystery",
+        "enduring enigma",
+        "human wonder"
+      ],
+      "image_prompt": "A close-up, reverent vertical 9:16 shot of the Shroud of Turin, focusing on the intricate weave and the subtle details of the imprint, bathed in a soft, mysterious light. The image evokes a sense of ancient history and unresolved wonder. No text or watermarks.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 Shroud of Turin: DNA Reveals Centuries of Jaw-Dropping Secrets!",
+    "description": "The Shroud of Turin, one of history's most debated artifacts, has just been subjected to groundbreaking DNA analysis! What did scientists uncover? Prepare to be amazed as we delve into the genetic tapestry that reveals a complex, multicultural journey spanning continents and centuries. This isn't just about ancient relics; it's about how modern science is rewriting our understanding of the past. #ShroudOfTurin #DNAanalysis #AncientMysteries #ScienceBreakthrough #HistoricalDiscovery\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#ShroudOfTurin",
+      "#DNAanalysis",
+      "#AncientMysteries",
+      "#ScienceBreakthrough",
+      "#HistoricalDiscovery",
+      "#UnbelievableFacts",
+      "#Curiosity"
+    ]
+  },
+  "tiktok": {
+    "caption": "The Shroud of Turin's deepest secrets just got exposed by DNA! 🧬 You WON'T believe what scientists found about this ancient relic's journey across the world.🤯 #ShroudOfTurin #DNAreveals #AncientMystery #MindBlown #HistoryFacts (Visuals generated with AI.)",
+    "hashtags": [
+      "#ShroudOfTurin",
+      "#DNAreveals",
+      "#AncientMystery",
+      "#MindBlown",
+      "#HistoryFacts",
+      "#ScienceTok",
+      "#Curiosity"
+    ]
+  }
+}

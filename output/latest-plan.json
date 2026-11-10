@@ -1,78 +1,84 @@
 {
-  "picked_trend": "TIL that Uranus rotates on its side at an axial tilt of nearly 98 degrees, causing each of its poles to experience 42 years of continuous sunlight followed by 42 years of darkness.",
-  "why_viral": "The extreme and bizarre nature of Uranus's axial tilt and its resulting decades-long seasons of light and darkness are incredibly mind-bending and visually stunning, making it a perfect 'curiosity explainer' topic. It's a fundamental planetary mystery with dramatic consequences.",
-  "core_idea": "Uranus's unique, extreme axial tilt causes its poles to experience 42 years of continuous sunlight followed by 42 years of total darkness, creating the solar system's most extreme seasons.",
-  "video_title": "The Planet Where Seasons Last 42 Years?! (Uranus's Bizarre Tilt)",
-  "script": "Imagine a planet where summer lasts 42 years, and then winter lasts another 42 years! Welcome to Uranus, the solar system's oddball that spins almost completely on its side. With an axial tilt of nearly 98 degrees, Uranus rolls through space like a tumbleweed. This extreme tilt means that for almost half its orbit, one pole is constantly bathed in sunlight while the other is plunged into absolute darkness. That's 42 Earth years of endless day, followed by 42 years of unending night! Scientists believe a massive collision billions of years ago literally knocked Uranus sideways. This ancient catastrophe shaped a world unlike any other, giving it the most extreme seasons in our solar system. So next time you think about summer vacation, spare a thought for Uranus – it's having a very, very long one!",
+  "picked_trend": "science_daily - DNA on the Shroud of Turin reveals centuries of hidden secrets",
+  "why_viral": "The Shroud of Turin is one of the most controversial and mysterious artifacts in human history. Applying modern DNA analysis to it, and revealing a complex, multicultural history of contact, challenges long-held beliefs and sparks immense curiosity and debate about its true origins and journey. It combines ancient mystery with cutting-edge science.",
+  "core_idea": "DNA analysis of the Shroud of Turin has uncovered a surprising tapestry of human, plant, and animal genetic material, suggesting centuries of diverse human interaction from various global regions, rather than a single, isolated relic.",
+  "video_title": "Shroud of Turin: DNA Reveals Jaw-Dropping Secrets!",
+  "script": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science. The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find? Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East! From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas. The Shroud of Turin continues to surprise us!",
   "scenes": [
     {
-      "narration": "Imagine a planet where summer lasts 42 years, and then winter lasts another 42 years! Welcome to Uranus, the solar system's oddball that spins almost completely on its side.",
+      "narration": "Imagine an ancient relic, revered for centuries, now revealing its deepest secrets through modern science.",
       "visual_keywords": [
-        "Uranus planet",
-        "tilted axis",
-        "cosmic anomaly"
+        "ancient artifact",
+        "mysterious fabric",
+        "sacred light"
       ],
-      "image_prompt": "A breathtaking 3D cinematic shot of the ice giant planet Uranus, vibrant blue-green, rotating dramatically on its side compared to the orbital plane. Streaks of distant starlight frame the scene in deep space, vertical 9:16.",
-      "motion": "pan_left"
-    },
-    {
-      "narration": "With an axial tilt of nearly 98 degrees, Uranus rolls through space like a tumbleweed. This extreme tilt means that for almost half its orbit, one pole is constantly bathed in sunlight while the other is plunged into absolute darkness.",
-      "visual_keywords": [
-        "Uranus pole",
-        "extreme light",
-        "planetary rotation"
-      ],
-      "image_prompt": "A dramatic 3D cinematic close-up of Uranus's glowing pole, bathed in intense, continuous sunlight, contrasting with the shadowed, distant other side of the planet. Rings are faintly visible, vertical 9:16.",
+      "image_prompt": "Cinematic vertical 9:16 shot of the Shroud of Turin draped in a dimly lit, ancient stone chamber, ethereal light gently illuminating its faint facial impression. Dust motes dance in the air. Focus on the enigmatic face, with subtle texture of old linen. No text or watermarks.",
       "motion": "zoom_in"
     },
     {
-      "narration": "That's 42 Earth years of endless day, followed by 42 years of unending night! Scientists believe a massive collision billions of years ago literally knocked Uranus sideways.",
+      "narration": "The legendary Shroud of Turin, believed by many to be the burial cloth of Jesus, just got a jaw-dropping DNA analysis! What did scientists find?",
       "visual_keywords": [
-        "cosmic collision",
-        "planet impact",
-        "proto-planet"
+        "science lab",
+        "DNA analysis",
+        "microscope"
       ],
-      "image_prompt": "A stunning 3D cinematic depiction of a colossal, ancient impact event, a smaller protoplanet violently colliding with a young, gaseous Uranus, sending shockwaves and debris across the primordial solar system, vertical 9:16.",
-      "motion": "shake"
+      "image_prompt": "High-tech forensic lab with glowing equipment, vertical 9:16. A single gloved hand carefully places a microscopic fiber onto a slide under a powerful electron microscope. Focus on the intricate details of the fiber and the precision of the scientific process. No text or watermarks.",
+      "motion": "pan_right"
     },
     {
-      "narration": "This ancient catastrophe shaped a world unlike any other, giving it the most extreme seasons in our solar system. So next time you think about summer vacation, spare a thought for Uranus – it's having a very, very long one!",
+      "narration": "Not one, but a complex mix of human, animal, and plant DNA from all over the world. This groundbreaking study suggests the Shroud journeyed through diverse communities, touched by people from Europe, Africa, and Asia, even the Middle East!",
       "visual_keywords": [
-        "Uranus seasons",
-        "extreme weather",
-        "deep space"
+        "world map",
+        "diverse cultures",
+        "ancient routes"
       ],
-      "image_prompt": "A final awe-inspiring 3D cinematic shot of Uranus, showcasing its full glory with its rings, viewed from a slightly oblique angle that emphasizes its unique side-on rotation. The planet glows softly against the infinite blackness of space, vertical 9:16.",
+      "image_prompt": "Stylized, ancient world map, vertical 9:16, with glowing lines tracing historical trade routes connecting Europe, Africa, Asia, and the Middle East. Silhouetted figures representing different historical cultures appear faintly along the routes, suggesting movement and interaction. No text or watermarks.",
       "motion": "zoom_out"
+    },
+    {
+      "narration": "From Chinese mulberry to rare Mediterranean plants, the genetic tapestry hints at a truly global past. This isn't just about faith; it's about the incredible power of DNA to unlock centuries of hidden history from one of the world's greatest enigmas.",
+      "visual_keywords": [
+        "genetic code",
+        "historical puzzle",
+        "unraveling mystery"
+      ],
+      "image_prompt": "Dramatic vertical 9:16 shot of intertwined DNA strands, glowing with ethereal light, superimposed over a blurred background of an ancient, mysterious archive or library. The DNA represents the 'unlocking' of historical data. No text or watermarks.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "The Shroud of Turin continues to surprise us!",
+      "visual_keywords": [
+        "shroud mystery",
+        "enduring enigma",
+        "human wonder"
+      ],
+      "image_prompt": "A close-up, reverent vertical 9:16 shot of the Shroud of Turin, focusing on the intricate weave and the subtle details of the imprint, bathed in a soft, mysterious light. The image evokes a sense of ancient history and unresolved wonder. No text or watermarks.",
+      "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "The Planet Where Seasons Last 42 Years?! (Uranus's Bizarre Tilt) #SpaceFacts",
-    "description": "Ever wondered about the weirdest planets in our solar system? Dive into the mind-bending reality of Uranus, the ice giant that spins almost completely on its side! Discover how its extreme 98-degree axial tilt leads to poles experiencing 42 years of continuous sunlight, followed by 42 years of total darkness. Learn about the ancient cosmic collision believed to be responsible for this planetary oddity. Get ready for some truly extreme space facts! #Uranus #Space #Astronomy #Planets #Curiosity #ScienceFacts #SolarSystem #CosmicMystery\n\nVisuals generated with AI.",
+    "title": "🤯 Shroud of Turin: DNA Reveals Centuries of Jaw-Dropping Secrets!",
+    "description": "The Shroud of Turin, one of history's most debated artifacts, has just been subjected to groundbreaking DNA analysis! What did scientists uncover? Prepare to be amazed as we delve into the genetic tapestry that reveals a complex, multicultural journey spanning continents and centuries. This isn't just about ancient relics; it's about how modern science is rewriting our understanding of the past. #ShroudOfTurin #DNAanalysis #AncientMysteries #ScienceBreakthrough #HistoricalDiscovery\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Uranus",
-      "#SpaceFacts",
-      "#Astronomy",
-      "#Planets",
-      "#Science",
-      "#Curiosity",
-      "#SolarSystem",
-      "#CosmicMystery",
-      "#DidYouKnow"
+      "#ShroudOfTurin",
+      "#DNAanalysis",
+      "#AncientMysteries",
+      "#ScienceBreakthrough",
+      "#HistoricalDiscovery",
+      "#UnbelievableFacts",
+      "#Curiosity"
     ]
   },
   "tiktok": {
-    "caption": "Imagine 42 years of endless summer, then 42 years of total night! 🤯 Welcome to Uranus, the planet that spins on its side and has the wildest seasons in our solar system. 🪐 #Uranus #SpaceFacts #Astronomy #PlanetTilt #Cosmic #ScienceTok #MindBlown #DidYouKnow (Visuals generated with AI.)",
+    "caption": "The Shroud of Turin's deepest secrets just got exposed by DNA! 🧬 You WON'T believe what scientists found about this ancient relic's journey across the world.🤯 #ShroudOfTurin #DNAreveals #AncientMystery #MindBlown #HistoryFacts (Visuals generated with AI.)",
     "hashtags": [
-      "#Uranus",
-      "#SpaceFacts",
-      "#Astronomy",
-      "#PlanetTilt",
-      "#Cosmic",
-      "#ScienceTok",
+      "#ShroudOfTurin",
+      "#DNAreveals",
+      "#AncientMystery",
       "#MindBlown",
-      "#DidYouKnow",
-      "#ExtremeSeasons"
+      "#HistoryFacts",
+      "#ScienceTok",
+      "#Curiosity"
     ]
   }
 }
