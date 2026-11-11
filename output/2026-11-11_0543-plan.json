@@ -1,0 +1,94 @@
+{
+  "picked_trend": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+  "why_viral": "The discovery of a rodent the size of a dog from millions of years ago is a mind-bending concept that challenges our understanding of prehistoric life and mammalian evolution. It's instantly shocking and visually compelling.",
+  "core_idea": "Paleontologists recently unearthed fossils of an astonishingly large, 66-pound ancient rodent, *Neoepiblema acreensis*, that roamed South America approximately 34 million years ago, redefining our perception of prehistoric mammals.",
+  "video_title": "TITAN RODENT! This Giant Once Roamed Earth!",
+  "script": "Forget tiny mice and cute hamsters. Imagine a rodent so massive, it weighed as much as a medium-sized dog! That's exactly what scientists just discovered. Deep in the fossil record, paleontologists unearthed evidence of a colossal rodent that roamed Earth 34 million years ago. Named Neoepiblema acreensis, this ancient creature tipped the scales at an astonishing 66 pounds. It wasn't just big; it was a true titan of its time, dwarfing any rodent alive today. Its fossils paint a vivid picture of a world where creatures we think of as small, could grow to incredible, almost unbelievable proportions. This discovery doesn't just give us a new creature to marvel at. It rewrites a surprising chapter in the story of mammalian evolution, showing us just how diverse and mind-bending ancient life really was.",
+  "scenes": [
+    {
+      "narration": "Forget tiny mice and cute hamsters. Imagine a rodent so massive, it weighed as much as a medium-sized dog!",
+      "visual_keywords": [
+        "tiny mouse",
+        "giant shadow",
+        "shocking reveal"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A tiny, adorable house mouse nibbling on a crumb in a cozy, sunlit domestic kitchen. Suddenly, a colossal, blurred shadow of a huge rodent looms over it, casting the room into partial darkness, creating a sense of immense scale and impending reveal. No text, no brands.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "That's exactly what scientists just discovered. Deep in the fossil record, paleontologists unearthed evidence of a colossal rodent that roamed Earth 34 million years ago.",
+      "visual_keywords": [
+        "paleontologist",
+        "fossil dig",
+        "ancient landscape"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A paleontologist carefully brushes dirt away from a massive, exposed fossilized skull and jawbone of an enormous rodent in a dusty, arid, ancient South American badlands landscape bathed in golden hour sunlight. The scale of the bone is clearly immense. No text, no brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Named Neoepiblema acreensis, this ancient creature tipped the scales at an astonishing 66 pounds. It wasn't just big; it was a true titan of its time, dwarfing any rodent alive today.",
+      "visual_keywords": [
+        "giant rodent",
+        "prehistoric forest",
+        "size comparison"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A majestic, photorealistic reconstruction of a Neoepiblema acreensis, a 66-pound capybara-like rodent, standing confidently in a lush, ancient South American rainforest. Its size is visually compared to a modern-day, much smaller capybara or a medium-sized dog in the background for scale. Overhead jungle canopy, dappled light. No text, no brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Its fossils paint a vivid picture of a world where creatures we think of as small, could grow to incredible, almost unbelievable proportions.",
+      "visual_keywords": [
+        "ancient ecosystem",
+        "diverse wildlife",
+        "lush environment"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A dynamic scene of a vibrant ancient South American ecosystem 34 million years ago. The massive Neoepiblema acreensis is seen grazing near a river, with various other unique prehistoric flora and fauna in the background, showcasing the rich biodiversity and unusual scales of life in that era. Lush green foliage, misty atmosphere. No text, no brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "This discovery doesn't just give us a new creature to marvel at. It rewrites a surprising chapter in the story of mammalian evolution, showing us just how diverse and mind-bending ancient life really was.",
+      "visual_keywords": [
+        "evolutionary tree",
+        "ancient life",
+        "scientific discovery"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. An abstract, visually stunning representation of an evolutionary tree, with the branch representing rodents prominently highlighting the Neoepiblema acreensis as a bold, significant point. The background is a swirling galaxy of scientific data and light, symbolizing new discoveries and expanding knowledge. No text, no brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 GIANT RODENT DISCOVERED! This 66-Pound Titan Roamed Earth 34 Million Years Ago! #AncientLife",
+    "description": "Prepare to have your mind blown! Scientists have just unearthed fossils of an ancient rodent, Neoepiblema acreensis, that weighed a staggering 66 pounds! Imagine a rodent the size of a dog roaming South America 34 million years ago. This incredible discovery challenges everything we thought we knew about prehistoric mammals and mammalian evolution. Join us as we explore this colossal creature and the surprising story it tells about Earth's ancient past!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#GiantRodent",
+      "#Paleontology",
+      "#AncientAnimals",
+      "#PrehistoricLife",
+      "#Discovery",
+      "#ScienceFacts",
+      "#Curiosity",
+      "#MindBlown",
+      "#Evolution",
+      "#Fossils"
+    ]
+  },
+  "tiktok": {
+    "caption": "A 66-pound rodent?! 🤯 Scientists just found fossils of Neoepiblema acreensis, a colossal rodent that roamed Earth 34 million years ago! This titan was the size of a dog! #GiantRodent #Prehistoric #ScienceFacts #MindBlown #FossilDiscovery (Visuals generated with AI.)",
+    "hashtags": [
+      "#GiantRodent",
+      "#Prehistoric",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#FossilDiscovery",
+      "#AncientAnimals",
+      "#Curiosity",
+      "#DidYouKnow",
+      "#Paleontology"
+    ]
+  }
+}

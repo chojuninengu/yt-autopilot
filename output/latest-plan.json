@@ -1,77 +1,89 @@
 {
-  "picked_trend": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-  "why_viral": "This story is highly viral because it presents a mind-bending, counter-intuitive discovery about evolution. The idea of 'giant predators' shrinking, defying common expectations of evolution towards larger, more dominant forms, creates immediate intrigue and challenges fundamental understanding, making it fascinating and shareable.",
-  "core_idea": "A new fossil discovery reveals that top predators in an ancient ocean underwent 'miniaturization,' consistently shrinking over millions of years, challenging conventional evolutionary theories.",
-  "video_title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist",
-  "script": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms. But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger. Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures. This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
+  "picked_trend": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+  "why_viral": "The discovery of a rodent the size of a dog from millions of years ago is a mind-bending concept that challenges our understanding of prehistoric life and mammalian evolution. It's instantly shocking and visually compelling.",
+  "core_idea": "Paleontologists recently unearthed fossils of an astonishingly large, 66-pound ancient rodent, *Neoepiblema acreensis*, that roamed South America approximately 34 million years ago, redefining our perception of prehistoric mammals.",
+  "video_title": "TITAN RODENT! This Giant Once Roamed Earth!",
+  "script": "Forget tiny mice and cute hamsters. Imagine a rodent so massive, it weighed as much as a medium-sized dog! That's exactly what scientists just discovered. Deep in the fossil record, paleontologists unearthed evidence of a colossal rodent that roamed Earth 34 million years ago. Named Neoepiblema acreensis, this ancient creature tipped the scales at an astonishing 66 pounds. It wasn't just big; it was a true titan of its time, dwarfing any rodent alive today. Its fossils paint a vivid picture of a world where creatures we think of as small, could grow to incredible, almost unbelievable proportions. This discovery doesn't just give us a new creature to marvel at. It rewrites a surprising chapter in the story of mammalian evolution, showing us just how diverse and mind-bending ancient life really was.",
   "scenes": [
     {
-      "narration": "Imagine an ancient ocean, a world teeming with colossal predators, the undisputed rulers of the deep. For millions of years, evolution seemed to push life towards larger, more dominant forms.",
+      "narration": "Forget tiny mice and cute hamsters. Imagine a rodent so massive, it weighed as much as a medium-sized dog!",
       "visual_keywords": [
-        "ancient ocean",
-        "giant predators",
-        "primordial sea"
+        "tiny mouse",
+        "giant shadow",
+        "shocking reveal"
       ],
-      "image_prompt": "A breathtaking 3D cinematic scene, vertical 9:16, of a vast, dark ancient ocean. Silhouettes of colossal, primitive marine predators, like giant anomalocarids or early cephalopods, cruise ominously through the murky, bioluminescent depths, their forms hinting at immense power. No text.",
+      "image_prompt": "3D cinematic, vertical 9:16. A tiny, adorable house mouse nibbling on a crumb in a cozy, sunlit domestic kitchen. Suddenly, a colossal, blurred shadow of a huge rodent looms over it, casting the room into partial darkness, creating a sense of immense scale and impending reveal. No text, no brands.",
       "motion": "zoom_out"
     },
     {
-      "narration": "But a stunning new fossil discovery from a prehistoric ocean has just revealed a mind-bending secret. Scientists unearthed evidence showing that the top predators in this ecosystem didn't grow bigger.",
+      "narration": "That's exactly what scientists just discovered. Deep in the fossil record, paleontologists unearthed evidence of a colossal rodent that roamed Earth 34 million years ago.",
       "visual_keywords": [
-        "fossil discovery",
-        "ancient marine life",
-        "surprising twist"
+        "paleontologist",
+        "fossil dig",
+        "ancient landscape"
       ],
-      "image_prompt": "A dramatic 3D cinematic scene, vertical 9:16, inside a dimly lit, high-tech research lab. A paleontologist, with intense focus, gently brushes away sediment from a remarkably preserved fossil embedded in a rock slab, revealing the intricate skeletal structure of an ancient, smaller marine predator. Futuristic display screens show genetic analysis. No text.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "Instead, over millions of years, these apex hunters actually underwent \"miniaturization.\" They consistently shrank, becoming smaller and smaller, a complete reversal of what we usually expect from evolutionary pressures.",
-      "visual_keywords": [
-        "evolution",
-        "miniaturization",
-        "apex predators"
-      ],
-      "image_prompt": "A striking 3D cinematic scene, vertical 9:16, illustrating the evolutionary timeline. On the left, a large, fierce ancient marine predator, like a formidable fish or arthropod, dominates the scene. To the right, a sequence of progressively smaller, yet still predatory, versions of the same creature, showing a clear reduction in size over millions of years. The background is a stylized underwater gradient. No text.",
+      "image_prompt": "3D cinematic, vertical 9:16. A paleontologist carefully brushes dirt away from a massive, exposed fossilized skull and jawbone of an enormous rodent in a dusty, arid, ancient South American badlands landscape bathed in golden hour sunlight. The scale of the bone is clearly immense. No text, no brands.",
       "motion": "pan_right"
     },
     {
-      "narration": "This radical discovery forces us to rethink fundamental ideas about evolution and survival. It proves that in some extreme environments, getting *smaller* can be the ultimate survival strategy. What other secrets does the deep past hold?",
+      "narration": "Named Neoepiblema acreensis, this ancient creature tipped the scales at an astonishing 66 pounds. It wasn't just big; it was a true titan of its time, dwarfing any rodent alive today.",
       "visual_keywords": [
-        "evolutionary theory",
-        "survival strategy",
-        "deep past"
+        "giant rodent",
+        "prehistoric forest",
+        "size comparison"
       ],
-      "image_prompt": "A profound 3D cinematic scene, vertical 9:16, depicting ancient, weathered rock formations on an ocean floor, with ethereal light filtering down from above. Mysterious shadows of unseen lifeforms dart in the distance, emphasizing the vast, unexplored nature of ancient aquatic environments. No text.",
-      "motion": "zoom_out"
+      "image_prompt": "3D cinematic, vertical 9:16. A majestic, photorealistic reconstruction of a Neoepiblema acreensis, a 66-pound capybara-like rodent, standing confidently in a lush, ancient South American rainforest. Its size is visually compared to a modern-day, much smaller capybara or a medium-sized dog in the background for scale. Overhead jungle canopy, dappled light. No text, no brands.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "Its fossils paint a vivid picture of a world where creatures we think of as small, could grow to incredible, almost unbelievable proportions.",
+      "visual_keywords": [
+        "ancient ecosystem",
+        "diverse wildlife",
+        "lush environment"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A dynamic scene of a vibrant ancient South American ecosystem 34 million years ago. The massive Neoepiblema acreensis is seen grazing near a river, with various other unique prehistoric flora and fauna in the background, showcasing the rich biodiversity and unusual scales of life in that era. Lush green foliage, misty atmosphere. No text, no brands.",
+      "motion": "pan_left"
+    },
+    {
+      "narration": "This discovery doesn't just give us a new creature to marvel at. It rewrites a surprising chapter in the story of mammalian evolution, showing us just how diverse and mind-bending ancient life really was.",
+      "visual_keywords": [
+        "evolutionary tree",
+        "ancient life",
+        "scientific discovery"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. An abstract, visually stunning representation of an evolutionary tree, with the branch representing rodents prominently highlighting the Neoepiblema acreensis as a bold, significant point. The background is a swirling galaxy of scientific data and light, symbolizing new discoveries and expanding knowledge. No text, no brands.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The Ocean Where Predators SHRANK: Evolution's Bizarre Twist Revealed!",
-    "description": "Prepare to have your mind blown! A new fossil discovery from an ancient ocean reveals a shocking twist in evolution: top predators didn't grow bigger, they actually shrank over millions of years! This counter-intuitive finding challenges everything we thought we knew about survival and adaptation. Dive deep into this unbelievable scientific breakthrough with us! #Evolution #AncientOcean #Predators #ScienceFacts #Curiosity #DeepSeaSecrets #AmazingDiscoveries\n\nVisuals generated with AI.",
+    "title": "🤯 GIANT RODENT DISCOVERED! This 66-Pound Titan Roamed Earth 34 Million Years Ago! #AncientLife",
+    "description": "Prepare to have your mind blown! Scientists have just unearthed fossils of an ancient rodent, Neoepiblema acreensis, that weighed a staggering 66 pounds! Imagine a rodent the size of a dog roaming South America 34 million years ago. This incredible discovery challenges everything we thought we knew about prehistoric mammals and mammalian evolution. Join us as we explore this colossal creature and the surprising story it tells about Earth's ancient past!\n\nVisuals generated with AI.",
     "hashtags": [
-      "Evolution",
-      "AncientOcean",
-      "Predators",
-      "ScienceFacts",
-      "Curiosity",
-      "DeepSeaSecrets",
-      "AmazingDiscoveries",
-      "Paleontology",
-      "Unbelievable"
+      "#GiantRodent",
+      "#Paleontology",
+      "#AncientAnimals",
+      "#PrehistoricLife",
+      "#Discovery",
+      "#ScienceFacts",
+      "#Curiosity",
+      "#MindBlown",
+      "#Evolution",
+      "#Fossils"
     ]
   },
   "tiktok": {
-    "caption": "🤯 Evolution’s craziest twist just discovered! In an ancient ocean, top predators *shrank* instead of growing bigger. What?! This changes everything! #Evolution #AncientHistory #ScienceFacts #MindBlown #Curiosity #OceanMysteries (Visuals generated with AI.)",
+    "caption": "A 66-pound rodent?! 🤯 Scientists just found fossils of Neoepiblema acreensis, a colossal rodent that roamed Earth 34 million years ago! This titan was the size of a dog! #GiantRodent #Prehistoric #ScienceFacts #MindBlown #FossilDiscovery (Visuals generated with AI.)",
     "hashtags": [
-      "Evolution",
-      "AncientHistory",
-      "ScienceFacts",
-      "MindBlown",
-      "Curiosity",
-      "OceanMysteries",
-      "Paleontology",
-      "DidYouKnow"
+      "#GiantRodent",
+      "#Prehistoric",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#FossilDiscovery",
+      "#AncientAnimals",
+      "#Curiosity",
+      "#DidYouKnow",
+      "#Paleontology"
     ]
   }
 }

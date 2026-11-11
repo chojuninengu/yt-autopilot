@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "score": 40,
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "score": 410,
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+    },
+    {
+      "source": "hackernews",
+      "title": ".name Grandfathered",
+      "score": 750,
+      "url": "https://neil.fraser.name/news/2026/11/10/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Smart home devices should work without the internet",
+      "score": 811,
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A great old-timey game-programming hack (2013)",
+      "score": 83,
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Six Math Essentials",
+      "score": 194,
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "score": 42,
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+    },
+    {
+      "source": "hackernews",
+      "title": "Starlink Mini 2",
+      "score": 347,
+      "url": "https://starlink.com/mini-2"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "score": 363,
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+    },
+    {
+      "source": "hackernews",
+      "title": "Announcing .NET 11",
+      "score": 119,
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Unremarkable things we made in 2026",
+      "score": 17,
+      "url": "https://www.neilchen.co/blog/things2026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "score": 4,
+      "url": "https://github.com/gmkurtzer/ginux"
+    },
+    {
+      "source": "hackernews",
+      "title": "AlphaProof Code",
+      "score": 605,
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Val Town is winding down",
+      "score": 346,
+      "url": "https://blog.val.town/winding-down"
+    },
+    {
+      "source": "hackernews",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "score": 343,
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "emilio pagán",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "emilio pagan",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "elsinore",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jocasta marvel",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "coachella 2027 lineup",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "donovan mitchell",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bennett stirtz",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "precious achiuwa",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "joseph zada",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "franz wagner",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Aerosmith made more money from Guitar Hero than from any of their albums."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL in Germany, they have something called a frauenparkplatz, parking spots dedicated to women, closer to exists, in areas with more surveillance and better lighting for safety. They are also sometimes wider."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about the \"final parsec problem\": when two galaxies merge, their central black holes should stall roughly 3 light-years apart, but somehow they don't, and astronomers still debate why."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL- Deep-fryer and turkey-fryer fires in US cause an average of 5 deaths, 60 injuries, the destruction of 900 homes, and over $15 million in property damage each year."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL studies have found monkeys also experience noticeable discomfort when presented with an uncanny valley approximation of monkeys."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the armistice ending WWI was agreed at 5 a.m. on November 11, 1918, but didn't take effect until 11 a.m. Fighting continued all morning, and 2,738 men died that final day. Henry Gunther, widely regarded as the war's last combat death, was shot 60 seconds before the ceasefire."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that SS Edmund Fitzgerald’s fateful voyage on Nov. 10th, 1975 was intended to be last trip of the freighter’s crew that year, and the final voyage of Captain McSorley’s career before his retirement. McSorley’s last message was “we are holding our own” before all contact was lost around 7:15 PM."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that only one woman has ever received the Medal of Honor, Dr. Mary Walker for treating patients in battle and across enemy lines during the Civil War."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that George Romero's original script for Day of the Dead (1985) was a much larger, more epic film, which he compared to \"the Gone with the Wind of zombie films.\" However, arguments over the film's rating cause the budget to be cut in half, forcing Romero to drastically scale it down."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Gordon Lightfoot wrote \"The Wreck of the Edmund Fitzgerald\" before the ship's wreckage had been found and studied. As more information became available, he changed the lyrics in his live performances to fit the facts."
+    }
+  ],
+  "errors": []
+}
