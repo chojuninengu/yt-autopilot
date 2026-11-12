@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang resigns",
+      "score": 2703,
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rust 1.100",
+      "score": 291,
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 229,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Foundation Models framework",
+      "score": 80,
+      "url": "https://developer.apple.com/foundation-models-framework/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "score": 165,
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "score": 261,
+      "url": "https://github.com/simpsoka/zigzag"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "score": 45,
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Service degradation on Microsoft 365",
+      "score": 392,
+      "url": "https://status.cloud.microsoft/"
+    },
+    {
+      "source": "hackernews",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "score": 120,
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm making LLMs work on small and old devices",
+      "score": 259,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "score": 230,
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
+    },
+    {
+      "source": "hackernews",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "score": 92,
+      "url": "https://makepad.github.io/relax/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Safety in Algae Home Experiments",
+      "score": 20,
+      "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Hydrogen",
+      "score": 421,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+      "score": 347,
+      "url": "https://pron.github.io/posts/correctness-and-complexity"
+    },
+    {
+      "source": "science_daily",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The mystery of how hair knows where to grow may finally be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pistons vs wizards",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "canadiens vs bruins",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "avalanche vs senators",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ebenezer",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "capitals vs devils",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lightning vs blue jackets",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "taylor sheridan",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gta 6 ultimate edition",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "penn state wrestling",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "raptors vs 76ers",
+      "traffic": "5000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the world’s richest monarch is King Maha Vajiralongkorn (Rama X) of Thailand, whose fortune is estimated at $30 billion or more. Despite ruling Thailand, he has spent much of his time living in Bavaria, Germany, where he owns lakeside property."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL captive orcas frequently have worn-down, broken, or intentionally drilled teeth because they chew and grind on concrete pool walls and steel gates out of stress and boredom"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL of Mary Hardy Reeser, the 1951 \"Cinder Woman\" whose body burned almost entirely to ash while leaving the surrounding room virtually untouched. Though popular culture blamed spontaneous human combustion, the FBI attributed her death to the \"wick effect\"."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that from 1980 to 2014, the Wright Amendment banned commercial flights at Dallas Love Field from flying beyond Texas and its neighboring states. The law was passed to protect DFW Airport and mainly targeted Southwest Airlines."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL lions, tigers, leopards and jaguars are the only true roaring big cats. Cheetahs, pumas and even snow leopards can't roar, despite their impressive size and fearsome looks. Instead of roaring, they make sounds like hissing and purring."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that genetically modified apples that don't brown upon exposure to air post-slicing exist, called \"Arctic Apples\". Scientists used gene silencing to turn off the enzyme that reacts with oxygen, keeping slices fresh-looking for days without preservatives."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Pixar came up with the idea of putting production babies in movie credits when they were making Toy Story. Since then, it has also become commonplace in video game credits."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Xavier Von Erck, founder of the group \"Perverted Justice\" behind the show \"To Catch a Predator\", once catfished a former member for months, even having online sex with him, to get him to leave his wife and publicly humiliate him by promising to meet up and live together"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Grand Tour cyclists (such the Tour de France) burn 5,000-8,000 calories on a mountain stage and up to 10,000 calories in daily expenditure."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL The Humbolt Squid reaches lengths of up to six feet and can weigh nearly one hundred pounds. They have incredible eyesight, a razor-sharp beak, eight tentacles with hooks on their suckers and they can hunt in groups of up to 1500."
+    }
+  ],
+  "errors": []
+}
