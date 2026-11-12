@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "NVIDIA Announces CEO Transition",
+      "score": 717,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why Writing Correct Software Is Hard",
+      "score": 193,
+      "url": "https://pron.github.io/posts/correctness-and-complexity"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "score": 197,
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "score": 16,
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"
+    },
+    {
+      "source": "hackernews",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "score": 16,
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jane Street – Our software engineering interviews are changing (a little)",
+      "score": 17,
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Libreagi – Save OSS Models",
+      "score": 12,
+      "url": "https://libreagi.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jane Street: Socratic Tutor",
+      "score": 472,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "score": 95,
+      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t"
+    },
+    {
+      "source": "hackernews",
+      "title": "A live tree of systemd jobs on the boot console",
+      "score": 219,
+      "url": "https://codeberg.org/wvhulle/bootvine"
+    },
+    {
+      "source": "hackernews",
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "score": 51,
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tim Peters has died",
+      "score": 1319,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic IPO",
+      "score": 279,
+      "url": "https://ipo.anthropic.com/us/"
+    },
+    {
+      "source": "hackernews",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 512,
+      "url": "https://www.mcmillen.dev/sigbovik/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 300,
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    },
+    {
+      "source": "science_daily",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The mystery of how hair knows where to grow may finally be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Nvidia CEO Jensen Huang has resigned",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Hundreds of streaming services and nothing to watch",
+      "url": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "British woman missing from cruise ship in Atlantic",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "white house",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "smh",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dupont circle",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "juste jocyte natalie nakase fallout",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "avgo stock",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "robinhood",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tsmc stock",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "英伟达股票",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "finance",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "teri polo",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about Peter Norman, the third guy on the podium during the black power salute; 1968 Olympics. His support to the moment led to issues back in Australia, but Smith and Carlos respected him so much they were pallbearers at his funeral."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the world’s richest monarch is King Maha Vajiralongkorn (Rama X) of Thailand, whose fortune is estimated at $30 billion or more. Despite ruling Thailand, he has spent much of his time living in Bavaria, Germany, where he owns lakeside property."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 1921, the U.S. Army exhumed four unidentified WWI soldiers from cemeteries in France to randomly select one for burial at the Tomb of the Unknown Soldier. Their burial records were deliberately destroyed to preserve their anonymity, and the three not selected were reburied in France."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that former Tsar Simeon II of Bulgaria and the current Dalai Lama are the only two people still living who were heads of state during World War II"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL of Mary Hardy Reeser, the 1951 \"Cinder Woman\" whose body burned almost entirely to ash while leaving the surrounding room virtually untouched. Though popular culture blamed spontaneous human combustion, the FBI attributed her death to the \"wick effect\"."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Canada has the longest coastline in the world"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about the USS Tang, the submarine that sank more enemy ships (33) than any other American sub in World War II. Launched in 1943, she was sunk by her own torpedo in October 1944, killing most of her crew."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Elton John has publicly performed Candle in the Wind, 1997 (the rewritten version in tribute of Princess Diana) only once - at her funeral."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that from 1980 to 2014, the Wright Amendment banned commercial flights at Dallas Love Field from flying beyond Texas and its neighboring states. The law was passed to protect DFW Airport and mainly targeted Southwest Airlines."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that sturgeon isn’t considered kosher, because its scales are difficult to remove"
+    }
+  ],
+  "errors": []
+}

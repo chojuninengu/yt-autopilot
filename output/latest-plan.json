@@ -1,87 +1,89 @@
 {
-  "picked_trend": "TIL there was a go game in progress 5 km away from Hiroshima when the bomb dropped. Play was resumed after the lunch break, and the game was played to a conclusion that evening.",
-  "why_viral": "This story is incredibly viral because it showcases an extreme, almost unbelievable act of human composure and resilience amidst unimaginable catastrophe. The juxtaposition of a tranquil, strategic game like Go with the instant devastation of an atomic bomb creates immense curiosity and emotional impact. It's a powerful narrative about finding normalcy and focus in the face of ultimate chaos.",
-  "core_idea": "A professional Go game continued in Hiroshima just hours after the atomic bomb detonated, highlighting an astonishing instance of human resilience and focus amidst unprecedented destruction.",
-  "video_title": "The Go Game That Defied the Atomic Bomb",
-  "script": "Imagine the unthinkable: the atomic bomb dropping. On August 6th, 1945, Hiroshima was annihilated in an instant. But just 5 kilometers away, something truly unbelievable was happening. Two professional Go players, Kaoru Iwamoto and Minoru Kitani, were deep in a high-stakes match. Completely unaware of the looming cataclysm, they were engrossed in their strategic game. Then, a blinding flash, a deafening roar, and a powerful shockwave ripped through their location, shattering windows and causing chaos. But after checking for injuries and realizing the city was gone, they made an extraordinary decision. Despite the horror unfolding around them, the players resumed their game after the lunch break. They played to a conclusion that evening, a profound act of defiance and a testament to the human spirit's ability to find order in utter devastation.",
+  "picked_trend": "r/todayilearned - TIL of Mary Hardy Reeser, the 1951 \"Cinder Woman\" whose body burned almost entirely to ash while leaving the surrounding room virtually untouched. Though popular culture blamed spontaneous human combustion, the FBI attributed her death to the \"wick effect\".",
+  "why_viral": "This story is incredibly intriguing due to its macabre nature, the bizarre circumstances (body almost entirely incinerated while the room is largely untouched), and the debunking of a popular myth (spontaneous human combustion) with a scientific explanation ('wick effect'). It combines elements of true crime, scientific mystery, and unbelievable phenomena, making it perfect for a viral curiosity channel. It's a fresh topic compared to recent publications and falls under 'bizarre true discoveries' and 'strange natural phenomena'.",
+  "core_idea": "The baffling 1951 case of Mary Reeser, the 'Cinder Woman', whose body was almost completely incinerated leaving her apartment largely untouched, was not spontaneous human combustion but a scientific phenomenon known as the 'wick effect'.",
+  "video_title": "The Cinder Woman: A Chilling Mystery Solved by Science",
+  "script": "Imagine waking up to find someone almost completely incinerated, yet their room is barely touched. This chilling scene isn't from a horror film, but a real-life mystery from 1951.\n\nMeet Mary Reeser, dubbed the 'Cinder Woman'. Investigators found her reduced to a small pile of ash and a few bone fragments, but the surrounding apartment suffered minimal damage. A true crime nightmare!\n\nFor decades, speculation ran wild. Many whispered of 'spontaneous human combustion' – the idea that a body can ignite without an external source. But the FBI's investigation revealed a far more scientific, and equally unsettling, truth.\n\nThe culprit was the 'wick effect'. Here's how it works: A human body, rich in fat, can become like a candle. If ignited by an external source, like a dropped cigarette, the body's fat acts as fuel, and clothing or furniture acts as a wick, slowly burning the body to ash while containing the heat locally.\n\nSo, the 'Cinder Woman' was no supernatural event. It was a stark, scientific lesson in just how intensely and localized a slow burn can be. Truly mind-bending!",
   "scenes": [
     {
-      "narration": "Imagine the unthinkable: the atomic bomb dropping. On August 6th, 1945, Hiroshima was annihilated in an instant.",
+      "narration": "Imagine waking up to find someone almost completely incinerated, yet their room is barely touched. This chilling scene isn't from a horror film, but a real-life mystery from 1951.",
       "visual_keywords": [
-        "atomic bomb",
-        "Hiroshima",
-        "destruction"
+        "mystery room",
+        "crime scene",
+        "burnt remnants"
       ],
-      "image_prompt": "A desolate, ash-covered urban landscape of Hiroshima immediately after an atomic bomb detonation, with a mushroom cloud faintly visible in the distance. The city is a ruin, smoke billows, the sky is a muted, apocalyptic orange. Vertical 9:16, 3D cinematic, highly detailed.",
+      "image_prompt": "A dimly lit, slightly smoky 1950s apartment living room, mostly intact but with a small, localized area on the floor showing extreme charring and a faint outline of where a body once lay. Dust motes dance in a single shaft of light from a window. Cinematic 3D render, vertical 9:16.",
       "motion": "zoom_out"
     },
     {
-      "narration": "But just 5 kilometers away, something truly unbelievable was happening. Two professional Go players, Kaoru Iwamoto and Minoru Kitani, were deep in a high-stakes match.",
+      "narration": "Meet Mary Reeser, dubbed the 'Cinder Woman'. Investigators found her reduced to a small pile of ash and a few bone fragments, but the surrounding apartment suffered minimal damage. A true crime nightmare!",
       "visual_keywords": [
-        "Go game",
-        "traditional Japan",
-        "concentration"
+        "police investigation",
+        "forensic evidence",
+        "baffling discovery"
       ],
-      "image_prompt": "Inside a traditional Japanese room with tatami mats and shoji screens, two distinguished Go players, one older and one younger, are intensely focused over a wooden Go board. Sunlight filters softly through the screens. Their faces show deep concentration. Vertical 9:16, 3D cinematic, realistic, serene atmosphere.",
+      "image_prompt": "A stylized, slightly out-of-focus shot of 1950s detectives in trench coats looking perplexed at a small pile of ashes on a carpet, with a perfectly intact armchair and side table nearby. The scene is bathed in a cool, somber light. Cinematic 3D render, vertical 9:16.",
       "motion": "pan_right"
     },
     {
-      "narration": "Completely unaware of the looming cataclysm, they were engrossed in their strategic game. Then, a blinding flash, a deafening roar, and a powerful shockwave ripped through their location, shattering windows and causing chaos.",
+      "narration": "For decades, speculation ran wild. Many whispered of 'spontaneous human combustion' – the idea that a body can ignite without an external source. But the FBI's investigation revealed a far more scientific, and equally unsettling, truth.",
       "visual_keywords": [
-        "shockwave",
-        "shattered glass",
-        "disruption"
+        "ethereal flames",
+        "ancient myth",
+        "scientific debunking"
       ],
-      "image_prompt": "The same traditional Japanese room as before, but now in disarray. Shattered shoji screens, broken pottery, and dust filling the air. The Go board is slightly askew, and the players are looking up, startled and disoriented, as if just hit by a massive blast. Vertical 9:16, 3D cinematic, dramatic lighting.",
-      "motion": "shake"
-    },
-    {
-      "narration": "But after checking for injuries and realizing the city was gone, they made an extraordinary decision. Despite the horror unfolding around them, the players resumed their game after the lunch break.",
-      "visual_keywords": [
-        "resilience",
-        "restarting game",
-        "calm amidst chaos"
-      ],
-      "image_prompt": "The Go players have returned to the slightly tidied Go board amidst the still-damaged room. They are once again focused on the game, but a faint, eerie red glow from outside suggests the ongoing aftermath of the distant explosion. A sense of determination and quiet resolve on their faces. Vertical 9:16, 3D cinematic, subdued lighting, contrasting calm with distant turmoil.",
+      "image_prompt": "A ghostly, translucent human silhouette engulfed in soft, orange-red ethereal flames, contrasted against a dark, mystical background, slowly dissolving into a cloud of smoke. In the foreground, a subtle, glowing FBI badge. Cinematic 3D render, vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "They played to a conclusion that evening, a profound act of defiance and a testament to the human spirit's ability to find order in utter devastation.",
+      "narration": "The culprit was the 'wick effect'. Here's how it works: A human body, rich in fat, can become like a candle. If ignited by an external source, like a dropped cigarette, the body's fat acts as fuel, and clothing or furniture acts as a wick, slowly burning the body to ash while containing the heat locally.",
       "visual_keywords": [
-        "finished game",
-        "resilience",
-        "human spirit"
+        "scientific explanation",
+        "candle burning",
+        "localized heat"
       ],
-      "image_prompt": "The Go board at twilight, illuminated by a single soft lantern. The final stones are placed, indicating the game's completion. The players' hands are visible, one placing the last stone, a subtle hint of exhaustion and triumph. The background is blurred, focusing on the board as a symbol of completed order. Vertical 9:16, 3D cinematic, artistic, symbolic.",
-      "motion": "zoom_out"
+      "image_prompt": "A dramatic, stylized depiction of a large, thick candle burning intensely. The 'wax' of the candle subtly resembles human flesh or adipose tissue, and the 'wick' is a piece of fabric. The flame is incredibly focused and contained, with heat ripples visible around it. Dark, scientific lab aesthetic. Cinematic 3D render, vertical 9:16.",
+      "motion": "pan_left"
+    },
+    {
+      "narration": "So, the 'Cinder Woman' was no supernatural event. It was a stark, scientific lesson in just how intensely and localized a slow burn can be. Truly mind-bending!",
+      "visual_keywords": [
+        "forensic science",
+        "unbelievable facts",
+        "scientific truth"
+      ],
+      "image_prompt": "A powerful, clean shot of a forensic scientist in a modern lab, wearing gloves, examining a simulated burnt fabric sample under a microscope with advanced equipment in the background. The lighting is sharp and analytical. The scene exudes scientific rigor. Cinematic 3D render, vertical 9:16.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The UNBELIEVABLE Go Game That Continued After the Hiroshima Atomic Bomb!",
-    "description": "Discover one of history's most astounding stories of human resilience. On August 6th, 1945, as Hiroshima was decimated by the atomic bomb, two professional Go players just 5km away made an extraordinary decision: they resumed their game. This short documentary explores their incredible composure and the profound act of defiance demonstrated by playing to a conclusion amidst unparalleled devastation. A true testament to the human spirit!\n\nVisuals generated with AI.",
+    "title": "The Cinder Woman: The Bizarre 1951 Mystery Solved by Science #WickEffect",
+    "description": "In 1951, Mary Reeser became known as the 'Cinder Woman' after her body was found almost entirely incinerated, yet her apartment suffered minimal damage. Was it spontaneous human combustion? The FBI's investigation uncovered the chilling scientific truth: the 'wick effect'. Discover how this bizarre phenomenon explains one of history's most perplexing mysteries. #TrueCrime #ScienceExplained #UnsolvedMystery #Forensics #BizarreFacts #Curiosity #TIL\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Hiroshima",
-      "#AtomicBomb",
-      "#GoGame",
-      "#HistoryFacts",
-      "#UnbelievableStories",
-      "#HumanResilience",
-      "#WW2",
-      "#Curiosity"
+      "#CinderWoman",
+      "#WickEffect",
+      "#SpontaneousHumanCombustion",
+      "#TrueCrime",
+      "#ScienceExplained",
+      "#UnsolvedMystery",
+      "#Forensics",
+      "#BizarreFacts",
+      "#Curiosity",
+      "#TIL",
+      "#MysterySolved"
     ]
   },
   "tiktok": {
-    "caption": "Can you imagine playing a board game minutes after an atomic bomb dropped? This unbelievable true story from Hiroshima will blow your mind! 🤯 #GoGame #Hiroshima #HistoryFacts #Unbelievable #HumanSpirit (Visuals generated with AI.)",
+    "caption": "The Cinder Woman: When a body turns to ash but the room is untouched. Was it spontaneous human combustion? The truth is stranger and more scientific! 🤯 #CinderWoman #WickEffect #BizarreFacts #TrueCrime #ScienceExplained #Mystery (Visuals generated with AI.)",
     "hashtags": [
-      "#Hiroshima",
-      "#AtomicBomb",
-      "#GoGame",
-      "#HistoryFacts",
-      "#UnbelievableStories",
-      "#HumanResilience",
-      "#WW2",
-      "#Curiosity",
-      "#MindBlown"
+      "#CinderWoman",
+      "#WickEffect",
+      "#BizarreFacts",
+      "#TrueCrime",
+      "#ScienceExplained",
+      "#Mystery",
+      "#UnsolvedMystery",
+      "#TIL"
     ]
   }
 }
