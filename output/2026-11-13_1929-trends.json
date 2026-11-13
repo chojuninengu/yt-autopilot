@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "score": 93,
+      "url": "https://haddyalchaer.com/jepa"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "score": 548,
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Models can now transmit viruses in weight-space",
+      "score": 40,
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding"
+    },
+    {
+      "source": "hackernews",
+      "title": "The avalanche that hit math is coming for AI development",
+      "score": 18,
+      "url": "https://www.dwarkesh.com/p/rsi"
+    },
+    {
+      "source": "hackernews",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "score": 376,
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "score": 43,
+      "url": "https://isometricsf.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A technical vision for the Haskell ecosystem",
+      "score": 129,
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "score": 174,
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "score": 99,
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
+    },
+    {
+      "source": "hackernews",
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "score": 64,
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "score": 11,
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "score": 20,
+      "url": "https://github.com/bitsinfra/gnomon"
+    },
+    {
+      "source": "hackernews",
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "score": 60,
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord"
+    },
+    {
+      "source": "hackernews",
+      "title": "FM-1 Workbench",
+      "score": 3,
+      "url": "https://open.m-vave.com/fm1-workbench"
+    },
+    {
+      "source": "hackernews",
+      "title": "LibreOffice actually works 365 days a year",
+      "score": 532,
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Superheated magma could fuel towering lava fountains",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mirra andreeva",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "morocco vs niger",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "france vs south africa",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "randy travis",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "cam skattebo jameis winston sneak",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dale brown",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "eslovenia - suiza",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pennsylvania lottery",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "scotland vs north macedonia",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "joão franco below deck",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the song Play That Funky Music by Wild Cherry came about when they were playing for a mostly Black crowd and during a break a patron asked \"Are you going to play some funky music, white boys?\" so they wrote up the song in 5 minutes."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Pixar came up with the idea of putting production babies in movie credits when they were making Toy Story. Since then, it has also become commonplace in video game credits."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Danny DeVito bought the script to Pulp Fiction, before the film was made"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that The Lone Ranger (2013) starring Johnny Depp was one of the biggest box office failures of all time and lost an estimated $221-263 million when adjusted for inflation"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in Arlington Cemetery are the highly radioactive remains of soldier who died during an accident performing maintenance on a Nuclear Reactor. He is buried in concrete & a special lead shielded vault & cannot be moved or disturbed without authorization from the Atomic Energy Commission"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that before settling on \"Nvidia,\" the company's founders considered naming the company \"NVision,\" but scrapped the idea after discovering the name was already owned by a toilet paper manufacturer."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Xavier Von Erck, founder of the group \"Perverted Justice\" behind the show \"To Catch a Predator\", once catfished a former member for months, even having online sex with him, to get him to leave his wife and publicly humiliate him by promising to meet up and live together"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Grover Cleveland was the only US President to get married in the White House, and the only President to have a baby born there as well"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the 1970 Guess Who hit \"No Sugar Tonight\" was conceived when the lead singer came across a group of tough biker guys in California. A woman drove up and yelled at one of them for leaving her with the kids and not taking out the trash, and said they \"ain't getting no sugar tonight\"."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that between the three of them, the Gabor sisters had been married 20 times. Magda 6 times, Zsa Zsa 9 times, Eva 5 times."
+    }
+  ],
+  "errors": []
+}

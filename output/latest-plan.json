@@ -1,75 +1,74 @@
 {
-  "picked_trend": "Where are all the males? Ancient human fossils reveal a startling mystery",
-  "why_viral": "The headline presents an immediate, unsettling mystery about ancient human societies, sparking deep curiosity about what could cause such a profound demographic imbalance. It challenges our understanding of history and societal structures.",
-  "core_idea": "Archaeological discovery of ancient human burial sites overwhelmingly lacking male remains, posing a profound mystery about the social structures, events, or behaviors of a past civilization.",
-  "video_title": "The Ancient Mystery: Where Did All The Men Go?",
-  "script": "Imagine finding an ancient burial site, meticulously preserved, but with a chilling demographic secret: almost no male remains. That's the startling mystery archaeologists are facing after a recent discovery of ancient human fossils. Deep within what was once a thriving settlement, researchers unearthed hundreds of skeletons. Yet, for a significant period, the vast majority were women and children. Where did all the men disappear to? This isn't just a handful of missing individuals. It's a pronounced, unexplained imbalance that challenges our understanding of ancient communities. Scientists are now scrambling for answers, exploring theories from warfare or mass migration, to unique social structures or even disease. This unprecedented find could rewrite chapters of human history, offering a rare glimpse into the hidden dynamics of our ancestors. The hunt for the missing males continues, promising to unravel one of humanity's deepest ancient puzzles.",
+  "picked_trend": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "why_viral": "Combines the mystery of hidden genius from a legendary mathematician with the cutting-edge power of AI to unlock lost knowledge, promising revolutionary discoveries that could reshape mathematics and our understanding of reality.",
+  "core_idea": "Artificial Intelligence is deciphering the cryptic notebooks of mathematician Kurt Gödel, potentially revealing hundreds of hidden theorems that have been unreadable for decades and could transform the field of mathematics.",
+  "video_title": "AI Cracks Genius's Secret Code: Unlocking Lost Math!",
+  "script": "Kurt Gödel: a genius whose ideas transformed math and philosophy. For decades, his personal notebooks, filled with a cryptic shorthand, remained an unreadable enigma. Scholars believed these weren't just doodles. They held hundreds of unproven theorems, a treasure trove of mathematical breakthroughs. But human experts struggled for years to decipher them. Now, AI is finally cracking the code! Researchers are feeding Gödel’s complex handwriting into advanced AI models, teaching them to recognize his unique symbols and logic. The initial results? Absolutely stunning. This AI breakthrough promises to unlock potentially hundreds of new, mind-bending theorems from one of history's greatest minds. It's a revolution, resurrecting lost genius, and transforming our understanding of reality itself.",
   "scenes": [
     {
-      "narration": "Imagine finding an ancient burial site, meticulously preserved, but with a chilling demographic secret: almost no male remains.",
+      "narration": "Kurt Gödel: a genius whose ideas transformed math and philosophy. For decades, his personal notebooks, filled with a cryptic shorthand, remained an unreadable enigma.",
       "visual_keywords": [
-        "archaeology",
-        "ancient bones",
-        "mystery"
+        "mathematician",
+        "cryptic notes",
+        "old books"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16: An aerial shot looking down into a dusty, golden-lit archaeological dig site, revealing neatly arranged ancient human skeletons, with a clear visual emphasis on a lack of adult male skeletons among many female and child remains. The scene evokes a sense of profound mystery and discovery. NO text, NO watermarks, NO brands.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "That's the startling mystery archaeologists are facing after a recent discovery of ancient human fossils. Deep within what was once a thriving settlement, researchers unearthed hundreds of skeletons.",
-      "visual_keywords": [
-        "human remains",
-        "ancient settlement",
-        "archaeologist"
-      ],
-      "image_prompt": "3D cinematic, vertical 9:16: A focused shot on an archaeologist in a wide-brimmed hat, kneeling carefully beside an uncovered ancient skeleton in a trench, with other unearthed female and child skeletons visible in the background. The surroundings show hints of ancient stone structures. The light is soft, dusty morning sun. NO text, NO watermarks, NO brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "Yet, for a significant period, the vast majority were women and children. Where did all the men disappear to? This isn't just a handful of missing individuals. It's a pronounced, unexplained imbalance that challenges our understanding of ancient communities.",
-      "visual_keywords": [
-        "ancient society",
-        "demographics",
-        "historical puzzle"
-      ],
-      "image_prompt": "3D cinematic, vertical 9:16: A holographic or glowing data visualization overlaying a conceptual ancient village scene. The visualization shows bars or figures representing population demographics, with a dramatically smaller bar for adult males compared to females and children. The village in the background is a stylized, bustling ancient settlement, hinting at life that once was. NO text, NO watermarks, NO brands.",
+      "image_prompt": "A 3D cinematic shot of an aged, leather-bound notebook lying open on a mahogany desk, pages covered in dense, intricate, unreadable handwritten symbols and diagrams. A single beam of golden sunlight highlights the cryptic script. Vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Scientists are now scrambling for answers, exploring theories from warfare or mass migration, to unique social structures or even disease. This unprecedented find could rewrite chapters of human history, offering a rare glimpse into the hidden dynamics of our ancestors. The hunt for the missing males continues, promising to unravel one of humanity's deepest ancient puzzles.",
+      "narration": "Scholars believed these weren't just doodles. They held hundreds of unproven theorems, a treasure trove of mathematical breakthroughs. But human experts struggled for years to decipher them. Now, AI is finally cracking the code!",
       "visual_keywords": [
-        "scientific research",
-        "ancient history",
-        "unraveling mystery"
+        "research",
+        "hidden knowledge",
+        "AI interface"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16: A vibrant, dynamic montage showcasing scientific investigation: a forensic anthropologist examining a skull in a modern lab, a map with migration arrows glowing, ancient warriors clashing in a stylized, distant battle, and a researcher poring over ancient texts or digital data. The overall tone is one of intense discovery and intellectual pursuit. NO text, NO watermarks, NO brands.",
-      "motion": "shake"
+      "image_prompt": "A dynamic 3D cinematic shot transitioning from a frustrated academic studying a cryptic notebook to a glowing, futuristic AI interface on a large, transparent screen, displaying complex algorithms and deciphered symbols. Vertical 9:16.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "Researchers are feeding Gödel’s complex handwriting into advanced AI models, teaching them to recognize his unique symbols and logic. The initial results? Absolutely stunning.",
+      "visual_keywords": [
+        "data processing",
+        "AI analysis",
+        "mathematical patterns"
+      ],
+      "image_prompt": "A detailed 3D cinematic view inside a high-tech lab, with holographic projections of Gödel's original script being digitally analyzed and converted into understandable mathematical equations by a supercomputer. Green data lines flow rapidly. Vertical 9:16.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "This AI breakthrough promises to unlock potentially hundreds of new, mind-bending theorems from one of history's greatest minds. It's a revolution, resurrecting lost genius, and transforming our understanding of reality itself.",
+      "visual_keywords": [
+        "future",
+        "scientific impact",
+        "knowledge"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic shot of a vast, illuminated library or archive, stretching endlessly, with ancient texts and modern data streams converging. The scene suggests the infinite potential of knowledge being unlocked, bathed in soft, futuristic light, with abstract mathematical patterns subtly integrated. Vertical 9:16.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The Ancient Mystery: Where Did All The Men Go? #Archaeology #History",
-    "description": "Archaeologists have uncovered an ancient burial site with a baffling secret: a striking absence of male remains. For a significant period, it seems an ancient community was composed almost entirely of women and children. This startling discovery challenges everything we thought we knew about early human societies. What could have caused such a profound demographic imbalance? Was it ancient warfare, mass migration, a devastating disease, or a unique social structure lost to time? Join us as we explore this unprecedented historical puzzle and the theories scientists are investigating to unravel one of humanity's deepest ancient mysteries. #AncientHistory #Archaeology #Mystery #HumanEvolution #FossilDiscovery\n\nVisuals generated with AI.",
+    "title": "AI Cracks Genius's Secret Code: What Gödel Hid From Us!",
+    "description": "Dive into the incredible story of Kurt Gödel, a mathematical titan whose cryptic personal notebooks have remained an enigma for decades. Now, groundbreaking Artificial Intelligence is finally deciphering his secret shorthand, promising to unlock hundreds of unproven theorems that could redefine mathematics as we know it. Discover how AI is resurrecting lost genius and what these hidden discoveries could mean for our understanding of logic and reality.\n\nVisuals generated with AI.",
     "hashtags": [
-      "#AncientHistory",
-      "#Archaeology",
-      "#Mystery",
-      "#HumanEvolution",
-      "#FossilDiscovery",
-      "#WhereDidTheyGo",
-      "#UnsolvedMystery"
+      "#AI",
+      "#KurtGödel",
+      "#Mathematics",
+      "#ScienceBreakthrough",
+      "#HiddenSecrets",
+      "#ViralCuriosity",
+      "#MindBending"
     ]
   },
   "tiktok": {
-    "caption": "This ancient burial site is missing almost all its men! 🤯 Archaeologists are baffled by this demographic puzzle. What happened to them? #AncientMystery #Archaeology #HumanHistory #Unsolved #Fossil #DeepDive (Visuals generated with AI.)",
+    "caption": "AI is cracking the secret code of a legendary mathematician! 🤯 Kurt Gödel's hidden notebooks are finally being read, revealing lost theorems that could change everything we know about math! #AI #Math #Genius #Discovery #MindBlown #Science #History (Visuals generated with AI.)",
     "hashtags": [
-      "#AncientMystery",
-      "#Archaeology",
-      "#HumanHistory",
-      "#Unsolved",
-      "#Fossil",
-      "#DeepDive",
-      "#WhereDidTheyGo",
-      "#ConspiracyTheories"
+      "#AI",
+      "#Math",
+      "#Genius",
+      "#Discovery",
+      "#MindBlown",
+      "#Science",
+      "#History"
     ]
   }
 }

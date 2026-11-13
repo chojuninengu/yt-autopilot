@@ -1,0 +1,78 @@
+{
+  "picked_trend": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "why_viral": "Combines the mystery of hidden genius from a legendary mathematician with the cutting-edge power of AI to unlock lost knowledge, promising revolutionary discoveries that could reshape mathematics and our understanding of reality.",
+  "core_idea": "Artificial Intelligence is deciphering the cryptic notebooks of mathematician Kurt Gödel, potentially revealing hundreds of hidden theorems that have been unreadable for decades and could transform the field of mathematics.",
+  "video_title": "AI Cracks Genius's Secret Code: Unlocking Lost Math!",
+  "script": "Kurt Gödel: a genius whose ideas transformed math and philosophy. For decades, his personal notebooks, filled with a cryptic shorthand, remained an unreadable enigma. Scholars believed these weren't just doodles. They held hundreds of unproven theorems, a treasure trove of mathematical breakthroughs. But human experts struggled for years to decipher them. Now, AI is finally cracking the code! Researchers are feeding Gödel’s complex handwriting into advanced AI models, teaching them to recognize his unique symbols and logic. The initial results? Absolutely stunning. This AI breakthrough promises to unlock potentially hundreds of new, mind-bending theorems from one of history's greatest minds. It's a revolution, resurrecting lost genius, and transforming our understanding of reality itself.",
+  "scenes": [
+    {
+      "narration": "Kurt Gödel: a genius whose ideas transformed math and philosophy. For decades, his personal notebooks, filled with a cryptic shorthand, remained an unreadable enigma.",
+      "visual_keywords": [
+        "mathematician",
+        "cryptic notes",
+        "old books"
+      ],
+      "image_prompt": "A 3D cinematic shot of an aged, leather-bound notebook lying open on a mahogany desk, pages covered in dense, intricate, unreadable handwritten symbols and diagrams. A single beam of golden sunlight highlights the cryptic script. Vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Scholars believed these weren't just doodles. They held hundreds of unproven theorems, a treasure trove of mathematical breakthroughs. But human experts struggled for years to decipher them. Now, AI is finally cracking the code!",
+      "visual_keywords": [
+        "research",
+        "hidden knowledge",
+        "AI interface"
+      ],
+      "image_prompt": "A dynamic 3D cinematic shot transitioning from a frustrated academic studying a cryptic notebook to a glowing, futuristic AI interface on a large, transparent screen, displaying complex algorithms and deciphered symbols. Vertical 9:16.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Researchers are feeding Gödel’s complex handwriting into advanced AI models, teaching them to recognize his unique symbols and logic. The initial results? Absolutely stunning.",
+      "visual_keywords": [
+        "data processing",
+        "AI analysis",
+        "mathematical patterns"
+      ],
+      "image_prompt": "A detailed 3D cinematic view inside a high-tech lab, with holographic projections of Gödel's original script being digitally analyzed and converted into understandable mathematical equations by a supercomputer. Green data lines flow rapidly. Vertical 9:16.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This AI breakthrough promises to unlock potentially hundreds of new, mind-bending theorems from one of history's greatest minds. It's a revolution, resurrecting lost genius, and transforming our understanding of reality itself.",
+      "visual_keywords": [
+        "future",
+        "scientific impact",
+        "knowledge"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic shot of a vast, illuminated library or archive, stretching endlessly, with ancient texts and modern data streams converging. The scene suggests the infinite potential of knowledge being unlocked, bathed in soft, futuristic light, with abstract mathematical patterns subtly integrated. Vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "AI Cracks Genius's Secret Code: What Gödel Hid From Us!",
+    "description": "Dive into the incredible story of Kurt Gödel, a mathematical titan whose cryptic personal notebooks have remained an enigma for decades. Now, groundbreaking Artificial Intelligence is finally deciphering his secret shorthand, promising to unlock hundreds of unproven theorems that could redefine mathematics as we know it. Discover how AI is resurrecting lost genius and what these hidden discoveries could mean for our understanding of logic and reality.\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#AI",
+      "#KurtGödel",
+      "#Mathematics",
+      "#ScienceBreakthrough",
+      "#HiddenSecrets",
+      "#ViralCuriosity",
+      "#MindBending"
+    ]
+  },
+  "tiktok": {
+    "caption": "AI is cracking the secret code of a legendary mathematician! 🤯 Kurt Gödel's hidden notebooks are finally being read, revealing lost theorems that could change everything we know about math! #AI #Math #Genius #Discovery #MindBlown #Science #History (Visuals generated with AI.)",
+    "hashtags": [
+      "#AI",
+      "#Math",
+      "#Genius",
+      "#Discovery",
+      "#MindBlown",
+      "#Science",
+      "#History"
+    ]
+  }
+}
