@@ -1,0 +1,81 @@
+{
+  "picked_trend": "science_daily - A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+  "why_viral": "The concept of a 'treasure map' for undiscovered prehistoric life is highly evocative and immediately sparks curiosity. It combines the thrill of discovery with the ancient mysteries of Earth's past, promising to unveil entirely new species and rewrite history.",
+  "core_idea": "Scientists have developed the first global 'treasure map' that identifies specific geological regions most likely to contain billions of undiscovered fossils, revolutionizing the search for Earth's lost prehistoric life.",
+  "video_title": "The 'Lost Life' Treasure Map: Unlocking Earth's Deepest Ancient Secrets!",
+  "script": "Imagine a treasure map... not for gold, but for Earth's most elusive secrets: lost prehistoric life. For centuries, finding fossils has been like searching for a needle in a cosmic haystack. But now, scientists have created the first-ever global \"treasure map\" pinpointing exactly where untold billions of undiscovered fossils are most likely hiding! They analyzed everything from geology and ancient climates to erosion patterns, creating a predictive model that identifies optimal conditions for fossil preservation. This isn't random guesswork, it's a data-driven blueprint! This revolutionary map could unlock countless new species, rewrite evolutionary history, and reveal entire ecosystems we never knew existed. We're on the brink of discovering Earth's true ancient story.",
+  "scenes": [
+    {
+      "narration": "Imagine a treasure map... not for gold, but for Earth's most elusive secrets: lost prehistoric life. For centuries, finding fossils has been like searching for a needle in a cosmic haystack.",
+      "visual_keywords": [
+        "ancient map",
+        "mystery",
+        "Earth"
+      ],
+      "image_prompt": "A weathered, ancient-looking map unfurling over a glowing, stylized 3D Earth, with faint outlines of prehistoric creatures subtly integrated into the map's illustrations. The map is bathed in soft, mysterious light. Vertical (9:16). NO text or letters. Cinematic, dramatic lighting.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "But now, scientists have created the first-ever global \"treasure map\" pinpointing exactly where untold billions of undiscovered fossils are most likely hiding!",
+      "visual_keywords": [
+        "scientists",
+        "data",
+        "discovery"
+      ],
+      "image_prompt": "A vibrant, detailed 3D digital globe displaying a complex heatmap overlay, highlighting specific regions in glowing greens and reds. Scientists in futuristic lab coats are gathered around, pointing at the projections on the globe with expressions of awe and excitement. Vertical (9:16). NO text or letters. High-tech lab setting.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "They analyzed everything from geology and ancient climates to erosion patterns, creating a predictive model that identifies optimal conditions for fossil preservation. This isn't random guesswork, it's a data-driven blueprint!",
+      "visual_keywords": [
+        "geological layers",
+        "scientific analysis",
+        "data visualization"
+      ],
+      "image_prompt": "A cross-section of Earth's crust showing distinct geological layers, with data points and glowing lines illustrating analysis. Holographic projections of ancient landscapes float above the layers, connecting geological features to potential fossil sites. Vertical (9:16). NO text or letters. Deep underground view with digital overlays.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This revolutionary map could unlock countless new species, rewrite evolutionary history, and reveal entire ecosystems we never knew existed. We're on the brink of discovering Earth's true ancient story.",
+      "visual_keywords": [
+        "ancient creatures",
+        "evolution",
+        "scientific breakthrough"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic scene depicting a vibrant, lush prehistoric landscape teeming with previously unknown, fantastical creatures (dinosaurs, ancient mammals, bizarre insects) coexisting in a vibrant ecosystem. Sunlight filters through dense foliage, creating a sense of ancient wonder. Vertical (9:16). NO text or letters. Fantasy art style with scientific accuracy.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The 'Lost Life' Treasure Map: Scientists Just Unlocked Earth's Deepest Ancient Secrets! 🤯",
+    "description": "For centuries, discovering ancient fossils was pure luck. But now, scientists have unveiled a groundbreaking global 'treasure map' that pinpoints where billions of undiscovered prehistoric life forms are most likely hiding! This revolutionary tool, based on geological data and ancient climates, promises to rewrite evolutionary history and reveal Earth's lost ecosystems. Get ready to explore the unknown! #LostLife #FossilDiscovery #PrehistoricEarth #ScienceBreakthrough #AncientMysteries #Curiosity #ViralScience #Paleontology #EarthSecrets\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#LostLife",
+      "#FossilDiscovery",
+      "#PrehistoricEarth",
+      "#ScienceBreakthrough",
+      "#AncientMysteries",
+      "#Curiosity",
+      "#ViralScience",
+      "#Paleontology",
+      "#EarthSecrets"
+    ]
+  },
+  "tiktok": {
+    "caption": "Imagine a treasure map for LOST LIFE! 🤯 Scientists just created a global map showing where BILLIONS of undiscovered fossils are hiding. Get ready to rewrite history! #LostLife #FossilDiscovery #PrehistoricEarth #ScienceFacts #MindBlown #Viral #Curiosity #Paleontology (Visuals generated with AI.)",
+    "hashtags": [
+      "#LostLife",
+      "#FossilDiscovery",
+      "#PrehistoricEarth",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#Viral",
+      "#Curiosity",
+      "#Paleontology"
+    ]
+  }
+}
