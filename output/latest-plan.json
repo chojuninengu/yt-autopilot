@@ -1,76 +1,88 @@
 {
-  "picked_trend": "science_daily - 5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-  "why_viral": "This story combines the enduring fascination with ancient Egypt, the mystery surrounding its powerful pharaohs, and a 'disturbing secret' uncovered by modern archaeology. The idea that kings, thought to be divine, met brutal, perhaps ritualistic, ends is mind-bending and highly intriguing.",
-  "core_idea": "New forensic analysis of 5,000-year-old skulls belonging to Egypt's earliest kings reveals signs of extreme violence and ritualistic trauma, challenging the idealized view of their rule and suggesting a darker, more brutal origin for the civilization.",
-  "video_title": "Ancient Egypt's Darkest Secret: What Archaeologists Found In Pharaohs' Skulls",
-  "script": "Imagine the pharaohs, revered as gods, wielding absolute power over ancient Egypt. But a chilling new discovery reveals a disturbing truth hidden for millennia beneath their majestic reign. Archaeologists studying 5,000-year-old skulls of Egypt’s earliest kings have unearthed unsettling evidence. These aren't just remnants of royalty; they tell a grim story. The forensic analysis shows signs of extreme violence and ritualistic trauma, suggesting these rulers weren't always worshipped in death. Some met brutal ends, perhaps as sacrifices, or victims of power struggles far darker than we imagined. This discovery shatters our idealized image of divine pharaohs, rewriting the violent origins of one of history's greatest civilizations. Ancient Egypt’s first kings held a secret, and now, it's out.",
+  "picked_trend": "James Webb telescope finds ice older than the star it orbits",
+  "why_viral": "This discovery presents a mind-bending paradox: how can ice be older than the star it orbits? It challenges our fundamental understanding of cosmic timescales and star formation, offering profound implications for the origins of planetary systems and life itself. The James Webb Space Telescope's involvement adds prestige and visual intrigue.",
+  "core_idea": "The James Webb Space Telescope (JWST) detected complex organic ice molecules in the protoplanetary disk of a young star, which were found to be millions of years older than the star itself, originating from the interstellar cloud that collapsed to form the star.",
+  "video_title": "JWST's Impossible Ice: Older Than Its Star!",
+  "script": "What if something in space existed *before* the star it orbited? Sounds impossible, right? Yet, the James Webb Space Telescope just found exactly that! It's discovered ancient ice, millions of years older than the star it surrounds. This isn't just any ice. It's a cosmic time capsule, born in the frigid depths of interstellar space. These tiny frozen molecules, packed with the building blocks of life, journeyed for eons in a dark cloud. Then, as a new star ignited from that cloud, it captured these primordial icy particles. This stunning discovery reveals that the complex chemistry essential for life might be far more ancient and widespread than we ever imagined. It suggests the universe's fundamental ingredients are incredibly resilient, surviving stellar birth to seed new worlds. A truly mind-bending look into the universe's past, courtesy of James Webb!",
   "scenes": [
     {
-      "narration": "Imagine the pharaohs, revered as gods, wielding absolute power over ancient Egypt. But a chilling new discovery reveals a disturbing truth hidden for millennia beneath their majestic reign.",
+      "narration": "What if something in space existed *before* the star it orbited? Sounds impossible, right?",
       "visual_keywords": [
-        "ancient egypt",
-        "pharaoh",
-        "pyramids"
+        "nebula",
+        "stars",
+        "time distortion"
       ],
-      "image_prompt": "A majestic 3D cinematic scene, vertical 9:16, of ancient Egypt. Grand pyramids stand tall against a golden sunset. In the foreground, a powerful pharaoh figure, adorned in gold and ceremonial headdress, stands overlooking a bustling ancient city. The atmosphere is awe-inspiring and mysterious, with dust motes dancing in the light. No text or brands.",
+      "image_prompt": "A breathtaking 3D cinematic shot of a vibrant, swirling cosmic nebula, with faint, distant stars twinkling. A distortion ripple effect suggests a paradox of time. Vertical 9:16 aspect ratio. No text or letters.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Archaeologists studying 5,000-year-old skulls of Egypt’s earliest kings have unearthed unsettling evidence. These aren't just remnants of royalty; they tell a grim story.",
+      "narration": "Yet, the James Webb Space Telescope just found exactly that! It's discovered ancient ice, millions of years older than the star it surrounds.",
       "visual_keywords": [
-        "archaeology",
-        "human skulls",
-        "excavation"
+        "JWST",
+        "protoplanetary disk",
+        "glowing star"
       ],
-      "image_prompt": "A dimly lit 3D cinematic scene, vertical 9:16, inside a dusty ancient Egyptian tomb. A close-up shot of several aged, ancient human skulls carefully laid out on a clean white cloth. The skulls show signs of extreme age and delicate handling, illuminated by a focused beam of light. In the background, a gloved archaeologist meticulously examines another ancient artifact. No text or brands.",
+      "image_prompt": "A stunning 3D cinematic close-up of the James Webb Space Telescope, its golden mirrors reflecting a distant, glowing, newly formed star surrounded by a dark, swirling protoplanetary disk. The telescope is sharply in focus against the cosmic backdrop. Vertical 9:16 aspect ratio. No text or letters.",
       "motion": "pan_right"
     },
     {
-      "narration": "The forensic analysis shows signs of extreme violence and ritualistic trauma, suggesting these rulers weren't always worshipped in death. Some met brutal ends, perhaps as sacrifices, or victims of power struggles far darker than we imagined.",
+      "narration": "This isn't just any ice. It's a cosmic time capsule, born in the frigid depths of interstellar space. These tiny frozen molecules, packed with the building blocks of life, journeyed for eons in a dark cloud.",
       "visual_keywords": [
-        "ancient ritual",
-        "violence",
-        "power struggle"
+        "interstellar cloud",
+        "ice molecules",
+        "cosmic dust"
       ],
-      "image_prompt": "A haunting 3D cinematic scene, vertical 9:16, depicting a stylized ancient Egyptian ritual. Shadowed figures in ceremonial attire stand around a central stone altar in a dimly lit, cavernous chamber. Eerie light casts long shadows. The scene hints at a grim, violent purpose, focusing on symbolic rather than explicit violence. No text or brands.",
+      "image_prompt": "A macro 3D cinematic shot of illuminated microscopic ice crystals and organic molecules suspended within a vast, cold, dark interstellar dust cloud. Hints of faint, distant cosmic light in the background. Vertical 9:16 aspect ratio. No text or letters.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This discovery shatters our idealized image of divine pharaohs, rewriting the violent origins of one of history's greatest civilizations. Ancient Egypt’s first kings held a secret, and now, it's out.",
+      "narration": "Then, as a new star ignited from that cloud, it captured these primordial icy particles. This stunning discovery reveals that the complex chemistry essential for life might be far more ancient and widespread than we ever imagined.",
       "visual_keywords": [
-        "ancient history",
-        "civilization",
-        "mystery solved"
+        "young star",
+        "planet formation",
+        "icy particles"
       ],
-      "image_prompt": "A dramatic 3D cinematic scene, vertical 9:16, showcasing a panoramic view of the ancient city of Memphis or Abydos, home of early pharaohs. The majestic structures are bathed in the dramatic light of a stormy, twilight sky. The image conveys both the grandeur and the turbulent, mysterious past of the civilization. No text or brands.",
+      "image_prompt": "A dramatic 3D cinematic depiction of a young, fiery proto-star at the center, with a dense, actively swirling protoplanetary disk around it. Icy particles and cosmic dust are seen coalescing and being drawn into the disk. Vertical 9:16 aspect ratio. No text or letters.",
       "motion": "pan_left"
+    },
+    {
+      "narration": "It suggests the universe's fundamental ingredients are incredibly resilient, surviving stellar birth to seed new worlds. A truly mind-bending look into the universe's past, courtesy of James Webb!",
+      "visual_keywords": [
+        "exoplanet",
+        "life's origins",
+        "cosmic awe"
+      ],
+      "image_prompt": "A beautiful 3D cinematic shot of a vibrant, potentially habitable exoplanet orbiting a distant star, with a subtle glow hinting at liquid water or an atmosphere. The scene evokes a sense of cosmic wonder and the potential for life. Vertical 9:16 aspect ratio. No text or letters.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "Ancient Egypt's Darkest Secret: What Archaeologists Found In Pharaohs' Skulls | Unbelievable Discoveries",
-    "description": "A shocking new archaeological discovery is rewriting the history of ancient Egypt's first kings! For millennia, the pharaohs were revered as gods, but forensic analysis of 5,000-year-old skulls reveals a much darker truth. Join us as we uncover the unsettling evidence of extreme violence and ritualistic trauma that shatters our idealized image of these powerful rulers. What secrets were buried with Egypt's divine kings? Find out how this mind-bending finding challenges everything we thought we knew about one of history's greatest civilizations.\n\nVisuals generated with AI.",
+    "title": "JWST Reveals Impossible Ice: Older Than Its Star! | Cosmic Time Capsule",
+    "description": "Prepare for a mind-bending discovery from the James Webb Space Telescope! Scientists have found ancient ice in a protoplanetary disk that predates the very star it orbits by millions of years. This cosmic time capsule, filled with the building blocks of life, reveals how resilient and widespread the ingredients for existence truly are across the universe. Dive into this fascinating astronomical paradox and explore the implications for life beyond Earth! #JamesWebb #JWST #SpaceDiscovery #CosmicMystery #StarFormation #InterstellarIce #ScienceFacts #Universe\n\nVisuals generated with AI.",
     "hashtags": [
-      "#AncientEgypt",
-      "#Pharaohs",
-      "#Archaeology",
-      "#AncientMystery",
-      "#DisturbingDiscovery",
-      "#HistoryRevealed",
-      "#ViralCuriosity",
-      "#Unbelievable"
+      "#JamesWebb",
+      "#JWST",
+      "#SpaceDiscovery",
+      "#CosmicMystery",
+      "#StarFormation",
+      "#InterstellarIce",
+      "#ScienceFacts",
+      "#Universe",
+      "#Astronomy"
     ]
   },
   "tiktok": {
-    "caption": "Archaeologists just uncovered a MIND-BENDING secret about Ancient Egypt's first kings! 🤯 Their skulls tell a story of violence and ritual you won't believe. #AncientEgypt #Pharaohs #Archaeology #HistoryMystery #DisturbingFacts #Viral #Curiosity #DidYouKnow (Visuals generated with AI.)",
+    "caption": "Mind blown! 🤯 JWST just found ice that's OLDER than the star it orbits! How is that even possible?! This cosmic time capsule hints at life's ancient origins across the universe. #Space #JWST #CosmicSecrets #Impossible #Science #Viral #LearnOnTikTok (Visuals generated with AI.)",
     "hashtags": [
-      "#AncientEgypt",
-      "#Pharaohs",
-      "#Archaeology",
-      "#HistoryMystery",
-      "#DisturbingFacts",
+      "#Space",
+      "#JWST",
+      "#CosmicSecrets",
+      "#Impossible",
+      "#Science",
       "#Viral",
-      "#Curiosity",
-      "#DidYouKnow"
+      "#LearnOnTikTok",
+      "#Astronomy",
+      "#StarFormation"
     ]
   }
 }

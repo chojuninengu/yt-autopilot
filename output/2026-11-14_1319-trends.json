@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "score": 173,
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ggml v1.0.0",
+      "score": 310,
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+    },
+    {
+      "source": "hackernews",
+      "title": "Monkey Island: all 13 versions side by side",
+      "score": 233,
+      "url": "https://monkeyisland.pages.dev/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "score": 739,
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+      "source": "hackernews",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "score": 183,
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+    },
+    {
+      "source": "hackernews",
+      "title": "Terminal borders that don't cost a cell",
+      "score": 314,
+      "url": "https://www.joshka.net/cell-borders/"
+    },
+    {
+      "source": "hackernews",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "score": 1576,
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    },
+    {
+      "source": "hackernews",
+      "title": "Let's Write a PostScript Interpreter",
+      "score": 15,
+      "url": "https://beyondloom.com/blog/postscript.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "What happened to 3Com?",
+      "score": 166,
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "score": 348,
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "score": 167,
+      "url": "https://grounds.top/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "score": 213,
+      "url": "https://www.nature.com/articles/d41586-026-03638-3"
+    },
+    {
+      "source": "hackernews",
+      "title": "FM-1 Workbench",
+      "score": 244,
+      "url": "https://open.m-vave.com/fm1-workbench"
+    },
+    {
+      "source": "hackernews",
+      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "score": 11,
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor"
+    },
+    {
+      "source": "hackernews",
+      "title": "The curious case of the north-east arrow",
+      "score": 12,
+      "url": "https://arsh.zip/posts/north-east-arrow/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Superheated magma could fuel towering lava fountains",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "chelsea vs man city",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "man utd vs crystal palace",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dallas weather",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "apec",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kosovo vs israel",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "pj marley's medina ohio",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "anvay dravid",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "donbas",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bandy",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "daune morris",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the Titanic is slowly being eaten away by iron-consuming bacteria, losing an estimated 130-200 kg of iron every day. One researcher estimates that it could take several centuries for the entire wreck to disappear"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Blowing out candles on a cake increases the amount of bacteria on the surface frosting by 1400%"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in the 1920s, \"balloon jumping\" was a popular fad where people harnessed themselves to small helium balloons to leap hundreds of feet over fields and buildings, until a series of lethal accidents ended the trend."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Elvis Presley did 636 sold out shows in Las Vegas and never once performed his song “Viva Las Vegas”"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the fruit thrown to Sylvester Stallone during Rocky's famous running montage was completely unscripted—a real street vendor in Philadelphia's Italian Market spontaneously tossed it to him while the crew was filming guerrilla-style."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Grover Cleveland was the only US President to get married in the White House, and the only President to have a baby born there as well"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the ancient Chinese philosopher Confucius was willing to teach anyone who was eager to learn, asking for nothing more than a simple bundle of dried meat/jerky in exchange."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about Kalawao County, Hawaii. It is the smallest county in the US, and the second least populous, with 82 residents. Historically a leper quarantine colony, it will cease to exist once the last patient resident dies, and be absorbed into the larger Maui county."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL owning a pet rabbit is illegal in Queensland, Australia, where rabbits have been a destructive invasive species since being introduced in the 19th century."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the first functional gasoline-electric hybrid vehicle was designed by Ferdinand Porsche in 1900. He was 25."
+    }
+  ],
+  "errors": []
+}
