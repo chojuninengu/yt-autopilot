@@ -1,0 +1,90 @@
+{
+  "picked_trend": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
+  "why_viral": "This story is incredibly viral because it highlights an astonishing feat of continuous human dedication and unwavering respect. The sheer length of the unbroken vigil (over 80 years) for a sacred national symbol is mind-boggling and taps into deep emotional themes of honor, sacrifice, and remembrance, making it universally engaging.",
+  "core_idea": "The Tomb of the Unknown Soldier at Arlington National Cemetery has been guarded continuously since 1937, an unbroken vigil by elite soldiers symbolizing eternal respect for fallen service members.",
+  "video_title": "The Unbroken Vigil: 80+ Years of Guarding the Unknown Soldier",
+  "script": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed. That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second. These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision. Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch. It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
+  "scenes": [
+    {
+      "narration": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed.",
+      "visual_keywords": [
+        "Arlington",
+        "tomb",
+        "honor guard"
+      ],
+      "image_prompt": "A solemn, imposing 3D cinematic shot of the Tomb of the Unknown Soldier at Arlington National Cemetery, bathed in the golden light of dawn, with a perfectly still, highly disciplined guard in a pristine uniform standing sentry. The air is crisp and reverent. Vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second.",
+      "visual_keywords": [
+        "Memorial",
+        "reverence",
+        "commitment"
+      ],
+      "image_prompt": "A 3D cinematic shot of the Tomb of the Unknown Soldier from a slightly higher angle, showcasing its grandeur. A detail shot of the engravings on the tomb. The scene is quiet, reflecting deep reverence. Vertical 9:16.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision.",
+      "visual_keywords": [
+        "Elite soldiers",
+        "precision",
+        "training"
+      ],
+      "image_prompt": "A close-up 3D cinematic shot of a Tomb Guard's uniform details - perfectly polished shoes, crisp uniform, and a stern, focused expression on their face as they stand motionless. The background is slightly blurred, focusing on their unwavering posture. Vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch.",
+      "visual_keywords": [
+        "Extreme weather",
+        "dedication",
+        "unwavering"
+      ],
+      "image_prompt": "A dramatic 3D cinematic scene depicting a Tomb Guard standing resolute during a heavy snowstorm, snow swirling around them, but their posture remains perfectly disciplined and unaffected. The tomb is partially visible behind them. Vertical 9:16.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
+      "visual_keywords": [
+        "Sacrifice",
+        "remembrance",
+        "gratitude"
+      ],
+      "image_prompt": "A wide, sweeping 3D cinematic shot overlooking the rows of white gravestones at Arlington National Cemetery, leading towards the Tomb of the Unknown Soldier in the distance. The sun is setting, casting long, peaceful shadows. Vertical 9:16.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The Unbroken Vigil: 80+ Years of Guarding America's Unknown Soldiers",
+    "description": "Discover the incredible story behind the Tomb of the Unknown Soldier at Arlington National Cemetery. For over 80 years, elite members of 'The Old Guard' have maintained a continuous, unbroken vigil, honoring fallen service members whose identities remain unknown. Learn about their unwavering dedication through all conditions, a powerful testament to a nation's gratitude and remembrance.\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#TombOfTheUnknownSoldier",
+      "#ArlingtonCemetery",
+      "#TheOldGuard",
+      "#MilitaryHonor",
+      "#UnbrokenVigil",
+      "#History",
+      "#Dedication",
+      "#USMilitary",
+      "#Curiosity"
+    ]
+  },
+  "tiktok": {
+    "caption": "This promise has been kept for over 80 years, without a single break. 🤯 The incredible dedication at the Tomb of the Unknown Soldier will leave you speechless. (Visuals generated with AI.)",
+    "hashtags": [
+      "#TombOfTheUnknownSoldier",
+      "#Arlington",
+      "#Military",
+      "#Honor",
+      "#HistoryFacts",
+      "#Unbelievable"
+    ]
+  }
+}

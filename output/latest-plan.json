@@ -1,77 +1,85 @@
 {
-  "picked_trend": "The Evolving Story of How Chemistry Became Biology",
-  "why_viral": "This topic taps into humanity's deepest curiosity about our origins. It's a mind-bending scientific mystery about how life itself began from non-living matter, challenging conventional understanding and revealing the profound elegance of natural processes. It's a 'first-principles' explanation of existence.",
-  "core_idea": "The scientific understanding of abiogenesis – how simple chemical reactions on early Earth gradually led to the first self-replicating biological systems, blurring the lines between chemistry and biology.",
-  "video_title": "The Mind-Bending Moment Chemistry Became Life",
-  "script": "What if I told you that life didn't just *appear* on Earth, but slowly *evolved* from simple chemicals? It's the ultimate origin story. For millennia, the jump from non-living matter to self-replicating organisms seemed like an impossible magic trick. How did inert molecules start to organize, grow, and reproduce? New scientific breakthroughs show it was a gradual, evolving process. Think of it as chemistry learning to build itself, forming tiny membranes, then replicating simple genetic material. This isn't just ancient history. We're uncovering the very mechanisms that turn dead matter into the vibrant life we see today. It's the moment chemistry became biology – a mind-bending revelation!",
+  "picked_trend": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
+  "why_viral": "This story is incredibly viral because it highlights an astonishing feat of continuous human dedication and unwavering respect. The sheer length of the unbroken vigil (over 80 years) for a sacred national symbol is mind-boggling and taps into deep emotional themes of honor, sacrifice, and remembrance, making it universally engaging.",
+  "core_idea": "The Tomb of the Unknown Soldier at Arlington National Cemetery has been guarded continuously since 1937, an unbroken vigil by elite soldiers symbolizing eternal respect for fallen service members.",
+  "video_title": "The Unbroken Vigil: 80+ Years of Guarding the Unknown Soldier",
+  "script": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed. That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second. These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision. Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch. It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
   "scenes": [
     {
-      "narration": "What if I told you that life didn't just *appear* on Earth, but slowly *evolved* from simple chemicals? It's the ultimate origin story.",
+      "narration": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed.",
       "visual_keywords": [
-        "primitive earth",
-        "volcanic landscape",
-        "boiling ocean"
+        "Arlington",
+        "tomb",
+        "honor guard"
       ],
-      "image_prompt": "A desolate, alien-looking primitive Earth. Dark, turbulent skies cast an ominous light over a raw, volcanic landscape. Jagged black rock formations spew steam, and acidic oceans bubble with intense heat. No signs of life, only raw geological forces. Vertical 9:16, 3D cinematic, ultra-realistic.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "For millennia, the jump from non-living matter to self-replicating organisms seemed like an impossible magic trick. How did inert molecules start to organize, grow, and reproduce?",
-      "visual_keywords": [
-        "primordial soup",
-        "chemical reactions",
-        "molecular animation"
-      ],
-      "image_prompt": "A mesmerizing close-up of a 'primordial soup' – a vibrant, swirling liquid within a rocky, warm pool. Complex organic molecules are subtly glowing and interacting, forming intricate chains and networks. Bubbles rise gently. Abstract yet grounded in scientific realism. Vertical 9:16, 3D cinematic, macro photography style.",
-      "motion": "pan_left"
-    },
-    {
-      "narration": "New scientific breakthroughs show it was a gradual, evolving process. Think of it as chemistry learning to build itself, forming tiny membranes, then replicating simple genetic material.",
-      "visual_keywords": [
-        "lipid bilayers",
-        "RNA strands",
-        "self-assembly"
-      ],
-      "image_prompt": "A stunning microscopic animation-like render showing lipid bilayers spontaneously forming spherical vesicles. Inside, simple, glowing RNA-like strands are seen duplicating themselves in a fluid, dynamic environment. The processes are elegant and self-organizing. Vertical 9:16, 3D cinematic, high-tech scientific visualization.",
+      "image_prompt": "A solemn, imposing 3D cinematic shot of the Tomb of the Unknown Soldier at Arlington National Cemetery, bathed in the golden light of dawn, with a perfectly still, highly disciplined guard in a pristine uniform standing sentry. The air is crisp and reverent. Vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "This isn't just ancient history. We're uncovering the very mechanisms that turn dead matter into the vibrant life we see today. It's the moment chemistry became biology – a mind-bending revelation!",
+      "narration": "That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second.",
       "visual_keywords": [
-        "proto-cell dividing",
-        "vibrant ecosystem",
-        "origin of life"
+        "Memorial",
+        "reverence",
+        "commitment"
       ],
-      "image_prompt": "A single, translucent proto-cell gently pulses and then divides into two, surrounded by a soft, warm glow. The camera then smoothly transitions and zooms out to reveal a lush, diverse, thriving prehistoric ecosystem, teeming with early forms of life, plants, and water. Vertical 9:16, 3D cinematic, breathtaking and awe-inspiring.",
+      "image_prompt": "A 3D cinematic shot of the Tomb of the Unknown Soldier from a slightly higher angle, showcasing its grandeur. A detail shot of the engravings on the tomb. The scene is quiet, reflecting deep reverence. Vertical 9:16.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision.",
+      "visual_keywords": [
+        "Elite soldiers",
+        "precision",
+        "training"
+      ],
+      "image_prompt": "A close-up 3D cinematic shot of a Tomb Guard's uniform details - perfectly polished shoes, crisp uniform, and a stern, focused expression on their face as they stand motionless. The background is slightly blurred, focusing on their unwavering posture. Vertical 9:16.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch.",
+      "visual_keywords": [
+        "Extreme weather",
+        "dedication",
+        "unwavering"
+      ],
+      "image_prompt": "A dramatic 3D cinematic scene depicting a Tomb Guard standing resolute during a heavy snowstorm, snow swirling around them, but their posture remains perfectly disciplined and unaffected. The tomb is partially visible behind them. Vertical 9:16.",
+      "motion": "shake"
+    },
+    {
+      "narration": "It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
+      "visual_keywords": [
+        "Sacrifice",
+        "remembrance",
+        "gratitude"
+      ],
+      "image_prompt": "A wide, sweeping 3D cinematic shot overlooking the rows of white gravestones at Arlington National Cemetery, leading towards the Tomb of the Unknown Soldier in the distance. The sun is setting, casting long, peaceful shadows. Vertical 9:16.",
       "motion": "zoom_out"
     }
   ],
   "youtube": {
-    "title": "The Mind-Bending Moment Chemistry Became Life | Origin of Life Explained",
-    "description": "Imagine a world without life, where only chemicals existed. How did the very first spark of life ignite? Dive into the incredible scientific story of abiogenesis, exploring how simple chemical reactions on early Earth gradually evolved into complex, self-replicating biological systems. Discover the mechanisms that bridged the gap between inert matter and vibrant life – a truly mind-bending revelation!\n\nVisuals generated with AI.",
+    "title": "The Unbroken Vigil: 80+ Years of Guarding America's Unknown Soldiers",
+    "description": "Discover the incredible story behind the Tomb of the Unknown Soldier at Arlington National Cemetery. For over 80 years, elite members of 'The Old Guard' have maintained a continuous, unbroken vigil, honoring fallen service members whose identities remain unknown. Learn about their unwavering dedication through all conditions, a powerful testament to a nation's gratitude and remembrance.\n\nVisuals generated with AI.",
     "hashtags": [
-      "#OriginOfLife",
-      "#Abiogenesis",
-      "#ScienceFacts",
-      "#Curiosity",
-      "#Biology",
-      "#Chemistry",
-      "#DeepScience",
-      "#UnbelievablePhenomena",
-      "#ViralScience"
+      "#TombOfTheUnknownSoldier",
+      "#ArlingtonCemetery",
+      "#TheOldGuard",
+      "#MilitaryHonor",
+      "#UnbrokenVigil",
+      "#History",
+      "#Dedication",
+      "#USMilitary",
+      "#Curiosity"
     ]
   },
   "tiktok": {
-    "caption": "🤯 How did life begin? It wasn't magic, it was CHEMISTRY! 🧪🧬 The mind-bending truth about abiogenesis will blow your mind. #OriginOfLife #ScienceFacts #MindBlown #ChemistryToLife #Biology #ScienceTok #Curiosity #ViralScience (Visuals generated with AI.)",
+    "caption": "This promise has been kept for over 80 years, without a single break. 🤯 The incredible dedication at the Tomb of the Unknown Soldier will leave you speechless. (Visuals generated with AI.)",
     "hashtags": [
-      "#OriginOfLife",
-      "#ScienceFacts",
-      "#MindBlown",
-      "#ChemistryToLife",
-      "#Biology",
-      "#ScienceTok",
-      "#Curiosity",
-      "#ViralScience"
+      "#TombOfTheUnknownSoldier",
+      "#Arlington",
+      "#Military",
+      "#Honor",
+      "#HistoryFacts",
+      "#Unbelievable"
     ]
   }
 }
