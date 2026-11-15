@@ -1,85 +1,81 @@
 {
-  "picked_trend": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
-  "why_viral": "This story is incredibly viral because it highlights an astonishing feat of continuous human dedication and unwavering respect. The sheer length of the unbroken vigil (over 80 years) for a sacred national symbol is mind-boggling and taps into deep emotional themes of honor, sacrifice, and remembrance, making it universally engaging.",
-  "core_idea": "The Tomb of the Unknown Soldier at Arlington National Cemetery has been guarded continuously since 1937, an unbroken vigil by elite soldiers symbolizing eternal respect for fallen service members.",
-  "video_title": "The Unbroken Vigil: 80+ Years of Guarding the Unknown Soldier",
-  "script": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed. That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second. These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision. Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch. It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
+  "picked_trend": "TIL Hitler sent his official photographer to secretly photograph Stalin earlobes to determine his ancestry",
+  "why_viral": "This story is incredibly bizarre and highlights an almost unbelievable, paranoid aspect of history involving two of the 20th century's most infamous dictators. It's a 'did you know?' fact that challenges common historical narratives and reveals the absurd lengths of racial pseudo-science.",
+  "core_idea": "Hitler's secret mission to photograph Stalin's earlobes, based on a twisted Nazi belief that ear shape revealed Jewish ancestry, was a bizarre attempt to discredit his rival.",
+  "video_title": "Hitler's Secret Obsession: Stalin's Earlobes!",
+  "script": "Imagine a dictator so obsessed with racial purity, he sent spies to inspect earlobes. Well, that’s exactly what Hitler did to Joseph Stalin. In the twisted world of Nazi ideology, specific physical traits, like attached or unattached earlobes, were believed to reveal a person's ancestry. Hitler reportedly tasked his personal photographer, Heinrich Hoffmann, with a bizarre secret mission: discreetly capture images of Stalin’s ears during official meetings. The goal? To gather 'evidence' that Stalin had Jewish heritage, a desperate attempt to discredit his Soviet rival and fuel Nazi propaganda. This absurd historical footnote reveals the extreme lengths of paranoia and pseudo-science that fueled one of history's darkest regimes.",
   "scenes": [
     {
-      "narration": "For over 80 years, a single promise has been kept, unbroken. Not a day, not an hour, not a minute missed.",
+      "narration": "Imagine a dictator so obsessed with racial purity, he sent spies to inspect earlobes. Well, that’s exactly what Hitler did to Joseph Stalin.",
       "visual_keywords": [
-        "Arlington",
-        "tomb",
-        "honor guard"
+        "dictator",
+        "paranoia",
+        "secret"
       ],
-      "image_prompt": "A solemn, imposing 3D cinematic shot of the Tomb of the Unknown Soldier at Arlington National Cemetery, bathed in the golden light of dawn, with a perfectly still, highly disciplined guard in a pristine uniform standing sentry. The air is crisp and reverent. Vertical 9:16.",
+      "image_prompt": "A dramatic, low-angle 3D cinematic portrait of a brooding Adolf Hitler in a dimly lit, grand office, shadows playing on his face, looking intensely at old, pseudo-scientific racial charts on a desk. Vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "That’s the reality at the Tomb of the Unknown Soldier in Arlington. Since July 2nd, 1937, this sacred memorial has been guarded, every single second.",
+      "narration": "In the twisted world of Nazi ideology, specific physical traits, like attached or unattached earlobes, were believed to reveal a person's ancestry.",
       "visual_keywords": [
-        "Memorial",
-        "reverence",
-        "commitment"
+        "pseudo-science",
+        "ear anatomy",
+        "racial theory"
       ],
-      "image_prompt": "A 3D cinematic shot of the Tomb of the Unknown Soldier from a slightly higher angle, showcasing its grandeur. A detail shot of the engravings on the tomb. The scene is quiet, reflecting deep reverence. Vertical 9:16.",
+      "image_prompt": "A highly detailed, realistic 3D cinematic close-up on a human earlobe, with intricate details of skin texture, slightly magnified, illustrating the 'attached' versus 'unattached' concept. In the background, blurry, old-fashioned anatomical diagrams. Vertical 9:16.",
       "motion": "pan_right"
     },
     {
-      "narration": "These aren't just any soldiers. They're elite members of \"The Old Guard,\" known for rigorous training and legendary precision.",
+      "narration": "Hitler reportedly tasked his personal photographer, Heinrich Hoffmann, with a bizarre secret mission: discreetly capture images of Stalin’s ears during official meetings.",
       "visual_keywords": [
-        "Elite soldiers",
-        "precision",
-        "training"
+        "covert operation",
+        "historical meeting",
+        "secret photography"
       ],
-      "image_prompt": "A close-up 3D cinematic shot of a Tomb Guard's uniform details - perfectly polished shoes, crisp uniform, and a stern, focused expression on their face as they stand motionless. The background is slightly blurred, focusing on their unwavering posture. Vertical 9:16.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "Through extreme heat, blizzards, hurricanes, and pandemics, the vigil has never faltered. A sentinel always stands watch.",
-      "visual_keywords": [
-        "Extreme weather",
-        "dedication",
-        "unwavering"
-      ],
-      "image_prompt": "A dramatic 3D cinematic scene depicting a Tomb Guard standing resolute during a heavy snowstorm, snow swirling around them, but their posture remains perfectly disciplined and unaffected. The tomb is partially visible behind them. Vertical 9:16.",
-      "motion": "shake"
-    },
-    {
-      "narration": "It’s a profound tribute to fallen service members whose identities remain unknown. Their sacrifice is never forgotten, an enduring promise from a grateful nation.",
-      "visual_keywords": [
-        "Sacrifice",
-        "remembrance",
-        "gratitude"
-      ],
-      "image_prompt": "A wide, sweeping 3D cinematic shot overlooking the rows of white gravestones at Arlington National Cemetery, leading towards the Tomb of the Unknown Soldier in the distance. The sun is setting, casting long, peaceful shadows. Vertical 9:16.",
+      "image_prompt": "A covert 3D cinematic shot from a slightly hidden perspective, showing a historical meeting setting with Joseph Stalin in a uniform, engaged in conversation. In the foreground, slightly out of focus, a photographer subtly aiming an old-fashioned camera, focusing on Stalin's ear. Vertical 9:16.",
       "motion": "zoom_out"
+    },
+    {
+      "narration": "The goal? To gather 'evidence' that Stalin had Jewish heritage, a desperate attempt to discredit his Soviet rival and fuel Nazi propaganda. This absurd historical footnote reveals the extreme lengths of paranoia and pseudo-science that fueled one of history's darkest regimes.",
+      "visual_keywords": [
+        "propaganda",
+        "discredit",
+        "paranoia"
+      ],
+      "image_prompt": "A stylized, 3D cinematic propaganda poster design showing a distorted, menacing depiction of Joseph Stalin, with exaggerated ear features, against a dark, dramatic background. No actual text on the poster, just the visual representation. Vertical 9:16.",
+      "motion": "shake"
     }
   ],
   "youtube": {
-    "title": "The Unbroken Vigil: 80+ Years of Guarding America's Unknown Soldiers",
-    "description": "Discover the incredible story behind the Tomb of the Unknown Soldier at Arlington National Cemetery. For over 80 years, elite members of 'The Old Guard' have maintained a continuous, unbroken vigil, honoring fallen service members whose identities remain unknown. Learn about their unwavering dedication through all conditions, a powerful testament to a nation's gratitude and remembrance.\n\nVisuals generated with AI.",
+    "title": "Hitler's INSANE Secret Mission: Spying on Stalin's EARS?! #HistorySecrets",
+    "description": "Did you know Adolf Hitler was so obsessed with racial purity that he sent his personal photographer on a bizarre secret mission to examine Joseph Stalin's earlobes? Uncover this wild true story that exposes the paranoid pseudo-science behind Nazi propaganda. From twisted ideology to covert operations, learn the strange lengths one dictator went to discredit another. #Hitler #Stalin #WW2 #HistoryFacts #TrueStory #Conspiracy #BizarreHistory #Curiosity #DidYouKnow #Shorts #Viral\n\nVisuals generated with AI.",
     "hashtags": [
-      "#TombOfTheUnknownSoldier",
-      "#ArlingtonCemetery",
-      "#TheOldGuard",
-      "#MilitaryHonor",
-      "#UnbrokenVigil",
-      "#History",
-      "#Dedication",
-      "#USMilitary",
-      "#Curiosity"
+      "Hitler",
+      "Stalin",
+      "WW2",
+      "HistoryFacts",
+      "TrueStory",
+      "Conspiracy",
+      "BizarreHistory",
+      "Curiosity",
+      "DidYouKnow",
+      "Shorts",
+      "Viral"
     ]
   },
   "tiktok": {
-    "caption": "This promise has been kept for over 80 years, without a single break. 🤯 The incredible dedication at the Tomb of the Unknown Soldier will leave you speechless. (Visuals generated with AI.)",
+    "caption": "You won't believe the bizarre lengths Hitler went to discredit Stalin! His secret mission involved... earlobes?! 🤯 #HistoryFacts #WW2 #BizarreStories #DidYouKnow #Hitler #Stalin #Conspiracy #ViralHistory #MindBlown (Visuals generated with AI.)",
     "hashtags": [
-      "#TombOfTheUnknownSoldier",
-      "#Arlington",
-      "#Military",
-      "#Honor",
-      "#HistoryFacts",
-      "#Unbelievable"
+      "HistoryFacts",
+      "WW2",
+      "BizarreStories",
+      "DidYouKnow",
+      "Hitler",
+      "Stalin",
+      "Conspiracy",
+      "ViralHistory",
+      "MindBlown",
+      "Shorts"
     ]
   }
 }

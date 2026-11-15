@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Your Agent Will Pick the Hackable One",
+      "score": 47,
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "score": 14,
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A short explainer on how El Niño works [video]",
+      "score": 126,
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
+    },
+    {
+      "source": "hackernews",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "score": 61,
+      "url": "https://bruceroettgers.eu/blog/protomaps/"
+    },
+    {
+      "source": "hackernews",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "score": 112,
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "score": 372,
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "score": 51,
+      "url": "https://github.com/eclipse-mosquitto/mosquitto"
+    },
+    {
+      "source": "hackernews",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "score": 27,
+      "url": "https://baron.by.dai.studio/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "score": 274,
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+      "source": "hackernews",
+      "title": "Handwriting, as a Font",
+      "score": 38,
+      "url": "https://ductus.sorenblank.com"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "score": 260,
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "score": 173,
+      "url": "https://prog21.dadgum.com/116.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Emacs Is My Browser",
+      "score": 157,
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "score": 183,
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+      "source": "hackernews",
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "score": 56,
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch"
+    },
+    {
+      "source": "science_daily",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A simple supplement could help your immune system fight cancer and viral infections",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "panama vs curaçao",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jordan watkins",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "arvid soderblom",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mo bamba",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nwsl final",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "is myles garrett playing today",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "keenan allen age",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "keenan allen",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "cma awards 2026",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "d3 football playoffs",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL during the siege of Leningrad, while hundreds of thousands died of starvation, the first seed bank (containing rice, flour, nuts, fruits, vegetables, and 200,000 seeds and plants) was right below the city. The scientists guarding it ate none of it; nine dying of starvation."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Hitler sent his official photographer to secretly photograph Stalin earlobes to determine his ancestry"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 2012, a group of juvenile gorillas were seen successfully disarming poachers' traps and snares, as well as warning nearby humans away from it."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL in the 18th century many prominent voices were concerned by an 'epidemic' affecting young people whereby they were spending too much time reading books. It was diagnosed as 'a dangerous disease' called ‘reading rage, reading fever, reading mania or reading lust.'"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 2012, trading firm Knight Capital lost over $460 million in just 45 minutes after a software deployment error caused its computers to execute millions of unintended stock trades. Its systems had generated 97 warning emails before the market even opened."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Leopold II of Belgium had an illegitimate son born with a deformed hand. This led to a cartoon depicting Leopold holding the child, surrounded by the corpses of Congolese who had their hands cut off, with a caption reading \"Vengeance from on high\"."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that all tequila is actually mezcal. Mezcal is a distilled spirit made from any type of agave plant. Tequila can only be made from blue agave in Jalisco. Under the NOM-070 Mezcal standard, the Jalisco state is excluded from geographic origin so no tequila can be legally called mezcal."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL in 2025, a genetically modified pig kidney kept a living human patient off dialysis for a record 271 days before being removed and successfully replaced with a human donor kidney"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Woodstock from \"The Peanuts\" was unnamed until June 22, 1970. He is named after the Woodstock festival."
+    }
+  ],
+  "errors": []
+}
