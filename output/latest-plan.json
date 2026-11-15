@@ -1,77 +1,77 @@
 {
-  "picked_trend": "science_daily - A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-  "why_viral": "The concept of a 'treasure map' for undiscovered prehistoric life is highly evocative and immediately sparks curiosity. It combines the thrill of discovery with the ancient mysteries of Earth's past, promising to unveil entirely new species and rewrite history.",
-  "core_idea": "Scientists have developed the first global 'treasure map' that identifies specific geological regions most likely to contain billions of undiscovered fossils, revolutionizing the search for Earth's lost prehistoric life.",
-  "video_title": "The 'Lost Life' Treasure Map: Unlocking Earth's Deepest Ancient Secrets!",
-  "script": "Imagine a treasure map... not for gold, but for Earth's most elusive secrets: lost prehistoric life. For centuries, finding fossils has been like searching for a needle in a cosmic haystack. But now, scientists have created the first-ever global \"treasure map\" pinpointing exactly where untold billions of undiscovered fossils are most likely hiding! They analyzed everything from geology and ancient climates to erosion patterns, creating a predictive model that identifies optimal conditions for fossil preservation. This isn't random guesswork, it's a data-driven blueprint! This revolutionary map could unlock countless new species, rewrite evolutionary history, and reveal entire ecosystems we never knew existed. We're on the brink of discovering Earth's true ancient story.",
+  "picked_trend": "The Evolving Story of How Chemistry Became Biology",
+  "why_viral": "This topic taps into humanity's deepest curiosity about our origins. It's a mind-bending scientific mystery about how life itself began from non-living matter, challenging conventional understanding and revealing the profound elegance of natural processes. It's a 'first-principles' explanation of existence.",
+  "core_idea": "The scientific understanding of abiogenesis – how simple chemical reactions on early Earth gradually led to the first self-replicating biological systems, blurring the lines between chemistry and biology.",
+  "video_title": "The Mind-Bending Moment Chemistry Became Life",
+  "script": "What if I told you that life didn't just *appear* on Earth, but slowly *evolved* from simple chemicals? It's the ultimate origin story. For millennia, the jump from non-living matter to self-replicating organisms seemed like an impossible magic trick. How did inert molecules start to organize, grow, and reproduce? New scientific breakthroughs show it was a gradual, evolving process. Think of it as chemistry learning to build itself, forming tiny membranes, then replicating simple genetic material. This isn't just ancient history. We're uncovering the very mechanisms that turn dead matter into the vibrant life we see today. It's the moment chemistry became biology – a mind-bending revelation!",
   "scenes": [
     {
-      "narration": "Imagine a treasure map... not for gold, but for Earth's most elusive secrets: lost prehistoric life. For centuries, finding fossils has been like searching for a needle in a cosmic haystack.",
+      "narration": "What if I told you that life didn't just *appear* on Earth, but slowly *evolved* from simple chemicals? It's the ultimate origin story.",
       "visual_keywords": [
-        "ancient map",
-        "mystery",
-        "Earth"
+        "primitive earth",
+        "volcanic landscape",
+        "boiling ocean"
       ],
-      "image_prompt": "A weathered, ancient-looking map unfurling over a glowing, stylized 3D Earth, with faint outlines of prehistoric creatures subtly integrated into the map's illustrations. The map is bathed in soft, mysterious light. Vertical (9:16). NO text or letters. Cinematic, dramatic lighting.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "But now, scientists have created the first-ever global \"treasure map\" pinpointing exactly where untold billions of undiscovered fossils are most likely hiding!",
-      "visual_keywords": [
-        "scientists",
-        "data",
-        "discovery"
-      ],
-      "image_prompt": "A vibrant, detailed 3D digital globe displaying a complex heatmap overlay, highlighting specific regions in glowing greens and reds. Scientists in futuristic lab coats are gathered around, pointing at the projections on the globe with expressions of awe and excitement. Vertical (9:16). NO text or letters. High-tech lab setting.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "They analyzed everything from geology and ancient climates to erosion patterns, creating a predictive model that identifies optimal conditions for fossil preservation. This isn't random guesswork, it's a data-driven blueprint!",
-      "visual_keywords": [
-        "geological layers",
-        "scientific analysis",
-        "data visualization"
-      ],
-      "image_prompt": "A cross-section of Earth's crust showing distinct geological layers, with data points and glowing lines illustrating analysis. Holographic projections of ancient landscapes float above the layers, connecting geological features to potential fossil sites. Vertical (9:16). NO text or letters. Deep underground view with digital overlays.",
+      "image_prompt": "A desolate, alien-looking primitive Earth. Dark, turbulent skies cast an ominous light over a raw, volcanic landscape. Jagged black rock formations spew steam, and acidic oceans bubble with intense heat. No signs of life, only raw geological forces. Vertical 9:16, 3D cinematic, ultra-realistic.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This revolutionary map could unlock countless new species, rewrite evolutionary history, and reveal entire ecosystems we never knew existed. We're on the brink of discovering Earth's true ancient story.",
+      "narration": "For millennia, the jump from non-living matter to self-replicating organisms seemed like an impossible magic trick. How did inert molecules start to organize, grow, and reproduce?",
       "visual_keywords": [
-        "ancient creatures",
-        "evolution",
-        "scientific breakthrough"
+        "primordial soup",
+        "chemical reactions",
+        "molecular animation"
       ],
-      "image_prompt": "A breathtaking 3D cinematic scene depicting a vibrant, lush prehistoric landscape teeming with previously unknown, fantastical creatures (dinosaurs, ancient mammals, bizarre insects) coexisting in a vibrant ecosystem. Sunlight filters through dense foliage, creating a sense of ancient wonder. Vertical (9:16). NO text or letters. Fantasy art style with scientific accuracy.",
+      "image_prompt": "A mesmerizing close-up of a 'primordial soup' – a vibrant, swirling liquid within a rocky, warm pool. Complex organic molecules are subtly glowing and interacting, forming intricate chains and networks. Bubbles rise gently. Abstract yet grounded in scientific realism. Vertical 9:16, 3D cinematic, macro photography style.",
       "motion": "pan_left"
+    },
+    {
+      "narration": "New scientific breakthroughs show it was a gradual, evolving process. Think of it as chemistry learning to build itself, forming tiny membranes, then replicating simple genetic material.",
+      "visual_keywords": [
+        "lipid bilayers",
+        "RNA strands",
+        "self-assembly"
+      ],
+      "image_prompt": "A stunning microscopic animation-like render showing lipid bilayers spontaneously forming spherical vesicles. Inside, simple, glowing RNA-like strands are seen duplicating themselves in a fluid, dynamic environment. The processes are elegant and self-organizing. Vertical 9:16, 3D cinematic, high-tech scientific visualization.",
+      "motion": "zoom_in"
+    },
+    {
+      "narration": "This isn't just ancient history. We're uncovering the very mechanisms that turn dead matter into the vibrant life we see today. It's the moment chemistry became biology – a mind-bending revelation!",
+      "visual_keywords": [
+        "proto-cell dividing",
+        "vibrant ecosystem",
+        "origin of life"
+      ],
+      "image_prompt": "A single, translucent proto-cell gently pulses and then divides into two, surrounded by a soft, warm glow. The camera then smoothly transitions and zooms out to reveal a lush, diverse, thriving prehistoric ecosystem, teeming with early forms of life, plants, and water. Vertical 9:16, 3D cinematic, breathtaking and awe-inspiring.",
+      "motion": "zoom_out"
     }
   ],
   "youtube": {
-    "title": "The 'Lost Life' Treasure Map: Scientists Just Unlocked Earth's Deepest Ancient Secrets! 🤯",
-    "description": "For centuries, discovering ancient fossils was pure luck. But now, scientists have unveiled a groundbreaking global 'treasure map' that pinpoints where billions of undiscovered prehistoric life forms are most likely hiding! This revolutionary tool, based on geological data and ancient climates, promises to rewrite evolutionary history and reveal Earth's lost ecosystems. Get ready to explore the unknown! #LostLife #FossilDiscovery #PrehistoricEarth #ScienceBreakthrough #AncientMysteries #Curiosity #ViralScience #Paleontology #EarthSecrets\n\nVisuals generated with AI.",
+    "title": "The Mind-Bending Moment Chemistry Became Life | Origin of Life Explained",
+    "description": "Imagine a world without life, where only chemicals existed. How did the very first spark of life ignite? Dive into the incredible scientific story of abiogenesis, exploring how simple chemical reactions on early Earth gradually evolved into complex, self-replicating biological systems. Discover the mechanisms that bridged the gap between inert matter and vibrant life – a truly mind-bending revelation!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#LostLife",
-      "#FossilDiscovery",
-      "#PrehistoricEarth",
-      "#ScienceBreakthrough",
-      "#AncientMysteries",
+      "#OriginOfLife",
+      "#Abiogenesis",
+      "#ScienceFacts",
       "#Curiosity",
-      "#ViralScience",
-      "#Paleontology",
-      "#EarthSecrets"
+      "#Biology",
+      "#Chemistry",
+      "#DeepScience",
+      "#UnbelievablePhenomena",
+      "#ViralScience"
     ]
   },
   "tiktok": {
-    "caption": "Imagine a treasure map for LOST LIFE! 🤯 Scientists just created a global map showing where BILLIONS of undiscovered fossils are hiding. Get ready to rewrite history! #LostLife #FossilDiscovery #PrehistoricEarth #ScienceFacts #MindBlown #Viral #Curiosity #Paleontology (Visuals generated with AI.)",
+    "caption": "🤯 How did life begin? It wasn't magic, it was CHEMISTRY! 🧪🧬 The mind-bending truth about abiogenesis will blow your mind. #OriginOfLife #ScienceFacts #MindBlown #ChemistryToLife #Biology #ScienceTok #Curiosity #ViralScience (Visuals generated with AI.)",
     "hashtags": [
-      "#LostLife",
-      "#FossilDiscovery",
-      "#PrehistoricEarth",
+      "#OriginOfLife",
       "#ScienceFacts",
       "#MindBlown",
-      "#Viral",
+      "#ChemistryToLife",
+      "#Biology",
+      "#ScienceTok",
       "#Curiosity",
-      "#Paleontology"
+      "#ViralScience"
     ]
   }
 }

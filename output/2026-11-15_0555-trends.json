@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "score": 981,
+      "url": "https://www.spacex.com/launches/starship-flight-15"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "score": 739,
+      "url": "https://www.crissyfield.de/research/lovable-en/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "score": 18,
+      "url": "https://github.com/matheuzgomes/gawain"
+    },
+    {
+      "source": "hackernews",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "score": 163,
+      "url": "https://retrocomputing.stackexchange.com/questions/17957"
+    },
+    {
+      "source": "hackernews",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "score": 9,
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "score": 11,
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
+    },
+    {
+      "source": "hackernews",
+      "title": "Osint Case Studies",
+      "score": 13,
+      "url": "https://osintsearch.org/blog/osint-case-studies"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "score": 19,
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+    },
+    {
+      "source": "hackernews",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "score": 155,
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+    },
+    {
+      "source": "hackernews",
+      "title": "A family tree of software job titles",
+      "score": 264,
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
+    },
+    {
+      "source": "hackernews",
+      "title": "KDE: The documentary [video]",
+      "score": 425,
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "score": 383,
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "500 Lines or Less A 3D Modeller",
+      "score": 35,
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "score": 19,
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "score": 225,
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a bizarre paradox among endangered penguins",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "colin jost",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "snl cast",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lily collins",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "icc",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gable steveson",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "anthony joshua",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "michelle obama",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jeremy culhane",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "cillian murphy",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "francis ngannou",
+      "traffic": "1000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL Hitler sent his official photographer to secretly photograph Stalin earlobes to determine his ancestry"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the city of Dish, Texas was originally named Clark. In 2005, the city accepted an offer from Dish Network to rename the city in exchange for all residents receiving free cable."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that until 2019, the international kilogram was defined by a metal cylinder kept near Paris. Even if the cylinder physically gained or lost mass, it was still exactly one kilogram by definition. Its official copies drifted by an average of about 50 micrograms relative to it over a century."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that The Nutcracker in 3D is the worst-rated Christmas movie on Rotten Tomatoes with a score of 0%. Roger Ebert described it a \"wretched\" and warned that it \"may send children screaming under their seats.\" It was a box-office bomb, grossing $20 million against a $90 million budget."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL when Calvin Coolidge was sworn in by his father at their family farmhouse in Vermont in 1923, he did not place his hand on a Bible. Although a family Bible was on the table, he did not use it, reflecting a New England Puritan tradition against swearing in on scripture."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL during the siege of Leningrad, while hundreds of thousands died of starvation, the first seed bank (containing rice, flour, nuts, fruits, vegetables, and 200,000 seeds and plants) was right below the city. The scientists guarding it ate none of it; nine dying of starvation."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Marshall University turns off their memorial fountain on Nov 14th every year until spring. This is to honor their 1970 football team that was killed in a plane crash returning from a game"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the Vietnamese Emperor Tự Đức had built a giant tomb for when he would die, but he turned out to love this tomb so much that he moved there to live. In the end, he was buried in another place."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL it is illegal to wave the Ethiopian flag without the emblem. flying the plain green, yellow, red banner could get you a fine of 5000 birr or rigorous imprisonment up to one year and six months."
+    }
+  ],
+  "errors": []
+}
