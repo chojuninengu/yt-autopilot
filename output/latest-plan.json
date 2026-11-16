@@ -1,76 +1,82 @@
 {
-  "picked_trend": "TIL that unborn sand tiger sharks develop teeth and eyes early to hunt and eat their own siblings in the womb. Females have two uteri, and the first pup to hatch in each one kills and consumes all the others until only two survive to be born",
-  "why_viral": "This story is incredibly bizarre and mind-bending, showcasing an extreme and ruthless natural phenomenon (in-womb cannibalism) for survival. It's a shocking revelation about animal behavior that will instantly grab attention due to its primal and unexpected nature.",
-  "core_idea": "Sand tiger shark pups engage in extreme sibling cannibalism inside the womb, developing teeth and eyes early to eliminate competition, ensuring only the strongest two survive to be born.",
-  "video_title": "The Shark Womb: A Battle Royale Before Birth",
-  "script": "Imagine a battle for survival so fierce, it happens *before* birth. Deep beneath the waves, a terrifying phenomenon unfolds inside the womb of the sand tiger shark. Female sand tiger sharks carry up to 50 embryos in two separate uteri. But only two will ever see the light of day. Why? Because the earliest-hatching pups develop teeth and eyes *while still inside.* These ruthless pioneers then hunt down and devour their own unborn siblings. It's a brutal, in-womb cannibalism, where only the strongest survive the ultimate prenatal battle royale. This incredible, savage strategy ensures that when the time comes, each mother delivers just two perfectly developed, powerful pups. It's evolution's extreme way of guaranteeing the next generation's strength.",
+  "picked_trend": "science_daily - Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+  "why_viral": "The discovery of an entire, diverse ecosystem of 245 species living within the tiny confines of a single deep-sea rock is mind-bending. It challenges our understanding of biodiversity and resilience in extreme environments, making it a truly 'unbelievable phenomena' and a 'bizarre true discovery' that captures immediate curiosity.",
+  "core_idea": "Scientists have found an incredibly dense and diverse ecosystem of 245 different species thriving inside a single manganese nodule, a rock, nearly three miles deep in the ocean, completely redefining our understanding of life's resilience.",
+  "video_title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock",
+  "script": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock! Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep. When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks. This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
   "scenes": [
     {
-      "narration": "Imagine a battle for survival so fierce, it happens *before* birth. Deep beneath the waves, a terrifying phenomenon unfolds inside the womb of the sand tiger shark.",
+      "narration": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock!",
       "visual_keywords": [
-        "shark womb",
-        "dark ocean",
-        "silhouette"
+        "deep sea",
+        "rock ecosystem",
+        "microscopic life"
       ],
-      "image_prompt": "A haunting, almost translucent view inside a shark's womb, showing faint, developing shark-like shapes moving aggressively in the murky fluid, hinting at an internal struggle. Dark, deep ocean background, cinematic 3D rendering. Vertical 9:16.",
+      "image_prompt": "A stunning 3D cinematic cross-section of a textured, dark deep-sea rock, glowing subtly from within, revealing intricate, vein-like cavities. Inside these cavities, hundreds of tiny, diverse, bioluminescent and silhouetted creatures, resembling worms, crustaceans, and mollusks, are bustling within their hidden ecosystem. Vertical 9:16 aspect ratio.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Female sand tiger sharks carry up to 50 embryos in two separate uteri. But only two will ever see the light of day. Why? Because the earliest-hatching pups develop teeth and eyes *while still inside.*",
+      "narration": "Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep.",
       "visual_keywords": [
-        "shark embryo",
-        "developing teeth",
-        "underwater view"
+        "ocean abyss",
+        "research vessel",
+        "robotic arm"
       ],
-      "image_prompt": "A close-up, hyper-realistic 3D cinematic shot of a tiny, translucent sand tiger shark embryo, still in its amniotic sac, with visible, sharp teeth and developing eyes. The surrounding fluid is dimly lit, emphasizing the detail. Vertical 9:16.",
+      "image_prompt": "A majestic 3D cinematic scene of a vast, dark deep-sea environment. A research submersible or remotely operated vehicle (ROV) with bright lights illuminates a rugged seabed. A robotic arm extends from the ROV, gently collecting a manganese nodule from the dark ocean floor. Distant hydrothermal vents subtly glow in the background. Vertical 9:16 aspect ratio.",
       "motion": "pan_right"
     },
     {
-      "narration": "These ruthless pioneers then hunt down and devour their own unborn siblings. It's a brutal, in-womb cannibalism, where only the strongest survive the ultimate prenatal battle royale.",
+      "narration": "When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks.",
       "visual_keywords": [
-        "shark hunting",
-        "embryo battle",
-        "survival"
+        "macro photography",
+        "rock crevices",
+        "deep-sea organisms"
       ],
-      "image_prompt": "A dramatic 3D cinematic scene depicting a slightly larger, more developed fetal sand tiger shark, with sharp teeth, asserting dominance or 'hunting' smaller, less developed sibling embryos within the dimly lit, confined space of the womb. The scene is tense and primal. Vertical 9:16.",
-      "motion": "shake"
+      "image_prompt": "An extreme 3D cinematic macro shot, showcasing a vibrant, microscopic world within the intricate pores and crevices of a manganese nodule. Hundreds of distinct, tiny deep-sea creatures like delicate worms, segmented crustaceans, and tiny mollusks are visible, some with bioluminescent highlights, moving and interacting within the rock's elaborate structures. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_out"
     },
     {
-      "narration": "This incredible, savage strategy ensures that when the time comes, each mother delivers just two perfectly developed, powerful pups. It's evolution's extreme way of guaranteeing the next generation's strength.",
+      "narration": "This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
       "visual_keywords": [
-        "powerful shark",
-        "ocean hunter",
-        "healthy pup"
+        "Earth biodiversity",
+        "global ecosystems",
+        "scientific revelation"
       ],
-      "image_prompt": "A majestic, healthy juvenile sand tiger shark, sleek and powerful, swimming confidently through clear, sun-dappled ocean waters. The scene conveys strength and successful survival, cinematic 3D rendering. Vertical 9:16.",
-      "motion": "zoom_out"
+      "image_prompt": "A breathtaking 3D cinematic view of Earth from space, focusing on the oceans. A vibrant, glowing network of interconnected points, representing hidden biodiversity, subtly emerges from the deep-sea regions, emphasizing the vast, unexplored ecosystems beneath the waves. The glow pulses with life. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The Shark Womb: A Battle Royale Before Birth | Nature's Most Extreme Survival",
-    "description": "Discover the shocking secret of sand tiger sharks: a brutal battle for survival that happens inside the womb! Unborn pups develop teeth and eyes early to hunt and devour their own siblings, ensuring only the strongest two are born. Dive deep into this mind-bending natural phenomenon and witness evolution's most extreme strategy for genetic strength. #SandTigerShark #NatureFacts #AnimalKingdom #Curiosity #SurvivalOfTheFittest\n\nVisuals generated with AI.",
+    "title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock #DeepSeaDiscovery",
+    "description": "Scientists made an unbelievable discovery: a single deep-sea rock, nearly 3 miles down, teeming with 245 different species! This hidden metropolis of worms, crustaceans, and mollusks challenges everything we thought we knew about life in Earth's darkest corners. Dive into this mind-bending revelation about biodiversity and resilience in extreme environments. #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable\n\nVisuals generated with AI.",
     "hashtags": [
-      "#SandTigerShark",
-      "#NatureFacts",
-      "#AnimalKingdom",
-      "#Curiosity",
-      "#SurvivalOfTheFittest",
-      "#MarineLife",
-      "#BizarreAnimals",
-      "#DidYouKnow"
+      "DeepSeaDiscovery",
+      "HiddenWorld",
+      "ScienceFacts",
+      "OceanMysteries",
+      "MicroscopicLife",
+      "Curiosity",
+      "Biology",
+      "ExtremeEnvironments",
+      "MindBlown",
+      "NewSpecies",
+      "EarthScience"
     ]
   },
   "tiktok": {
-    "caption": "🤯 You won't believe what happens INSIDE a sand tiger shark's womb! It's a battle for survival before birth where only the strongest two pups make it out alive. Nature is WILD! #SandTigerShark #NatureFacts #AnimalKingdom #Curiosity #SurvivalOfTheFittest (Visuals generated with AI.)",
+    "caption": "Can you believe scientists found over 200 species living INSIDE a single rock, miles deep in the ocean? 🤯 This hidden metropolis is blowing my mind! #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable (Visuals generated with AI.)",
     "hashtags": [
-      "#SandTigerShark",
-      "#NatureFacts",
-      "#AnimalKingdom",
-      "#Curiosity",
-      "#SurvivalOfTheFittest",
-      "#MarineLife",
-      "#BizarreAnimals",
-      "#DidYouKnow"
+      "DeepSea",
+      "Discovery",
+      "Science",
+      "Curiosity",
+      "OceanMysteries",
+      "HiddenEcosystems",
+      "Biology",
+      "Unbelievable",
+      "MindBlown",
+      "Nature",
+      "Facts"
     ]
   }
 }

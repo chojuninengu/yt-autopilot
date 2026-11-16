@@ -1,0 +1,86 @@
+{
+  "picked_trend": "science_daily - Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+  "why_viral": "The discovery of an entire, diverse ecosystem of 245 species living within the tiny confines of a single deep-sea rock is mind-bending. It challenges our understanding of biodiversity and resilience in extreme environments, making it a truly 'unbelievable phenomena' and a 'bizarre true discovery' that captures immediate curiosity.",
+  "core_idea": "Scientists have found an incredibly dense and diverse ecosystem of 245 different species thriving inside a single manganese nodule, a rock, nearly three miles deep in the ocean, completely redefining our understanding of life's resilience.",
+  "video_title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock",
+  "script": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock! Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep. When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks. This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
+  "scenes": [
+    {
+      "narration": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock!",
+      "visual_keywords": [
+        "deep sea",
+        "rock ecosystem",
+        "microscopic life"
+      ],
+      "image_prompt": "A stunning 3D cinematic cross-section of a textured, dark deep-sea rock, glowing subtly from within, revealing intricate, vein-like cavities. Inside these cavities, hundreds of tiny, diverse, bioluminescent and silhouetted creatures, resembling worms, crustaceans, and mollusks, are bustling within their hidden ecosystem. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep.",
+      "visual_keywords": [
+        "ocean abyss",
+        "research vessel",
+        "robotic arm"
+      ],
+      "image_prompt": "A majestic 3D cinematic scene of a vast, dark deep-sea environment. A research submersible or remotely operated vehicle (ROV) with bright lights illuminates a rugged seabed. A robotic arm extends from the ROV, gently collecting a manganese nodule from the dark ocean floor. Distant hydrothermal vents subtly glow in the background. Vertical 9:16 aspect ratio.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks.",
+      "visual_keywords": [
+        "macro photography",
+        "rock crevices",
+        "deep-sea organisms"
+      ],
+      "image_prompt": "An extreme 3D cinematic macro shot, showcasing a vibrant, microscopic world within the intricate pores and crevices of a manganese nodule. Hundreds of distinct, tiny deep-sea creatures like delicate worms, segmented crustaceans, and tiny mollusks are visible, some with bioluminescent highlights, moving and interacting within the rock's elaborate structures. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
+      "visual_keywords": [
+        "Earth biodiversity",
+        "global ecosystems",
+        "scientific revelation"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic view of Earth from space, focusing on the oceans. A vibrant, glowing network of interconnected points, representing hidden biodiversity, subtly emerges from the deep-sea regions, emphasizing the vast, unexplored ecosystems beneath the waves. The glow pulses with life. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock #DeepSeaDiscovery",
+    "description": "Scientists made an unbelievable discovery: a single deep-sea rock, nearly 3 miles down, teeming with 245 different species! This hidden metropolis of worms, crustaceans, and mollusks challenges everything we thought we knew about life in Earth's darkest corners. Dive into this mind-bending revelation about biodiversity and resilience in extreme environments. #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable\n\nVisuals generated with AI.",
+    "hashtags": [
+      "DeepSeaDiscovery",
+      "HiddenWorld",
+      "ScienceFacts",
+      "OceanMysteries",
+      "MicroscopicLife",
+      "Curiosity",
+      "Biology",
+      "ExtremeEnvironments",
+      "MindBlown",
+      "NewSpecies",
+      "EarthScience"
+    ]
+  },
+  "tiktok": {
+    "caption": "Can you believe scientists found over 200 species living INSIDE a single rock, miles deep in the ocean? 🤯 This hidden metropolis is blowing my mind! #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable (Visuals generated with AI.)",
+    "hashtags": [
+      "DeepSea",
+      "Discovery",
+      "Science",
+      "Curiosity",
+      "OceanMysteries",
+      "HiddenEcosystems",
+      "Biology",
+      "Unbelievable",
+      "MindBlown",
+      "Nature",
+      "Facts"
+    ]
+  }
+}
