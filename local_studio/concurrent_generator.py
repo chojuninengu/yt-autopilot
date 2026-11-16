@@ -23,91 +23,90 @@ STORIES = [
     {
         "id": 1,
         "topic": (
-            "The Hamster Who Built an Iron Mech Suit. "
-            "Pip, an energetic, squeaky baby hamster genius (excited child voice), gets tired of being intimidated by Barnaby, "
-            "the lazy aristocratic house cat (deep haughty male voice). Pip builds a miniature steampunk mech suit powered by sunflower seeds "
-            "and stomps into the living room to formally renegotiate cheese rations."
+            "The 60-Year Umbrella Promise. "
+            "Arthur (gentle, warm elderly husband voice) and Evelyn (sweet, frail elderly wife voice) have been married 60 years. "
+            "In a rainy London park, Arthur still holds an oversized red umbrella solely over Evelyn, getting soaked himself just as he did on their very first date in 1964. "
+            "Evelyn softly touches his cheek and asks why he never bought a bigger umbrella, and Arthur smiles: 'Because then you wouldn't hold my arm so close.'"
         )
     },
     {
         "id": 2,
         "topic": (
-            "The Grandma Who Taught a Frost Dragon to Knit. "
-            "Nonna Gladys, a feisty 80-year-old grandmother with thick spectacles (warm expressive elderly woman voice), "
-            "discovers a shivering, sneezing baby frost dragon named Blizzard (trembling young child voice) on her snowy porch. "
-            "Instead of screaming, she sits him by the fireplace and firmly insists on knitting him a massive wool scarf before he catches a cold."
+            "The Robot Who Learned What 'I Do' Means. "
+            "Orion (tender, curious synthetic male voice), an artificial companion, attends his human owners' 50th wedding anniversary. "
+            "He asks the bride, Clara (warm, graceful elderly woman voice), what algorithm kept them together through poverty, illness, and old age. "
+            "Clara takes Orion's metallic hand and explains: 'Marriage isn't an algorithm, Orion. It's choosing to forgive someone every morning, even when they burn the toast.'"
         )
     },
     {
         "id": 3,
         "topic": (
-            "The Street Pigeon Who Became an Art Critic. "
-            "Pierre, a cultured city pigeon wearing a tiny monocle (flamboyant theatrical French male voice), "
-            "wanders into the Grand Museum and starts passionately critiquing modern sculptures to an astonished museum curator named Sophie "
-            "(curious sophisticated female voice), who realizes the bird actually has better taste than the board of directors."
+            "The Grumpy Baker and the Flower Girl. "
+            "Marco (grumpy, deep-voiced Italian baker) pretends to be annoyed when Elena (bright, melodious, cheerful young florist) brings a fresh daisy to his bakery every sunrise. "
+            "When Elena catches a severe fever and doesn't show up for three days, the fierce baker panics, runs across the cobblestone city with a hot basket of fresh almond croissants and honey tea, "
+            "finally confessing his feelings at her doorstep."
         )
     },
     {
         "id": 4,
         "topic": (
-            "The Golden Retriever Who Discovered He Speaks French. "
-            "Barnaby, a goofball golden retriever (bubbly enthusiastic boy voice), accidentally eats a magical butter croissant "
-            "and suddenly starts speaking elegant philosophy in fluent French. He politely questions his bewildered human owner, Emily "
-            "(sweet amazed woman voice), about the existential meaning of the tennis ball."
+            "The Forgotten Love Letter in the Attic. "
+            "Leo (thoughtful young husband voice) finds a faded, handwritten letter tucked behind a floorboard in their new Victorian home from 1920. "
+            "He reads it aloud to his wife Maya (touched, emotional female voice)—a soldier's vow to return home to his bride. "
+            "The final sentence reveals a golden ring buried in the brickwork, inspiring Leo to reaffirm his own eternal vows to Maya under the candlelit attic."
         )
     },
     {
         "id": 5,
         "topic": (
-            "The Little Girl and the Grumpy Cloud. "
-            "Maya, a sweet 6-year-old girl with a bright red raincoat (gentle innocent child voice), "
-            "notices a gloomy, grumpy thundercloud named Nimbus (cranky rumbling elder voice) hovering specifically over her treehouse. "
-            "Rather than running away, she offers Nimbus a freshly baked chocolate chip cookie, turning his lightning bolts into sparkling rainbow confetti."
+            "The Billionaire's Secret Vow. "
+            "Julian (deep, protective, wealthy CEO male voice) gives up his entire corporate empire when his board of directors tries to force him to sign an annulment from his humble, sweet-hearted wife Sarah (soft, resilient, loving woman voice). "
+            "Julian walks into the boardroom, tosses his gold credentials onto the mahogany table, and says: 'Keep the billions. I built this company with my hands, but she built my soul.'"
         )
     },
     {
         "id": 6,
         "topic": (
-            "The Squirrel Secret Agent and the Giant Acorn. "
-            "Agent Chestnut, a dashing squirrel secret agent in a miniature tuxedo (intense cinematic action hero male voice), "
-            "infiltrates the top canopy of the ancient Oak fortress to retrieve the legendary Golden Acorn from Professor Hoot, "
-            "a grumpy scholarly owl librarian (pompous academic elder voice)."
+            "The Memory Jar. "
+            "Thomas (patient, devoted elderly husband voice) visits his wife Rose (fragile, gentle woman voice) every single afternoon in a sunlit garden, introducing himself as if they are meeting for the first time. "
+            "He brings her favorite blueberry tart and retells the story of how they fell in love at 19. "
+            "When Rose suddenly looks into his eyes, smiles, and whispers, 'I may forget my name, Tommy, but my heart never forgot yours,' Thomas's eyes fill with tears of joy."
         )
     },
     {
         "id": 7,
         "topic": (
-            "The Cat Who Realized He's Living in an RPG. "
-            "Jasper, a dramatic ginger cat (dramatic heroic male voice), wakes up to discover visible holographic quest markers "
-            "and HP bars floating above his human owner, Claire (cheerful everyday female voice). Convinced he must level up to save the realm, "
-            "Jasper embarks on an epic quest to slay the vacuum cleaner."
+            "The Lighthouse Keeper's Golden Beacon. "
+            "Captain Douglas (weathered, hearty sea captain voice) is caught in the most violent winter gale off the rocky cliffs. "
+            "His ship's compass shatters, but through the pitch-black hurricane, a radiant golden light cuts through the fog. "
+            "His bride Abigail (brave, melodic woman voice) has kept the ancient lighthouse oil fire burning for 48 hours without sleep, guiding him safely back into her arms."
         )
     },
     {
         "id": 8,
         "topic": (
-            "The Baby Polar Bear and the Sunbeam. "
-            "Koda, a curious fluffy baby polar bear (tender adventurous child voice), chases an elusive golden beam of Arctic sunlight "
-            "across shimmering glaciers, bumping into Barnaby, an ancient singing walrus (booming jolly grandfather voice), "
-            "who reveals the secret to keeping warmth in your heart through winter."
+            "The First Dance Under the Midnight Rain. "
+            "On their wedding day, a sudden torrential summer storm collapses the luxury reception tent. "
+            "While the guests gasp, the groom Noah (playful, deeply in love young male voice) laughs, takes his bride Sophie's (radiant, breathless female voice) hand, and pulls her into the open grass. "
+            "Soaked in rain, they dance their first dance under the starry thunderstorm, creating a moment more magical than any ballroom could hold."
         )
     },
     {
         "id": 9,
         "topic": (
-            "The Tough Detective Questioned by a Sassy Parrot. "
-            "Detective Jack Vance, a cynical 1940s film noir detective in a trench coat (gravelly hard-boiled male voice), "
-            "investigates a missing bakery heist, only to find himself completely outsmarted and cross-examined by Captain Polly, "
-            "an ultra-sassy, fast-talking cockatoo (witty sharp female voice)."
+            "The King Who Chose the Village Seamstress. "
+            "King Valen (regal, commanding yet deeply gentle king's voice) is commanded by the Royal Council to marry a foreign princess for political power. "
+            "Instead, before the entire assembled kingdom, Valen steps down from his throne, kneels before Linnea, a kind village seamstress (humble, pure-hearted young woman voice) who saved his life in the forest, "
+            "and crowns her his Queen, declaring: 'A crown is worthless if I cannot share it with the one who owns my heart.'"
         )
     },
     {
         "id": 10,
         "topic": (
-            "The Tiny Robot Looking for the Reset Button. "
-            "Widget, a curious little brass clockwork robot with glowing blue eyes (wonder-filled soft child voice), "
-            "wanders into an enchanted mossy forest searching for the Universe's factory reset button. He meets Elder Oogway, "
-            "a giant 500-year-old forest tortoise (deep peaceful ancient voice), who teaches him why life is only meaningful because every second can only happen once."
+            "The Secret Sticky Notes of 40 Years. "
+            "Grace (nostalgic, smiling woman voice) discovers a wooden keepsake box in her late husband Daniel's (affectionate, teasing male voice) study. "
+            "Inside are over 10,000 tiny yellow sticky notes he secretly hid in her lunchbox, car, and coat pockets every single workday for 40 years, each reading a simple reason why he loved her that day. "
+            "The final note on top reads: 'In every lifetime, I will look for you first.'"
         )
     }
 ]
