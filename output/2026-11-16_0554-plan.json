@@ -1,0 +1,80 @@
+{
+  "picked_trend": "TIL that unborn sand tiger sharks develop teeth and eyes early to hunt and eat their own siblings in the womb. Females have two uteri, and the first pup to hatch in each one kills and consumes all the others until only two survive to be born",
+  "why_viral": "This story is incredibly bizarre and mind-bending, showcasing an extreme and ruthless natural phenomenon (in-womb cannibalism) for survival. It's a shocking revelation about animal behavior that will instantly grab attention due to its primal and unexpected nature.",
+  "core_idea": "Sand tiger shark pups engage in extreme sibling cannibalism inside the womb, developing teeth and eyes early to eliminate competition, ensuring only the strongest two survive to be born.",
+  "video_title": "The Shark Womb: A Battle Royale Before Birth",
+  "script": "Imagine a battle for survival so fierce, it happens *before* birth. Deep beneath the waves, a terrifying phenomenon unfolds inside the womb of the sand tiger shark. Female sand tiger sharks carry up to 50 embryos in two separate uteri. But only two will ever see the light of day. Why? Because the earliest-hatching pups develop teeth and eyes *while still inside.* These ruthless pioneers then hunt down and devour their own unborn siblings. It's a brutal, in-womb cannibalism, where only the strongest survive the ultimate prenatal battle royale. This incredible, savage strategy ensures that when the time comes, each mother delivers just two perfectly developed, powerful pups. It's evolution's extreme way of guaranteeing the next generation's strength.",
+  "scenes": [
+    {
+      "narration": "Imagine a battle for survival so fierce, it happens *before* birth. Deep beneath the waves, a terrifying phenomenon unfolds inside the womb of the sand tiger shark.",
+      "visual_keywords": [
+        "shark womb",
+        "dark ocean",
+        "silhouette"
+      ],
+      "image_prompt": "A haunting, almost translucent view inside a shark's womb, showing faint, developing shark-like shapes moving aggressively in the murky fluid, hinting at an internal struggle. Dark, deep ocean background, cinematic 3D rendering. Vertical 9:16.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Female sand tiger sharks carry up to 50 embryos in two separate uteri. But only two will ever see the light of day. Why? Because the earliest-hatching pups develop teeth and eyes *while still inside.*",
+      "visual_keywords": [
+        "shark embryo",
+        "developing teeth",
+        "underwater view"
+      ],
+      "image_prompt": "A close-up, hyper-realistic 3D cinematic shot of a tiny, translucent sand tiger shark embryo, still in its amniotic sac, with visible, sharp teeth and developing eyes. The surrounding fluid is dimly lit, emphasizing the detail. Vertical 9:16.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "These ruthless pioneers then hunt down and devour their own unborn siblings. It's a brutal, in-womb cannibalism, where only the strongest survive the ultimate prenatal battle royale.",
+      "visual_keywords": [
+        "shark hunting",
+        "embryo battle",
+        "survival"
+      ],
+      "image_prompt": "A dramatic 3D cinematic scene depicting a slightly larger, more developed fetal sand tiger shark, with sharp teeth, asserting dominance or 'hunting' smaller, less developed sibling embryos within the dimly lit, confined space of the womb. The scene is tense and primal. Vertical 9:16.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "This incredible, savage strategy ensures that when the time comes, each mother delivers just two perfectly developed, powerful pups. It's evolution's extreme way of guaranteeing the next generation's strength.",
+      "visual_keywords": [
+        "powerful shark",
+        "ocean hunter",
+        "healthy pup"
+      ],
+      "image_prompt": "A majestic, healthy juvenile sand tiger shark, sleek and powerful, swimming confidently through clear, sun-dappled ocean waters. The scene conveys strength and successful survival, cinematic 3D rendering. Vertical 9:16.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The Shark Womb: A Battle Royale Before Birth | Nature's Most Extreme Survival",
+    "description": "Discover the shocking secret of sand tiger sharks: a brutal battle for survival that happens inside the womb! Unborn pups develop teeth and eyes early to hunt and devour their own siblings, ensuring only the strongest two are born. Dive deep into this mind-bending natural phenomenon and witness evolution's most extreme strategy for genetic strength. #SandTigerShark #NatureFacts #AnimalKingdom #Curiosity #SurvivalOfTheFittest\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#SandTigerShark",
+      "#NatureFacts",
+      "#AnimalKingdom",
+      "#Curiosity",
+      "#SurvivalOfTheFittest",
+      "#MarineLife",
+      "#BizarreAnimals",
+      "#DidYouKnow"
+    ]
+  },
+  "tiktok": {
+    "caption": "🤯 You won't believe what happens INSIDE a sand tiger shark's womb! It's a battle for survival before birth where only the strongest two pups make it out alive. Nature is WILD! #SandTigerShark #NatureFacts #AnimalKingdom #Curiosity #SurvivalOfTheFittest (Visuals generated with AI.)",
+    "hashtags": [
+      "#SandTigerShark",
+      "#NatureFacts",
+      "#AnimalKingdom",
+      "#Curiosity",
+      "#SurvivalOfTheFittest",
+      "#MarineLife",
+      "#BizarreAnimals",
+      "#DidYouKnow"
+    ]
+  }
+}
