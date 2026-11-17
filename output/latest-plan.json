@@ -1,82 +1,78 @@
 {
-  "picked_trend": "science_daily - Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
-  "why_viral": "The discovery of an entire, diverse ecosystem of 245 species living within the tiny confines of a single deep-sea rock is mind-bending. It challenges our understanding of biodiversity and resilience in extreme environments, making it a truly 'unbelievable phenomena' and a 'bizarre true discovery' that captures immediate curiosity.",
-  "core_idea": "Scientists have found an incredibly dense and diverse ecosystem of 245 different species thriving inside a single manganese nodule, a rock, nearly three miles deep in the ocean, completely redefining our understanding of life's resilience.",
-  "video_title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock",
-  "script": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock! Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep. When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks. This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
+  "picked_trend": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+  "why_viral": "The dramatic concept of humans intentionally impacting an asteroid, combined with the surprising discovery of a 'strange new world' created by that action, is incredibly captivating and taps into both scientific curiosity and a sense of wonder about our capabilities in space.",
+  "core_idea": "NASA's DART mission impact radically altered the asteroid Dimorphos, creating a new, unstable 'rubble pile' world that the Hera mission is now studying to gather critical data for planetary defense.",
+  "video_title": "NASA Smashed An Asteroid... This Is What Happened Next!",
+  "script": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action! Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath. What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos. The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
   "scenes": [
     {
-      "narration": "What if I told you scientists just discovered a hidden metropolis, teeming with over 200 species, all thriving inside a single rock? And not just any rock… a deep-sea rock!",
+      "narration": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action!",
       "visual_keywords": [
-        "deep sea",
-        "rock ecosystem",
-        "microscopic life"
+        "asteroid impact",
+        "DART mission",
+        "space collision"
       ],
-      "image_prompt": "A stunning 3D cinematic cross-section of a textured, dark deep-sea rock, glowing subtly from within, revealing intricate, vein-like cavities. Inside these cavities, hundreds of tiny, diverse, bioluminescent and silhouetted creatures, resembling worms, crustaceans, and mollusks, are bustling within their hidden ecosystem. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A 3D cinematic shot, vertical 9:16, of the tiny DART spacecraft, a metallic, angular probe with distinct solar panels, making a direct, fiery impact with the surface of the asteroid Dimorphos. Dust and brilliant debris erupt dramatically from the impact site, creating a bright flash and an expanding plume against the dark, star-dusted backdrop of deep space. The asteroid itself is a rough, potato-shaped rock, mottled gray and brown.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Far below the sunlit surface, in the freezing, pitch-black abyss, life is usually sparse. But this isn't what researchers found off the coast of Japan, nearly 3 miles deep.",
+      "narration": "Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath.",
       "visual_keywords": [
-        "ocean abyss",
-        "research vessel",
-        "robotic arm"
+        "Hera mission",
+        "asteroid aftermath",
+        "space probe"
       ],
-      "image_prompt": "A majestic 3D cinematic scene of a vast, dark deep-sea environment. A research submersible or remotely operated vehicle (ROV) with bright lights illuminates a rugged seabed. A robotic arm extends from the ROV, gently collecting a manganese nodule from the dark ocean floor. Distant hydrothermal vents subtly glow in the background. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A stunning 3D cinematic view, vertical 9:16, showing the sleek, advanced Hera spacecraft with its reflective panels, slowly approaching the significantly altered asteroid Dimorphos. The asteroid now features a distinct, jagged crater at its core, surrounded by a vast field of displaced rock and subtle ejecta plumes that are still expanding into the void, lit by a distant star. Its companion asteroid Didymos is visible in the background.",
       "motion": "pan_right"
     },
     {
-      "narration": "When they analyzed just one small manganese nodule, they were stunned. Inside its tiny pores and crevices lived 245 distinct species – a staggering biodiversity, including worms, crustaceans, and mollusks.",
+      "narration": "What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos.",
       "visual_keywords": [
-        "macro photography",
-        "rock crevices",
-        "deep-sea organisms"
+        "Dimorphos asteroid",
+        "cosmic debris",
+        "alien surface"
       ],
-      "image_prompt": "An extreme 3D cinematic macro shot, showcasing a vibrant, microscopic world within the intricate pores and crevices of a manganese nodule. Hundreds of distinct, tiny deep-sea creatures like delicate worms, segmented crustaceans, and tiny mollusks are visible, some with bioluminescent highlights, moving and interacting within the rock's elaborate structures. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A hyper-detailed 3D cinematic close-up, vertical 9:16, showcasing the chaotic, fragmented surface of the asteroid Dimorphos. The impact zone is a deep, irregular cavity surrounded by a vast expanse of freshly exposed, glistening rock fragments and large chunks of asteroid material, some appearing to float slightly above the surface, forming a 'rubble pile' landscape. A faint, diffuse glow emanates from the freshly churned material.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This isn't just a discovery; it's a revelation. It proves that even the most desolate-looking parts of our planet can harbor incredibly complex, unseen ecosystems, fundamentally changing how we understand life's resilience.",
+      "narration": "The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
       "visual_keywords": [
-        "Earth biodiversity",
-        "global ecosystems",
-        "scientific revelation"
+        "asteroid wobble",
+        "planetary defense",
+        "orbital mechanics"
       ],
-      "image_prompt": "A breathtaking 3D cinematic view of Earth from space, focusing on the oceans. A vibrant, glowing network of interconnected points, representing hidden biodiversity, subtly emerges from the deep-sea regions, emphasizing the vast, unexplored ecosystems beneath the waves. The glow pulses with life. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A breathtaking 3D cinematic shot, vertical 9:16, depicting the smaller asteroid Dimorphos in an unstable, visibly wobbling and spinning orbit around its larger companion asteroid, Didymos. Dimorphos's newly formed crater catches and reflects light, emphasizing its altered state, while Didymos remains a stoic, stable presence in the background. Subtle, scientific-looking energy lines or a faint glow emanate from Dimorphos to highlight its altered trajectory and movement.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "Hidden World: The Microscopic Metropolis Inside a Deep-Sea Rock #DeepSeaDiscovery",
-    "description": "Scientists made an unbelievable discovery: a single deep-sea rock, nearly 3 miles down, teeming with 245 different species! This hidden metropolis of worms, crustaceans, and mollusks challenges everything we thought we knew about life in Earth's darkest corners. Dive into this mind-bending revelation about biodiversity and resilience in extreme environments. #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable\n\nVisuals generated with AI.",
+    "title": "NASA Smashed An Asteroid... This Is What Happened Next! 🤯",
+    "description": "Remember when NASA slammed a spacecraft into an asteroid for planetary defense? Years later, the European Space Agency's Hera mission reveals the bizarre 'new world' left behind, fundamentally changed by our cosmic intervention. Discover the wild aftermath and what it means for protecting Earth from future threats! #Space #NASA #Asteroid #Science #Discovery #HeraMission #PlanetaryDefense #CosmicMystery #DidYouKnow #Curiosity #ScienceFacts\n\nVisuals generated with AI.",
     "hashtags": [
-      "DeepSeaDiscovery",
-      "HiddenWorld",
-      "ScienceFacts",
-      "OceanMysteries",
-      "MicroscopicLife",
+      "Space",
+      "NASA",
+      "Asteroid",
+      "Science",
+      "Discovery",
+      "HeraMission",
+      "PlanetaryDefense",
+      "CosmicMystery",
+      "DidYouKnow",
       "Curiosity",
-      "Biology",
-      "ExtremeEnvironments",
-      "MindBlown",
-      "NewSpecies",
-      "EarthScience"
+      "ScienceFacts"
     ]
   },
   "tiktok": {
-    "caption": "Can you believe scientists found over 200 species living INSIDE a single rock, miles deep in the ocean? 🤯 This hidden metropolis is blowing my mind! #DeepSea #Discovery #Science #Curiosity #OceanMysteries #HiddenEcosystems #Biology #Unbelievable (Visuals generated with AI.)",
+    "caption": "NASA literally smashed an asteroid, and the results are WILD! 🤯 The Hera mission reveals a strange new world that will blow your mind. #Space #NASA #Asteroid #ScienceFacts #DidYouKnow #Discovery #PlanetaryDefense (Visuals generated with AI.)",
     "hashtags": [
-      "DeepSea",
+      "Space",
+      "NASA",
+      "Asteroid",
+      "ScienceFacts",
+      "DidYouKnow",
       "Discovery",
-      "Science",
-      "Curiosity",
-      "OceanMysteries",
-      "HiddenEcosystems",
-      "Biology",
-      "Unbelievable",
-      "MindBlown",
-      "Nature",
-      "Facts"
+      "PlanetaryDefense"
     ]
   }
 }

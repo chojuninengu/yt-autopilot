@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 705,
+      "url": "https://www.cs.cmu.edu/learn/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "score": 223,
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+    },
+    {
+      "source": "hackernews",
+      "title": "BugMeNot has closed",
+      "score": 315,
+      "url": "https://www.bugmenot.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "score": 100,
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenCode Browse",
+      "score": 118,
+      "url": "https://opencode.ai/product/browse"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "score": 73,
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chemistry is Actually Geometry",
+      "score": 107,
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry"
+    },
+    {
+      "source": "hackernews",
+      "title": "Formal Verification Is Not Verifiable",
+      "score": 59,
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Frame – 31.5\" color ePaper display",
+      "score": 295,
+      "url": "https://trmnl.com/blog/introducing-frame"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "score": 308,
+      "url": "https://burntsushi.net/jiff/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Grazing sheep in fields with solar arrays",
+      "score": 214,
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+    },
+    {
+      "source": "hackernews",
+      "title": "Do Repeat Yourself",
+      "score": 24,
+      "url": "https://arcentry.com/blog/do-repeat-yourself/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "score": 714,
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "score": 27,
+      "url": "https://github.com/0nelight/sutra-os"
+    },
+    {
+      "source": "hackernews",
+      "title": "Running coding agents without handing them my credentials",
+      "score": 7,
+      "url": "https://blog.antonio.cx/running-agents-with-lend"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "An ancient virus may help explain what makes the human brain different",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "When will humans actually fly on Starship?",
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lamar jackson",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "saddiq bey",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "julius randle",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "la knight",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "harbaugh brothers",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gervonta davis",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "simone biles",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "adan diggs",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "myron gardner",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "the miz",
+      "traffic": "500+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Shark Tank contestants were once required to give the show’s production company either 5% equity or 2% of their business’ profits for as long as it existed, even if no Shark invested. Mark Cuban threatened to quit over the clause, which was abolished retroactively in 2013"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the famous painting \"Saturn Devouring His Son\" was not painted on a canvas. Goya painted it secretely, straight into the walls of his house while in isolation and in declining mental health. It was only discovered when he left in exile. It originally featured an erect penis."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that during the premiere of Ode to Joy, an almost deaf Ludwig van Beethoven had to be turned around by a singer to receive the audience’s applause as he was several bars behind and still conducting the orchestra"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the psychic staring effect, where you can feel someone's gaze on you, has never held up to rigorous research."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL about Kaihōgyō, a practice performed by Japanese Buddhist monks. It takes 7 years to complete and involves walking up to 84 km a day every day for months and a period of not eating, drinking or sleeping for 9 days. Historically, those who couldn't complete it had to kill themselves."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 1900, Chicago deliberately changed the direction of the Chicago River so that the city's sewage would flow away from its drinking water supply. The river now drains into the Mississippi River instead of Lake Michigan."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL I learned that Antarctica has a full-time professional fire department and as of 2025 maintains 55 staff."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the NBA shot clock exists because of a 1950 game the Pistons won 19-18 by holding the ball for minutes at a time without shooting. Syracuse owner Danny Biasone worked out 24 seconds by dividing 48 minutes by 120 shots, and the clock started in 1954"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that until 2022 US surveyors still used the \"survey foot\", dating from the 1890s. The \"survey inch\" was about 25.4000508 mm instead of the EXACT 25.4 mm everyone else used."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in the 1850s a French merchant named Joseph Limantour presented forged documents that granted him 20,000 acres encompassing almost all of San Fransisco. After three years of deliberation, his claim was approved by the government. His fraud as later exposed in court, and he fled to Mexico."
+    }
+  ],
+  "errors": []
+}

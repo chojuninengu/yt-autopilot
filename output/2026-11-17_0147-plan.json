@@ -1,0 +1,82 @@
+{
+  "picked_trend": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+  "why_viral": "The dramatic concept of humans intentionally impacting an asteroid, combined with the surprising discovery of a 'strange new world' created by that action, is incredibly captivating and taps into both scientific curiosity and a sense of wonder about our capabilities in space.",
+  "core_idea": "NASA's DART mission impact radically altered the asteroid Dimorphos, creating a new, unstable 'rubble pile' world that the Hera mission is now studying to gather critical data for planetary defense.",
+  "video_title": "NASA Smashed An Asteroid... This Is What Happened Next!",
+  "script": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action! Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath. What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos. The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
+  "scenes": [
+    {
+      "narration": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action!",
+      "visual_keywords": [
+        "asteroid impact",
+        "DART mission",
+        "space collision"
+      ],
+      "image_prompt": "A 3D cinematic shot, vertical 9:16, of the tiny DART spacecraft, a metallic, angular probe with distinct solar panels, making a direct, fiery impact with the surface of the asteroid Dimorphos. Dust and brilliant debris erupt dramatically from the impact site, creating a bright flash and an expanding plume against the dark, star-dusted backdrop of deep space. The asteroid itself is a rough, potato-shaped rock, mottled gray and brown.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath.",
+      "visual_keywords": [
+        "Hera mission",
+        "asteroid aftermath",
+        "space probe"
+      ],
+      "image_prompt": "A stunning 3D cinematic view, vertical 9:16, showing the sleek, advanced Hera spacecraft with its reflective panels, slowly approaching the significantly altered asteroid Dimorphos. The asteroid now features a distinct, jagged crater at its core, surrounded by a vast field of displaced rock and subtle ejecta plumes that are still expanding into the void, lit by a distant star. Its companion asteroid Didymos is visible in the background.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos.",
+      "visual_keywords": [
+        "Dimorphos asteroid",
+        "cosmic debris",
+        "alien surface"
+      ],
+      "image_prompt": "A hyper-detailed 3D cinematic close-up, vertical 9:16, showcasing the chaotic, fragmented surface of the asteroid Dimorphos. The impact zone is a deep, irregular cavity surrounded by a vast expanse of freshly exposed, glistening rock fragments and large chunks of asteroid material, some appearing to float slightly above the surface, forming a 'rubble pile' landscape. A faint, diffuse glow emanates from the freshly churned material.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
+      "visual_keywords": [
+        "asteroid wobble",
+        "planetary defense",
+        "orbital mechanics"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic shot, vertical 9:16, depicting the smaller asteroid Dimorphos in an unstable, visibly wobbling and spinning orbit around its larger companion asteroid, Didymos. Dimorphos's newly formed crater catches and reflects light, emphasizing its altered state, while Didymos remains a stoic, stable presence in the background. Subtle, scientific-looking energy lines or a faint glow emanate from Dimorphos to highlight its altered trajectory and movement.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "NASA Smashed An Asteroid... This Is What Happened Next! 🤯",
+    "description": "Remember when NASA slammed a spacecraft into an asteroid for planetary defense? Years later, the European Space Agency's Hera mission reveals the bizarre 'new world' left behind, fundamentally changed by our cosmic intervention. Discover the wild aftermath and what it means for protecting Earth from future threats! #Space #NASA #Asteroid #Science #Discovery #HeraMission #PlanetaryDefense #CosmicMystery #DidYouKnow #Curiosity #ScienceFacts\n\nVisuals generated with AI.",
+    "hashtags": [
+      "Space",
+      "NASA",
+      "Asteroid",
+      "Science",
+      "Discovery",
+      "HeraMission",
+      "PlanetaryDefense",
+      "CosmicMystery",
+      "DidYouKnow",
+      "Curiosity",
+      "ScienceFacts"
+    ]
+  },
+  "tiktok": {
+    "caption": "NASA literally smashed an asteroid, and the results are WILD! 🤯 The Hera mission reveals a strange new world that will blow your mind. #Space #NASA #Asteroid #ScienceFacts #DidYouKnow #Discovery #PlanetaryDefense (Visuals generated with AI.)",
+    "hashtags": [
+      "Space",
+      "NASA",
+      "Asteroid",
+      "ScienceFacts",
+      "DidYouKnow",
+      "Discovery",
+      "PlanetaryDefense"
+    ]
+  }
+}
