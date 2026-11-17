@@ -1,78 +1,77 @@
 {
-  "picked_trend": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-  "why_viral": "The dramatic concept of humans intentionally impacting an asteroid, combined with the surprising discovery of a 'strange new world' created by that action, is incredibly captivating and taps into both scientific curiosity and a sense of wonder about our capabilities in space.",
-  "core_idea": "NASA's DART mission impact radically altered the asteroid Dimorphos, creating a new, unstable 'rubble pile' world that the Hera mission is now studying to gather critical data for planetary defense.",
-  "video_title": "NASA Smashed An Asteroid... This Is What Happened Next!",
-  "script": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action! Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath. What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos. The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
+  "picked_trend": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+  "why_viral": "The concept of 'chicken without killing animals' is inherently mind-bending and addresses major ethical and environmental concerns related to food production. It represents a significant, tangible leap in biotechnology with direct implications for daily life, making it highly relatable and shareable.",
+  "core_idea": "Cultured meat production has scaled to an industrial level, offering a sustainable and ethical alternative to traditional animal agriculture.",
+  "video_title": "The Chicken Revolution: Millions of Pounds, Zero Animals Harmed!",
+  "script": "Imagine eating delicious chicken, but no animal was harmed to make it. Sounds like science fiction, right? Well, the future of food is here, and it's wilder than you think! Upside Foods, a pioneering company, can now produce a staggering one million pounds of chicken every year. And here's the kicker: it all starts with just a few animal cells. These cells are then fed nutrients and grown in massive bioreactors, much like brewing beer. This isn't just a culinary novelty. It's a game-changer for animal welfare and sustainability. By cultivating meat directly, we could drastically reduce the land, water, and greenhouse gases associated with traditional farming. From a single cell to a million pounds of chicken, this revolutionary approach is transforming how we eat. Get ready, because lab-grown meat isn't just an idea anymore. It's on your plate, ready to reshape our world.",
   "scenes": [
     {
-      "narration": "Remember when NASA intentionally crashed a spacecraft into an asteroid? It wasn't science fiction, it was planetary defense in action!",
+      "narration": "Imagine eating delicious chicken, but no animal was harmed to make it. Sounds like science fiction, right? Well, the future of food is here, and it's wilder than you think!",
       "visual_keywords": [
-        "asteroid impact",
-        "DART mission",
-        "space collision"
+        "Lab grown meat",
+        "chicken nugget",
+        "futuristic kitchen"
       ],
-      "image_prompt": "A 3D cinematic shot, vertical 9:16, of the tiny DART spacecraft, a metallic, angular probe with distinct solar panels, making a direct, fiery impact with the surface of the asteroid Dimorphos. Dust and brilliant debris erupt dramatically from the impact site, creating a bright flash and an expanding plume against the dark, star-dusted backdrop of deep space. The asteroid itself is a rough, potato-shaped rock, mottled gray and brown.",
+      "image_prompt": "A perfectly rendered, glistening golden-brown fried chicken nugget on a sleek, futuristic plate in a minimalist, high-tech kitchen. Steam subtly rises from the nugget. The background is slightly blurred with abstract light patterns. Vertical 9:16, 3D cinematic.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Now, years later, the European Space Agency's Hera mission has arrived to survey the damage, revealing a truly bizarre aftermath.",
+      "narration": "Upside Foods, a pioneering company, can now produce a staggering one million pounds of chicken every year. And here's the kicker: it all starts with just a few animal cells. These cells are then fed nutrients and grown in massive bioreactors, much like brewing beer.",
       "visual_keywords": [
-        "Hera mission",
-        "asteroid aftermath",
-        "space probe"
+        "Bioreactor",
+        "cell culture",
+        "lab equipment"
       ],
-      "image_prompt": "A stunning 3D cinematic view, vertical 9:16, showing the sleek, advanced Hera spacecraft with its reflective panels, slowly approaching the significantly altered asteroid Dimorphos. The asteroid now features a distinct, jagged crater at its core, surrounded by a vast field of displaced rock and subtle ejecta plumes that are still expanding into the void, lit by a distant star. Its companion asteroid Didymos is visible in the background.",
+      "image_prompt": "A vibrant, glowing, colossal bioreactor tank in a pristine, futuristic food production facility. Nutrient-rich liquid swirls inside, visible through a transparent section, with tiny, intricate cellular structures beginning to form. Technicians in sterile suits observe from a distance. Vertical 9:16, 3D cinematic.",
       "motion": "pan_right"
     },
     {
-      "narration": "What they found wasn't just a crater, but a 'strange new world' unlike anything we've ever seen. The impact created a massive, unstable debris field around Dimorphos.",
+      "narration": "This isn't just a culinary novelty. It's a game-changer for animal welfare and sustainability. By cultivating meat directly, we could drastically reduce the land, water, and greenhouse gases associated with traditional farming.",
       "visual_keywords": [
-        "Dimorphos asteroid",
-        "cosmic debris",
-        "alien surface"
+        "Sustainable farming",
+        "happy animals",
+        "green planet"
       ],
-      "image_prompt": "A hyper-detailed 3D cinematic close-up, vertical 9:16, showcasing the chaotic, fragmented surface of the asteroid Dimorphos. The impact zone is a deep, irregular cavity surrounded by a vast expanse of freshly exposed, glistening rock fragments and large chunks of asteroid material, some appearing to float slightly above the surface, forming a 'rubble pile' landscape. A faint, diffuse glow emanates from the freshly churned material.",
-      "motion": "zoom_out"
+      "image_prompt": "A split image: one side shows a serene, lush landscape with happy, free-roaming chickens and cows under a bright sky. The other side shows a stylized, clean, futuristic city skyline with vertical farms and renewable energy sources, depicting a sustainable future. Vertical 9:16, 3D cinematic.",
+      "motion": "pan_left"
     },
     {
-      "narration": "The moonlet itself is now wobbling, its orbit fundamentally changed, giving scientists critical data on how to protect Earth from future threats. A truly wild discovery!",
+      "narration": "From a single cell to a million pounds of chicken, this revolutionary approach is transforming how we eat. Get ready, because lab-grown meat isn't just an idea anymore. It's on your plate, ready to reshape our world.",
       "visual_keywords": [
-        "asteroid wobble",
-        "planetary defense",
-        "orbital mechanics"
+        "Cultured chicken dish",
+        "future food",
+        "chef serving"
       ],
-      "image_prompt": "A breathtaking 3D cinematic shot, vertical 9:16, depicting the smaller asteroid Dimorphos in an unstable, visibly wobbling and spinning orbit around its larger companion asteroid, Didymos. Dimorphos's newly formed crater catches and reflects light, emphasizing its altered state, while Didymos remains a stoic, stable presence in the background. Subtle, scientific-looking energy lines or a faint glow emanate from Dimorphos to highlight its altered trajectory and movement.",
+      "image_prompt": "A close-up shot of a skilled chef, wearing a modern, clean uniform, meticulously plating a beautiful, gourmet dish featuring perfectly cooked cultured chicken. The dish is elegant and appetizing, showcasing the texture and appeal of the meat. Soft, inviting lighting. Vertical 9:16, 3D cinematic.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "NASA Smashed An Asteroid... This Is What Happened Next! 🤯",
-    "description": "Remember when NASA slammed a spacecraft into an asteroid for planetary defense? Years later, the European Space Agency's Hera mission reveals the bizarre 'new world' left behind, fundamentally changed by our cosmic intervention. Discover the wild aftermath and what it means for protecting Earth from future threats! #Space #NASA #Asteroid #Science #Discovery #HeraMission #PlanetaryDefense #CosmicMystery #DidYouKnow #Curiosity #ScienceFacts\n\nVisuals generated with AI.",
+    "title": "The Chicken Revolution: Millions of Pounds, Zero Animals Harmed! #CulturedMeat",
+    "description": "Get ready for a mind-bending food future! Upside Foods is now producing a million pounds of chicken annually, all without harming a single animal. This isn't sci-fi; it's a game-changing biotechnology starting from just a few cells. Discover how lab-grown meat is transforming animal welfare and global sustainability. #FutureFood #LabGrownMeat #SustainableEating #FoodTech #ScienceBreakthrough #Curiosity\n\nVisuals generated with AI.",
     "hashtags": [
-      "Space",
-      "NASA",
-      "Asteroid",
-      "Science",
-      "Discovery",
-      "HeraMission",
-      "PlanetaryDefense",
-      "CosmicMystery",
-      "DidYouKnow",
-      "Curiosity",
-      "ScienceFacts"
+      "#CulturedMeat",
+      "#FutureFood",
+      "#LabGrownMeat",
+      "#SustainableEating",
+      "#FoodTech",
+      "#ScienceBreakthrough",
+      "#Curiosity",
+      "#VeganAlternative",
+      "#MeatWithoutHarm"
     ]
   },
   "tiktok": {
-    "caption": "NASA literally smashed an asteroid, and the results are WILD! 🤯 The Hera mission reveals a strange new world that will blow your mind. #Space #NASA #Asteroid #ScienceFacts #DidYouKnow #Discovery #PlanetaryDefense (Visuals generated with AI.)",
+    "caption": "Chicken without killing animals? 🤯 The future of food is WILD! Upside Foods is making a MILLION pounds of chicken a year from just a few cells. Get ready for lab-grown meat to change everything! #FutureFood #LabGrownChicken #Sustainable #NoAnimalsHarm #FoodTech #MindBlown (Visuals generated with AI.)",
     "hashtags": [
-      "Space",
-      "NASA",
-      "Asteroid",
-      "ScienceFacts",
-      "DidYouKnow",
-      "Discovery",
-      "PlanetaryDefense"
+      "#FutureFood",
+      "#LabGrownChicken",
+      "#Sustainable",
+      "#NoAnimalsHarm",
+      "#FoodTech",
+      "#MindBlown",
+      "#Curiosity",
+      "#Science"
     ]
   }
 }

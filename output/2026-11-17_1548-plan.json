@@ -1,0 +1,81 @@
+{
+  "picked_trend": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+  "why_viral": "The concept of 'chicken without killing animals' is inherently mind-bending and addresses major ethical and environmental concerns related to food production. It represents a significant, tangible leap in biotechnology with direct implications for daily life, making it highly relatable and shareable.",
+  "core_idea": "Cultured meat production has scaled to an industrial level, offering a sustainable and ethical alternative to traditional animal agriculture.",
+  "video_title": "The Chicken Revolution: Millions of Pounds, Zero Animals Harmed!",
+  "script": "Imagine eating delicious chicken, but no animal was harmed to make it. Sounds like science fiction, right? Well, the future of food is here, and it's wilder than you think! Upside Foods, a pioneering company, can now produce a staggering one million pounds of chicken every year. And here's the kicker: it all starts with just a few animal cells. These cells are then fed nutrients and grown in massive bioreactors, much like brewing beer. This isn't just a culinary novelty. It's a game-changer for animal welfare and sustainability. By cultivating meat directly, we could drastically reduce the land, water, and greenhouse gases associated with traditional farming. From a single cell to a million pounds of chicken, this revolutionary approach is transforming how we eat. Get ready, because lab-grown meat isn't just an idea anymore. It's on your plate, ready to reshape our world.",
+  "scenes": [
+    {
+      "narration": "Imagine eating delicious chicken, but no animal was harmed to make it. Sounds like science fiction, right? Well, the future of food is here, and it's wilder than you think!",
+      "visual_keywords": [
+        "Lab grown meat",
+        "chicken nugget",
+        "futuristic kitchen"
+      ],
+      "image_prompt": "A perfectly rendered, glistening golden-brown fried chicken nugget on a sleek, futuristic plate in a minimalist, high-tech kitchen. Steam subtly rises from the nugget. The background is slightly blurred with abstract light patterns. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Upside Foods, a pioneering company, can now produce a staggering one million pounds of chicken every year. And here's the kicker: it all starts with just a few animal cells. These cells are then fed nutrients and grown in massive bioreactors, much like brewing beer.",
+      "visual_keywords": [
+        "Bioreactor",
+        "cell culture",
+        "lab equipment"
+      ],
+      "image_prompt": "A vibrant, glowing, colossal bioreactor tank in a pristine, futuristic food production facility. Nutrient-rich liquid swirls inside, visible through a transparent section, with tiny, intricate cellular structures beginning to form. Technicians in sterile suits observe from a distance. Vertical 9:16, 3D cinematic.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't just a culinary novelty. It's a game-changer for animal welfare and sustainability. By cultivating meat directly, we could drastically reduce the land, water, and greenhouse gases associated with traditional farming.",
+      "visual_keywords": [
+        "Sustainable farming",
+        "happy animals",
+        "green planet"
+      ],
+      "image_prompt": "A split image: one side shows a serene, lush landscape with happy, free-roaming chickens and cows under a bright sky. The other side shows a stylized, clean, futuristic city skyline with vertical farms and renewable energy sources, depicting a sustainable future. Vertical 9:16, 3D cinematic.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "From a single cell to a million pounds of chicken, this revolutionary approach is transforming how we eat. Get ready, because lab-grown meat isn't just an idea anymore. It's on your plate, ready to reshape our world.",
+      "visual_keywords": [
+        "Cultured chicken dish",
+        "future food",
+        "chef serving"
+      ],
+      "image_prompt": "A close-up shot of a skilled chef, wearing a modern, clean uniform, meticulously plating a beautiful, gourmet dish featuring perfectly cooked cultured chicken. The dish is elegant and appetizing, showcasing the texture and appeal of the meat. Soft, inviting lighting. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The Chicken Revolution: Millions of Pounds, Zero Animals Harmed! #CulturedMeat",
+    "description": "Get ready for a mind-bending food future! Upside Foods is now producing a million pounds of chicken annually, all without harming a single animal. This isn't sci-fi; it's a game-changing biotechnology starting from just a few cells. Discover how lab-grown meat is transforming animal welfare and global sustainability. #FutureFood #LabGrownMeat #SustainableEating #FoodTech #ScienceBreakthrough #Curiosity\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#CulturedMeat",
+      "#FutureFood",
+      "#LabGrownMeat",
+      "#SustainableEating",
+      "#FoodTech",
+      "#ScienceBreakthrough",
+      "#Curiosity",
+      "#VeganAlternative",
+      "#MeatWithoutHarm"
+    ]
+  },
+  "tiktok": {
+    "caption": "Chicken without killing animals? 🤯 The future of food is WILD! Upside Foods is making a MILLION pounds of chicken a year from just a few cells. Get ready for lab-grown meat to change everything! #FutureFood #LabGrownChicken #Sustainable #NoAnimalsHarm #FoodTech #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#FutureFood",
+      "#LabGrownChicken",
+      "#Sustainable",
+      "#NoAnimalsHarm",
+      "#FoodTech",
+      "#MindBlown",
+      "#Curiosity",
+      "#Science"
+    ]
+  }
+}

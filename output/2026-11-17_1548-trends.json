@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "We don't need more apps. We need better open source",
+      "score": 135,
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Loopholes Are for Assholes",
+      "score": 52,
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/"
+    },
+    {
+      "source": "hackernews",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "score": 584,
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "score": 38,
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664"
+    },
+    {
+      "source": "hackernews",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 1984,
+      "url": "https://www.cs.cmu.edu/learn/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "score": 17,
+      "url": "https://alloyhtml.com/example.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "score": 98,
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+    },
+    {
+      "source": "hackernews",
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "score": 150,
+      "url": "https://visualbasic.world/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pentagon fails 9th financial audit in a row",
+      "score": 39,
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rows vs. Columns: How different are they, really?",
+      "score": 82,
+      "url": "https://spiraldb.com/blog/rows-vs-columns"
+    },
+    {
+      "source": "hackernews",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "score": 520,
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+      "score": 57,
+      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal"
+    },
+    {
+      "source": "hackernews",
+      "title": "BugMeNot has closed",
+      "score": 654,
+      "url": "https://www.bugmenot.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Too Many Stadiums with Roofs",
+      "score": 26,
+      "url": "https://sharptext.net/2026/too-many-stadiums-with-roofs/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+      "score": 14,
+      "url": "https://github.com/plabayo/venndb"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Artist brings old Space Shuttle tank back to life",
+      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta launches Direct, a standalone messaging app for Instagram",
+      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "togo vs algeria",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kenya vs south africa",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "crm stock",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "sierra leone vs dr congo",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jetblue turbulence fort lauderdale airport",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mansfield university",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "turkey",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "granblue fantasy relink leaving ps plus",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "unh stock",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "hero world challenge",
+      "traffic": "2000+"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that Shark Tank contestants were once required to give the show’s production company either 5% equity or 2% of their business’ profits for as long as it existed, even if no Shark invested. Mark Cuban threatened to quit over the clause, which was abolished retroactively in 2013"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the famous painting \"Saturn Devouring His Son\" was not painted on a canvas. Goya painted it secretely, straight into the walls of his house while in isolation and in declining mental health. It was only discovered when he left in exile. It originally featured an erect penis."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL in 2014, a California nursing home was shut down and abandoned by trained staff. Sixteen residents, some with dementia, were left behind. Seeing the need, the nursing home’s cook and janitor worked several days cooking, bathing and dispensing medications to residents until authorities arrived."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that the psychic staring effect, where you can feel someone's gaze on you, has never held up to rigorous research."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL the NBA shot clock exists because of a 1950 game the Pistons won 19-18 by holding the ball for minutes at a time without shooting. Syracuse owner Danny Biasone worked out 24 seconds by dividing 48 minutes by 120 shots, and the clock started in 1954"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that dogs can smell when a human is stressed, detecting changes in breath and sweat with over 93% accuracy."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in 1900, Chicago deliberately changed the direction of the Chicago River so that the city's sewage would flow away from its drinking water supply. The river now drains into the Mississippi River instead of Lake Michigan."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL: the longest distance traveled on a single tank of fuel is 2,831KM (1759 miles); it was achieved by Milo Marczyk from 5-7 March 2025. He averaged 2.61/100km (90 MPG US) in a diesel Skoda Superb"
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL that in former Dutch colonies and places indirectly influenced by the Dutch, like South Africa and Botswana, they still use Roman-Dutch law based on the principles of the Justinian Code. The Netherlands itself abandoned it under Napoleonic rule."
+    },
+    {
+      "source": "r/todayilearned",
+      "title": "TIL fighter aircraft drop tanks were once constructed of paper to save metal. They were single use as the fuel would dissolve them over time causing leaks."
+    }
+  ],
+  "errors": []
+}
