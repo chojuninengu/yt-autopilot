@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 461,
+      "url": "https://calif.io/java4shell/"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT‑6.2 Astra and Sol",
+      "score": 1061,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "score": 223,
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "score": 42,
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "score": 374,
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "score": 78,
+      "url": "https://github.com/microsoft/onnxruntime"
+    },
+    {
+      "source": "hackernews",
+      "title": "jQuery 4.1.0",
+      "score": 239,
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+    },
+    {
+      "source": "hackernews",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "score": 274,
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Highly classified US national security communications network goes down",
+      "score": 454,
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+    },
+    {
+      "source": "hackernews",
+      "title": "Phrack 73 Released",
+      "score": 260,
+      "url": "https://phrack.org/issues/73/introduction_md"
+    },
+    {
+      "source": "hackernews",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "score": 229,
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+    },
+    {
+      "source": "hackernews",
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "score": 149,
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938"
+    },
+    {
+      "source": "hackernews",
+      "title": "Solid 2.0",
+      "score": 214,
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "score": 8,
+      "url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "score": 51,
+      "url": "https://starsling.dev"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mexico vs",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "christian pulisic",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "morgan freeman",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ncaa basketball rankings",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mark carney",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mt st mary's vs nebraska",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "reimbursement",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "is deni avdija playing tonight",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ludwig",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tyler boucher",
+      "traffic": "200+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
