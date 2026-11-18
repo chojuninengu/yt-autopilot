@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "score": 218,
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
+    },
+    {
+      "source": "hackernews",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "score": 44,
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "score": 209,
+      "url": "https://energy-based-reasoners.github.io/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "score": 47,
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Perfect SimCity",
+      "score": 141,
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 1083,
+      "url": "https://calif.io/java4shell/"
+    },
+    {
+      "source": "hackernews",
+      "title": "When AI Knows More Than It Can Offer",
+      "score": 45,
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "score": 605,
+      "url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "score": 823,
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Type Fighter 2",
+      "score": 60,
+      "url": "https://typefighter2.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "ID.me terms required for IRS sign-in",
+      "score": 433,
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+    },
+    {
+      "source": "hackernews",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "score": 43,
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Evidence (YC S21) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "score": 211,
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "score": 36,
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Grand Theft Auto VI: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ticket master",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "urban meyer",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "unh stock",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "greg brockman",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "nitto atp finals",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "morgan wallen presale",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jason derulo",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "schuyler white",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mike pettine",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "maine rooster statue lawsuit",
+      "traffic": "500+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
