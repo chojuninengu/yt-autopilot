@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "score": 409,
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Garage Door Spam",
+      "score": 334,
+      "url": "https://blog.harrison.page/garage-door-spam/"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI still has a WebRTC Problem",
+      "score": 35,
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "score": 75,
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "score": 63,
+      "url": "https://foolscap.works/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "score": 129,
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
+    },
+    {
+      "source": "hackernews",
+      "title": "Everything you need to survive and rebuild society",
+      "score": 11,
+      "url": "https://lastbook.org/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "score": 276,
+      "url": "https://verialabs.com/ruby2shell/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Someone reported java4shell bug in September 2026",
+      "score": 92,
+      "url": "https://github.com/openjdk/jdk/pull/32781"
+    },
+    {
+      "source": "hackernews",
+      "title": "What's New in PHP 8.6",
+      "score": 178,
+      "url": "https://www.php.net/releases/8.6/en.php"
+    },
+    {
+      "source": "hackernews",
+      "title": "We taught robots to carve marble sculptures",
+      "score": 80,
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "score": 160,
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Neon",
+      "score": 943,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "score": 40,
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "score": 5,
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why do farts smell so bad? The secret is brewing in your gut",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Something strange is living beneath the skin of deep-sea pigs",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Too much exercise could leave your brain stuck in overdrive",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "U.K government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "princess anne",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "apple black friday",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "robinhood",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "the nightingale movie",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lululemon black friday",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "common",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dermot mulroney",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "kurt van dyke",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "thanksgiving",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bert kreischer",
+      "traffic": "500+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}

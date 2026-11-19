@@ -1,80 +1,78 @@
 {
-  "picked_trend": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
-  "why_viral": "The visual of a transparent-headed fish is incredibly unique and mind-bending, instantly capturing curiosity. Deep-sea discoveries are always popular, and this specific adaptation is both visually striking and scientifically fascinating.",
-  "core_idea": "The barreleye fish, a deep-sea creature, possesses a transparent head and rotatable tubular eyes, a unique adaptation allowing it to hunt effectively in the ocean's twilight zone, recently captured in stunning 4K footage.",
-  "video_title": "The Fish with a See-Through Head! (Deep Sea Secrets Revealed)",
-  "script": "Imagine a creature with a transparent head, revealing glowing, tubular eyes inside. This isn't science fiction. It's the incredible barreleye fish, and stunning new 4K footage just unveiled its deepest secrets. For decades, scientists thought its unique eyes were fixed, always pointing straight up. But recent deep-sea expeditions, using advanced ROVs, captured something truly astonishing thousands of feet below the surface. These bizarre wonders can actually rotate their bright green, barrel-shaped eyes *inside* their transparent skull! This lets them scan upwards for prey, and even pivot forward to navigate and hunt. Living in the ocean's perpetual twilight zone, the barreleye's unique head acts like a built-in panoramic dome. It's a perfect evolutionary adaptation for spotting tiny prey in Earth's most extreme environments.",
+  "picked_trend": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+  "why_viral": "This story is highly viral because it directly impacts a growing segment of the population consuming plant-based foods. The shocking revelation that *every single one* of 212 tested samples contained fungal toxins creates immediate concern and drives curiosity about food safety and hidden health risks, making it shareable and highly discussable.",
+  "core_idea": "A new scientific study has uncovered widespread fungal toxins (mycotoxins) in all tested plant-based foods, highlighting a significant and previously underestimated challenge in global food safety and production.",
+  "video_title": "SHOCKER: Every Plant-Based Food TESTED Has This Hidden Danger!",
+  "script": "Imagine biting into your favorite plant-based meal, completely unaware of a hidden danger lurking within. A groundbreaking new study just dropped a bombshell: researchers tested 212 plant-based food samples, and every single one contained fungal toxins! These aren't just any toxins. They're mycotoxins, insidious compounds produced by microscopic fungi that naturally grow on crops. From grains to nuts, spices to coffee, these microscopic invaders are far more widespread than previously thought. While often in small amounts, consistent exposure to certain mycotoxins can pose serious health risks over time, from digestive issues to weakened immune systems. This discovery highlights a silent, global challenge in our modern food supply. Scientists are now scrambling to understand the full implications and develop new methods for detection and reduction. This isn't about fear, but knowledge, pushing us to rethink how we grow, process, and consume our food.",
   "scenes": [
     {
-      "narration": "Imagine a creature with a transparent head, revealing glowing, tubular eyes inside. This isn't science fiction. It's the incredible barreleye fish, and stunning new 4K footage just unveiled its deepest secrets.",
+      "narration": "Imagine biting into your favorite plant-based meal, completely unaware of a hidden danger lurking within. A groundbreaking new study just dropped a bombshell: researchers tested 212 plant-based food samples, and every single one contained fungal toxins!",
       "visual_keywords": [
-        "Deep sea",
-        "Transparent",
-        "Fish"
+        "plant-based food",
+        "hidden danger",
+        "research"
       ],
-      "image_prompt": "Vertical 9:16 cinematic close-up of a barreleye fish, Macropinna microstoma, in the deep ocean twilight zone. Its head is completely transparent, showcasing its bright green, tubular eyes and brain within. Bioluminescent plankton drift around it. The background is a gradient of dark blue to black, with faint specks of light. High detail, photorealistic 3D rendering.",
+      "image_prompt": "A beautifully plated, vibrant plant-based meal (e.g., a colorful buddha bowl or vegan burger) on a rustic wooden table. A subtle, almost imperceptible dark, glowing energy or aura emanates from the food, hinting at a hidden threat. Cinematic lighting, vertical 9:16. Absolutely no text or watermarks.",
       "motion": "zoom_in"
     },
     {
-      "narration": "For decades, scientists thought its unique eyes were fixed, always pointing straight up. But recent deep-sea expeditions, using advanced ROVs, captured something truly astonishing thousands of feet below the surface.",
+      "narration": "These aren't just any toxins. They're mycotoxins, insidious compounds produced by microscopic fungi that naturally grow on crops. From grains to nuts, spices to coffee, these microscopic invaders are far more widespread than previously thought.",
       "visual_keywords": [
-        "ROV",
-        "Deep ocean",
-        "Science"
+        "mycotoxins",
+        "fungi",
+        "crops"
       ],
-      "image_prompt": "Vertical 9:16 cinematic shot looking out from a subaquatic remotely operated vehicle (ROV) with bright LED lights illuminating the vast, dark deep ocean. The ROV's robotic arm is visible in the foreground, gently observing a distant, ethereal barreleye fish. The ocean floor is barely visible far below. High resolution, dramatic lighting, photorealistic 3D rendering.",
+      "image_prompt": "An extreme macro 3D cinematic shot inside a grain, showing intricate fungal hyphae (like tiny, glowing roots) weaving through the plant cells. The fungi are subtly bioluminescent with a slightly menacing green or purple glow, against a backdrop of natural-looking grain texture. Vertical 9:16. Absolutely no text or watermarks.",
       "motion": "pan_right"
     },
     {
-      "narration": "These bizarre wonders can actually rotate their bright green, barrel-shaped eyes *inside* their transparent skull! This lets them scan upwards for prey, and even pivot forward to navigate and hunt.",
+      "narration": "While often in small amounts, consistent exposure to certain mycotoxins can pose serious health risks over time, from digestive issues to weakened immune systems. This discovery highlights a silent, global challenge in our modern food supply.",
       "visual_keywords": [
-        "Fish anatomy",
-        "Rotating eyes",
-        "Predator"
+        "health risks",
+        "food supply",
+        "global challenge"
       ],
-      "image_prompt": "Vertical 9:16 cinematic X-ray vision effect showing the internal anatomy of a barreleye fish's transparent head. Its two large, bright green tubular eyes are clearly visible, rotating from an upward gaze to a forward gaze within the clear skull. The surrounding water is dark and mysterious. Extreme close-up, scientific illustration style blended with photorealism, 3D render.",
+      "image_prompt": "A vast, stylized global map with glowing red data points highlighting regions of agricultural production. Overlaid are abstract, subtle visual representations of human digestive and immune systems, showing a faint, warning glow. The scene is somewhat somber but informative, with a deep focus on the global scale. Vertical 9:16. Absolutely no text or watermarks.",
       "motion": "zoom_out"
     },
     {
-      "narration": "Living in the ocean's perpetual twilight zone, the barreleye's unique head acts like a built-in panoramic dome. It's a perfect evolutionary adaptation for spotting tiny prey in Earth's most extreme environments.",
+      "narration": "Scientists are now scrambling to understand the full implications and develop new methods for detection and reduction. This isn't about fear, but knowledge, pushing us to rethink how we grow, process, and consume our food.",
       "visual_keywords": [
-        "Twilight zone",
-        "Adaptation",
-        "Bioluminescence"
+        "scientific research",
+        "food innovation",
+        "future food"
       ],
-      "image_prompt": "Vertical 9:16 cinematic wide shot of a barreleye fish gracefully drifting in the deep ocean's mesopelagic zone (twilight zone). Its transparent head and upward-pointing eyes are prominent. Tiny, glowing bioluminescent plankton and small jellyfish are visible, with the fish poised to strike. The scene is dark, lit by sparse, ethereal light sources, creating a sense of wonder. Photorealistic 3D rendering.",
-      "motion": "pan_left"
+      "image_prompt": "A pristine, futuristic laboratory setting. Scientists in clean lab coats are working with advanced, glowing holographic interfaces displaying molecular structures of mycotoxins, alongside high-tech equipment analyzing food samples. The atmosphere is one of intense focus and groundbreaking discovery. Vertical 9:16. Absolutely no text or watermarks.",
+      "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "The Fish with a See-Through Head! (Deep Sea Secrets Revealed)",
-    "description": "Dive into the incredible world of the barreleye fish, a creature with a completely transparent head and amazing rotating eyes! New 4K footage shows how this bizarre adaptation helps it survive and hunt thousands of feet below the surface in the ocean's twilight zone. Prepare to be amazed by one of Earth's most unique marine animals!\n\nVisuals generated with AI.",
+    "title": "SHOCKER: Every Plant-Based Food TESTED Has This Hidden Danger! | Viral Science Discovery",
+    "description": "A new study reveals a shocking truth about plant-based foods: every single sample tested contained fungal toxins! Dive into the science behind mycotoxins, their widespread presence in crops, and the potential health implications. This groundbreaking discovery is challenging how we think about our global food supply. Learn what scientists are doing to address this silent threat and what it means for the future of food.\n\nVisuals generated with AI.",
     "hashtags": [
-      "#BarreleyeFish",
-      "#DeepSea",
-      "#OceanSecrets",
-      "#MarineBiology",
-      "#TransparentHead",
+      "#PlantBasedFood",
+      "#FoodSafety",
+      "#Mycotoxins",
+      "#ScienceNews",
+      "#HiddenDanger",
+      "#HealthDiscovery",
       "#Curiosity",
-      "#NatureDocumentary",
-      "#ScienceFacts",
-      "#UnbelievableAnimals",
-      "#Viral"
+      "#ViralScience",
+      "#FoodFacts"
     ]
   },
   "tiktok": {
-    "caption": "🤯 You won't believe this fish! Meet the barreleye, a deep-sea creature with a COMPLETELY transparent head and eyes that ROTATE inside! 🐠🌊 #DeepSeaSecrets #BarreleyeFish #TransparentHead #OceanLife #AmazingAnimals #NatureFacts #ScienceTok #Curiosity #BizarreCreatures (Visuals generated with AI.)",
+    "caption": "🤯 You won't believe what scientists found in EVERY plant-based food tested! From grains to coffee, a hidden danger is lurking. What are mycotoxins and what does this mean for your plate? #FoodMystery #PlantBased #HiddenDanger #Mycotoxins #ScienceFacts #FoodTok #ViralNews #HealthAlert #Curiosity (Visuals generated with AI.)",
     "hashtags": [
-      "#DeepSeaSecrets",
-      "#BarreleyeFish",
-      "#TransparentHead",
-      "#OceanLife",
-      "#AmazingAnimals",
-      "#NatureFacts",
-      "#ScienceTok",
-      "#Curiosity",
-      "#BizarreCreatures",
-      "#MarineBiology"
+      "#FoodMystery",
+      "#PlantBased",
+      "#HiddenDanger",
+      "#Mycotoxins",
+      "#ScienceFacts",
+      "#FoodTok",
+      "#ViralNews",
+      "#HealthAlert",
+      "#Curiosity"
     ]
   }
 }
