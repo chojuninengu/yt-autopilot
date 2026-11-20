@@ -1,0 +1,93 @@
+{
+  "picked_trend": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+  "why_viral": "The topic involves a supermassive black hole in our own galaxy, which is inherently fascinating and mysterious. The idea of 'secret feeding' by colossal stars adds a dramatic, mind-bending element, explaining a long-standing cosmic puzzle. It's a grand-scale astronomical discovery with strong visual potential.",
+  "core_idea": "Astronomers have discovered two massive stars orbiting the Milky Way's supermassive black hole, Sagittarius A*, which periodically shed gas and stellar wind, acting as a 'secret' food source that explains the black hole's mysterious bursts of activity.",
+  "video_title": "Cosmic Secret: Two Stars Secretly Feeding Our Galaxy's Black Hole!",
+  "script": "Our Milky Way hides a dark secret at its core: a supermassive black hole. For years, its unpredictable energy bursts baffled scientists. What fueled Sagittarius A*'s mysterious cosmic flare-ups? A new discovery reveals the truth about its hidden meals. Two colossal stars are the culprits! These massive giants orbit incredibly close, shedding vast amounts of gas and stellar wind. Their combined gravity slingshots this material directly into the black hole's hungry maw. It's a secret, cosmic feeding frenzy! This celestial dance explains Sagittarius A*'s erratic behavior, offering vital clues into how supermassive black holes grow. Our galaxy holds amazing secrets!",
+  "scenes": [
+    {
+      "narration": "Our Milky Way hides a dark secret at its core: a supermassive black hole. For years, its unpredictable energy bursts baffled scientists.",
+      "visual_keywords": [
+        "Milky Way galaxy",
+        "black hole",
+        "space mystery"
+      ],
+      "image_prompt": "Vertical 9:16 cinematic 3D render of the luminous, swirling core of the Milky Way galaxy, slowly zooming into a central, shadowy supermassive black hole with a faint accretion disk. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "What fueled Sagittarius A*'s mysterious cosmic flare-ups? A new discovery reveals the truth about its hidden meals.",
+      "visual_keywords": [
+        "Sagittarius A*",
+        "black hole activity",
+        "cosmic flare"
+      ],
+      "image_prompt": "Vertical 9:16 cinematic 3D render of a supermassive black hole's chaotic accretion disk, glowing with intense energy, with sudden, bright plasma flares erupting from its poles against a backdrop of distant stars. No text or watermarks.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "Two colossal stars are the culprits! These massive giants orbit incredibly close, shedding vast amounts of gas and stellar wind.",
+      "visual_keywords": [
+        "massive stars",
+        "stellar orbit",
+        "gas clouds"
+      ],
+      "image_prompt": "Vertical 9:16 cinematic 3D render showing two enormous, bright blue-white stars in a tight, elliptical orbit around the gravitational pull of an unseen black hole. Trails of glowing gas and stellar wind stream dramatically from their surfaces. No text or watermarks.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "Their combined gravity slingshots this material directly into the black hole's hungry maw. It's a secret, cosmic feeding frenzy!",
+      "visual_keywords": [
+        "gravitational pull",
+        "accretion",
+        "cosmic dust"
+      ],
+      "image_prompt": "Vertical 9:16 cinematic 3D render from a close perspective, showing streams of glowing gas and dust being violently pulled and warped by intense gravitational lensing effects as they fall rapidly into the event horizon of a supermassive black hole. No text or watermarks.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "This celestial dance explains Sagittarius A*'s erratic behavior, offering vital clues into how supermassive black holes grow. Our galaxy holds amazing secrets!",
+      "visual_keywords": [
+        "galactic core",
+        "cosmic evolution",
+        "space wonders"
+      ],
+      "image_prompt": "Vertical 9:16 cinematic 3D render of a breathtaking, wide view of the Milky Way's galactic center, with a serene yet powerful supermassive black hole at its heart, surrounded by countless stars and nebulae, evoking a sense of ancient, ongoing cosmic processes. No text or watermarks.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Cosmic Secret: Two Stars Secretly Feeding Our Galaxy's Black Hole!",
+    "description": "Prepare for a mind-bending discovery at the heart of our Milky Way! For years, scientists have been puzzled by the unpredictable energy bursts from Sagittarius A*, our galaxy's supermassive black hole. Now, new research reveals two colossal stars might be secretly fueling this cosmic behemoth! See how their incredible gravitational dance slingshots gas and stellar wind directly into the black hole, explaining its erratic behavior and offering vital clues into how supermassive black holes truly grow. Dive into the universe's most amazing secrets with us!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "BlackHole",
+      "MilkyWay",
+      "SpaceDiscovery",
+      "SagittariusA",
+      "CosmicMystery",
+      "Astrophysics",
+      "ScienceFacts",
+      "DeepSpace",
+      "Stars"
+    ]
+  },
+  "tiktok": {
+    "caption": "🤯 Our galaxy’s black hole has been getting SECRET meals! Two colossal stars are caught in a cosmic dance, feeding Sagittarius A*! 🌌 #BlackHole #MilkyWay #Space #Science #Astrophysics #DeepSpace (Visuals generated with AI.)",
+    "hashtags": [
+      "BlackHole",
+      "MilkyWay",
+      "Space",
+      "Science",
+      "Astrophysics",
+      "DeepSpace",
+      "CosmicMystery",
+      "Stars",
+      "Discovery"
+    ]
+  }
+}

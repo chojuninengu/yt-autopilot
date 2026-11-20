@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "score": 340,
+      "url": "https://alpo.ge/remark.pdf"
+    },
+    {
+      "source": "hackernews",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "score": 280,
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"
+    },
+    {
+      "source": "hackernews",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "score": 360,
+      "url": "https://architectlabs.com/blog/frostbite"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "score": 58,
+      "url": "https://kobi.music/research/dettato"
+    },
+    {
+      "source": "hackernews",
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "score": 57,
+      "url": "https://github.com/bigcrimping/floppy3.5"
+    },
+    {
+      "source": "hackernews",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "score": 99,
+      "url": "https://signal.org/blog/protecting-your-privacy/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "score": 35,
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Making of Oxygene",
+      "score": 102,
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "score": 68,
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
+    },
+    {
+      "source": "hackernews",
+      "title": "The G1 Garbage Collector",
+      "score": 10,
+      "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/"
+    },
+    {
+      "source": "hackernews",
+      "title": "What people are building, discovered through new domains",
+      "score": 95,
+      "url": "https://startups.novumsignals.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "score": 88,
+      "url": "https://trynotched.com/find"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "score": 322,
+      "url": "https://github.com/openssl/openssl/pull/33652"
+    },
+    {
+      "source": "hackernews",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "score": 313,
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I can’t believe it’s 1!",
+      "score": 29,
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Experimental compound burns fat without sacrificing muscle",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 3-million-year-old child just made human evolution far more complicated",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Why do farts smell so bad? The secret is brewing in your gut",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Something strange is living beneath the skin of deep-sea pigs",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "vix",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "presumed innocent",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "riemann hypothesis",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "anthony boyle",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "vix stock",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "elizabeth debicki",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jensen huang workplace culture nvidia",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "humble high school",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "thanksgiving",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "melania trump",
+      "traffic": "1000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
