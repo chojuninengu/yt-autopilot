@@ -1,78 +1,73 @@
 {
-  "picked_trend": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-  "why_viral": "This story is highly viral because it directly impacts a growing segment of the population consuming plant-based foods. The shocking revelation that *every single one* of 212 tested samples contained fungal toxins creates immediate concern and drives curiosity about food safety and hidden health risks, making it shareable and highly discussable.",
-  "core_idea": "A new scientific study has uncovered widespread fungal toxins (mycotoxins) in all tested plant-based foods, highlighting a significant and previously underestimated challenge in global food safety and production.",
-  "video_title": "SHOCKER: Every Plant-Based Food TESTED Has This Hidden Danger!",
-  "script": "Imagine biting into your favorite plant-based meal, completely unaware of a hidden danger lurking within. A groundbreaking new study just dropped a bombshell: researchers tested 212 plant-based food samples, and every single one contained fungal toxins! These aren't just any toxins. They're mycotoxins, insidious compounds produced by microscopic fungi that naturally grow on crops. From grains to nuts, spices to coffee, these microscopic invaders are far more widespread than previously thought. While often in small amounts, consistent exposure to certain mycotoxins can pose serious health risks over time, from digestive issues to weakened immune systems. This discovery highlights a silent, global challenge in our modern food supply. Scientists are now scrambling to understand the full implications and develop new methods for detection and reduction. This isn't about fear, but knowledge, pushing us to rethink how we grow, process, and consume our food.",
+  "picked_trend": "Is free will an illusion? New brain research reveals a surprising twist",
+  "why_viral": "This topic taps into a fundamental human question about control and agency, which is inherently mind-bending and relatable. The idea that our decisions might not be fully our own, coupled with a 'new twist' that offers a glimmer of conscious intervention, creates immense curiosity and discussion potential.",
+  "core_idea": "Classic neuroscience suggested our brains initiate actions before we're consciously aware of deciding, implying free will is an illusion. New research introduces a 'veto power,' where the conscious mind can still stop a subconscious impulse, blurring the lines of true free will.",
+  "video_title": "🤯 Your Brain Makes Decisions BEFORE YOU DO! But There's A TWIST...",
+  "script": "Imagine your brain deciding something up to seven seconds before you even *feel* like you've made the choice. For decades, groundbreaking neuroscience experiments suggested our free will might just be an illusion, a trick of the mind. But a surprising new twist suggests it's not that simple. Recent research indicates while the initial urge might be subconscious, our conscious mind can still exert a 'veto' power, cancelling that action right up to the last millisecond. This isn't quite full, unhindered free will, but it profoundly changes the game. It suggests a dynamic interplay where our subconscious sets the stage, but our conscious mind holds a crucial power to edit or reject the script. So, are we truly free? Or are we just passengers with a powerful emergency brake? The science of consciousness continues to unveil mind-bending secrets, making us question the very nature of who we are and how we choose.",
   "scenes": [
     {
-      "narration": "Imagine biting into your favorite plant-based meal, completely unaware of a hidden danger lurking within. A groundbreaking new study just dropped a bombshell: researchers tested 212 plant-based food samples, and every single one contained fungal toxins!",
+      "narration": "Imagine your brain deciding something up to seven seconds before you even *feel* like you've made the choice. For decades, groundbreaking neuroscience experiments suggested our free will might just be an illusion, a trick of the mind.",
       "visual_keywords": [
-        "plant-based food",
-        "hidden danger",
-        "research"
+        "brain activity",
+        "neural pathways",
+        "clock experiment"
       ],
-      "image_prompt": "A beautifully plated, vibrant plant-based meal (e.g., a colorful buddha bowl or vegan burger) on a rustic wooden table. A subtle, almost imperceptible dark, glowing energy or aura emanates from the food, hinting at a hidden threat. Cinematic lighting, vertical 9:16. Absolutely no text or watermarks.",
+      "image_prompt": "A dramatic 3D cinematic shot inside a dimly lit, high-tech neuroscience lab. A human subject with glowing neural sensors on their head looks at a digital clock, a faint, ethereal glow indicating brain activity around their prefrontal cortex, subtly predating their finger pressing a button. Wires and monitors are visible in the background. Vertical 9:16.",
       "motion": "zoom_in"
     },
     {
-      "narration": "These aren't just any toxins. They're mycotoxins, insidious compounds produced by microscopic fungi that naturally grow on crops. From grains to nuts, spices to coffee, these microscopic invaders are far more widespread than previously thought.",
+      "narration": "But a surprising new twist suggests it's not that simple. Recent research indicates while the initial urge might be subconscious, our conscious mind can still exert a 'veto' power, cancelling that action right up to the last millisecond.",
       "visual_keywords": [
-        "mycotoxins",
-        "fungi",
-        "crops"
+        "decision making",
+        "conscious control",
+        "brain choice"
       ],
-      "image_prompt": "An extreme macro 3D cinematic shot inside a grain, showing intricate fungal hyphae (like tiny, glowing roots) weaving through the plant cells. The fungi are subtly bioluminescent with a slightly menacing green or purple glow, against a backdrop of natural-looking grain texture. Vertical 9:16. Absolutely no text or watermarks.",
-      "motion": "pan_right"
+      "image_prompt": "A visually dynamic 3D cinematic scene. A human silhouette stands at a crossroads of glowing, intricate neural pathways. One path, representing an initial impulse, starts to light up, but then a second, brighter light, representing conscious intervention, flares up, blocking the first path from fully igniting. The overall impression is a complex, almost architectural, representation of a brain's decision-making process. Vertical 9:16.",
+      "motion": "pan_left"
     },
     {
-      "narration": "While often in small amounts, consistent exposure to certain mycotoxins can pose serious health risks over time, from digestive issues to weakened immune systems. This discovery highlights a silent, global challenge in our modern food supply.",
+      "narration": "This isn't quite full, unhindered free will, but it profoundly changes the game. It suggests a dynamic interplay where our subconscious sets the stage, but our conscious mind holds a crucial power to edit or reject the script.",
       "visual_keywords": [
-        "health risks",
-        "food supply",
-        "global challenge"
+        "brain interaction",
+        "mind control",
+        "conscious vs subconscious"
       ],
-      "image_prompt": "A vast, stylized global map with glowing red data points highlighting regions of agricultural production. Overlaid are abstract, subtle visual representations of human digestive and immune systems, showing a faint, warning glow. The scene is somewhat somber but informative, with a deep focus on the global scale. Vertical 9:16. Absolutely no text or watermarks.",
+      "image_prompt": "A 3D cinematic close-up of a human brain, depicted with two distinct, yet interconnected, glowing halves. One half (subconscious) pulses with a soft, constant light, generating faint impulses. The other half (conscious) occasionally flashes brightly, sending a stronger, inhibitory signal that intercepts and dissipates some of the faint impulses. The scene emphasizes complex, internal dialogue. Vertical 9:16.",
       "motion": "zoom_out"
     },
     {
-      "narration": "Scientists are now scrambling to understand the full implications and develop new methods for detection and reduction. This isn't about fear, but knowledge, pushing us to rethink how we grow, process, and consume our food.",
+      "narration": "So, are we truly free? Or are we just passengers with a powerful emergency brake? The science of consciousness continues to unveil mind-bending secrets, making us question the very nature of who we are and how we choose.",
       "visual_keywords": [
-        "scientific research",
-        "food innovation",
-        "future food"
+        "human consciousness",
+        "mystery",
+        "philosophical question"
       ],
-      "image_prompt": "A pristine, futuristic laboratory setting. Scientists in clean lab coats are working with advanced, glowing holographic interfaces displaying molecular structures of mycotoxins, alongside high-tech equipment analyzing food samples. The atmosphere is one of intense focus and groundbreaking discovery. Vertical 9:16. Absolutely no text or watermarks.",
+      "image_prompt": "A contemplative 3D cinematic shot of a lone human figure standing on a vast, reflective surface, looking up at a swirling, cosmic brain-like nebula in a dark, star-filled sky. The figure's reflection is subtly distorted, symbolizing the complex and elusive nature of self and choice. Vertical 9:16.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "SHOCKER: Every Plant-Based Food TESTED Has This Hidden Danger! | Viral Science Discovery",
-    "description": "A new study reveals a shocking truth about plant-based foods: every single sample tested contained fungal toxins! Dive into the science behind mycotoxins, their widespread presence in crops, and the potential health implications. This groundbreaking discovery is challenging how we think about our global food supply. Learn what scientists are doing to address this silent threat and what it means for the future of food.\n\nVisuals generated with AI.",
+    "title": "🤯 Your Brain Makes Decisions BEFORE YOU DO! But There's A TWIST...",
+    "description": "Prepare to question everything you thought about choice! New neuroscience research challenges classic theories of free will, revealing a fascinating twist in how our brains make decisions. Do we have true free will, or is it just an illusion? Dive into the mind-bending science with us! #FreeWill #Neuroscience #BrainFacts #Consciousness #ScienceExplained\n\nVisuals generated with AI.",
     "hashtags": [
-      "#PlantBasedFood",
-      "#FoodSafety",
-      "#Mycotoxins",
-      "#ScienceNews",
-      "#HiddenDanger",
-      "#HealthDiscovery",
-      "#Curiosity",
-      "#ViralScience",
-      "#FoodFacts"
+      "#FreeWill",
+      "#Neuroscience",
+      "#BrainFacts",
+      "#Consciousness",
+      "#ScienceExplained",
+      "#MindBlown",
+      "#Curiosity"
     ]
   },
   "tiktok": {
-    "caption": "🤯 You won't believe what scientists found in EVERY plant-based food tested! From grains to coffee, a hidden danger is lurking. What are mycotoxins and what does this mean for your plate? #FoodMystery #PlantBased #HiddenDanger #Mycotoxins #ScienceFacts #FoodTok #ViralNews #HealthAlert #Curiosity (Visuals generated with AI.)",
+    "caption": "Mind blown! 🤯 Did you know your brain might decide things before you even know it? But there's a wild new twist! #FreeWill #BrainHacks #ScienceFacts #MindBlown #Curiosity #Neuroscience (Visuals generated with AI.)",
     "hashtags": [
-      "#FoodMystery",
-      "#PlantBased",
-      "#HiddenDanger",
-      "#Mycotoxins",
+      "#FreeWill",
+      "#BrainHacks",
       "#ScienceFacts",
-      "#FoodTok",
-      "#ViralNews",
-      "#HealthAlert",
-      "#Curiosity"
+      "#MindBlown",
+      "#Curiosity",
+      "#Neuroscience"
     ]
   }
 }
