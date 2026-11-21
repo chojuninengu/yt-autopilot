@@ -1,0 +1,78 @@
+{
+  "picked_trend": "science_daily - A 3-million-year-old child just made human evolution far more complicated",
+  "why_viral": "This story is inherently fascinating as it challenges our fundamental understanding of human origins. A single, ancient fossil redefining the complex timeline of evolution is a mind-bending concept that sparks immense curiosity about 'who we are' and 'where we come from'. It's a fresh take on archaeology and science breakthroughs.",
+  "core_idea": "A 3-million-year-old hominin child fossil presents an unexpected mix of traits, forcing scientists to rethink the established timeline and development of key characteristics in human evolution, revealing a more complex past.",
+  "video_title": "Ancient Child Fossil SHATTERS Human Evolution Timeline!",
+  "script": "What if a single fossil could rewrite our entire human family tree? A 3-million-year-old child's remains have just done exactly that, throwing a major twist into human evolution! For decades, we believed early human ancestors developed key traits in a clear, sequential order. We thought we understood the timeline. But this ancient child, an early hominin, reveals a startling mix. It walked upright, yet still had strong adaptations for climbing trees – a combination previously thought impossible at this stage. This single discovery forces experts to re-evaluate when and how crucial human characteristics truly emerged. Our evolutionary past is far more complex than we ever imagined.",
+  "scenes": [
+    {
+      "narration": "What if a single fossil could rewrite our entire human family tree? A 3-million-year-old child's remains have just done exactly that, throwing a major twist into human evolution!",
+      "visual_keywords": [
+        "paleontologist",
+        "fossil excavation",
+        "ancient skull"
+      ],
+      "image_prompt": "A close-up, dramatic shot of a paleontologist's gloved hands meticulously excavating a small, ancient skull fragment from sandy, reddish soil under a bright desert sun, with a brush and small tools. Vertical 9:16, cinematic 3D.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "For decades, we believed early human ancestors developed key traits in a clear, sequential order. We thought we understood the timeline.",
+      "visual_keywords": [
+        "evolutionary tree",
+        "hominin branches",
+        "ancient lineage"
+      ],
+      "image_prompt": "A visually stunning, illuminated 3D diagram representing a simplified human evolutionary tree, with distinct branches for different hominin species (e.g., Australopithecus, Homo habilis), glowing faintly against a dark background, some branches highlighted. Vertical 9:16, cinematic 3D.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "But this ancient child, an early hominin, reveals a startling mix. It walked upright, yet still had strong adaptations for climbing trees – a combination previously thought impossible at this stage.",
+      "visual_keywords": [
+        "Australopithecus child",
+        "bipedal climbing",
+        "savanna environment"
+      ],
+      "image_prompt": "A highly detailed, realistic 3D rendering of an Australopithecus afarensis child, with both strong, bipedal legs and arms adapted for climbing, standing at the base of a gnarled, ancient tree in a savanna environment, looking curious. Vertical 9:16, cinematic 3D.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This single discovery forces experts to re-evaluate when and how crucial human characteristics truly emerged. Our evolutionary past is far more complex than we ever imagined.",
+      "visual_keywords": [
+        "scientists analyzing",
+        "holographic display",
+        "fossil research"
+      ],
+      "image_prompt": "Two scientists, one male, one female, in a modern, well-lit laboratory, intensely examining a detailed 3D scan or cast of an ancient hominin child's skull and limb bones on a holographic display, their faces reflecting deep thought. Vertical 9:16, cinematic 3D.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Ancient Child Fossil Rewrites Human Evolution!🤯 #ScienceBreakthrough",
+    "description": "A 3-million-year-old child fossil is forcing scientists to completely rethink the timeline of human evolution! This incredible discovery reveals unexpected traits that challenge everything we thought we knew about our early ancestors. Get ready for a mind-bending look into our complex past! #HumanEvolution #Archaeology #AncientMysteries #ScienceFacts #ViralScience\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#HumanEvolution",
+      "#AncientMysteries",
+      "#Archaeology",
+      "#ScienceFacts",
+      "#Discovery",
+      "#ViralScience",
+      "#MindBlown"
+    ]
+  },
+  "tiktok": {
+    "caption": "A 3-million-year-old child just shattered everything we thought we knew about human evolution! 🤯 Get ready for a major plot twist in our origin story! #HumanEvolution #AncientDiscovery #ScienceFacts #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#HumanEvolution",
+      "#AncientDiscovery",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#Archaeology",
+      "#DidYouKnow",
+      "#Curiosity"
+    ]
+  }
+}

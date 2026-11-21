@@ -1,86 +1,74 @@
 {
-  "picked_trend": "Watching as a giant star swallowed its neighbor and exploded",
-  "why_viral": "The idea of witnessing a colossal star consuming another is inherently dramatic, mind-bending, and visually spectacular. It's a real-life cosmic catastrophe observed by scientists, appealing to curiosity about the universe's most violent events.",
-  "core_idea": "Astronomers have for the first time directly observed a massive star engulfing a smaller companion, leading to a rare 'red nova' explosion, revealing unprecedented details about stellar mergers.",
-  "video_title": "Cosmic Cannibal: Astronomers Watched a Star Eat Another!",
-  "script": "Imagine witnessing a cosmic devourment! For the first time ever, astronomers watched a massive star literally swallow its companion, causing a catastrophic explosion! This wasn't just a theory; it was a real-time cosmic event, captured light-years away.\nLocated 12,000 light-years away in the Milky Way, this giant star, about a thousand times the size of our Sun, was in its red giant phase. Its expanding outer layers slowly but surely engulfed its smaller, hotter partner.\nThis wasn't a supernova, but a rare 'red nova' – an explosion caused by two stars merging. Researchers observed the stars dimming, then rapidly brightening over a hundred days, a tell-tale sign of this stellar cannibalism.\nThis incredible observation confirms long-held theories about how some stars meet their end. It gives us an unprecedented look into the violent, spectacular life cycles of stars, reshaping our understanding of the universe's most dramatic events.",
+  "picked_trend": "science_daily - A 3-million-year-old child just made human evolution far more complicated",
+  "why_viral": "This story is inherently fascinating as it challenges our fundamental understanding of human origins. A single, ancient fossil redefining the complex timeline of evolution is a mind-bending concept that sparks immense curiosity about 'who we are' and 'where we come from'. It's a fresh take on archaeology and science breakthroughs.",
+  "core_idea": "A 3-million-year-old hominin child fossil presents an unexpected mix of traits, forcing scientists to rethink the established timeline and development of key characteristics in human evolution, revealing a more complex past.",
+  "video_title": "Ancient Child Fossil SHATTERS Human Evolution Timeline!",
+  "script": "What if a single fossil could rewrite our entire human family tree? A 3-million-year-old child's remains have just done exactly that, throwing a major twist into human evolution! For decades, we believed early human ancestors developed key traits in a clear, sequential order. We thought we understood the timeline. But this ancient child, an early hominin, reveals a startling mix. It walked upright, yet still had strong adaptations for climbing trees – a combination previously thought impossible at this stage. This single discovery forces experts to re-evaluate when and how crucial human characteristics truly emerged. Our evolutionary past is far more complex than we ever imagined.",
   "scenes": [
     {
-      "narration": "Imagine witnessing a cosmic devourment! For the first time ever, astronomers watched a massive star literally swallow its companion, causing a catastrophic explosion!",
+      "narration": "What if a single fossil could rewrite our entire human family tree? A 3-million-year-old child's remains have just done exactly that, throwing a major twist into human evolution!",
       "visual_keywords": [
-        "Binary stars",
-        "Stellar dynamics",
-        "Cosmic ballet"
+        "paleontologist",
+        "fossil excavation",
+        "ancient skull"
       ],
-      "image_prompt": "A breathtaking 3D cinematic shot of a binary star system in deep space. One star is a colossal, fiery orange-red giant, its outer layers visibly expanding, while a smaller, blue-white companion star orbits dangerously close, just beginning to be engulfed by the giant's atmosphere. Dust and gas clouds swirl around them. Vertical 9:16. No text or watermarks.",
+      "image_prompt": "A close-up, dramatic shot of a paleontologist's gloved hands meticulously excavating a small, ancient skull fragment from sandy, reddish soil under a bright desert sun, with a brush and small tools. Vertical 9:16, cinematic 3D.",
       "motion": "zoom_in"
     },
     {
-      "narration": "This wasn't just a theory; it was a real-time cosmic event, captured light-years away. Located 12,000 light-years away in the Milky Way, this giant star, about a thousand times the size of our Sun, was in its red giant phase.",
+      "narration": "For decades, we believed early human ancestors developed key traits in a clear, sequential order. We thought we understood the timeline.",
       "visual_keywords": [
-        "Red giant",
-        "Stellar expansion",
-        "Gravitational pull"
+        "evolutionary tree",
+        "hominin branches",
+        "ancient lineage"
       ],
-      "image_prompt": "A dramatic 3D cinematic close-up of the colossal red giant star. Its turbulent, fiery atmosphere is visibly pulling in the smaller, blue-white star, which is now deep within the giant's glowing gas clouds, creating intense gravitational tidal forces and bright energy flares. Vertical 9:16. No text or watermarks.",
+      "image_prompt": "A visually stunning, illuminated 3D diagram representing a simplified human evolutionary tree, with distinct branches for different hominin species (e.g., Australopithecus, Homo habilis), glowing faintly against a dark background, some branches highlighted. Vertical 9:16, cinematic 3D.",
       "motion": "pan_right"
     },
     {
-      "narration": "Its expanding outer layers slowly but surely engulfed its smaller, hotter partner. This wasn't a supernova, but a rare 'red nova' – an explosion caused by two stars merging.",
+      "narration": "But this ancient child, an early hominin, reveals a startling mix. It walked upright, yet still had strong adaptations for climbing trees – a combination previously thought impossible at this stage.",
       "visual_keywords": [
-        "Red nova",
-        "Cosmic explosion",
-        "Stellar merger"
+        "Australopithecus child",
+        "bipedal climbing",
+        "savanna environment"
       ],
-      "image_prompt": "A stunning 3D cinematic view of the aftermath of a red nova explosion. Brilliant, expanding shockwaves of gas and light radiate outwards from a central, intensely bright point where the stars merged. The vibrant colors of the nebula range from fiery orange to deep red and purple, contrasting against the dark vacuum of space. Vertical 9:16. No text or watermarks.",
+      "image_prompt": "A highly detailed, realistic 3D rendering of an Australopithecus afarensis child, with both strong, bipedal legs and arms adapted for climbing, standing at the base of a gnarled, ancient tree in a savanna environment, looking curious. Vertical 9:16, cinematic 3D.",
       "motion": "zoom_out"
     },
     {
-      "narration": "Researchers observed the stars dimming, then rapidly brightening over a hundred days, a tell-tale sign of this stellar cannibalism. This incredible observation confirms long-held theories about how some stars meet their end.",
+      "narration": "This single discovery forces experts to re-evaluate when and how crucial human characteristics truly emerged. Our evolutionary past is far more complex than we ever imagined.",
       "visual_keywords": [
-        "Astronomical observation",
-        "Space telescope",
-        "Scientific data"
+        "scientists analyzing",
+        "holographic display",
+        "fossil research"
       ],
-      "image_prompt": "A high-tech, sleek 3D cinematic representation of a modern observatory, with a massive radio telescope dish pointed towards a swirling, distant nebula (the red nova remnant from the previous scene, seen faintly). The control room is bathed in the soft glow of monitors displaying astronomical data, with a silhouette of a scientist looking on in awe. Vertical 9:16. No text or watermarks.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "It gives us an unprecedented look into the violent, spectacular life cycles of stars, reshaping our understanding of the universe's most dramatic events.",
-      "visual_keywords": [
-        "Cosmic mystery",
-        "Stellar evolution",
-        "Universe secrets"
-      ],
-      "image_prompt": "An awe-inspiring 3D cinematic shot of a vast, star-filled galaxy, seen from a distance. Streaks of light from distant novae and nebulae illuminate the cosmic tapestry, conveying the immense scale and dynamic processes of the universe. Vertical 9:16. No text or watermarks.",
+      "image_prompt": "Two scientists, one male, one female, in a modern, well-lit laboratory, intensely examining a detailed 3D scan or cast of an ancient hominin child's skull and limb bones on a holographic display, their faces reflecting deep thought. Vertical 9:16, cinematic 3D.",
       "motion": "pan_left"
     }
   ],
   "youtube": {
-    "title": "Astronomers Witness a Star Eating Another Star! | Cosmic Cannibalism",
-    "description": "For the first time ever, scientists watched a massive star literally devour its smaller companion, leading to a spectacular 'red nova' explosion! This unprecedented observation, 12,000 light-years away, confirms theories about stellar mergers and reshapes our understanding of the universe's most dramatic events. Dive into the mind-bending reality of cosmic cannibalism!\n\nVisuals generated with AI.",
+    "title": "Ancient Child Fossil Rewrites Human Evolution!🤯 #ScienceBreakthrough",
+    "description": "A 3-million-year-old child fossil is forcing scientists to completely rethink the timeline of human evolution! This incredible discovery reveals unexpected traits that challenge everything we thought we knew about our early ancestors. Get ready for a mind-bending look into our complex past! #HumanEvolution #Archaeology #AncientMysteries #ScienceFacts #ViralScience\n\nVisuals generated with AI.",
     "hashtags": [
-      "#CosmicCannibal",
-      "#RedNova",
-      "#SpaceExplosion",
-      "#Astronomy",
-      "#StellarMerger",
+      "#HumanEvolution",
+      "#AncientMysteries",
+      "#Archaeology",
       "#ScienceFacts",
-      "#Universe",
+      "#Discovery",
+      "#ViralScience",
       "#MindBlown"
     ]
   },
   "tiktok": {
-    "caption": "Astronomers just watched a massive star EAT another star! 🤯 This cosmic cannibalism led to a 'red nova' explosion 12,000 light-years away. Prepare for your mind to be blown by the universe's craziest events! #CosmicCannibal #RedNova #SpaceFacts #Astronomy #Science #Universe #StellarExplosion (Visuals generated with AI.)",
+    "caption": "A 3-million-year-old child just shattered everything we thought we knew about human evolution! 🤯 Get ready for a major plot twist in our origin story! #HumanEvolution #AncientDiscovery #ScienceFacts #MindBlown (Visuals generated with AI.)",
     "hashtags": [
-      "#CosmicCannibal",
-      "#RedNova",
-      "#SpaceFacts",
-      "#Astronomy",
-      "#Science",
-      "#Universe",
-      "#StellarExplosion",
-      "#MindBlown"
+      "#HumanEvolution",
+      "#AncientDiscovery",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#Archaeology",
+      "#DidYouKnow",
+      "#Curiosity"
     ]
   }
 }
