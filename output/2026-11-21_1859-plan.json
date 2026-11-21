@@ -1,0 +1,91 @@
+{
+  "picked_trend": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+  "why_viral": "This is one of the most famous unsolved problems in mathematics, with a $1 million prize from the Clay Mathematics Institute. A credible claim of a proof is a monumental scientific event that impacts everything from prime number distribution to internet encryption. It's mind-bending and high-stakes.",
+  "core_idea": "A mathematician claims to have proven the Generalized Riemann Hypothesis, a century-old problem about prime numbers, with vast implications and a $1 million prize at stake.",
+  "video_title": "The $1 Million Math Problem: Solved?!",
+  "script": "Imagine a math problem so profound, it’s stumped the world's greatest minds for over 160 years AND comes with a million-dollar prize. We’re talking about the Riemann Hypothesis. At its heart, it’s about prime numbers – the building blocks of arithmetic. The hypothesis predicts their secret patterns, hinting at a fundamental order that impacts everything from quantum physics to internet security. Now, a mathematician named Levent Alpöge claims a proof of the Generalized Riemann Hypothesis. This isn't just a math problem; its implications are staggering across science and technology. If verified, this proof could unlock deep secrets about the universe, revolutionize encryption, and completely reshape our understanding of prime numbers. The impact on internet security alone is monumental. The global math community is now scrutinizing every detail. If confirmed, this would be a monumental discovery, shaking the foundations of modern mathematics and beyond. The future of prime numbers, and perhaps our digital world, hangs in the balance!",
+  "scenes": [
+    {
+      "narration": "Imagine a math problem so profound, it’s stumped the world's greatest minds for over 160 years AND comes with a million-dollar prize. We’re talking about the Riemann Hypothesis.",
+      "visual_keywords": [
+        "gold coin",
+        "math symbols",
+        "cosmic background"
+      ],
+      "image_prompt": "A gleaming, vertical 9:16 3D cinematic shot of a single gold coin with '$1,000,000' elegantly engraved, floating amidst a swirling vortex of ancient and modern mathematical symbols (like Greek letters, integrals, zeta functions) that glow subtly against a deep, dark cosmic background. The symbols are intricate and complex, suggesting profound mystery.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "At its heart, it’s about prime numbers – the building blocks of arithmetic. The hypothesis predicts their secret patterns, hinting at a fundamental order that impacts everything from quantum physics to internet security.",
+      "visual_keywords": [
+        "prime numbers",
+        "cosmic web",
+        "interconnected patterns"
+      ],
+      "image_prompt": "A visually stunning, vertical 9:16 3D cinematic scene. Abstract representations of prime numbers as glowing, ethereal nodes, interconnected by shimmering light trails, forming a vast, intricate cosmic web. The network pulsates with energy, suggesting hidden mathematical order within a deep blue and purple nebula, flowing towards a central, brightly glowing orb.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Now, a mathematician named Levent Alpöge claims a proof of the Generalized Riemann Hypothesis. This isn't just a math problem; its implications are staggering across science and technology.",
+      "visual_keywords": [
+        "mathematician",
+        "holographic equations",
+        "intellectual light"
+      ],
+      "image_prompt": "A vertical 9:16 3D cinematic shot of a young, determined mathematician (male, in professional attire) intensely focused, standing before a large, translucent holographic whiteboard. Intricate, glowing mathematical equations (zeta functions, prime number distributions) swirl around him and on the board, illuminating his face with a soft, intellectual light. The setting is a modern, minimalist research lab with subdued background lighting.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "If verified, this proof could unlock deep secrets about the universe, revolutionize encryption, and completely reshape our understanding of prime numbers. The impact on internet security alone is monumental.",
+      "visual_keywords": [
+        "digital encryption",
+        "secure network",
+        "glowing data"
+      ],
+      "image_prompt": "A dynamic, vertical 9:16 3D cinematic scene depicting secure digital data streams. Thousands of glowing green and blue lines crisscross and converge, forming an impenetrable, complex network of information flow, with abstract representations of digital locks and keyholes embedded within the data. In the background, a futuristic cityscape glows with digital light, emphasizing the global impact.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "The global math community is now scrutinizing every detail. If confirmed, this would be a monumental discovery, shaking the foundations of modern mathematics and beyond. The future of prime numbers, and perhaps our digital world, hangs in the balance!",
+      "visual_keywords": [
+        "mathematicians",
+        "intricate notation",
+        "grand library"
+      ],
+      "image_prompt": "A dramatic, vertical 9:16 3D cinematic shot of a diverse group of esteemed mathematicians (various ages, genders, ethnicities) intently gathered around a large, illuminated screen or table displaying extremely intricate mathematical notation and graphs. Their faces show deep concentration, awe, and a hint of skepticism. They are in a grand, oak-paneled university library or research institution, surrounded by towering bookshelves filled with ancient texts.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    }
+  ],
+  "youtube": {
+    "title": "The $1 Million Math Problem: Solved?! | Riemann Hypothesis Breakthrough",
+    "description": "A mathematician claims to have solved one of the biggest mysteries in mathematics – the Riemann Hypothesis, a problem that's stumped experts for over 160 years and comes with a $1 million prize! This discovery could revolutionize everything from internet security to our understanding of prime numbers and the very fabric of the universe. Dive into the mind-bending implications of this potential breakthrough!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#RiemannHypothesis",
+      "#MathSolved",
+      "#MillionDollarProblem",
+      "#ScienceBreakthrough",
+      "#PrimeNumbers",
+      "#CuriosityExplainer",
+      "#Mathematics",
+      "#NewDiscovery",
+      "#MindBlown"
+    ]
+  },
+  "tiktok": {
+    "caption": "A 160-year-old math mystery with a $1M prize might finally be SOLVED! 🤯 The Riemann Hypothesis impacts everything from prime numbers to internet security. Is our digital world about to change? #RiemannHypothesis #MathTikTok #MillionDollarProblem #ScienceFacts #PrimeNumbers #ViralMath #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#RiemannHypothesis",
+      "#MathTikTok",
+      "#MillionDollarProblem",
+      "#ScienceFacts",
+      "#PrimeNumbers",
+      "#ViralMath",
+      "#MindBlown"
+    ]
+  }
+}

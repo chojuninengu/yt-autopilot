@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "score": 49,
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+    },
+    {
+      "source": "hackernews",
+      "title": "Detonating a pile of lead azide",
+      "score": 366,
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "score": 84,
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "score": 493,
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "score": 515,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+    },
+    {
+      "source": "hackernews",
+      "title": "PostgreSQL Extensions in Go",
+      "score": 52,
+      "url": "https://jespino.github.io/gopgext/"
+    },
+    {
+      "source": "hackernews",
+      "title": "My monitor was cutting my download speed by 75%",
+      "score": 313,
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "score": 2325,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "score": 31,
+      "url": "https://math.mit.edu/~drew/grh/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 2825,
+      "url": "https://alpo.ge/remark.pdf"
+    },
+    {
+      "source": "hackernews",
+      "title": "Inkling 2 Mini",
+      "score": 1264,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+    },
+    {
+      "source": "hackernews",
+      "title": "RCE in Gnupg",
+      "score": 180,
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "score": 82,
+      "url": "https://klauria.tech/klauria-art/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "score": 34,
+      "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/"
+    },
+    {
+      "source": "hackernews",
+      "title": "How I made a custom game engine for Satelital",
+      "score": 7,
+      "url": "https://spectralorbit.com/blog/satelital_game_engine"
+    },
+    {
+      "source": "science_daily",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Even scientists can't agree on what science actually is",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "palmeiras vs flamengo",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "south florida vs fl atlantic",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "liberty football",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "south carolina vs providence",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "southern il vs north dakota",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "colandrea",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "philadelphia vs new england",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "conner weigman",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mo state vs jax state",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "charlotte vs tulsa",
+      "traffic": "500+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
