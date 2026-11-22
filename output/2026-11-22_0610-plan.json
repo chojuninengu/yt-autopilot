@@ -1,0 +1,84 @@
+{
+  "picked_trend": "Time may be far stranger than we realize. Scientists have a way to test it",
+  "why_viral": "This story challenges one of the most fundamental aspects of our existence – time itself – and proposes a concrete scientific experiment to test this radical idea. Its implications are deeply philosophical and mind-bending, making it highly shareable and intriguing for a broad audience.",
+  "core_idea": "Scientists are developing methods to test the theory that time is not a fundamental, universal constant, but rather an emergent phenomenon arising from quantum interactions, meaning our perception of time could be an illusion.",
+  "video_title": "Is Time an Illusion? New Science Shocks!",
+  "script": "What if everything you thought you knew about time... was fundamentally wrong? Scientists are now proposing a radical theory: time isn't a universal constant. Instead, it might be an *emergent phenomenon* – something that arises from the complex interactions of the universe, like ripples on a pond. This means time could behave differently, or even not exist, at the quantum level. To test this mind-bending idea, researchers plan to use ultra-precise measurements of entangled particles. If the 'internal clocks' of these entangled particles don't perfectly align as standard physics predicts, it could prove time is a local illusion. Get ready, because our reality might be far stranger than we ever imagined!",
+  "scenes": [
+    {
+      "narration": "What if everything you thought you knew about time... was fundamentally wrong?",
+      "visual_keywords": [
+        "cosmic clock",
+        "abstract time",
+        "shifting reality"
+      ],
+      "image_prompt": "A hyper-realistic 3D cinematic rendering, vertical 9:16, showing an abstract, intricate cosmic clock with gears made of stardust and nebulae, slowly turning and occasionally stuttering. The background is a deep, shimmering void with subtle energy flows. No text or brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "Scientists are now proposing a radical theory: time isn't a universal constant. Instead, it might be an *emergent phenomenon* – something that arises from the complex interactions of the universe, like ripples on a pond.",
+      "visual_keywords": [
+        "quantum interactions",
+        "emergent properties",
+        "cosmic ripples"
+      ],
+      "image_prompt": "A stunning 3D cinematic rendering, vertical 9:16, of countless glowing, intricate quantum particles interacting rapidly in a dark, ethereal space. From their complex dance, a single, smooth, elegant wave or ripple of light gracefully forms and expands across the center of the frame. No text or brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "This means time could behave differently, or even not exist, at the quantum level. To test this mind-bending idea, researchers plan to use ultra-precise measurements of entangled particles.",
+      "visual_keywords": [
+        "quantum lab",
+        "entangled particles",
+        "precision experiment"
+      ],
+      "image_prompt": "A visually striking 3D cinematic rendering, vertical 9:16, inside a high-tech, futuristic quantum physics laboratory. Laser beams of pure energy intersect around two glowing, interconnected quantum particles suspended in a vacuum chamber. Intricate holographic displays show complex data. No text or brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "If the 'internal clocks' of these entangled particles don't perfectly align as standard physics predicts, it could prove time is a local illusion. Get ready, because our reality might be far stranger than we ever imagined!",
+      "visual_keywords": [
+        "reality warp",
+        "cosmic illusion",
+        "human perception"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic rendering, vertical 9:16, depicting a lone human silhouette standing at the edge of a swirling, dynamic cosmic landscape that is visibly fracturing and reassembling into shimmering, crystalline particles. The background shows distorted galaxies and nebulae, suggesting a breaking down of perceived reality. No text or brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Is Time an Illusion? New Science Shocks! | Mind-Bending Physics",
+    "description": "Prepare to have your mind blown! What if time isn't a fundamental constant of the universe, but an illusion? New scientific theories suggest time might be an emergent phenomenon, arising from quantum interactions. Discover how researchers plan to test this radical idea using entangled particles, and what it could mean for our understanding of reality itself. #Time #QuantumPhysics #ScienceBreakthrough #Reality #MindBlown\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#TimeIsAnIllusion",
+      "#QuantumPhysics",
+      "#ScienceExplained",
+      "#EmergentPhenomena",
+      "#TheoreticalPhysics",
+      "#CosmicMystery",
+      "#RealityCheck",
+      "#MindBending",
+      "#ScienceFacts",
+      "#FutureOfPhysics"
+    ]
+  },
+  "tiktok": {
+    "caption": "Is time actually real, or just a cosmic illusion? 🤯 Scientists have a wild new theory and a way to test it! Prepare to question everything. #Time #Physics #Quantum #MindBlown #ScienceFacts #Reality #BigQuestions (Visuals generated with AI.)",
+    "hashtags": [
+      "#Time",
+      "#Physics",
+      "#Quantum",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#Reality",
+      "#BigQuestions",
+      "#Universe",
+      "#ScienceExplained",
+      "#Emergent"
+    ]
+  }
+}

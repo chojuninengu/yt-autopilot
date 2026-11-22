@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 190,
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 846,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "score": 933,
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sandwich Simulator",
+      "score": 127,
+      "url": "https://stulle.app/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "score": 418,
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+    },
+    {
+      "source": "hackernews",
+      "title": "Data Processing Incidents on Inference Providers",
+      "score": 78,
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Detonating a pile of lead azide",
+      "score": 579,
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+    },
+    {
+      "source": "hackernews",
+      "title": "Getting the mind to steer the body to steer you",
+      "score": 222,
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
+    },
+    {
+      "source": "hackernews",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "score": 95,
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+    },
+    {
+      "source": "hackernews",
+      "title": "My monitor was cutting my download speed by 75%",
+      "score": 543,
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Most Popular Car Colors in America",
+      "score": 19,
+      "url": "https://www.iseecars.com/most-popular-car-colors-study"
+    },
+    {
+      "source": "hackernews",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "score": 114,
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Mythology of Conscious AI",
+      "score": 22,
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "score": 103,
+      "url": "https://pwn.ai/upload2shell"
+    },
+    {
+      "source": "hackernews",
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "score": 15,
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+    },
+    {
+      "source": "science_daily",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Even scientists can't agree on what science actually is",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "heisman odds",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "stevie wonder",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "morgan scalley",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "devon dampier",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "darius acuff jr.",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "heisman race",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tank davis",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gervonta davis",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ben stiller",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "mattia gta 6",
+      "traffic": "200+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
