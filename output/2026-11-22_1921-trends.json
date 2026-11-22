@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Perplexity and Intelligence",
+      "score": 205,
+      "url": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 1032,
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "score": 176,
+      "url": "https://github.com/gulivan/worker755"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open Social Web Alliance",
+      "score": 153,
+      "url": "https://osw-alliance.net/en/"
+    },
+    {
+      "source": "hackernews",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "score": 59,
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 1288,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Better Vocabulary for Testing",
+      "score": 63,
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Inside PyPy: First Contact with RPython",
+      "score": 25,
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Transvoxel Algorithm",
+      "score": 18,
+      "url": "https://transvoxel.org/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sandwich Simulator",
+      "score": 488,
+      "url": "https://stulle.app/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Testing Terraform with AWS Emulator",
+      "score": 26,
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "score": 66,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Self-hosted library branch over public web OPDS",
+      "score": 93,
+      "url": "https://joinmayberry.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "score": 629,
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "score": 112,
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
+    },
+    {
+      "source": "science_daily",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Even scientists can't agree on what science actually is",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "colston loveland",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "devontez walker",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "joey slye",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "zavion thomas",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "justice hill",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "olympiacos fc",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jake bates",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "sam roush",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "atalanta vs inter",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ceedee lamb",
+      "traffic": "2000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
