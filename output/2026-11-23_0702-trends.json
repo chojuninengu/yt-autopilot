@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "score": 382,
+      "url": "https://spelunkr.tv"
+    },
+    {
+      "source": "hackernews",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "score": 154,
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "source": "hackernews",
+      "title": "Masullo on the Riemann Hypothesis",
+      "score": 175,
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "score": 412,
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Partial Evaluator for C",
+      "score": 24,
+      "url": "https://phoenix.labri.fr/software/tempo/"
+    },
+    {
+      "source": "hackernews",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 446,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "score": 189,
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527"
+    },
+    {
+      "source": "hackernews",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "score": 160,
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
+    },
+    {
+      "source": "hackernews",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+      "score": 31,
+      "url": "https://arxiv.org/abs/2506.13771"
+    },
+    {
+      "source": "hackernews",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "score": 233,
+      "url": "https://smallsf.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "score": 42,
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "score": 149,
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "score": 97,
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+      "score": 41,
+      "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "last mission of chapter 1 gta 6",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "la noire",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "spacex",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "enrique peña nieto",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ben wang",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ign gta 6 map",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "charlotte fc vs chicago fire fc standings",
+      "traffic": "20000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "cyberleek",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "criminal profile gta 6",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "dow jones stock markets",
+      "traffic": "5000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
