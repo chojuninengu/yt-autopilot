@@ -23,90 +23,53 @@ STORIES = [
     {
         "id": 1,
         "topic": (
-            "The 60-Year Umbrella Promise. "
-            "Arthur (gentle, warm elderly husband voice) and Evelyn (sweet, frail elderly wife voice) have been married 60 years. "
-            "In a rainy London park, Arthur still holds an oversized red umbrella solely over Evelyn, getting soaked himself just as he did on their very first date in 1964. "
-            "Evelyn softly touches his cheek and asks why he never bought a bigger umbrella, and Arthur smiles: 'Because then you wouldn't hold my arm so close.'"
+            "The Father Who Never Stopped Watching (The Prodigal Son). "
+            "Eliab, an elderly father with tear-stained eyes (warm, weeping elder voice), watches the dusty road every evening praying for his lost son Caleb (broken, trembling young man voice). "
+            "When Caleb crawls back in filthy rags expecting rejection, the father runs, throws his arms around his neck, and restores him with a royal robe, crying: 'My son was dead, and is alive again! To God be all the glory!'"
         )
     },
     {
         "id": 2,
         "topic": (
-            "The Robot Who Learned What 'I Do' Means. "
-            "Orion (tender, curious synthetic male voice), an artificial companion, attends his human owners' 50th wedding anniversary. "
-            "He asks the bride, Clara (warm, graceful elderly woman voice), what algorithm kept them together through poverty, illness, and old age. "
-            "Clara takes Orion's metallic hand and explains: 'Marriage isn't an algorithm, Orion. It's choosing to forgive someone every morning, even when they burn the toast.'"
+            "The Roman Centurion's Great Faith. "
+            "Marcus, a battle-hardened Roman centurion in shining bronze armor (commanding, humble male voice), kneels in the dust before the Lord for his paralyzed dying servant. "
+            "He says: 'Lord, I am not worthy for you to come under my roof; speak the word only, and my servant shall be healed.' "
+            "Heaven rejoices as the servant rises completely healed at that very hour, glorifying the Almighty God!"
         )
     },
     {
         "id": 3,
         "topic": (
-            "The Grumpy Baker and the Flower Girl. "
-            "Marco (grumpy, deep-voiced Italian baker) pretends to be annoyed when Elena (bright, melodious, cheerful young florist) brings a fresh daisy to his bakery every sunrise. "
-            "When Elena catches a severe fever and doesn't show up for three days, the fierce baker panics, runs across the cobblestone city with a hot basket of fresh almond croissants and honey tea, "
-            "finally confessing his feelings at her doorstep."
+            "The Fourth Man in the Fiery Furnace. "
+            "Azariah (courageous, steadfast young Hebrew voice) and his brothers refuse to bow to King Nebuchadnezzar's golden idol, declaring their God is able to save them. "
+            "Thrown bound into a furnace heated seven times hotter, their ropes burn away, and an astonished king gasps seeing four men walking freely in the fire, untouched by flames, with the fourth shining like the Son of God!"
         )
     },
     {
         "id": 4,
         "topic": (
-            "The Forgotten Love Letter in the Attic. "
-            "Leo (thoughtful young husband voice) finds a faded, handwritten letter tucked behind a floorboard in their new Victorian home from 1920. "
-            "He reads it aloud to his wife Maya (touched, emotional female voice)—a soldier's vow to return home to his bride. "
-            "The final sentence reveals a golden ring buried in the brickwork, inspiring Leo to reaffirm his own eternal vows to Maya under the candlelit attic."
+            "The Blind Beggar at Jericho (Bartimaeus). "
+            "Bartimaeus, a ragged blind beggar sitting outside Jericho (crying out with desperate, passionate voice), hears Jesus of Nazareth passing. "
+            "Though the harsh crowd scolds him to be silent, he shouts louder: 'Jesus, Son of David, have mercy on me!' "
+            "The Savior stops, asks what he desires, and says: 'Go your way; your faith has made you whole!' His eyes open to see light and his Savior, leaping and glorifying God!"
         )
     },
     {
         "id": 5,
         "topic": (
-            "The Billionaire's Secret Vow. "
-            "Julian (deep, protective, wealthy CEO male voice) gives up his entire corporate empire when his board of directors tries to force him to sign an annulment from his humble, sweet-hearted wife Sarah (soft, resilient, loving woman voice). "
-            "Julian walks into the boardroom, tosses his gold credentials onto the mahogany table, and says: 'Keep the billions. I built this company with my hands, but she built my soul.'"
+            "The Widow's Unfailing Jar of Oil. "
+            "Sarah, a starving widow in Zarephath (gentle, exhausted mother voice), gathers two sticks to prepare her very last meal of flour and oil for her dying son. "
+            "The prophet Elijah (reverent, faithful prophet voice) tells her: 'Fear not, for thus says the Lord God of Israel: the jar of flour shall not be spent, neither shall the jug of oil fail.' "
+            "In faith she bakes the bread, and God miraculously multiplies the jars for months!"
         )
     },
     {
         "id": 6,
         "topic": (
-            "The Memory Jar. "
-            "Thomas (patient, devoted elderly husband voice) visits his wife Rose (fragile, gentle woman voice) every single afternoon in a sunlit garden, introducing himself as if they are meeting for the first time. "
-            "He brings her favorite blueberry tart and retells the story of how they fell in love at 19. "
-            "When Rose suddenly looks into his eyes, smiles, and whispers, 'I may forget my name, Tommy, but my heart never forgot yours,' Thomas's eyes fill with tears of joy."
-        )
-    },
-    {
-        "id": 7,
-        "topic": (
-            "The Lighthouse Keeper's Golden Beacon. "
-            "Captain Douglas (weathered, hearty sea captain voice) is caught in the most violent winter gale off the rocky cliffs. "
-            "His ship's compass shatters, but through the pitch-black hurricane, a radiant golden light cuts through the fog. "
-            "His bride Abigail (brave, melodic woman voice) has kept the ancient lighthouse oil fire burning for 48 hours without sleep, guiding him safely back into her arms."
-        )
-    },
-    {
-        "id": 8,
-        "topic": (
-            "The First Dance Under the Midnight Rain. "
-            "On their wedding day, a sudden torrential summer storm collapses the luxury reception tent. "
-            "While the guests gasp, the groom Noah (playful, deeply in love young male voice) laughs, takes his bride Sophie's (radiant, breathless female voice) hand, and pulls her into the open grass. "
-            "Soaked in rain, they dance their first dance under the starry thunderstorm, creating a moment more magical than any ballroom could hold."
-        )
-    },
-    {
-        "id": 9,
-        "topic": (
-            "The King Who Chose the Village Seamstress. "
-            "King Valen (regal, commanding yet deeply gentle king's voice) is commanded by the Royal Council to marry a foreign princess for political power. "
-            "Instead, before the entire assembled kingdom, Valen steps down from his throne, kneels before Linnea, a kind village seamstress (humble, pure-hearted young woman voice) who saved his life in the forest, "
-            "and crowns her his Queen, declaring: 'A crown is worthless if I cannot share it with the one who owns my heart.'"
-        )
-    },
-    {
-        "id": 10,
-        "topic": (
-            "The Secret Sticky Notes of 40 Years. "
-            "Grace (nostalgic, smiling woman voice) discovers a wooden keepsake box in her late husband Daniel's (affectionate, teasing male voice) study. "
-            "Inside are over 10,000 tiny yellow sticky notes he secretly hid in her lunchbox, car, and coat pockets every single workday for 40 years, each reading a simple reason why he loved her that day. "
-            "The final note on top reads: 'In every lifetime, I will look for you first.'"
+            "Peace, Be Still: The Calming of the Storm. "
+            "Peter, a terrified fisherman (frantic, breathless voice), battles mountain-high waves and a sinking boat in the pitch-black Sea of Galilee, crying: 'Lord, do You not care that we perish?' "
+            "Jesus rises in majestic peace, raises His hand against the roaring storm, and commands: 'Peace, be still!' "
+            "The howling gale instantly dies into glass-like calm, leaving the disciples whispering in awe: 'Who is this, that even the wind and the sea obey Him?'"
         )
     }
 ]
