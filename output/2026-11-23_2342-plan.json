@@ -1,0 +1,81 @@
+{
+  "picked_trend": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+  "why_viral": "This story offers a captivating twist on historical understanding, challenging traditional assumptions about gender roles and power in ancient societies. The idea of a 'king' being a woman is inherently intriguing and mind-bending, making it highly shareable and thought-provoking.",
+  "core_idea": "New DNA analysis has revealed that a richly buried Iron Age leader, long presumed to be a male 'Celtic Prince,' was in fact female, forcing a re-evaluation of ancient power structures.",
+  "video_title": "The Iron Age King Who Was Actually a Queen? DNA Rewrites History!",
+  "script": "What if everything we thought we knew about an ancient king was wrong? For decades, archaeologists believed they'd found the tomb of a powerful Iron Age leader in Germany. Buried with riches, weapons, and even chariots, it was a textbook example of ancient male authority. But new DNA analysis of the skeletal remains just dropped a bombshell. The individual, previously identified as \"The Celtic Prince,\" was definitively female. This isn't just about changing a name. It challenges our entire understanding of gender roles and power in the Iron Age. A woman commanding such respect, wealth, and military symbols? It's revolutionary. This discovery forces us to re-examine history through a new lens, proving the past is far more complex and surprising than we ever imagined.",
+  "scenes": [
+    {
+      "narration": "What if everything we thought we knew about an ancient king was wrong? For decades, archaeologists believed they'd found the tomb of a powerful Iron Age leader in Germany.",
+      "visual_keywords": [
+        "ancient tomb",
+        "archaeological dig",
+        "buried treasure"
+      ],
+      "image_prompt": "A dramatic, high-angle view of an active archaeological excavation site in a forest, revealing a partially unearthed ancient burial chamber filled with glinting gold artifacts and rusted iron weapons. Sunlight streams through the trees, creating dappled shadows. Vertical 9:16 cinematic 3D render.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Buried with riches, weapons, and even chariots, it was a textbook example of ancient male authority. But new DNA analysis of the skeletal remains just dropped a bombshell.",
+      "visual_keywords": [
+        "ancient skeleton",
+        "DNA analysis",
+        "lab equipment"
+      ],
+      "image_prompt": "A close-up, dramatic shot of ancient, carefully cleaned skeletal remains laid out on a dark velvet cloth, surrounded by advanced scientific instruments like microscopes and genetic sequencing machines in a dimly lit, high-tech archaeological lab. A single beam of light illuminates the skull. Vertical 9:16 cinematic 3D render.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "The individual, previously identified as \"The Celtic Prince,\" was definitively female. This isn't just about changing a name. It challenges our entire understanding of gender roles and power in the Iron Age.",
+      "visual_keywords": [
+        "female warrior",
+        "Iron Age",
+        "ancient symbols"
+      ],
+      "image_prompt": "A powerful, regal Iron Age female figure, adorned with ornate gold and bronze jewelry, standing confidently amidst a gathering of respectful warriors and tribal elders in an ancient, firelit council hall. She holds a ceremonial sword, embodying authority and strength. Vertical 9:16 cinematic 3D render.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "A woman commanding such respect, wealth, and military symbols? It's revolutionary. This discovery forces us to re-examine history through a new lens, proving the past is far more complex and surprising than we ever imagined.",
+      "visual_keywords": [
+        "history book",
+        "magnifying glass",
+        "ancient timeline"
+      ],
+      "image_prompt": "A weathered, ancient map or scroll unfurling to reveal a swirling timeline of historical events, with key moments shifting and rearranging. A ghostly hand holds a magnifying glass over a specific point, symbolizing re-evaluation and new discoveries. Soft, ambient light. Vertical 9:16 cinematic 3D render.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The \"Celtic Prince\" Was Actually a Queen? DNA Rewrites Iron Age History",
+    "description": "Archaeologists made a stunning discovery: a legendary Iron Age \"prince\" buried with immense wealth and weapons was actually a woman. New DNA analysis challenges everything we thought we knew about power, gender, and leadership in ancient times. Dive into this mind-bending historical mystery!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#IronAge",
+      "#Archaeology",
+      "#AncientHistory",
+      "#CelticQueen",
+      "#DNAdiscovery",
+      "#MindBlown",
+      "#ViralCuriosity",
+      "#HistoryRevealed",
+      "#Unbelievable"
+    ]
+  },
+  "tiktok": {
+    "caption": "This Iron Age \"prince\" was actually a Queen! 👑 DNA just rewrote history and shattered assumptions about ancient power. #Archaeology #AncientMystery #HistoryFacts #Celtic #IronAge #WomenInHistory #MindBlown #DidYouKnow (Visuals generated with AI.)",
+    "hashtags": [
+      "#Archaeology",
+      "#AncientMystery",
+      "#HistoryFacts",
+      "#Celtic",
+      "#IronAge",
+      "#WomenInHistory",
+      "#MindBlown",
+      "#DidYouKnow"
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "score": 1903,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 68,
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ladybird is now in alpha",
+      "score": 1282,
+      "url": "https://ladybird.org/posts/alpha/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+      "score": 40,
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561"
+    },
+    {
+      "source": "hackernews",
+      "title": "VP ≠ VNP over Every Field",
+      "score": 140,
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+    },
+    {
+      "source": "hackernews",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "score": 769,
+      "url": "https://arm.jonpalmisc.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPUI is getting its own repository",
+      "score": 66,
+      "url": "https://github.com/zed-industries/gpui"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "score": 1021,
+      "url": "https://z.ai/blog/glm-5.4"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "score": 59,
+      "url": "https://www.bored.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "score": 963,
+      "url": "https://twitter.com/ylecun/status/2124550037912920090"
+    },
+    {
+      "source": "hackernews",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "score": 105,
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF"
+    },
+    {
+      "source": "hackernews",
+      "title": "Next gaming monitor should still be an OLED",
+      "score": 12,
+      "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled"
+    },
+    {
+      "source": "hackernews",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "score": 272,
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    },
+    {
+      "source": "hackernews",
+      "title": "Derivative Flipping",
+      "score": 60,
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kagi Mail (public beta)",
+      "score": 314,
+      "url": "https://blog.kagi.com/kagi-mail-public-beta"
+    },
+    {
+      "source": "science_daily",
+      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two monster black holes from the dawn of time defy explanation",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Mysterious new viruses reveal a missing link in evolution",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A galactic shock wave could rewrite the map of the Milky Way",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+      "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "bob woodward",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "blue jackets vs devils",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "cj rosser",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "newfields",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ian cauble",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "trail blazers vs 76ers",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "grizzlies vs hornets",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "arkansas state basketball",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "temple basketball",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "micah parsons",
+      "traffic": "1000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}

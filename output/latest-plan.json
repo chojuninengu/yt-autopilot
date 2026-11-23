@@ -1,88 +1,77 @@
 {
-  "picked_trend": "Einstein’s relativity just upended a fundamental rule of chemistry",
-  "why_viral": "This story is incredibly viral because it challenges a bedrock principle of an entire scientific field (chemistry) with a mind-bending twist from another (physics), specifically Einstein's relativity. It's unexpected, fundamentally impactful, and involves one of science's most famous figures, making it highly engaging and thought-provoking.",
-  "core_idea": "Einstein's theory of relativity dramatically alters the behavior of electrons in extremely heavy elements, causing them to become heavier and their orbits to shrink. This relativistic effect fundamentally changes the chemical properties and bonding of these elements, rewriting our understanding of chemistry.",
-  "video_title": "Einstein Broke Chemistry: How Relativity Upended a Core Rule!",
-  "script": "For over a century, a cornerstone of chemistry stood unchallenged: the idea that electrons behave predictably around atoms. But now, Einstein’s theory of relativity just shattered that understanding. It turns out, for the heaviest elements on the periodic table, electrons are far from predictable. They move so incredibly fast, their speed approaches a significant fraction of the speed of light. At these extreme velocities, the classic rules of quantum mechanics aren't enough. Einstein's special relativity kicks in, causing these electrons to become heavier and their orbits to shrink dramatically. This isn't just a theoretical tweak. It fundamentally alters how these super-heavy elements bond with others, changing their very chemical nature. What we thought we knew about their properties is now being rewritten. From gold's unique color to mercury's liquid state, relativistic effects have always been at play, subtly influencing our world. But this new understanding reveals just how deeply Einstein’s physics reshapes even the most fundamental chemical interactions.",
+  "picked_trend": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+  "why_viral": "This story offers a captivating twist on historical understanding, challenging traditional assumptions about gender roles and power in ancient societies. The idea of a 'king' being a woman is inherently intriguing and mind-bending, making it highly shareable and thought-provoking.",
+  "core_idea": "New DNA analysis has revealed that a richly buried Iron Age leader, long presumed to be a male 'Celtic Prince,' was in fact female, forcing a re-evaluation of ancient power structures.",
+  "video_title": "The Iron Age King Who Was Actually a Queen? DNA Rewrites History!",
+  "script": "What if everything we thought we knew about an ancient king was wrong? For decades, archaeologists believed they'd found the tomb of a powerful Iron Age leader in Germany. Buried with riches, weapons, and even chariots, it was a textbook example of ancient male authority. But new DNA analysis of the skeletal remains just dropped a bombshell. The individual, previously identified as \"The Celtic Prince,\" was definitively female. This isn't just about changing a name. It challenges our entire understanding of gender roles and power in the Iron Age. A woman commanding such respect, wealth, and military symbols? It's revolutionary. This discovery forces us to re-examine history through a new lens, proving the past is far more complex and surprising than we ever imagined.",
   "scenes": [
     {
-      "narration": "For over a century, a cornerstone of chemistry stood unchallenged: the idea that electrons behave predictably around atoms. But now, Einstein’s theory of relativity just shattered that understanding.",
+      "narration": "What if everything we thought we knew about an ancient king was wrong? For decades, archaeologists believed they'd found the tomb of a powerful Iron Age leader in Germany.",
       "visual_keywords": [
-        "atom",
-        "Einstein",
-        "shattered"
+        "ancient tomb",
+        "archaeological dig",
+        "buried treasure"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16, a single vibrant atom at its core, glowing electrons orbiting with subtle motion. Suddenly, a stylized crack of light appears, rippling across the atom and the background, revealing a subtle, ethereal silhouette of Albert Einstein in the distance. No text.",
+      "image_prompt": "A dramatic, high-angle view of an active archaeological excavation site in a forest, revealing a partially unearthed ancient burial chamber filled with glinting gold artifacts and rusted iron weapons. Sunlight streams through the trees, creating dappled shadows. Vertical 9:16 cinematic 3D render.",
       "motion": "zoom_out"
     },
     {
-      "narration": "It turns out, for the heaviest elements on the periodic table, electrons are far from predictable. They move so incredibly fast, their speed approaches a significant fraction of the speed of light.",
+      "narration": "Buried with riches, weapons, and even chariots, it was a textbook example of ancient male authority. But new DNA analysis of the skeletal remains just dropped a bombshell.",
       "visual_keywords": [
-        "periodic table",
-        "heavy elements",
-        "fast electrons"
+        "ancient skeleton",
+        "DNA analysis",
+        "lab equipment"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16, a glowing, futuristic periodic table with the heaviest elements (like Oganesson, Tennessine) subtly highlighted and radiating light. Wisps of energy trail from these elements, depicting electrons moving at immense speeds, creating a blur of motion. No text.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "At these extreme velocities, the classic rules of quantum mechanics aren't enough. Einstein's special relativity kicks in, causing these electrons to become heavier and their orbits to shrink dramatically.",
-      "visual_keywords": [
-        "distorted orbitals",
-        "light bending",
-        "relativistic effects"
-      ],
-      "image_prompt": "3D cinematic, vertical 9:16, a highly stylized, distorted atomic orbital diagram. The electron cloud is compressed and warped, resembling a fast-moving object experiencing relativistic effects, with subtle light bending and glowing energy trails around the nucleus. Dark, mysterious background. No text.",
+      "image_prompt": "A close-up, dramatic shot of ancient, carefully cleaned skeletal remains laid out on a dark velvet cloth, surrounded by advanced scientific instruments like microscopes and genetic sequencing machines in a dimly lit, high-tech archaeological lab. A single beam of light illuminates the skull. Vertical 9:16 cinematic 3D render.",
       "motion": "zoom_in"
     },
     {
-      "narration": "This isn't just a theoretical tweak. It fundamentally alters how these super-heavy elements bond with others, changing their very chemical nature. What we thought we knew about their properties is now being rewritten.",
+      "narration": "The individual, previously identified as \"The Celtic Prince,\" was definitively female. This isn't just about changing a name. It challenges our entire understanding of gender roles and power in the Iron Age.",
       "visual_keywords": [
-        "chemical bonds",
-        "molecular structures",
-        "transformation"
+        "female warrior",
+        "Iron Age",
+        "ancient symbols"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16, a dynamic and colorful representation of chemical bonding. Elements with compressed electron clouds interact, forming new, unexpected molecular structures. Energy pulses and glows as bonds form and break in complex patterns, highlighting a transformation. No text.",
-      "motion": "pan_left"
+      "image_prompt": "A powerful, regal Iron Age female figure, adorned with ornate gold and bronze jewelry, standing confidently amidst a gathering of respectful warriors and tribal elders in an ancient, firelit council hall. She holds a ceremonial sword, embodying authority and strength. Vertical 9:16 cinematic 3D render.",
+      "motion": "pan_right"
     },
     {
-      "narration": "From gold's unique color to mercury's liquid state, relativistic effects have always been at play, subtly influencing our world. But this new understanding reveals just how deeply Einstein’s physics reshapes even the most fundamental chemical interactions.",
+      "narration": "A woman commanding such respect, wealth, and military symbols? It's revolutionary. This discovery forces us to re-examine history through a new lens, proving the past is far more complex and surprising than we ever imagined.",
       "visual_keywords": [
-        "gold mercury",
-        "physics chemistry",
-        "unified science"
+        "history book",
+        "magnifying glass",
+        "ancient timeline"
       ],
-      "image_prompt": "3D cinematic, vertical 9:16, a stunning visual synthesis of physics and chemistry. Half the frame shows a shimmering gold nugget and glistening mercury droplets, while the other half depicts abstract quantum physics symbols and chemical bonds seamlessly intertwining, bathed in a soft, intelligent light. No text.",
+      "image_prompt": "A weathered, ancient map or scroll unfurling to reveal a swirling timeline of historical events, with key moments shifting and rearranging. A ghostly hand holds a magnifying glass over a specific point, symbolizing re-evaluation and new discoveries. Soft, ambient light. Vertical 9:16 cinematic 3D render.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "🤯 Einstein BROKE Chemistry?! How Relativity Upended a Core Rule!",
-    "description": "Prepare for a mind-bending revelation! For over a century, chemistry has relied on predictable electron behavior. But what if Einstein's theory of relativity just shattered that understanding? Dive into the bizarre world of super-heavy elements, where electrons move so fast that physics fundamentally rewrites their chemistry. Discover how relativistic effects are changing our core understanding of chemical bonding and why this isn't just theory—it explains everything from gold's color to mercury's liquid state! #Einstein #Relativity #Chemistry #Physics #ScienceFacts #MindBlown #Discovery\n\nVisuals generated with AI.",
+    "title": "The \"Celtic Prince\" Was Actually a Queen? DNA Rewrites Iron Age History",
+    "description": "Archaeologists made a stunning discovery: a legendary Iron Age \"prince\" buried with immense wealth and weapons was actually a woman. New DNA analysis challenges everything we thought we knew about power, gender, and leadership in ancient times. Dive into this mind-bending historical mystery!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Einstein",
-      "#Relativity",
-      "#Chemistry",
-      "#Physics",
-      "#ScienceFacts",
+      "#IronAge",
+      "#Archaeology",
+      "#AncientHistory",
+      "#CelticQueen",
+      "#DNAdiscovery",
       "#MindBlown",
-      "#ScienceBreakthrough",
-      "#DeepScience",
-      "#Curiosity"
+      "#ViralCuriosity",
+      "#HistoryRevealed",
+      "#Unbelievable"
     ]
   },
   "tiktok": {
-    "caption": "Einstein just shattered a core rule of chemistry! 🤯 Electrons in heavy elements move SO fast, relativity takes over, totally rewriting how they bond. Mind blown! 🧪✨ #Einstein #Relativity #Chemistry #Physics #ScienceFacts #MindBlown #Curiosity #DeepScience (Visuals generated with AI.)",
+    "caption": "This Iron Age \"prince\" was actually a Queen! 👑 DNA just rewrote history and shattered assumptions about ancient power. #Archaeology #AncientMystery #HistoryFacts #Celtic #IronAge #WomenInHistory #MindBlown #DidYouKnow (Visuals generated with AI.)",
     "hashtags": [
-      "#Einstein",
-      "#Relativity",
-      "#Chemistry",
-      "#Physics",
-      "#ScienceFacts",
+      "#Archaeology",
+      "#AncientMystery",
+      "#HistoryFacts",
+      "#Celtic",
+      "#IronAge",
+      "#WomenInHistory",
       "#MindBlown",
-      "#Curiosity",
-      "#DeepScience",
-      "#ScienceTok"
+      "#DidYouKnow"
     ]
   }
 }
