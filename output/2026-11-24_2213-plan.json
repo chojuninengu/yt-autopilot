@@ -1,0 +1,95 @@
+{
+  "picked_trend": "Earth's core may be leaking a 4.5-billion-year-old secret",
+  "why_viral": "This story is highly viral because it challenges our understanding of Earth's fundamental composition and history, suggesting a primordial secret hidden within our planet for billions of years. It taps into the 'deep secrets' and 'mind-blowing discovery' categories, which are inherently intriguing.",
+  "core_idea": "Scientists have found evidence that Earth's core is leaking primordial helium-3, a rare isotope leftover from the very formation of our planet, offering new clues about its deep origins.",
+  "video_title": "Earth's Core Is Leaking a 4.5 Billion-Year-Old Secret!",
+  "script": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world. What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3. It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth. This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought. This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
+  "scenes": [
+    {
+      "narration": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world.",
+      "visual_keywords": [
+        "Earth core",
+        "deep secret",
+        "molten planet"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic rendering of Earth's glowing, molten core deep beneath the surface, with subtle energy currents flowing outwards. The viewpoint is from inside the Earth, looking up towards layers of rock, emphasizing the hidden, ancient nature of the core. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3.",
+      "visual_keywords": [
+        "primordial element",
+        "helium-3",
+        "scientific discovery"
+      ],
+      "image_prompt": "A highly detailed 3D infographic animation showing a stylized representation of a helium-3 atom glowing softly, suspended against a backdrop of swirling cosmic dust and early Earth formation, illustrating its ancient, primordial origins. Vertical 9:16 aspect ratio.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth.",
+      "visual_keywords": [
+        "volcanic vent",
+        "gas plume",
+        "scientific sampling"
+      ],
+      "image_prompt": "A dramatic 3D cinematic shot of a volcanic vent on a rugged, ancient landscape, with glowing, wispy gases escaping into the dark atmosphere. Scientific instruments are subtly visible near the vent, suggesting measurement and detection. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought.",
+      "visual_keywords": [
+        "Earth layers",
+        "core dynamics",
+        "geological flow"
+      ],
+      "image_prompt": "A sophisticated 3D cross-section animation of Earth's interior, showing the distinct layers (crust, mantle, outer core, inner core). Subtle, glowing lines represent the 'leak' of material flowing from the inner core, through the mantle, towards the surface. Vertical 9:16 aspect ratio.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
+      "visual_keywords": [
+        "planet Earth",
+        "cosmic view",
+        "revelation"
+      ],
+      "image_prompt": "A stunning 3D cinematic shot of Earth seen from space, but with a transparent overlay subtly hinting at the dynamic processes within its core and mantle, emphasizing the planet's mystery and constant evolution. Stars twinkle in the background. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 Earth's Core is LEAKING a 4.5 BILLION-YEAR-OLD Secret! #MindBlown",
+    "description": "Prepare to have your mind blown! Scientists have just discovered that Earth's core is leaking primordial helium-3, a rare isotope from the very beginning of our solar system. This ancient 'leak' is rewriting everything we thought we knew about our planet's formation and its mysterious interior. Dive into this incredible scientific breakthrough and uncover the 4.5-billion-year-old secret hidden at Earth's heart! #EarthCore #ScienceFacts #DeepEarth #AncientSecrets #Geology #PlanetEarth #Curiosity #ViralScience\n\nVisuals generated with AI.",
+    "hashtags": [
+      "EarthCore",
+      "ScienceFacts",
+      "DeepEarth",
+      "AncientSecrets",
+      "Geology",
+      "PlanetEarth",
+      "Curiosity",
+      "ViralScience",
+      "MindBlown",
+      "Discovery"
+    ]
+  },
+  "tiktok": {
+    "caption": "Wait, Earth's core is LEAKING a 4.5 BILLION-YEAR-OLD secret?! 🤯 Scientists just found primordial helium-3 escaping from deep within our planet, changing everything we know about its origins! #EarthCore #ScienceTok #DidYouKnow #AncientMystery #Geology #PlanetFacts #Curiosity #ViralDiscovery (Visuals generated with AI.)",
+    "hashtags": [
+      "EarthCore",
+      "ScienceTok",
+      "DidYouKnow",
+      "AncientMystery",
+      "Geology",
+      "PlanetFacts",
+      "Curiosity",
+      "ViralDiscovery",
+      "MindBlown",
+      "SpaceFacts"
+    ]
+  }
+}

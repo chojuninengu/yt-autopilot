@@ -1,87 +1,90 @@
 {
-  "picked_trend": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-  "why_viral": "The universal human desire for longevity and understanding aging, combined with the incredible age of a relatable creature, makes this story highly intriguing. It presents a real-world 'secret to eternal youth' clue, tapping into a deeply curious and widely discussed topic.",
-  "core_idea": "Scientists are studying the unique genetic code of exceptionally long-lived tortoises to uncover natural anti-aging mechanisms, which could lead to significant breakthroughs in human health and longevity.",
-  "video_title": "This 194-Year-Old Tortoise Holds an Anti-Aging Secret!",
-  "script": "What if the secret to eternal youth wasn't a myth? Scientists just found a mind-bending clue hidden in the oldest living land animal: a 194-year-old tortoise. This isn't science fiction. Researchers have meticulously analyzed the DNA of these incredible creatures. They're searching for the genetic blueprints that allow them to defy time. The discovery? Specialized genes that supercharge DNA repair, boost immune defenses, and optimize metabolism. It’s like their bodies have an innate cheat code against aging and disease! Understanding these genetic adaptations could unlock incredible breakthroughs. Imagine therapies that slow aging, prevent age-related diseases, or even extend human lifespan significantly. From a humble tortoise, we might just learn how to rewrite our own biological clocks. The future of longevity could be closer than we think!",
+  "picked_trend": "Earth's core may be leaking a 4.5-billion-year-old secret",
+  "why_viral": "This story is highly viral because it challenges our understanding of Earth's fundamental composition and history, suggesting a primordial secret hidden within our planet for billions of years. It taps into the 'deep secrets' and 'mind-blowing discovery' categories, which are inherently intriguing.",
+  "core_idea": "Scientists have found evidence that Earth's core is leaking primordial helium-3, a rare isotope leftover from the very formation of our planet, offering new clues about its deep origins.",
+  "video_title": "Earth's Core Is Leaking a 4.5 Billion-Year-Old Secret!",
+  "script": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world. What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3. It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth. This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought. This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
   "scenes": [
     {
-      "narration": "What if the secret to eternal youth wasn't a myth? Scientists just found a mind-bending clue hidden in the oldest living land animal: a 194-year-old tortoise.",
+      "narration": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world.",
       "visual_keywords": [
-        "ancient tortoise",
-        "lush habitat",
-        "golden hour"
+        "Earth core",
+        "deep secret",
+        "molten planet"
       ],
-      "image_prompt": "A majestic, ancient Seychelles giant tortoise, with a wise, textured shell, slowly grazing in a sun-dappled, vibrant green tropical forest. Soft golden hour light bathes the scene, highlighting its aged features. Vertical 9:16, 3D cinematic, stunning detail, no text.",
+      "image_prompt": "A breathtaking 3D cinematic rendering of Earth's glowing, molten core deep beneath the surface, with subtle energy currents flowing outwards. The viewpoint is from inside the Earth, looking up towards layers of rock, emphasizing the hidden, ancient nature of the core. Vertical 9:16 aspect ratio.",
       "motion": "zoom_in"
     },
     {
-      "narration": "This isn't science fiction. Researchers have meticulously analyzed the DNA of these incredible creatures. They're searching for the genetic blueprints that allow them to defy time.",
+      "narration": "What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3.",
       "visual_keywords": [
-        "science lab",
-        "DNA research",
-        "high-tech"
+        "primordial element",
+        "helium-3",
+        "scientific discovery"
       ],
-      "image_prompt": "An extreme close-up, high-angle shot of a scientist's gloved hands carefully placing a glowing sample into a futuristic genetic sequencing machine. The background is a blurred, sleek, high-tech laboratory with soft blue ambient light. Vertical 9:16, 3D cinematic, no text, no watermarks, no brands.",
-      "motion": "pan_right"
-    },
-    {
-      "narration": "The discovery? Specialized genes that supercharge DNA repair, boost immune defenses, and optimize metabolism. It’s like their bodies have an innate cheat code against aging and disease!",
-      "visual_keywords": [
-        "DNA strands",
-        "cellular repair",
-        "genetic code"
-      ],
-      "image_prompt": "An abstract 3D render of intricate, luminous DNA double helix strands spiraling and intertwining with glowing, complex cellular structures and repair enzymes. The scene is bathed in a soft, ethereal light, illustrating biological complexity. Vertical 9:16, 3D cinematic, no text.",
-      "motion": "zoom_out"
-    },
-    {
-      "narration": "Understanding these genetic adaptations could unlock incredible breakthroughs. Imagine therapies that slow aging, prevent age-related diseases, or even extend human lifespan significantly.",
-      "visual_keywords": [
-        "healthy seniors",
-        "future longevity",
-        "utopian park"
-      ],
-      "image_prompt": "A diverse group of healthy, vibrant elderly people, full of energy, laughing and engaged in active, joyful outdoor activities like hiking or gardening in a bright, modern, lush park. The setting is clean, futuristic, and full of natural light. Vertical 9:16, 3D cinematic, no text.",
+      "image_prompt": "A highly detailed 3D infographic animation showing a stylized representation of a helium-3 atom glowing softly, suspended against a backdrop of swirling cosmic dust and early Earth formation, illustrating its ancient, primordial origins. Vertical 9:16 aspect ratio.",
       "motion": "pan_left"
     },
     {
-      "narration": "From a humble tortoise, we might just learn how to rewrite our own biological clocks. The future of longevity could be closer than we think!",
+      "narration": "It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth.",
       "visual_keywords": [
-        "tortoise eye",
-        "wisdom",
-        "mystery"
+        "volcanic vent",
+        "gas plume",
+        "scientific sampling"
       ],
-      "image_prompt": "An extreme close-up of the ancient, wise eye of the Seychelles giant tortoise, capturing intricate details of its reptilian iris and the surrounding leathery skin. The eye reflects a hint of wonder and deep mystery against a softly blurred natural background. Vertical 9:16, 3D cinematic, stunning detail, no text.",
+      "image_prompt": "A dramatic 3D cinematic shot of a volcanic vent on a rugged, ancient landscape, with glowing, wispy gases escaping into the dark atmosphere. Scientific instruments are subtly visible near the vent, suggesting measurement and detection. Vertical 9:16 aspect ratio.",
+      "motion": "zoom_out"
+    },
+    {
+      "narration": "This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought.",
+      "visual_keywords": [
+        "Earth layers",
+        "core dynamics",
+        "geological flow"
+      ],
+      "image_prompt": "A sophisticated 3D cross-section animation of Earth's interior, showing the distinct layers (crust, mantle, outer core, inner core). Subtle, glowing lines represent the 'leak' of material flowing from the inner core, through the mantle, towards the surface. Vertical 9:16 aspect ratio.",
+      "motion": "pan_right"
+    },
+    {
+      "narration": "This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
+      "visual_keywords": [
+        "planet Earth",
+        "cosmic view",
+        "revelation"
+      ],
+      "image_prompt": "A stunning 3D cinematic shot of Earth seen from space, but with a transparent overlay subtly hinting at the dynamic processes within its core and mantle, emphasizing the planet's mystery and constant evolution. Stars twinkle in the background. Vertical 9:16 aspect ratio.",
       "motion": "zoom_in"
     }
   ],
   "youtube": {
-    "title": "Unlocking Immortality? The 194-Year-Old Tortoise With a DNA Secret!",
-    "description": "Could a tiny, ancient tortoise hold the key to defying aging? Scientists are studying the DNA of incredibly long-lived tortoises to uncover genetic secrets to extreme longevity. Discover how these creatures possess unique biological 'cheat codes' for DNA repair and disease resistance, and what this could mean for extending human lifespan. Prepare to be amazed by nature's anti-aging superpowers!\n\nVisuals generated with AI.",
+    "title": "🤯 Earth's Core is LEAKING a 4.5 BILLION-YEAR-OLD Secret! #MindBlown",
+    "description": "Prepare to have your mind blown! Scientists have just discovered that Earth's core is leaking primordial helium-3, a rare isotope from the very beginning of our solar system. This ancient 'leak' is rewriting everything we thought we knew about our planet's formation and its mysterious interior. Dive into this incredible scientific breakthrough and uncover the 4.5-billion-year-old secret hidden at Earth's heart! #EarthCore #ScienceFacts #DeepEarth #AncientSecrets #Geology #PlanetEarth #Curiosity #ViralScience\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Tortoise",
-      "#Longevity",
-      "#AntiAging",
-      "#ScienceBreakthrough",
-      "#DNASecrets",
-      "#GeneticResearch",
-      "#Curiosity",
-      "#ViralScience",
-      "#FutureOfAging"
+      "EarthCore",
+      "ScienceFacts",
+      "DeepEarth",
+      "AncientSecrets",
+      "Geology",
+      "PlanetEarth",
+      "Curiosity",
+      "ViralScience",
+      "MindBlown",
+      "Discovery"
     ]
   },
   "tiktok": {
-    "caption": "This 194-year-old tortoise is hiding an anti-aging secret in its DNA! 🐢🧬 Scientists are studying these ancient creatures to unlock the genetic codes for extreme longevity. Could this change everything for humans? #TortoiseSecrets #AntiAging #ScienceFacts #LongevityResearch #MindBlown (Visuals generated with AI.)",
+    "caption": "Wait, Earth's core is LEAKING a 4.5 BILLION-YEAR-OLD secret?! 🤯 Scientists just found primordial helium-3 escaping from deep within our planet, changing everything we know about its origins! #EarthCore #ScienceTok #DidYouKnow #AncientMystery #Geology #PlanetFacts #Curiosity #ViralDiscovery (Visuals generated with AI.)",
     "hashtags": [
-      "#TortoiseSecrets",
-      "#AntiAging",
-      "#ScienceFacts",
-      "#LongevityResearch",
-      "#MindBlown",
-      "#DNA",
-      "#Curiosity",
-      "#Viral"
+      "EarthCore",
+      "ScienceTok",
+      "DidYouKnow",
+      "AncientMystery",
+      "Geology",
+      "PlanetFacts",
+      "Curiosity",
+      "ViralDiscovery",
+      "MindBlown",
+      "SpaceFacts"
     ]
   }
 }

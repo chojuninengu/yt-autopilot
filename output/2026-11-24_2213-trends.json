@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Ternary Bonsai 2.5 27B",
+      "score": 176,
+      "url": "https://prismml.com/news/bonsai-2-5-27b"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "score": 36,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Working with AI",
+      "score": 42,
+      "url": "https://www.anthropic.com/research/working-with-ai"
+    },
+    {
+      "source": "hackernews",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "score": 234,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Spray Bottle",
+      "score": 280,
+      "url": "https://mechanical-pencil.com/products/spray-bottle"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gödel Enigma",
+      "score": 22,
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
+    },
+    {
+      "source": "hackernews",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "score": 36,
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "score": 20,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+    },
+    {
+      "source": "hackernews",
+      "title": "2035 came early",
+      "score": 916,
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jetty Pro",
+      "score": 230,
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro"
+    },
+    {
+      "source": "hackernews",
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "score": 36,
+      "url": "https://meshcoveragecalculator.lalala.ing/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "score": 4,
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance"
+    },
+    {
+      "source": "hackernews",
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "score": 110,
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/"
+    },
+    {
+      "source": "hackernews",
+      "title": "A training engine for your local model, using your idle compute",
+      "score": 140,
+      "url": "https://github.com/sous-labs/songe"
+    },
+    {
+      "source": "hackernews",
+      "title": "GTA 6 Running on Windows",
+      "score": 208,
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075"
+    },
+    {
+      "source": "science_daily",
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Two monster black holes from the dawn of time defy explanation",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Mysterious new viruses reveal a missing link in evolution",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A galactic shock wave could rewrite the map of the Milky Way",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "No more heated seat subscriptions for cars in New York from 2027",
+      "url": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+      "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "travis scott",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "erling haaland",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ohare ground stop",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "vinícius júnior",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "isaac yiadom",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "paris saint-germain f.c.",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "geoffrey hinton",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "tulsa basketball",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "amba stock",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jk dobbins",
+      "traffic": "5000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
