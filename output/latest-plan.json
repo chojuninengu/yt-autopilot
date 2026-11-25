@@ -1,90 +1,78 @@
 {
-  "picked_trend": "Earth's core may be leaking a 4.5-billion-year-old secret",
-  "why_viral": "This story is highly viral because it challenges our understanding of Earth's fundamental composition and history, suggesting a primordial secret hidden within our planet for billions of years. It taps into the 'deep secrets' and 'mind-blowing discovery' categories, which are inherently intriguing.",
-  "core_idea": "Scientists have found evidence that Earth's core is leaking primordial helium-3, a rare isotope leftover from the very formation of our planet, offering new clues about its deep origins.",
-  "video_title": "Earth's Core Is Leaking a 4.5 Billion-Year-Old Secret!",
-  "script": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world. What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3. It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth. This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought. This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
+  "picked_trend": "science_daily - Earth's next ice age may have already begun. Global warming stopped it",
+  "why_viral": "This story presents a shocking, counter-intuitive paradox: humanity's actions, specifically global warming, may have inadvertently prevented Earth from entering its next natural ice age. It's a mind-bending twist on a highly relevant and debated topic (climate change), offering a fresh perspective on Earth's long-term climate cycles and our impact.",
+  "core_idea": "Earth was naturally due for a new ice age, but human-caused global warming has overridden this natural cycle, effectively postponing or preventing it.",
+  "video_title": "The Ice Age We Almost Had: Global Warming's Unintended Twist",
+  "script": "Imagine waking up to a new ice age. Scientists now suggest that might have been our reality right now, if not for one massive factor: us. For millennia, Earth's climate has followed predictable cycles, known as Milankovitch cycles, driven by subtle shifts in our planet's orbit and tilt. These cycles have regularly ushered in vast ice sheets across the globe. Recent research indicates we're currently in a phase perfectly aligned for the start of the next glacial period. But something dramatically intervened. Our industrial age, burning fossil fuels and releasing greenhouse gases, created enough warming to overpower this natural cooling trend. Essentially, human activity has pumped so much heat into the atmosphere that it's canceled out the natural forces that would have plunged us into an ice age. This isn't a silver lining; it's a stark reminder of our planet-altering power. We've not just warmed Earth, we've fundamentally altered its millennia-long climate rhythm. The ice age we were due for? It's on pause, thanks to global warming.",
   "scenes": [
     {
-      "narration": "Imagine our planet holding a secret for billions of years, right at its heart. Scientists now have stunning evidence that Earth's core is leaking, revealing a primordial mystery that redefines our understanding of our own world.",
+      "narration": "Imagine waking up to a new ice age. Scientists now suggest that might have been our reality right now, if not for one massive factor: us.",
       "visual_keywords": [
-        "Earth core",
-        "deep secret",
-        "molten planet"
+        "frozen cityscape",
+        "ice age",
+        "post-apocalyptic"
       ],
-      "image_prompt": "A breathtaking 3D cinematic rendering of Earth's glowing, molten core deep beneath the surface, with subtle energy currents flowing outwards. The viewpoint is from inside the Earth, looking up towards layers of rock, emphasizing the hidden, ancient nature of the core. Vertical 9:16 aspect ratio.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "What if the deepest part of our planet is releasing ancient material dating back to its birth? This incredible discovery centers around a rare isotope called helium-3.",
-      "visual_keywords": [
-        "primordial element",
-        "helium-3",
-        "scientific discovery"
-      ],
-      "image_prompt": "A highly detailed 3D infographic animation showing a stylized representation of a helium-3 atom glowing softly, suspended against a backdrop of swirling cosmic dust and early Earth formation, illustrating its ancient, primordial origins. Vertical 9:16 aspect ratio.",
-      "motion": "pan_left"
-    },
-    {
-      "narration": "It's a relic from the Big Bang, trapped within Earth's core since our planet first formed 4.5 billion years ago. Scientists detected an unexpected amount of this primordial helium-3 escaping from deep within Earth.",
-      "visual_keywords": [
-        "volcanic vent",
-        "gas plume",
-        "scientific sampling"
-      ],
-      "image_prompt": "A dramatic 3D cinematic shot of a volcanic vent on a rugged, ancient landscape, with glowing, wispy gases escaping into the dark atmosphere. Scientific instruments are subtly visible near the vent, suggesting measurement and detection. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A stunning 3D cinematic scene of a modern city skyline half-buried in pristine, ancient glaciers, under a pale, cold sky. Jagged ice formations dominate the foreground, with only the tops of skyscrapers visible, shrouded in mist. Vertical 9:16. No text or brands.",
       "motion": "zoom_out"
     },
     {
-      "narration": "This 'leak' suggests a previously unknown, slow but steady release from the core, indicating it's not the isolated, static body we once thought.",
+      "narration": "For millennia, Earth's climate has followed predictable cycles, known as Milankovitch cycles, driven by subtle shifts in our planet's orbit and tilt. These cycles have regularly ushered in vast ice sheets across the globe.",
       "visual_keywords": [
-        "Earth layers",
-        "core dynamics",
-        "geological flow"
+        "planetary orbit",
+        "cosmic alignment",
+        "earth's tilt"
       ],
-      "image_prompt": "A sophisticated 3D cross-section animation of Earth's interior, showing the distinct layers (crust, mantle, outer core, inner core). Subtle, glowing lines represent the 'leak' of material flowing from the inner core, through the mantle, towards the surface. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A beautiful 3D cinematic vertical shot of Earth, tilted on its axis, gracefully orbiting a distant sun. Subtle, glowing orbital paths are visible, illustrating Milankovitch cycles. Ice caps on Earth appear larger and more prominent. Deep space background with soft starlight. No text or brands.",
       "motion": "pan_right"
     },
     {
-      "narration": "This groundbreaking find completely upends theories about Earth's formation and its dynamic, mysterious interior. It shows our planet is still revealing its deepest, most ancient secrets.",
+      "narration": "Recent research indicates we're currently in a phase perfectly aligned for the start of the next glacial period. But something dramatically intervened. Our industrial age, burning fossil fuels and releasing greenhouse gases, created enough warming to overpower this natural cooling trend.",
       "visual_keywords": [
-        "planet Earth",
-        "cosmic view",
-        "revelation"
+        "industrial smoke",
+        "greenhouse gases",
+        "factory pollution"
       ],
-      "image_prompt": "A stunning 3D cinematic shot of Earth seen from space, but with a transparent overlay subtly hinting at the dynamic processes within its core and mantle, emphasizing the planet's mystery and constant evolution. Stars twinkle in the background. Vertical 9:16 aspect ratio.",
+      "image_prompt": "A dramatic 3D cinematic vertical scene depicting a vast industrial landscape with numerous towering smokestacks actively spewing dense, dark smoke and orange-tinted exhaust into a heavy, polluted sky. Below, the ground is cracked and dry, contrasting with a faint, receding ice line in the distance. No text or brands.",
       "motion": "zoom_in"
+    },
+    {
+      "narration": "Essentially, human activity has pumped so much heat into the atmosphere that it's canceled out the natural forces that would have plunged us into an ice age. This isn't a silver lining; it's a stark reminder of our planet-altering power. We've not just warmed Earth, we've fundamentally altered its millennia-long climate rhythm. The ice age we were due for? It's on pause, thanks to global warming.",
+      "visual_keywords": [
+        "melting ice",
+        "climate change",
+        "global warming impact"
+      ],
+      "image_prompt": "A visually striking 3D cinematic vertical shot of a massive glacier dramatically calving into a vast ocean, under a stormy, grey sky. The water is churning, and the air is thick with mist. Emphasize the scale of melting ice and the power of nature. No text or brands.",
+      "motion": "shake"
     }
   ],
   "youtube": {
-    "title": "🤯 Earth's Core is LEAKING a 4.5 BILLION-YEAR-OLD Secret! #MindBlown",
-    "description": "Prepare to have your mind blown! Scientists have just discovered that Earth's core is leaking primordial helium-3, a rare isotope from the very beginning of our solar system. This ancient 'leak' is rewriting everything we thought we knew about our planet's formation and its mysterious interior. Dive into this incredible scientific breakthrough and uncover the 4.5-billion-year-old secret hidden at Earth's heart! #EarthCore #ScienceFacts #DeepEarth #AncientSecrets #Geology #PlanetEarth #Curiosity #ViralScience\n\nVisuals generated with AI.",
+    "title": "🤯 The Ice Age We Almost Had: Global Warming's Shocking Twist! #ClimateChange",
+    "description": "What if we were due for another Ice Age... but global warming stopped it? New research reveals how human activity may have overridden Earth's natural climate cycles, postponing the next glacial period. Dive into the mind-bending science behind Milankovitch cycles and humanity's planet-altering power. #IceAge #GlobalWarming #ClimateScience #EarthFacts #ViralScience\n\nVisuals generated with AI.",
     "hashtags": [
-      "EarthCore",
-      "ScienceFacts",
-      "DeepEarth",
-      "AncientSecrets",
-      "Geology",
-      "PlanetEarth",
-      "Curiosity",
-      "ViralScience",
-      "MindBlown",
-      "Discovery"
+      "#IceAge",
+      "#GlobalWarming",
+      "#ClimateChange",
+      "#ClimateScience",
+      "#EarthFacts",
+      "#ViralScience",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#Curiosity"
     ]
   },
   "tiktok": {
-    "caption": "Wait, Earth's core is LEAKING a 4.5 BILLION-YEAR-OLD secret?! 🤯 Scientists just found primordial helium-3 escaping from deep within our planet, changing everything we know about its origins! #EarthCore #ScienceTok #DidYouKnow #AncientMystery #Geology #PlanetFacts #Curiosity #ViralDiscovery (Visuals generated with AI.)",
+    "caption": "Did you know we were due for an Ice Age?! 🤯 But something massive stopped it: GLOBAL WARMING. This mind-bending twist shows our true impact on Earth's climate! #IceAge #GlobalWarming #ClimateChange #ScienceFacts #MindBlown #Earth #ViralScience #DidYouKnow (Visuals generated with AI.)",
     "hashtags": [
-      "EarthCore",
-      "ScienceTok",
-      "DidYouKnow",
-      "AncientMystery",
-      "Geology",
-      "PlanetFacts",
-      "Curiosity",
-      "ViralDiscovery",
-      "MindBlown",
-      "SpaceFacts"
+      "#IceAge",
+      "#GlobalWarming",
+      "#ClimateChange",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#Earth",
+      "#ViralScience",
+      "#DidYouKnow",
+      "#Curiosity"
     ]
   }
 }

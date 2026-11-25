@@ -1,0 +1,82 @@
+{
+  "picked_trend": "science_daily - Earth's next ice age may have already begun. Global warming stopped it",
+  "why_viral": "This story presents a shocking, counter-intuitive paradox: humanity's actions, specifically global warming, may have inadvertently prevented Earth from entering its next natural ice age. It's a mind-bending twist on a highly relevant and debated topic (climate change), offering a fresh perspective on Earth's long-term climate cycles and our impact.",
+  "core_idea": "Earth was naturally due for a new ice age, but human-caused global warming has overridden this natural cycle, effectively postponing or preventing it.",
+  "video_title": "The Ice Age We Almost Had: Global Warming's Unintended Twist",
+  "script": "Imagine waking up to a new ice age. Scientists now suggest that might have been our reality right now, if not for one massive factor: us. For millennia, Earth's climate has followed predictable cycles, known as Milankovitch cycles, driven by subtle shifts in our planet's orbit and tilt. These cycles have regularly ushered in vast ice sheets across the globe. Recent research indicates we're currently in a phase perfectly aligned for the start of the next glacial period. But something dramatically intervened. Our industrial age, burning fossil fuels and releasing greenhouse gases, created enough warming to overpower this natural cooling trend. Essentially, human activity has pumped so much heat into the atmosphere that it's canceled out the natural forces that would have plunged us into an ice age. This isn't a silver lining; it's a stark reminder of our planet-altering power. We've not just warmed Earth, we've fundamentally altered its millennia-long climate rhythm. The ice age we were due for? It's on pause, thanks to global warming.",
+  "scenes": [
+    {
+      "narration": "Imagine waking up to a new ice age. Scientists now suggest that might have been our reality right now, if not for one massive factor: us.",
+      "visual_keywords": [
+        "frozen cityscape",
+        "ice age",
+        "post-apocalyptic"
+      ],
+      "image_prompt": "A stunning 3D cinematic scene of a modern city skyline half-buried in pristine, ancient glaciers, under a pale, cold sky. Jagged ice formations dominate the foreground, with only the tops of skyscrapers visible, shrouded in mist. Vertical 9:16. No text or brands.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "For millennia, Earth's climate has followed predictable cycles, known as Milankovitch cycles, driven by subtle shifts in our planet's orbit and tilt. These cycles have regularly ushered in vast ice sheets across the globe.",
+      "visual_keywords": [
+        "planetary orbit",
+        "cosmic alignment",
+        "earth's tilt"
+      ],
+      "image_prompt": "A beautiful 3D cinematic vertical shot of Earth, tilted on its axis, gracefully orbiting a distant sun. Subtle, glowing orbital paths are visible, illustrating Milankovitch cycles. Ice caps on Earth appear larger and more prominent. Deep space background with soft starlight. No text or brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Recent research indicates we're currently in a phase perfectly aligned for the start of the next glacial period. But something dramatically intervened. Our industrial age, burning fossil fuels and releasing greenhouse gases, created enough warming to overpower this natural cooling trend.",
+      "visual_keywords": [
+        "industrial smoke",
+        "greenhouse gases",
+        "factory pollution"
+      ],
+      "image_prompt": "A dramatic 3D cinematic vertical scene depicting a vast industrial landscape with numerous towering smokestacks actively spewing dense, dark smoke and orange-tinted exhaust into a heavy, polluted sky. Below, the ground is cracked and dry, contrasting with a faint, receding ice line in the distance. No text or brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Essentially, human activity has pumped so much heat into the atmosphere that it's canceled out the natural forces that would have plunged us into an ice age. This isn't a silver lining; it's a stark reminder of our planet-altering power. We've not just warmed Earth, we've fundamentally altered its millennia-long climate rhythm. The ice age we were due for? It's on pause, thanks to global warming.",
+      "visual_keywords": [
+        "melting ice",
+        "climate change",
+        "global warming impact"
+      ],
+      "image_prompt": "A visually striking 3D cinematic vertical shot of a massive glacier dramatically calving into a vast ocean, under a stormy, grey sky. The water is churning, and the air is thick with mist. Emphasize the scale of melting ice and the power of nature. No text or brands.",
+      "motion": "shake",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 The Ice Age We Almost Had: Global Warming's Shocking Twist! #ClimateChange",
+    "description": "What if we were due for another Ice Age... but global warming stopped it? New research reveals how human activity may have overridden Earth's natural climate cycles, postponing the next glacial period. Dive into the mind-bending science behind Milankovitch cycles and humanity's planet-altering power. #IceAge #GlobalWarming #ClimateScience #EarthFacts #ViralScience\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#IceAge",
+      "#GlobalWarming",
+      "#ClimateChange",
+      "#ClimateScience",
+      "#EarthFacts",
+      "#ViralScience",
+      "#MindBlown",
+      "#ScienceFacts",
+      "#Curiosity"
+    ]
+  },
+  "tiktok": {
+    "caption": "Did you know we were due for an Ice Age?! 🤯 But something massive stopped it: GLOBAL WARMING. This mind-bending twist shows our true impact on Earth's climate! #IceAge #GlobalWarming #ClimateChange #ScienceFacts #MindBlown #Earth #ViralScience #DidYouKnow (Visuals generated with AI.)",
+    "hashtags": [
+      "#IceAge",
+      "#GlobalWarming",
+      "#ClimateChange",
+      "#ScienceFacts",
+      "#MindBlown",
+      "#Earth",
+      "#ViralScience",
+      "#DidYouKnow",
+      "#Curiosity"
+    ]
+  }
+}
