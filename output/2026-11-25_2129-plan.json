@@ -1,0 +1,94 @@
+{
+  "picked_trend": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+  "why_viral": "This story addresses one of the most profound and mind-bending questions in cosmology: why the universe exists at all. The concept of antimatter and its role in the universe's creation is inherently fascinating and high-stakes, appealing to a broad audience curious about fundamental science.",
+  "core_idea": "Scientists have successfully trapped antimatter for unprecedented durations, allowing them to search for tiny differences between matter and antimatter, which could explain why matter survived the Big Bang and formed the universe we see today.",
+  "video_title": "The Universe Shouldn't Exist! But Scientists Just Found a Clue.",
+  "script": "The universe as we know it fundamentally shouldn't exist. Physicists have grappled for decades with an epic cosmic paradox: why are we even here? Our best theories say the Big Bang created equal amounts of matter and antimatter. When they meet, they instantly annihilate, leaving nothing but pure energy. If that cosmic rule held true, the universe would be empty. But here we are! Scientists at CERN just trapped antimatter atoms for a record duration. This isn't just a stunt. Isolating antimatter precisely allows researchers to search for the tiniest differences between it and regular matter. Finding even a minute asymmetry could solve the greatest cosmic puzzle: why matter won. It explains why everything, including us, is here. The universe's fundamental secret is finally within reach.",
+  "scenes": [
+    {
+      "narration": "The universe as we know it fundamentally shouldn't exist. Physicists have grappled for decades with an epic cosmic paradox: why are we even here?",
+      "visual_keywords": [
+        "cosmic paradox",
+        "Big Bang",
+        "empty space"
+      ],
+      "image_prompt": "A breathtaking 3D cinematic shot, vertical 9:16, depicting swirling cosmic nebulae in deep space, with an abstract, ethereal representation of the Big Bang's first moments fading into a vast, dark, empty void. No text or brands.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Our best theories say the Big Bang created equal amounts of matter and antimatter. When they meet, they instantly annihilate, leaving nothing but pure energy.",
+      "visual_keywords": [
+        "matter antimatter",
+        "annihilation",
+        "pure energy"
+      ],
+      "image_prompt": "A visually striking 3D cinematic animation, vertical 9:16, showing distinct glowing particles representing matter and antimatter rushing towards each other from opposite sides of the screen. They collide in a brilliant, ethereal flash of pure energy, which then dissipates completely into an empty, dark void. No text or brands.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "If that cosmic rule held true, the universe would be empty. But here we are! Scientists at CERN just trapped antimatter atoms for a record duration.",
+      "visual_keywords": [
+        "CERN breakthrough",
+        "antimatter trap",
+        "futuristic lab"
+      ],
+      "image_prompt": "A high-tech, futuristic particle accelerator laboratory interior, vertical 9:16, with glowing energy beams coursing through complex machinery. In the center, a small, contained magnetic trap emits a subtle shimmer, holding a few visible, ethereal antimatter atoms. No text or brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "This isn't just a stunt. Isolating antimatter precisely allows researchers to search for the tiniest differences between it and regular matter.",
+      "visual_keywords": [
+        "quantum physics",
+        "subtle differences",
+        "atomic simulation"
+      ],
+      "image_prompt": "A mesmerizing 3D cinematic microscopic view, vertical 9:16, of shimmering, simulated atoms with intricate quantum physics visualizations flowing across a dark, abstract background. Focus on subtle energy fluctuations and imperceptible differences highlighted with gentle light trails. No text or brands.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "Finding even a minute asymmetry could solve the greatest cosmic puzzle: why matter won. It explains why everything, including us, is here. The universe's fundamental secret is finally within reach.",
+      "visual_keywords": [
+        "cosmic mystery",
+        "human existence",
+        "universal secret"
+      ],
+      "image_prompt": "A serene and awe-inspiring 3D cinematic shot, vertical 9:16, beginning with a beautiful view of Earth from space, slowly zooming into a human eye that reflects the starlit cosmos, conveying deep wonder, understanding, and the vastness of existence. No text or brands.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "The Universe Shouldn't Exist! But Scientists Just Found a Clue. #AntimatterMystery",
+    "description": "🤯 Physicists just made a HUGE breakthrough trapping antimatter! Our universe, teeming with galaxies and life, shouldn't even be here. The Big Bang should've created equal parts matter and antimatter, leading to total annihilation. So why does anything exist? Scientists at CERN are now meticulously studying trapped antimatter to find the tiniest asymmetry. Could this finally solve the greatest cosmic puzzle and explain our very existence? Dive into this mind-bending discovery!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#Antimatter",
+      "#BigBang",
+      "#CosmicMystery",
+      "#PhysicsBreakthrough",
+      "#ScienceExplained",
+      "#UniverseSecrets",
+      "#CERN",
+      "#MindBlown",
+      "#Shorts",
+      "#ViralScience"
+    ]
+  },
+  "tiktok": {
+    "caption": "The universe as we know it shouldn't exist! 🤯 Scientists just trapped antimatter, giving us a HUGE clue to why we're even here. This is mind-bending! #Antimatter #BigBang #CosmicMystery #Physics #ScienceFacts #Universe #CERN #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#Antimatter",
+      "#BigBang",
+      "#CosmicMystery",
+      "#Physics",
+      "#ScienceFacts",
+      "#Universe",
+      "#CERN",
+      "#MindBlown",
+      "#LearnOnTikTok"
+    ]
+  }
+}
