@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "score": 1374,
+      "url": "https://scottaaronson.blog/?p=10379"
+    },
+    {
+      "source": "hackernews",
+      "title": "1Password Security Incident",
+      "score": 1367,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "score": 56,
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "score": 425,
+      "url": "https://github.com/lsernau/grh-lean"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+      "score": 9,
+      "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real"
+    },
+    {
+      "source": "hackernews",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 332,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
+      "source": "hackernews",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "score": 89,
+      "url": "https://progrium.github.io/minipg/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "score": 237,
+      "url": ""
+    },
+    {
+      "source": "hackernews",
+      "title": "Collection of preserved UI style guides",
+      "score": 133,
+      "url": "https://aresluna.org/ui-style-guides/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Synth Patch Hero",
+      "score": 15,
+      "url": "https://swarkentin.github.io/synth-patch-hero/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Moat: Your OpenRouter Replacement",
+      "score": 6,
+      "url": "https://commandcode.ai/moat"
+    },
+    {
+      "source": "hackernews",
+      "title": "Slow Ubuntu security response times",
+      "score": 263,
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9"
+    },
+    {
+      "source": "hackernews",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "score": 106,
+      "url": "https://www.friedgil.com/vpvnp"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "score": 356,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "score": 67,
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Astronomers may have discovered a black hole born before the first stars",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "criminal profile gta 6",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "james franco",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "hayden panettiere cause of death",
+      "traffic": "100+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "battlestar galactica",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "seattle weather",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lance reddick",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "medal",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gta6 leonida",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "robert downey jr",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "lion",
+      "traffic": "1000+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}

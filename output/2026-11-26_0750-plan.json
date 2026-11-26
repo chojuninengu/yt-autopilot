@@ -1,0 +1,93 @@
+{
+  "picked_trend": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+  "why_viral": "The concept of 'lakes under the ocean' is inherently paradoxical and fascinating. It taps into the mystery of uncharted deep-sea environments and the potential for bizarre life or unique geological phenomena, making it highly shareable and intriguing.",
+  "core_idea": "Deep beneath the Red Sea, scientists have found super-salty, oxygen-free lakes that are deadly to most marine life but could hold clues to Earth's past, the origins of life, and even extraterrestrial life.",
+  "video_title": "Unbelievable: Lakes Found Deep INSIDE The Ocean!",
+  "script": "Imagine lakes. Now imagine those lakes existing over a mile deep, at the bottom of the ocean! This isn't science fiction. Scientists just discovered them in the Red Sea. Using a remotely operated vehicle, researchers found these incredible pools hidden more than 1.7 kilometers beneath the surface. They’re not freshwater. These are hypersaline lakes, meaning they're super salty. And here's the twist: these underwater lakes are completely devoid of oxygen. Any creature swimming into them would instantly be stunned, or even killed, by the extreme conditions. It's a deadly trap for most marine life. But for scientists, these extreme environments are a goldmine. They're perfect for studying extremophiles – life forms that thrive in conditions previously thought impossible. These unique lakes could even contain clues about how life on Earth first began, or how life could exist on other planets. The deep sea continues to surprise us!",
+  "scenes": [
+    {
+      "narration": "Imagine lakes. Now imagine those lakes existing over a mile deep, at the bottom of the ocean! This isn't science fiction. Scientists just discovered them in the Red Sea.",
+      "visual_keywords": [
+        "underwater",
+        "discovery",
+        "mystery"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A deep-sea submersible's spotlight cutting through the dark ocean, revealing the shimmering surface of an eerie, perfectly still, glowing lake on the ocean floor, surrounded by rugged, unknown geological formations. The water above is dark, but the lake itself has a subtle, almost bioluminescent quality, hinting at its unique composition. No visible sub, just the light and the lake.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Using a remotely operated vehicle, researchers found these incredible pools hidden more than 1.7 kilometers beneath the surface. They’re not freshwater. These are hypersaline lakes, meaning they're super salty.",
+      "visual_keywords": [
+        "ocean floor",
+        "deep sea",
+        "ROV"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A wide shot of the Red Sea floor, showing a vast, dark, rocky landscape. In the center, a perfectly circular, dark, glossy lake is visible, its edges distinct from the surrounding seawater. A faint, distant glow from a scientific instrument like an ROV's light hints at human presence, but the focus is on the immense scale and isolation of the lake.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "And here's the twist: these underwater lakes are completely devoid of oxygen. Any creature swimming into them would instantly be stunned, or even killed, by the extreme conditions. It's a deadly trap for most marine life.",
+      "visual_keywords": [
+        "toxic environment",
+        "marine life",
+        "danger"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A close-up, dramatic shot of the distinct boundary between normal seawater and the dark, dense, hypersaline lake. A ghostly, translucent deep-sea fish is seen partially crossing into the lake's murky boundary, its form beginning to distort or glow faintly, hinting at the toxic effects. The water is dark and foreboding.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "But for scientists, these extreme environments are a goldmine. They're perfect for studying extremophiles – life forms that thrive in conditions previously thought impossible.",
+      "visual_keywords": [
+        "extremophiles",
+        "bacteria",
+        "research"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A microscopic view of vibrant, alien-looking extremophile bacteria thriving in a surreal, glowing liquid within a geological crevice on the ocean floor. The bacteria are depicted with intricate, otherworldly shapes and colors, against a backdrop of deep blues and purples.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "These unique lakes could even contain clues about how life on Earth first began, or how life could exist on other planets. The deep sea continues to surprise us!",
+      "visual_keywords": [
+        "origin of life",
+        "alien world",
+        "future"
+      ],
+      "image_prompt": "3D cinematic, vertical 9:16. A breathtaking shot looking up from the ocean floor, through the layered, dark waters, towards a distant, shimmering surface of the Red Sea above. The deep-sea lakes are faintly visible below, and the overall scene evokes a sense of vast, unexplored mystery and the potential for ancient secrets and new discoveries.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "🤯 Lakes Found Deep INSIDE The Ocean! #RedSeaMystery",
+    "description": "Prepare to have your mind blown! Scientists have just discovered mysterious, super-salty lakes over a mile deep on the floor of the Red Sea. These extreme, oxygen-free environments are deadly to most marine life, but could hold incredible clues about the origins of life on Earth and beyond. Dive into this unbelievable scientific discovery with us!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#DeepSea",
+      "#RedSea",
+      "#OceanMystery",
+      "#ScienceFacts",
+      "#Discovery",
+      "#Extremophiles",
+      "#Unbelievable",
+      "#Curiosity",
+      "#MarineBiology",
+      "#EarthSecrets"
+    ]
+  },
+  "tiktok": {
+    "caption": "Wait, LAKES exist over a mile deep on the ocean floor?! 🤯 Scientists just found these bizarre, deadly, super-salty pools in the Red Sea! What secrets do they hold? #DeepSeaMystery #RedSea #OceanFacts #ScienceTok #Unbelievable (Visuals generated with AI.)",
+    "hashtags": [
+      "#DeepSeaMystery",
+      "#RedSea",
+      "#OceanFacts",
+      "#ScienceTok",
+      "#Unbelievable",
+      "#Curiosity",
+      "#Extremophiles",
+      "#MarineLife"
+    ]
+  }
+}
