@@ -125,6 +125,8 @@ def download_and_filter(url: str) -> Optional[tuple]:
     print(f"\n[Processor] Downloading watermark-free video: {url}")
     cmd_download = [
         "yt-dlp",
+        "--js-runtimes", "node",
+        "--extractor-args", "youtube:player_client=android,web",
         "-f", "bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best[height<=1080]/best",
         "--merge-output-format", "mp4",
         "-o", str(raw_file),
@@ -132,9 +134,23 @@ def download_and_filter(url: str) -> Optional[tuple]:
         url
     ]
     try:
-        subprocess.run(cmd_download, check=True)
+        res = subprocess.run(cmd_download, capture_output=True, text=True)
+        if res.returncode != 0:
+            print(f"[Processor] Standard download warning: {res.stderr[:200]}. Attempting fallback...")
+            # Fallback simple format
+            fallback_cmd = [
+                "yt-dlp",
+                "--js-runtimes", "node",
+                "-o", str(raw_file),
+                "--no-playlist",
+                url
+            ]
+            res_fb = subprocess.run(fallback_cmd, capture_output=True, text=True)
+            if res_fb.returncode != 0:
+                print(f"[Processor] Download failed for {url}: {res_fb.stderr}")
+                return None
     except Exception as e:
-        print(f"[Processor] Download failed for {url}: {e}")
+        print(f"[Processor] Download exception for {url}: {e}")
         return None
 
     # Apply anti-duplicate filter
