@@ -153,6 +153,18 @@ def download_and_filter(url: str) -> Optional[tuple]:
         print(f"[Processor] Download exception for {url}: {e}")
         return None
 
+    # Fetch title metadata
+    detected_title = None
+    try:
+        cmd_meta = ["yt-dlp", "--dump-json", "--no-playlist", url]
+        m_res = subprocess.run(cmd_meta, capture_output=True, text=True)
+        if m_res.returncode == 0:
+            m_json = json.loads(m_res.stdout)
+            raw_t = m_json.get("title") or m_json.get("description") or ""
+            detected_title = clean_title(raw_t)
+    except Exception:
+        pass
+
     # Apply anti-duplicate filter
     print(f"[Processor] Applying anti-duplicate filter...")
     cmd_filter = [
@@ -171,10 +183,10 @@ def download_and_filter(url: str) -> Optional[tuple]:
         subprocess.run(cmd_filter, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
         if raw_file.exists():
             raw_file.unlink() # Cleanup raw file
-        return clean_file
+        return clean_file, detected_title
     except Exception as e:
         print(f"[Processor] Filter failed: {e}. Falling back to raw file.")
-        return raw_file
+        return raw_file, detected_title
 
 def publish_video_to_channels(video_path: Path, caption: str, tags: List[str]) -> Dict[str, Any]:
     """Publishes clean video to TikTok & YouTube Shorts via Buffer."""
@@ -231,15 +243,17 @@ def run_autopilot(count: int = 3, dry_run: bool = False):
 
     for i, item in enumerate(candidates, start=1):
         url = item["url"]
-        title = item.get("title") or "In this town..."
-        caption = f"{title} 🏙️"
-        print(f"\n--- Processing Video {i}/{len(candidates)}: {title} ---")
+        item_title = item.get("title") or "In this town..."
+        print(f"\n--- Processing Video {i}/{len(candidates)}: {item_title} ---")
         print(f"Source URL: {url}")
 
-        clean_path = download_and_filter(url)
-        if not clean_path or not clean_path.exists():
+        result = download_and_filter(url)
+        if not result or not result[0].exists():
             print(f"[Processor] Skipping {url} due to download error.")
             continue
+        clean_path, detected_title = result
+        final_title = detected_title or item_title
+        caption = f"{final_title} 🏙️"
 
         if dry_run:
             print(f"[Dry Run] Successfully prepared: {clean_path} (Caption: {caption})")
