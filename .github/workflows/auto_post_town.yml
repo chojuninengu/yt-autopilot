@@ -1,0 +1,48 @@
+name: auto-post-town
+
+on:
+  schedule:
+    # Runs 3 times daily: 09:00, 15:00, 21:00 UTC
+    - cron: "0 9,15,21 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Number of videos to post"
+        required: true
+        default: "3"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  autopilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Run Auto-Pilot Town Publisher
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+        run: |
+          COUNT="${{ inputs.count || '3' }}"
+          echo "Executing auto_pilot_town.py with count=${COUNT}..."
+          python auto_pilot_town.py --count "${COUNT}"
+      - name: Commit Updated Video History
+        run: |
+          git config user.name "${{ secrets.GIT_USER_NAME || vars.GIT_USER_NAME || github.actor }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL || vars.GIT_USER_EMAIL || format('{0}+{1}@users.noreply.github.com', github.actor_id, github.actor) }}"
+          git pull --rebase origin main || true
+          git add data/posted_town_urls.json
+          git commit -m "chore(autopilot): update posted town history [skip ci]" || echo "nothing to commit"
+          git push origin main || echo "push failed"
