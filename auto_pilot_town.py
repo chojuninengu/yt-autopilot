@@ -17,8 +17,16 @@ import subprocess
 import json
 import uuid
 import datetime
+import base64
+import requests
 from pathlib import Path
 from typing import List, Dict, Any, Optional
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 from local_studio.publisher import host_video_for_buffer
 from src.buffer_upload import post_video_to_buffer, get_channels
@@ -115,6 +123,68 @@ def discover_fresh_videos(count: int, history: List[str]) -> List[Dict[str, Any]
 
     return fresh_candidates
 
+def verify_is_roblox_animation(video_path: Path, title: str = "") -> bool:
+    """
+    Inspects the video with AI Vision (Gemini Flash) to guarantee it's Roblox/3D animation
+    and NEVER a video of real human beings or IRL lip-syncs.
+    """
+    api_key = os.environ.get("GEMINI_API_KEY")
+
+    # 1. Negative keyword filter
+    forbidden_words = ["grwm", "ootd", "vlog", "makeup", "dance", "lip sync", "my face", "face reveal", "real life"]
+    if any(w in title.lower() for w in forbidden_words):
+        print(f"[Vision Guard] 🛑 REJECTED by title/tags: '{title}' (contains non-animation keyword)")
+        return False
+
+    if not api_key:
+        roblox_words = ["roblox", "animation", "animated", "3d", "cgi", "storytime", "cartoon", "huss"]
+        is_roblox = any(w in title.lower() for w in roblox_words)
+        if not is_roblox:
+            print(f"[Vision Guard] 🛑 REJECTED: Title '{title}' lacks Roblox/animation keywords.")
+        return is_roblox
+
+    # 2. Extract a frame at 3 seconds to analyze visually
+    thumb_path = video_path.parent / f"thumb_{video_path.stem}.jpg"
+    cmd = [
+        "ffmpeg", "-y",
+        "-ss", "00:00:03",
+        "-i", str(video_path),
+        "-frames:v", "1",
+        str(thumb_path)
+    ]
+    try:
+        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+        if not thumb_path.exists():
+            return True
+
+        with open(thumb_path, "rb") as f:
+            b64_data = base64.b64encode(f.read()).decode("utf-8")
+        thumb_path.unlink()
+
+        model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+        payload = {
+            "contents": [{
+                "parts": [
+                    {"text": "Analyze this video frame. Is this a 3D animated video (like Roblox, Minecraft, CGI, 3D character model, or cartoon animation)? OR is it a video of real human beings / real-life footage / real people doing TikToks? Reply with strictly either ANIMATION or REAL_PERSON."},
+                    {"inlineData": {"mimeType": "image/jpeg", "data": b64_data}}
+                ]
+            }]
+        }
+        resp = requests.post(url, json=payload, timeout=12)
+        if resp.status_code == 200:
+            verdict = resp.json().get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "").strip().upper()
+            print(f"[Vision Guard] AI analysis verdict: {verdict}")
+            if "REAL_PERSON" in verdict or ("PERSON" in verdict and "ANIMATION" not in verdict):
+                print(f"[Vision Guard] 🛑 REJECTED: Video frame contains real human beings. Skipping to preserve Roblox AI theme.")
+                return False
+            print(f"[Vision Guard] ✅ APPROVED: Verified 3D/Roblox animation.")
+            return True
+    except Exception as e:
+        print(f"[Vision Guard] Notice: Vision check error ({e}).")
+
+    return True
+
 def download_and_filter(url: str) -> Optional[tuple]:
     """Downloads clean watermark-free video and applies anti-duplicate filter."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -164,6 +234,12 @@ def download_and_filter(url: str) -> Optional[tuple]:
             detected_title = clean_title(raw_t)
     except Exception:
         pass
+
+    # 3. Vision & Content Guard - Reject real humans / non-animation
+    if not verify_is_roblox_animation(raw_file, title=detected_title or ""):
+        if raw_file.exists():
+            raw_file.unlink()
+        return None
 
     # Apply anti-duplicate filter
     print(f"[Processor] Applying anti-duplicate filter...")
