@@ -1,0 +1,93 @@
+{
+  "picked_trend": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+  "why_viral": "The narwhal is an iconic 'unicorn of the sea' shrouded in mystery. The revelation of its tusk's true, surprising function as a hyper-sensitive sensory organ, rather than a weapon or tool, is a mind-bending biological discovery that challenges common assumptions about animal adaptations.",
+  "core_idea": "The narwhal's iconic tusk, long thought to be for fighting or breaking ice, is actually an incredibly sensitive sensory organ that helps it navigate and find food in the harsh Arctic environment.",
+  "video_title": "Narwhal's Unicorn Horn: The SHOCKING Truth!",
+  "script": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose? Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding. Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network. Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic. This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
+  "scenes": [
+    {
+      "narration": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose?",
+      "visual_keywords": [
+        "narwhal",
+        "tusk",
+        "arctic"
+      ],
+      "image_prompt": "A majestic narwhal, its single long, spiraled tusk dramatically illuminated, swimming gracefully through crystal-clear, icy blue Arctic waters under a soft, diffuse light filtering from above. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_in",
+      "provider": "pollinations"
+    },
+    {
+      "narration": "Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding.",
+      "visual_keywords": [
+        "narwhal fight",
+        "ice breaking",
+        "mystery"
+      ],
+      "image_prompt": "A fantastical, stylized sequence showing three abstract narwhal silhouettes: one with tusks clashing in a joust, another using its tusk to crack through a sheet of ice, and a third gently touching another narwhal. All rendered in glowing, ethereal light against a deep blue, mysterious underwater backdrop. Vertical 9:16, 3D cinematic.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network.",
+      "visual_keywords": [
+        "scientific discovery",
+        "tusk anatomy",
+        "sensory network"
+      ],
+      "image_prompt": "A close-up, cross-section scientific visualization of a narwhal tusk, glowing with intricate bioluminescent blue and green nerve pathways and liquid-filled channels. The bone structure is visible, but the focus is on the complex, interconnected sensory network within. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic.",
+      "visual_keywords": [
+        "narwhal sensing",
+        "underwater environment",
+        "arctic prey"
+      ],
+      "image_prompt": "A narwhal swimming in dark, cold Arctic waters, its tusk slightly lowered as if 'feeling' the environment. Subtle, pulsating ripples or faint light emanate from the tusk's tip, indicating sensory perception. Small, silhouetted fish are visible in the distance. Vertical 9:16, 3D cinematic.",
+      "motion": "pan_left",
+      "provider": "stock"
+    },
+    {
+      "narration": "This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
+      "visual_keywords": [
+        "narwhal survival",
+        "evolution",
+        "arctic ecosystem"
+      ],
+      "image_prompt": "A wide shot of a powerful narwhal gracefully navigating through a vast, beautiful Arctic underwater landscape, ice floes visible above the surface. Its tusk is extended, a symbol of its incredible adaptation. Emphasize the harsh yet beautiful environment. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_out",
+      "provider": "pollinations"
+    }
+  ],
+  "youtube": {
+    "title": "The Narwhal's UNICORN HORN: More Than Just a Myth! | Mind-Bending Biology",
+    "description": "The narwhal, often called the 'unicorn of the sea,' has mystified scientists for centuries with its incredible tusk. Was it for fighting, ice breaking, or mating? Recent groundbreaking research reveals the astonishing truth behind this legendary appendage. Discover how this unique creature uses its 'horn' as a hyper-sensitive sensory organ to survive and thrive in the freezing Arctic. Prepare to have your mind blown by nature's ingenious engineering!\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#Narwhal",
+      "#UnicornOfTheSea",
+      "#ArcticAnimals",
+      "#AnimalFacts",
+      "#ScienceFacts",
+      "#Biology",
+      "#OceanLife",
+      "#Curiosity",
+      "#Explainer",
+      "#Viral"
+    ]
+  },
+  "tiktok": {
+    "caption": "The narwhal's 'unicorn' horn isn't what you think! 🤯 This incredible animal uses its tusk in a shocking way to survive the Arctic. #Narwhal #UnicornOfTheSea #ArcticAnimals #ScienceFacts #OceanMystery #DidYouKnow (Visuals generated with AI.)",
+    "hashtags": [
+      "#Narwhal",
+      "#UnicornOfTheSea",
+      "#ArcticAnimals",
+      "#ScienceFacts",
+      "#OceanMystery",
+      "#DidYouKnow",
+      "#Biology",
+      "#Nature"
+    ]
+  }
+}

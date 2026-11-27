@@ -1,78 +1,88 @@
 {
-  "picked_trend": "This 345-million-year-old fossil had scientists fooled for decades",
-  "why_viral": "The shocking re-identification of a fossil previously thought to be a simple fish as a fearsome, venomous sea scorpion creates instant intrigue. It highlights how major scientific understandings can be dramatically overturned by new discoveries, revealing a hidden, ancient predator, and plays into the 'scientists were wrong' narrative, which is highly engaging.",
-  "core_idea": "A 345-million-year-old fossil, initially misidentified as an ancient fish, has been correctly reclassified as a new species of gigantic, venomous sea scorpion, dramatically reshaping our understanding of early aquatic life and evolutionary history.",
-  "video_title": "Ancient Predator: The 345-Million-Year Mystery That Fooled Scientists For Decades",
-  "script": "Imagine an ancient creature, trapped in stone for 345 million years, holding a secret that baffled scientists for decades. What if everything they thought they knew about it was completely wrong? For over a century, this fossil, discovered in Montana, was simply classified as a primitive fish. A humble swimmer, blending into the primordial seas, a distant relative to modern aquatic life. But a new study just blew that idea out of the water! Researchers re-examined the fossil and identified it not as a fish, but as a brand-new species of gigantic, venomous sea scorpion. This incredible discovery completely rewrites the history books. It reveals a powerful, previously unknown predator dominating ancient oceans, proving that even our oldest scientific understandings can hold breathtaking surprises.",
+  "picked_trend": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+  "why_viral": "The narwhal is an iconic 'unicorn of the sea' shrouded in mystery. The revelation of its tusk's true, surprising function as a hyper-sensitive sensory organ, rather than a weapon or tool, is a mind-bending biological discovery that challenges common assumptions about animal adaptations.",
+  "core_idea": "The narwhal's iconic tusk, long thought to be for fighting or breaking ice, is actually an incredibly sensitive sensory organ that helps it navigate and find food in the harsh Arctic environment.",
+  "video_title": "Narwhal's Unicorn Horn: The SHOCKING Truth!",
+  "script": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose? Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding. Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network. Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic. This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
   "scenes": [
     {
-      "narration": "Imagine an ancient creature, trapped in stone for 345 million years, holding a secret that baffled scientists for decades. What if everything they thought they knew about it was completely wrong?",
+      "narration": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose?",
       "visual_keywords": [
-        "ancient fossil",
-        "mystery",
-        "prehistoric ocean"
+        "narwhal",
+        "tusk",
+        "arctic"
       ],
-      "image_prompt": "A highly detailed, glowing 3D cinematic shot of a fossilized creature embedded in dark, ancient rock, partially submerged in a mysterious, shimmering primordial ocean at dawn. Focus on intricate textures of the fossil. Vertical 9:16, no text.",
+      "image_prompt": "A majestic narwhal, its single long, spiraled tusk dramatically illuminated, swimming gracefully through crystal-clear, icy blue Arctic waters under a soft, diffuse light filtering from above. Vertical 9:16, 3D cinematic.",
       "motion": "zoom_in"
     },
     {
-      "narration": "For over a century, this fossil, discovered in Montana, was simply classified as a primitive fish. A humble swimmer, blending into the primordial seas, a distant relative to modern aquatic life.",
+      "narration": "Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding.",
       "visual_keywords": [
-        "paleontologist",
-        "ancient fish",
-        "misidentification"
+        "narwhal fight",
+        "ice breaking",
+        "mystery"
       ],
-      "image_prompt": "A 3D cinematic scene in a dimly lit, old-fashioned natural history museum. A lone paleontologist in a lab coat is intently examining a fossil of a fish-like creature under a magnifying glass, surrounded by dusty display cases of ancient marine fossils. Vertical 9:16, no text.",
+      "image_prompt": "A fantastical, stylized sequence showing three abstract narwhal silhouettes: one with tusks clashing in a joust, another using its tusk to crack through a sheet of ice, and a third gently touching another narwhal. All rendered in glowing, ethereal light against a deep blue, mysterious underwater backdrop. Vertical 9:16, 3D cinematic.",
       "motion": "pan_right"
     },
     {
-      "narration": "But a new study just blew that idea out of the water! Researchers re-examined the fossil and identified it not as a fish, but as a brand-new species of gigantic, venomous sea scorpion.",
+      "narration": "Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network.",
       "visual_keywords": [
-        "sea scorpion",
-        "re-evaluation",
-        "scientific breakthrough"
+        "scientific discovery",
+        "tusk anatomy",
+        "sensory network"
       ],
-      "image_prompt": "A terrifying, hyperrealistic 3D cinematic depiction of a massive, predatory sea scorpion (eurypterid) with segmented body, sharp pincers, and a venomous tail, swimming menacingly through dark, glowing bioluminescent primordial waters. Its eyes reflect eerie light. Vertical 9:16, no text.",
-      "motion": "zoom_out"
+      "image_prompt": "A close-up, cross-section scientific visualization of a narwhal tusk, glowing with intricate bioluminescent blue and green nerve pathways and liquid-filled channels. The bone structure is visible, but the focus is on the complex, interconnected sensory network within. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_in"
     },
     {
-      "narration": "This incredible discovery completely rewrites the history books. It reveals a powerful, previously unknown predator dominating ancient oceans, proving that even our oldest scientific understandings can hold breathtaking surprises.",
+      "narration": "Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic.",
       "visual_keywords": [
-        "evolutionary tree",
-        "ancient ecosystem",
-        "scientific revelation"
+        "narwhal sensing",
+        "underwater environment",
+        "arctic prey"
       ],
-      "image_prompt": "A vibrant 3D cinematic rendering of a thriving, ancient marine ecosystem 345 million years ago, with various bizarre, prehistoric creatures, including several large sea scorpions, swimming amongst strange coral-like formations and volcanic vents. Emphasize scale and diversity. Vertical 9:16, no text.",
+      "image_prompt": "A narwhal swimming in dark, cold Arctic waters, its tusk slightly lowered as if 'feeling' the environment. Subtle, pulsating ripples or faint light emanate from the tusk's tip, indicating sensory perception. Small, silhouetted fish are visible in the distance. Vertical 9:16, 3D cinematic.",
       "motion": "pan_left"
+    },
+    {
+      "narration": "This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
+      "visual_keywords": [
+        "narwhal survival",
+        "evolution",
+        "arctic ecosystem"
+      ],
+      "image_prompt": "A wide shot of a powerful narwhal gracefully navigating through a vast, beautiful Arctic underwater landscape, ice floes visible above the surface. Its tusk is extended, a symbol of its incredible adaptation. Emphasize the harsh yet beautiful environment. Vertical 9:16, 3D cinematic.",
+      "motion": "zoom_out"
     }
   ],
   "youtube": {
-    "title": "Ancient Predator: The 345-Million-Year Mystery That Fooled Scientists For Decades",
-    "description": "A 345-million-year-old fossil from Montana was long thought to be a simple primitive fish. But new research reveals a shocking truth: it was actually a terrifying, venomous sea scorpion, a previously unknown apex predator! This incredible scientific re-discovery completely changes our understanding of ancient aquatic life and proves that even the oldest mysteries can still hold breathtaking surprises. #AncientMystery #FossilDiscovery #SeaScorpion #Paleontology #PrehistoricLife #ScienceFacts #ViralScience\n\nVisuals generated with AI.",
+    "title": "The Narwhal's UNICORN HORN: More Than Just a Myth! | Mind-Bending Biology",
+    "description": "The narwhal, often called the 'unicorn of the sea,' has mystified scientists for centuries with its incredible tusk. Was it for fighting, ice breaking, or mating? Recent groundbreaking research reveals the astonishing truth behind this legendary appendage. Discover how this unique creature uses its 'horn' as a hyper-sensitive sensory organ to survive and thrive in the freezing Arctic. Prepare to have your mind blown by nature's ingenious engineering!\n\nVisuals generated with AI.",
     "hashtags": [
-      "#AncientMystery",
-      "#FossilDiscovery",
-      "#SeaScorpion",
-      "#Paleontology",
-      "#PrehistoricLife",
+      "#Narwhal",
+      "#UnicornOfTheSea",
+      "#ArcticAnimals",
+      "#AnimalFacts",
       "#ScienceFacts",
-      "#ViralScience",
-      "#CuriosityExplainer",
-      "#MindBlown"
+      "#Biology",
+      "#OceanLife",
+      "#Curiosity",
+      "#Explainer",
+      "#Viral"
     ]
   },
   "tiktok": {
-    "caption": "This 345-million-year-old fossil fooled scientists for over a century! 🤯 What they thought was a primitive fish was actually a terrifying, venomous sea scorpion! #AncientMystery #Fossil #SeaScorpion #Paleontology #ScienceFacts #DidYouKnow #MindBlown (Visuals generated with AI.)",
+    "caption": "The narwhal's 'unicorn' horn isn't what you think! 🤯 This incredible animal uses its tusk in a shocking way to survive the Arctic. #Narwhal #UnicornOfTheSea #ArcticAnimals #ScienceFacts #OceanMystery #DidYouKnow (Visuals generated with AI.)",
     "hashtags": [
-      "#AncientMystery",
-      "#Fossil",
-      "#SeaScorpion",
-      "#Paleontology",
+      "#Narwhal",
+      "#UnicornOfTheSea",
+      "#ArcticAnimals",
       "#ScienceFacts",
+      "#OceanMystery",
       "#DidYouKnow",
-      "#MindBlown",
-      "#Prehistoric",
-      "#Curiosity"
+      "#Biology",
+      "#Nature"
     ]
   }
 }
