@@ -1,0 +1,82 @@
+{
+  "picked_trend": "This 345-million-year-old fossil had scientists fooled for decades",
+  "why_viral": "The shocking re-identification of a fossil previously thought to be a simple fish as a fearsome, venomous sea scorpion creates instant intrigue. It highlights how major scientific understandings can be dramatically overturned by new discoveries, revealing a hidden, ancient predator, and plays into the 'scientists were wrong' narrative, which is highly engaging.",
+  "core_idea": "A 345-million-year-old fossil, initially misidentified as an ancient fish, has been correctly reclassified as a new species of gigantic, venomous sea scorpion, dramatically reshaping our understanding of early aquatic life and evolutionary history.",
+  "video_title": "Ancient Predator: The 345-Million-Year Mystery That Fooled Scientists For Decades",
+  "script": "Imagine an ancient creature, trapped in stone for 345 million years, holding a secret that baffled scientists for decades. What if everything they thought they knew about it was completely wrong? For over a century, this fossil, discovered in Montana, was simply classified as a primitive fish. A humble swimmer, blending into the primordial seas, a distant relative to modern aquatic life. But a new study just blew that idea out of the water! Researchers re-examined the fossil and identified it not as a fish, but as a brand-new species of gigantic, venomous sea scorpion. This incredible discovery completely rewrites the history books. It reveals a powerful, previously unknown predator dominating ancient oceans, proving that even our oldest scientific understandings can hold breathtaking surprises.",
+  "scenes": [
+    {
+      "narration": "Imagine an ancient creature, trapped in stone for 345 million years, holding a secret that baffled scientists for decades. What if everything they thought they knew about it was completely wrong?",
+      "visual_keywords": [
+        "ancient fossil",
+        "mystery",
+        "prehistoric ocean"
+      ],
+      "image_prompt": "A highly detailed, glowing 3D cinematic shot of a fossilized creature embedded in dark, ancient rock, partially submerged in a mysterious, shimmering primordial ocean at dawn. Focus on intricate textures of the fossil. Vertical 9:16, no text.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "For over a century, this fossil, discovered in Montana, was simply classified as a primitive fish. A humble swimmer, blending into the primordial seas, a distant relative to modern aquatic life.",
+      "visual_keywords": [
+        "paleontologist",
+        "ancient fish",
+        "misidentification"
+      ],
+      "image_prompt": "A 3D cinematic scene in a dimly lit, old-fashioned natural history museum. A lone paleontologist in a lab coat is intently examining a fossil of a fish-like creature under a magnifying glass, surrounded by dusty display cases of ancient marine fossils. Vertical 9:16, no text.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "But a new study just blew that idea out of the water! Researchers re-examined the fossil and identified it not as a fish, but as a brand-new species of gigantic, venomous sea scorpion.",
+      "visual_keywords": [
+        "sea scorpion",
+        "re-evaluation",
+        "scientific breakthrough"
+      ],
+      "image_prompt": "A terrifying, hyperrealistic 3D cinematic depiction of a massive, predatory sea scorpion (eurypterid) with segmented body, sharp pincers, and a venomous tail, swimming menacingly through dark, glowing bioluminescent primordial waters. Its eyes reflect eerie light. Vertical 9:16, no text.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    },
+    {
+      "narration": "This incredible discovery completely rewrites the history books. It reveals a powerful, previously unknown predator dominating ancient oceans, proving that even our oldest scientific understandings can hold breathtaking surprises.",
+      "visual_keywords": [
+        "evolutionary tree",
+        "ancient ecosystem",
+        "scientific revelation"
+      ],
+      "image_prompt": "A vibrant 3D cinematic rendering of a thriving, ancient marine ecosystem 345 million years ago, with various bizarre, prehistoric creatures, including several large sea scorpions, swimming amongst strange coral-like formations and volcanic vents. Emphasize scale and diversity. Vertical 9:16, no text.",
+      "motion": "pan_left",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "Ancient Predator: The 345-Million-Year Mystery That Fooled Scientists For Decades",
+    "description": "A 345-million-year-old fossil from Montana was long thought to be a simple primitive fish. But new research reveals a shocking truth: it was actually a terrifying, venomous sea scorpion, a previously unknown apex predator! This incredible scientific re-discovery completely changes our understanding of ancient aquatic life and proves that even the oldest mysteries can still hold breathtaking surprises. #AncientMystery #FossilDiscovery #SeaScorpion #Paleontology #PrehistoricLife #ScienceFacts #ViralScience\n\nVisuals generated with AI.",
+    "hashtags": [
+      "#AncientMystery",
+      "#FossilDiscovery",
+      "#SeaScorpion",
+      "#Paleontology",
+      "#PrehistoricLife",
+      "#ScienceFacts",
+      "#ViralScience",
+      "#CuriosityExplainer",
+      "#MindBlown"
+    ]
+  },
+  "tiktok": {
+    "caption": "This 345-million-year-old fossil fooled scientists for over a century! 🤯 What they thought was a primitive fish was actually a terrifying, venomous sea scorpion! #AncientMystery #Fossil #SeaScorpion #Paleontology #ScienceFacts #DidYouKnow #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "#AncientMystery",
+      "#Fossil",
+      "#SeaScorpion",
+      "#Paleontology",
+      "#ScienceFacts",
+      "#DidYouKnow",
+      "#MindBlown",
+      "#Prehistoric",
+      "#Curiosity"
+    ]
+  }
+}

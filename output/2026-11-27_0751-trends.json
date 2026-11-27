@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "The group chat where your AI talks behind your back",
+      "score": 57,
+      "url": "https://construct22.com/"
+    },
+    {
+      "source": "hackernews",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "score": 96,
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI made self-hosting fun again",
+      "score": 587,
+      "url": "https://janlukas.blog/posts/ai-self-hosting"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hard Drive pricing has gotten bad",
+      "score": 295,
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
+    },
+    {
+      "source": "hackernews",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "score": 363,
+      "url": "https://github.com/antonpictures/youtube-punisher"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "score": 341,
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+    },
+    {
+      "source": "hackernews",
+      "title": "AMD-specific fork of llama.cpp",
+      "score": 337,
+      "url": "https://devnull.land/amd-specific-llama-cpp"
+    },
+    {
+      "source": "hackernews",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "score": 250,
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "score": 280,
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Intel One Mono font (2023)",
+      "score": 511,
+      "url": "https://github.com/intel/intel-one-mono"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "score": 73,
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+    },
+    {
+      "source": "hackernews",
+      "title": "An introduction to uncertainty in machine learning",
+      "score": 65,
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "score": 320,
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "score": 91,
+      "url": "https://kendell.dev/blog/arkwrapper/"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "score": 21,
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "This 345-million-year-old fossil had scientists fooled for decades",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "The surprising reason women seem better at multitasking than men",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "For decades, scientists may have misunderstood how brain cells work",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+    },
+    {
+      "source": "science_daily",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/"
+    },
+    {
+      "source": "ars_technica",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "bbc_world",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "gta6 pc port",
+      "traffic": "1000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "white",
+      "traffic": "5000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "daycare",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "iran attacks kuwait",
+      "traffic": "10000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "seth meyers",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ocelot jugular gta 6",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "justin bieber",
+      "traffic": "200+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "michael douglas",
+      "traffic": "500+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "jessica biel",
+      "traffic": "2000+"
+    },
+    {
+      "source": "google_trends_US",
+      "title": "ikea black friday",
+      "traffic": "500+"
+    }
+  ],
+  "errors": [
+    "reddit: r/todayilearned: 404 Client Error: Not Found for url: https://www.reddit.com/r/todayilearned/top/.rss?t=day; r/damnthatsinteresting: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/damnthatsinteresting/top/.rss?t=day; r/technology: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/technology/top/.rss?t=day; r/OutOfTheLoop: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day; r/science: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/science/top/.rss?t=day"
+  ]
+}
