@@ -1,88 +1,78 @@
 {
-  "picked_trend": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
-  "why_viral": "The narwhal is an iconic 'unicorn of the sea' shrouded in mystery. The revelation of its tusk's true, surprising function as a hyper-sensitive sensory organ, rather than a weapon or tool, is a mind-bending biological discovery that challenges common assumptions about animal adaptations.",
-  "core_idea": "The narwhal's iconic tusk, long thought to be for fighting or breaking ice, is actually an incredibly sensitive sensory organ that helps it navigate and find food in the harsh Arctic environment.",
-  "video_title": "Narwhal's Unicorn Horn: The SHOCKING Truth!",
-  "script": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose? Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding. Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network. Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic. This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
+  "picked_trend": "First images of the impact of DART asteroid deflection experiment / European spacecraft finds chaotic scene after asteroid deflection experiment",
+  "why_viral": "This story showcases a real-life planetary defense test straight out of science fiction. Humanity intentionally crashed a spacecraft into an asteroid to change its orbit, and now newly revealed images show the dramatic, chaotic aftermath. It's a monumental scientific achievement with high stakes (protecting Earth) and visually stunning implications.",
+  "core_idea": "The DART mission successfully impacted an asteroid to alter its path, and new images from the Hera mission reveal the dramatic, chaotic results of humanity's first successful planetary defense test.",
+  "video_title": "We HIT an ASTEROID! See the CHAOS!",
+  "script": "Imagine hitting a target the size of a football stadium, moving thousands of miles an hour, with a tiny spacecraft... from 7 million miles away! That's a cosmic bullseye. That's precisely what NASA's DART mission accomplished in 2022. This wasn't an accident, but humanity's audacious first-ever planetary defense test, deliberately crashing a probe into the asteroid Dimorphos to shift its path. Now, two years later, Europe's Hera mission has finally arrived to survey the damage up close. And what it found was a truly chaotic scene of radical transformation. Dimorphos is no longer the same. The impact created an enormous debris plume, dramatically changed Dimorphos' shape, and crucially, altered its orbit. This groundbreaking mission proves we now have the ability to nudge cosmic threats away from Earth, securing our future among the stars.",
   "scenes": [
     {
-      "narration": "Everyone knows the narwhal for its iconic \"unicorn\" tusk. For centuries, this incredible appendage has puzzled scientists. What was its true purpose?",
+      "narration": "Imagine hitting a target the size of a football stadium, moving thousands of miles an hour, with a tiny spacecraft... from 7 million miles away! That's a cosmic bullseye.",
       "visual_keywords": [
-        "narwhal",
-        "tusk",
-        "arctic"
+        "Spacecraft",
+        "asteroid",
+        "deep space"
       ],
-      "image_prompt": "A majestic narwhal, its single long, spiraled tusk dramatically illuminated, swimming gracefully through crystal-clear, icy blue Arctic waters under a soft, diffuse light filtering from above. Vertical 9:16, 3D cinematic.",
+      "image_prompt": "A sleek, advanced DART spacecraft, bathed in the cold light of deep space, approaches a rocky, irregular asteroid (Dimorphos) against a backdrop of distant stars. The asteroid is shown as a small, non-threatening object, yet the focus is on the precision of the approaching probe. Vertical 9:16 cinematic view.",
       "motion": "zoom_in"
     },
     {
-      "narration": "Was it a weapon for jousting rivals? A tool to break ice? Or perhaps to attract a mate? The truth behind this legendary horn is far more astounding.",
+      "narration": "That's precisely what NASA's DART mission accomplished in 2022. This wasn't an accident, but humanity's audacious first-ever planetary defense test, deliberately crashing a probe into the asteroid Dimorphos to shift its path.",
       "visual_keywords": [
-        "narwhal fight",
-        "ice breaking",
-        "mystery"
+        "Asteroid impact",
+        "debris cloud",
+        "explosion"
       ],
-      "image_prompt": "A fantastical, stylized sequence showing three abstract narwhal silhouettes: one with tusks clashing in a joust, another using its tusk to crack through a sheet of ice, and a third gently touching another narwhal. All rendered in glowing, ethereal light against a deep blue, mysterious underwater backdrop. Vertical 9:16, 3D cinematic.",
+      "image_prompt": "A dramatic, high-energy moment of impact on the asteroid Dimorphos. The DART spacecraft has just slammed into the asteroid's surface, sending a massive, bright plume of dust, rocks, and debris outward into space. The scene is illuminated by the intense collision, showing fragments hurtling away. Vertical 9:16 cinematic view.",
+      "motion": "shake"
+    },
+    {
+      "narration": "Now, two years later, Europe's Hera mission has finally arrived to survey the damage up close. And what it found was a truly chaotic scene of radical transformation. Dimorphos is no longer the same.",
+      "visual_keywords": [
+        "Hera spacecraft",
+        "altered asteroid",
+        "cosmic dust"
+      ],
+      "image_prompt": "The Hera spacecraft orbits the heavily scarred and altered asteroid Dimorphos. The asteroid's surface is now deeply cratered and surrounded by a turbulent, glowing cloud of ejected material, forming a new, comet-like tail. The scale of the change is evident, showcasing a drastically reshaped celestial body. Vertical 9:16 cinematic view.",
       "motion": "pan_right"
     },
     {
-      "narration": "Recent groundbreaking research unveiled its shocking secret. This isn't just a tooth. It's a hyper-sensitive sensory organ, a liquid-filled nerve network.",
+      "narration": "The impact created an enormous debris plume, dramatically changed Dimorphos' shape, and crucially, altered its orbit. This groundbreaking mission proves we now have the ability to nudge cosmic threats away from Earth, securing our future among the stars.",
       "visual_keywords": [
-        "scientific discovery",
-        "tusk anatomy",
-        "sensory network"
+        "Earth",
+        "protective shield",
+        "future technology"
       ],
-      "image_prompt": "A close-up, cross-section scientific visualization of a narwhal tusk, glowing with intricate bioluminescent blue and green nerve pathways and liquid-filled channels. The bone structure is visible, but the focus is on the complex, interconnected sensory network within. Vertical 9:16, 3D cinematic.",
-      "motion": "zoom_in"
-    },
-    {
-      "narration": "Essentially an underwater environmental sensor, the narwhal uses its tusk to detect tiny changes in water temperature, salinity, and even the presence of prey. An unparalleled advantage in the freezing Arctic.",
-      "visual_keywords": [
-        "narwhal sensing",
-        "underwater environment",
-        "arctic prey"
-      ],
-      "image_prompt": "A narwhal swimming in dark, cold Arctic waters, its tusk slightly lowered as if 'feeling' the environment. Subtle, pulsating ripples or faint light emanate from the tusk's tip, indicating sensory perception. Small, silhouetted fish are visible in the distance. Vertical 9:16, 3D cinematic.",
-      "motion": "pan_left"
-    },
-    {
-      "narration": "This remarkable biological sonar allows them to navigate, find food, and survive in Earth's harshest environments. The narwhal's horn isn't a myth; it's a true marvel of evolution!",
-      "visual_keywords": [
-        "narwhal survival",
-        "evolution",
-        "arctic ecosystem"
-      ],
-      "image_prompt": "A wide shot of a powerful narwhal gracefully navigating through a vast, beautiful Arctic underwater landscape, ice floes visible above the surface. Its tusk is extended, a symbol of its incredible adaptation. Emphasize the harsh yet beautiful environment. Vertical 9:16, 3D cinematic.",
+      "image_prompt": "A beautiful, vibrant Earth seen from space, with a subtle, almost ethereal, shimmering energy field around it, symbolizing successful planetary defense. In the foreground, stylized, advanced spacecraft designs hint at humanity's expanding capabilities to defend its home and explore the cosmos. Vertical 9:16 cinematic view.",
       "motion": "zoom_out"
     }
   ],
   "youtube": {
-    "title": "The Narwhal's UNICORN HORN: More Than Just a Myth! | Mind-Bending Biology",
-    "description": "The narwhal, often called the 'unicorn of the sea,' has mystified scientists for centuries with its incredible tusk. Was it for fighting, ice breaking, or mating? Recent groundbreaking research reveals the astonishing truth behind this legendary appendage. Discover how this unique creature uses its 'horn' as a hyper-sensitive sensory organ to survive and thrive in the freezing Arctic. Prepare to have your mind blown by nature's ingenious engineering!\n\nVisuals generated with AI.",
+    "title": "We HIT an ASTEROID! See the CHAOS! | Humanity's First Planetary Defense Test",
+    "description": "Remember when NASA deliberately crashed a spacecraft into an asteroid? New images from the Hera mission reveal the incredible aftermath of the DART impact! Witness the chaos and discover what this groundbreaking planetary defense test means for Earth's future.\n\nVisuals generated with AI.",
     "hashtags": [
-      "#Narwhal",
-      "#UnicornOfTheSea",
-      "#ArcticAnimals",
-      "#AnimalFacts",
-      "#ScienceFacts",
-      "#Biology",
-      "#OceanLife",
-      "#Curiosity",
-      "#Explainer",
-      "#Viral"
+      "DARTMission",
+      "AsteroidImpact",
+      "PlanetaryDefense",
+      "NASA",
+      "HeraMission",
+      "SpaceExploration",
+      "ScienceBreakthrough",
+      "CosmicCuriosity",
+      "EarthProtection"
     ]
   },
   "tiktok": {
-    "caption": "The narwhal's 'unicorn' horn isn't what you think! 🤯 This incredible animal uses its tusk in a shocking way to survive the Arctic. #Narwhal #UnicornOfTheSea #ArcticAnimals #ScienceFacts #OceanMystery #DidYouKnow (Visuals generated with AI.)",
+    "caption": "We actually HIT an asteroid! 🤯 New images reveal the INSANE aftermath of NASA's DART mission. This is how humanity protects Earth from cosmic threats! #DARTMission #AsteroidImpact #SpaceNews #ScienceFacts #PlanetaryDefense #MindBlown (Visuals generated with AI.)",
     "hashtags": [
-      "#Narwhal",
-      "#UnicornOfTheSea",
-      "#ArcticAnimals",
-      "#ScienceFacts",
-      "#OceanMystery",
-      "#DidYouKnow",
-      "#Biology",
-      "#Nature"
+      "DARTMission",
+      "AsteroidImpact",
+      "SpaceNews",
+      "ScienceFacts",
+      "PlanetaryDefense",
+      "MindBlown",
+      "NASA",
+      "HeraMission",
+      "CosmicCuriosity"
     ]
   }
 }

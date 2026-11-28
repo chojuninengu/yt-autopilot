@@ -1,0 +1,82 @@
+{
+  "picked_trend": "First images of the impact of DART asteroid deflection experiment / European spacecraft finds chaotic scene after asteroid deflection experiment",
+  "why_viral": "This story showcases a real-life planetary defense test straight out of science fiction. Humanity intentionally crashed a spacecraft into an asteroid to change its orbit, and now newly revealed images show the dramatic, chaotic aftermath. It's a monumental scientific achievement with high stakes (protecting Earth) and visually stunning implications.",
+  "core_idea": "The DART mission successfully impacted an asteroid to alter its path, and new images from the Hera mission reveal the dramatic, chaotic results of humanity's first successful planetary defense test.",
+  "video_title": "We HIT an ASTEROID! See the CHAOS!",
+  "script": "Imagine hitting a target the size of a football stadium, moving thousands of miles an hour, with a tiny spacecraft... from 7 million miles away! That's a cosmic bullseye. That's precisely what NASA's DART mission accomplished in 2022. This wasn't an accident, but humanity's audacious first-ever planetary defense test, deliberately crashing a probe into the asteroid Dimorphos to shift its path. Now, two years later, Europe's Hera mission has finally arrived to survey the damage up close. And what it found was a truly chaotic scene of radical transformation. Dimorphos is no longer the same. The impact created an enormous debris plume, dramatically changed Dimorphos' shape, and crucially, altered its orbit. This groundbreaking mission proves we now have the ability to nudge cosmic threats away from Earth, securing our future among the stars.",
+  "scenes": [
+    {
+      "narration": "Imagine hitting a target the size of a football stadium, moving thousands of miles an hour, with a tiny spacecraft... from 7 million miles away! That's a cosmic bullseye.",
+      "visual_keywords": [
+        "Spacecraft",
+        "asteroid",
+        "deep space"
+      ],
+      "image_prompt": "A sleek, advanced DART spacecraft, bathed in the cold light of deep space, approaches a rocky, irregular asteroid (Dimorphos) against a backdrop of distant stars. The asteroid is shown as a small, non-threatening object, yet the focus is on the precision of the approaching probe. Vertical 9:16 cinematic view.",
+      "motion": "zoom_in",
+      "provider": "stock"
+    },
+    {
+      "narration": "That's precisely what NASA's DART mission accomplished in 2022. This wasn't an accident, but humanity's audacious first-ever planetary defense test, deliberately crashing a probe into the asteroid Dimorphos to shift its path.",
+      "visual_keywords": [
+        "Asteroid impact",
+        "debris cloud",
+        "explosion"
+      ],
+      "image_prompt": "A dramatic, high-energy moment of impact on the asteroid Dimorphos. The DART spacecraft has just slammed into the asteroid's surface, sending a massive, bright plume of dust, rocks, and debris outward into space. The scene is illuminated by the intense collision, showing fragments hurtling away. Vertical 9:16 cinematic view.",
+      "motion": "shake",
+      "provider": "stock"
+    },
+    {
+      "narration": "Now, two years later, Europe's Hera mission has finally arrived to survey the damage up close. And what it found was a truly chaotic scene of radical transformation. Dimorphos is no longer the same.",
+      "visual_keywords": [
+        "Hera spacecraft",
+        "altered asteroid",
+        "cosmic dust"
+      ],
+      "image_prompt": "The Hera spacecraft orbits the heavily scarred and altered asteroid Dimorphos. The asteroid's surface is now deeply cratered and surrounded by a turbulent, glowing cloud of ejected material, forming a new, comet-like tail. The scale of the change is evident, showcasing a drastically reshaped celestial body. Vertical 9:16 cinematic view.",
+      "motion": "pan_right",
+      "provider": "stock"
+    },
+    {
+      "narration": "The impact created an enormous debris plume, dramatically changed Dimorphos' shape, and crucially, altered its orbit. This groundbreaking mission proves we now have the ability to nudge cosmic threats away from Earth, securing our future among the stars.",
+      "visual_keywords": [
+        "Earth",
+        "protective shield",
+        "future technology"
+      ],
+      "image_prompt": "A beautiful, vibrant Earth seen from space, with a subtle, almost ethereal, shimmering energy field around it, symbolizing successful planetary defense. In the foreground, stylized, advanced spacecraft designs hint at humanity's expanding capabilities to defend its home and explore the cosmos. Vertical 9:16 cinematic view.",
+      "motion": "zoom_out",
+      "provider": "stock"
+    }
+  ],
+  "youtube": {
+    "title": "We HIT an ASTEROID! See the CHAOS! | Humanity's First Planetary Defense Test",
+    "description": "Remember when NASA deliberately crashed a spacecraft into an asteroid? New images from the Hera mission reveal the incredible aftermath of the DART impact! Witness the chaos and discover what this groundbreaking planetary defense test means for Earth's future.\n\nVisuals generated with AI.",
+    "hashtags": [
+      "DARTMission",
+      "AsteroidImpact",
+      "PlanetaryDefense",
+      "NASA",
+      "HeraMission",
+      "SpaceExploration",
+      "ScienceBreakthrough",
+      "CosmicCuriosity",
+      "EarthProtection"
+    ]
+  },
+  "tiktok": {
+    "caption": "We actually HIT an asteroid! 🤯 New images reveal the INSANE aftermath of NASA's DART mission. This is how humanity protects Earth from cosmic threats! #DARTMission #AsteroidImpact #SpaceNews #ScienceFacts #PlanetaryDefense #MindBlown (Visuals generated with AI.)",
+    "hashtags": [
+      "DARTMission",
+      "AsteroidImpact",
+      "SpaceNews",
+      "ScienceFacts",
+      "PlanetaryDefense",
+      "MindBlown",
+      "NASA",
+      "HeraMission",
+      "CosmicCuriosity"
+    ]
+  }
+}
